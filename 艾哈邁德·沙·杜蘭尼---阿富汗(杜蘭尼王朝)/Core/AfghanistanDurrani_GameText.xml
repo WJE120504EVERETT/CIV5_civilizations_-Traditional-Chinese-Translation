@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<!-- Translated by Everettyyy_八寶粥 into traditional Chinese on 12/03/2025 -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_AFGHANISTAN_DURRANI_ADJECTIVE">
+			<Text>Afghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AFGHANISTAN_DURRANI_DESC">
+			<Text>Afghan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AFGHANISTAN_DURRANI_SHORT_DESC">
+			<Text>Afghanistan</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_AFGHANISTAN">
+			<Text>Afghanistan</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_1">
+			<Text>The Central Asian region now known as Afghanistan has served as a focal point of trans-Eurasian trade for millennia Unfortunately, it has also been the site of conflict for as long of a time. Known as “The Graveyard of Empires,” Afghanistan's critical location has made it a sought-after territory, but one that has been successfully resistant to some imperial ventures. Ethnically and linguistically diverse. Afghanistan is a melting pot of cultures, resulting in a strong national literary tradition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_2">
+			<Text>Afghanistan is a landlocked region located at the crossroads of continental trade. Geographically diverse, Afghanistan contains plains in the north and southwest and highlands and the Hindu, Kush and Pamir mountains in the central and southeastern areas. Afghanistan is generally quite dry, but is devoid of desert. The mountainous regions contain a number key mountain passes leading to South Asia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_3">
+			<Text>Evidence of human settlement exists as early as 3000 BCE. In 2000 BCE, Central Asian peoples, including Indo-Iranians, migrated into the region. These societies were characterized by the Zoroastrian faith. In fact, the prophet Zoroaster is believed to have been born in the Afghan city of Balkh. These peoples were likely connected with other, more developed early civilizations such as the Harappans of the Indus River Valley. [NEWLINE][NEWLINE]Much of Afghanistan's early history is characterized by being a part of a series of larger, more prominent empires. The Achaemenid Empire conquered Afghanistan under the emperor Darius I, at which point the land was divided into satraps, or local units of government. This came to an end with the destruction of Achaemenid Persia at the hands of Alexander the Great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_4">
+			<Text>Alexander's Empire and Successors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_4">
+			<Text>After Alexander the Great of Macedonia arrived in Afghanistan in 330 BCE, Afghanistan was incorporated into the short-lived Macedonian Empire. More significantly, one of the succesor empires to Alexander’s Macdeon, the Seleucid Empire, then gained control of the region. Only decades later, Afghanistan was ceded to the Mauryan Empire on the Indian subcontinent as part of an alliance. The Mauryans introduced Buddhism to the region. This was manifest in the Buddhas of Bamiyan, the largest statues of Buddha before they were destroyed by the Taliban in 2001.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_5">
+			<Text>The Kushan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_5">
+			<Text>The final state to occupy Afghanistan prior to Islamisation was the Parthian Empire, during the first century BCE. Soon after, in the first century CE, the Kushan Empire emerged, centered in Afghanistan. This great Buddhist empire had contact with all corners of Eurasia, including China and Rome. It took influence from Hellenistic culture, the product of Alexander’s influence. The Silk Road - the crosscontinental trade from China to Europe - was made possible by the peace created by the Kushans. It was also expanded further - the empire connected the Silk Road commerce to the Indian Ocean trade.[NEWLINE][NEWLINE]The Kushan Empire lasted three centuries. The kingdom split and collapsed through the third and fourth centuries, succumbing to a number of successor dynasties.[NEWLINE][NEWLINE]Islam comes to Afghanistan Islam was brought into Afghanistan through Herat and Zaranj by 642 AD. Islam’s reception was mixed. The noteworthy religious diversity of the region - with Hinduism, Buddhism, Zoroastrianism, and other faiths - was not easily supplanted. Nonetheless, Islam became a strong force in Afghanistan, and has been ever since.[NEWLINE][NEWLINE]Afghanistan fell under a series of Islamic empires, where it flourished. The Ghazanavid Empire, centered in Afghanistan at Ghazana, completed the Islamization of Afghanistan by the 10th century. During this time, Kabul thrived as an anchor of the Muslim world. This dynasty also helped to introduce Islam to India. The Ghazanvids gave way to further Persian and Turkic dynasties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_6">
+			<Text>Mongol Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_6">
+			<Text>In the 13th century, the Mongol Genghis Khan invaded Afghanistan. The cities that flourished under the Islamic dynasties were destroyed, and the country depopulated. Afghanistan was subjected to Mongol rule until another steppe power, the Timurids, forced the Mongols out a century later. Babur, who would go on to found the Mughal Empire in India, also conquered his way through Kabul. Eventually, the Afghan region was divided between the Mughal Empire and the Safavid Persians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_7">
+			<Text>The Hotak Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_7">
+			<Text>Mirwais Hotak rebelled against the Safavids in 1709. This moment is regarded as the founding moment of Afganistan as its own polity, and Hotak is regarded as its grandfather. While Hotak himself did not live long, his family carried on his dynasty and the struggle against the Persians. Hotak’s son Mahmud led his armies to the Safavid capital at Isfahan, where he sacked the city and declared himself King of Persia. However, a resurgent Persian force ousted the Hotakis by 1729.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_8">
+			<Text>The Durrani Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_8">
+			<Text>In 1738, the Persians made their way to Afghanistan itself, freeing Ahmed Shah Durrani in Kandahar. Durrani was appointed the commander of the local forces under the Persians. After the Persian dynasty collapsed, Durrani was chosen to rule Afghanistan. Durrani and his army conquered Afghanistan, Pakistan, parts of Iran and as far as Delhi in India. [NEWLINE][NEWLINE]Durrani is regarded as the father of the Afghan nation. Durrani went on to defeat the Maratha Empire in India. Ahmad Shah Durrani died naturally in 1772, and his descendants continued his legacy for decades. In the 19th century, the Afghan empire was under threat from both Persians and a Sikh empire backed by the British. The Durrani declined, and the arrival of European colonialism signaled the end of the Durrani empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_9">
+			<Text>The Great Game</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_9">
+			<Text>The Great Game refers to the geopolitical struggle between Russia and Britain over the Central Asian countries, including Afghanistan. Much as the dynasties of old desired Afghanistan for its crossroads location, the Brits and Russians sought to control this valuable link between Europe and Asia, as well as British India and Russian lands.[NEWLINE][NEWLINE]The First Anglo-Afghan war began with the British ostensibly supporting Shah Shujah’s attempt to reclaim what was his. The British installed Shujah and occupied the country despite their claim that they were not invading. Afghans began insurrectionary actions in 1841, eventually forcing the British out of the country.[NEWLINE][NEWLINE]The Second Anglo-Afghan war occurred amidst continuing Anglo-Russian tension. It began after a British diplomatic mission (sent in response to a Russian one) to Kabul was turned away. The British began to invade, and the Afghan ruler, Mohammad Yaqub Khan, ceded control of Afghanistan’s foreign affairs to the British in exchange for protection. As had happened before, uprisings in major Afghan cities caused renewed conflict. The conflict ended with the continuance of British influence over Afghanistan’s foreign affairs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_10">
+			<Text>The Nation of Afghanistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_10">
+			<Text>Afghanistan finally declared its status as an independent nation-state , triggering the Third Anglo-Afghan War, in 1918. The limited war ended with the ceasing of hostilities between Afghanistan and British India. King Amanullah Khan instituted reforms in the new nation, upsetting religious leaders and tribesmen. This forced his abdication in 1929. Rebels took Kabul, but then Amunallah’s cousin Nadir Shah defeated them.[NEWLINE][NEWLINE]Nadir Shah’s son Mohammed Zahir Shah took power after his father’s assassination in 1933. The monarchy continued through the 1970s. Afghanistan was not ideologically involved in the World Wars, nor the Cold War, until this time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_11">
+			<Text>Soviets, Taliban and Americans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_11">
+			<Text>The Marxist People’s Democratic Party of Afghanistan successfully led a revolution in 1978. Civil war started almost immediately. The Soviet Union invaded Afghanistan in 1979, and they stayed there until 1989. The war was deadly for both sides. The United States covertly armed Mujahideen rebels. These rebels included Saudi radical Osama bin Laden.[NEWLINE][NEWLINE]Civil war continued, even after the Soviets left in 1989. Out of this chaos emerged the Taliban, an Islamic fundamentalist movement that took power in 1996. The Islamic Emirate of Afghanistan was notably repressive toward women, advocating a strict interpretation of Sharia law.The Taliban never controlled all of Afghanistan’s territory, as insurgent groups never dissipated.[NEWLINE][NEWLINE]After the September 11 terrorist attacks, the United States invaded Afghanistan in 2001 because Osama bin Laden was believed to be hiding there. While bin Laden was not found until 2010 in Pakistan, the Americans did depose the Taliban. The Taliban was one of many insurgent groups that persisted in occupied Afghanistan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_12">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_12">
+			<Text>Sir Arthur Conan Doyle’s character Dr. Watson, companion to Sherlock Holmes, is a veteran of conflict in Afghanistan in both Conan’s original version and the 2010 BBC modernization of the character. [NEWLINE][NEWLINE]The Afghan currency is the Afghani.[NEWLINE][NEWLINE]There is no majority ethnicity in Afghanistan, nor is there an Afghan ethnicity. Pashtuns comprise 42% of the population according to the CIA, with Tajiks comprising 27% and Hazara and Uzbeks comprising 8% each.[NEWLINE][NEWLINE]Despite a low literacy rate, Pashtun poetry and proverb play an important role in Afghan culture.[NEWLINE][NEWLINE]Afghanistan is part of the Golden Crescent, which produces more opium than any other part of the world. The Taliban declaration of poppy cultivation as un-Islamic resulted in one of the most successful anti-drug campaigns the world has ever seen, according to the International Journal of Drug Policy.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_1">
+			<Text>Kandahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_2">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_3">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_4">
+			<Text>Isfahhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_5">
+			<Text>Peshawar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_6">
+			<Text>Balkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_7">
+			<Text>Jalalabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_8">
+			<Text>Samarkand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_9">
+			<Text>Mazar-i-Sharif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_10">
+			<Text>Lashkar Gar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_11">
+			<Text>Taloquan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_12">
+			<Text>Khost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_13">
+			<Text>Sheberghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_14">
+			<Text>Ghazni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_15">
+			<Text>Mundigak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_16">
+			<Text>Kunduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_17">
+			<Text>Sar-e Pol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_18">
+			<Text>Chaghcharan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_19">
+			<Text>Farah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_20">
+			<Text>Mihtarlam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_21">
+			<Text>Pul-i-Alam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_22">
+			<Text>Samangan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_23">
+			<Text>Fayzabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_24">
+			<Text>Zaranj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_25">
+			<Text>Asadabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_26">
+			<Text>Maymana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_27">
+			<Text>Puli Khumri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_28">
+			<Text>Maidan Shar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_29">
+			<Text>Gardez</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_0">
+			<Text>Masjidi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_1">
+			<Text>Laila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_2">
+			<Text>Aroon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_3">
+			<Text>Samira</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_4">
+			<Text>Behrooz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_5">
+			<Text>Zabiullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_6">
+			<Text>Ramez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_7">
+			<Text>Pooya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_8">
+			<Text>Awrang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_9">
+			<Text>Lashkar</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI">
+			<Text>Ahmad Shah Durrani</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_NAME">
+			<Text>Ahmad Shah Durrani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_TEXT_1">
+			<Text>Ahmad Shah Durrani, also known as Ahmad Khan Abdali, was the founder of the Durrani Empire and is regarded as the founder of the modern state of Afghanistan. He began his career by enlisting as a young soldier in the military of the Afsharid kingdom and quickly rose to become a commander of the Abdali Regiment, a cavalry of four thousand Abdali Pashtun soldiers.[NEWLINE][NEWLINE]After the death of Nader Shah Afshar in 1747, Ahmad Shah Durrani was chosen as King of Afghanistan. Rallying his Afghan tribes and allies, he pushed east towards the Mughal and the Maratha empires of India, west towards the disintegrating Afsharid Empire of Persia, and north toward the Khanate of Bukhara. Within a few years, he extended his control from Khorasan in the west to Kashmir and North India in the east, and from the Amu Darya in the north to the Arabian Sea in the south.[NEWLINE][NEWLINE]Durrani's mausoleum is located at Kandahar, Afghanistan, adjacent to the Shrine of the Cloak in the center of the city. Afghans often refer to him as Ahmad Shah Baba ("Ahmad Shah the Father").</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_HEADING_2">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_TEXT_2">
+			<Text>Durrani's victory over the Marathas influenced the history of the subcontinent and, in particular, British policy in the region. His refusal to continue his campaigns deeper into India prevented a clash with the East India Company and allowed them to continue to acquire power and influence after they took complete control of the former Mughal province of Bengal in 1793. However, fear of another Afghan invasion was to haunt British policy for almost half a century after the battle of Panipat. The acknowledgment of Abdali's military accomplishments is reflected in a British intelligence report on the Battle of Panipat, which referred to Ahmad Shah as the 'King of Kings'. This fear led in 1798 to a British envoy being sent to the Persian court in part to instigate the Persians in their claims on Herat to forestall an Afghan invasion of India that might have halted British East India company's expansion.[NEWLINE][NEWLINE]Ahmad Shah's successors, beginning with his son Timur and ending with Shuja Shah Durrani, proved largely incapable of governing the last Afghan empire and faced with advancing enemies on all sides. Much of the territory conquered by Ahmad Shah fell to others by the end of the 19th century. They not only lost the outlying territories but also alienated some Pashtun tribes and those of other Durrani lineages. Until Dost Mohammad Khan's ascendancy in 1826, chaos reigned in Afghanistan, which effectively ceased to exist as a single entity, disintegrating into a fragmented collection of small countries or units. This policy ensured that he did not continue on the path of other conquerors like Babur or Muhammad of Ghor and make India the base for his empire.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_LIVED">
+			<Text>1722 - 1772 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_SUBTITLE">
+			<Text>Leader of Afghanistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_AFGHANISTAN_DURRANI_TEXT">
+			<Text>Blessings, Ahmad Shah Durrani, father and founder of the Afghan Empire. Plagued by centuries of bloodshed and war, Afghanistan is a harsh but resilient nation. Caught between the great powers of India, Persia, and Russia, her people, talented poets and craftsmen, have been tested and tried by countless invasions and innumerous campaigns to tame her treacherous hinterlands. But through these trials, the Afghan people, in piety and in spirit, have survived and prospered.[NEWLINE][NEWLINE]O' pious Emperor, the foes that once posed threat to the Afghan nation emerge once more. Will you rise to defend her ways and to repulse those that would impregnate her? Will you foster great works of song and verse to honour her people? Will you build a civilisation that stands the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_FIRSTGREETING_1">
+			<Text>I am Ahmad Shah Durrani, chosen father of Afghanistan. You would be foolish not to bow to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DEFEATED_1">
+			<Text>I would be buried in gaze of my Lord, and Afghanistan with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_ATTACKED_HOSTILE_1">
+			<Text>You have made a fatal mistake in attacking Afghanistan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DEC_FRIENDSHIP_1">
+			<Text>Loyal friends are hard to come by, and harder to keep. Come, join me in a public Declaration of Friendship that shall last eternally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DENOUNCE_1">
+			<Text>You are nothing but trouble for me and my people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DENOUNCE_FRIEND_1">
+			<Text>You have betrayed my trust for the last time.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DOW_GENERIC_1">
+			<Text>It is clear that you mean ill of my people. I will defend this nation with your blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Come then. Let us see how you fare in Afghan lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_GREETING_HOSTILE_HELLO_1">
+			<Text>Greetings, heathen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_GREETING_NEUTRAL_HELLO_1">
+			<Text>So you're back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_GREETING_POLITE_HELLO_1">
+			<Text>Greetings, my friend. Welcome back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I do not fear your forces entering the lands of my people. Let them try.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_LUXURY_TRADE_1">
+			<Text>Your great wealth is known far and wide. I asked you to share your luxuries with those peoples less fortunate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Come. Afghanistan is no threat to you. Open your borders to us and we shall ensure your people have safe passage in ours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Great wealth you may have, but my peoples lands you may not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_REQUEST_1">
+			<Text>My people suffer whilst yours grow fat and lazy. Come, share your wealth with is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_TOO_SOON_FOR_DOF_1">
+			<Text>You have yet to prove that you have no ill intentions against my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_TOO_SOON_NO_PEACE_1">
+			<Text>You surely jest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>As you will. It bothers me not.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AFGHANISTAN_DURRANI_SHORT">
+			<Text>Graveyard of Empires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AFGHANISTAN_DURRANI">
+			<Text>Enemy Units in your borders take damage when in Hills or next to Mountains. This and combat victories in Friendly Territory produce [ICON_GREAT_PEOPLE] Great Writer Points.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI">
+			<Text>Jezailchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI_HELP">
+			<Text>Single-ranged Mounted unit that fights best in Hills and in Friendly Territory. Only Afghanistan may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI_STRATEGY">
+			<Text>The Jezailchi is a late-game Mounted Unit with a single-range attack, allowing it to take no damage when engaging in battle. This unit is much more effective when fighting in Hills, especially within your borders, although it is inherently weaker than the Cavalry that it replaces. They are unique to Afghanistan. Use Jezailchi to repel enemy invaders and protect your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI_TEXT">
+			<Text>The jezail was a simple, cost-efficient and often handmade muzzle-loading long arm commonly used in British India, Central Asia and parts of the Middle East in the past. They were generally handmade weapons, and consequently they widely varied in their construction. Jezails were seen as very personal weapons, and unlike the typical military weapons of the time which were very plain and utilitarian, jezails tended to be well crafted and were usually intricately decorated.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_JEZAILCHI">
+			<Text>Afghan Hinterlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_JEZAILCHI_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength when attacking in [COLOR_POSITIVE_TEXT]Hills[ENDCOLOR] and an additional +10% when attacking in [COLOR_POSITIVE_TEXT]Friendly Territory[ENDCOLOR].</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN">
+			<Text>Divan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN_HELP">
+			<Text>Receive [ICON_CULTURE] Culture whenever a new tile is acquired by this city.[NEWLINE][NEWLINE]Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN_STRATEGY">
+			<Text>The unique Divan is the Caravansary replacement for Afghanistan. Like the Caravansary, the Divan improves the range and [ICON_GOLD] Gold yield of land trade routes. However, it also produces [ICON_CULTURE] Culture whenever a new Tile is acquired, equal to the city's culture output. It also possesses a [ICON_GREAT_WORK] Great Work of Writing slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN_TEXT">
+			<Text>A divan or diwan was a high governmental body in a number of Islamic states, or its chief official. In Arabic, the term was first used for the army registers, then generalized to any register, and by metonymy applied to specific government departments. The sense of the word evolved to "custom house" and "council chamber," then to "long, cushioned seat," such as are found along the walls in Middle-Eastern council chambers. The latter is the sense that entered European languages as divan (furniture).</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_AFGHANISTAN_DURRANI_DESCRIPTION">
+			<Text>AFGHANISTAN (AHMAD SHAH DURRANI)[NEWLINE][NEWLINE]UNIQUE TRAIT: GRAVEYARD OF EMPIRES[NEWLINE]Enemy Units in your borders take damage when in Hills or next to Mountains. This and combat victories in Friendly Territory produce [ICON_GREAT_PEOPLE] Great Writer Points.[NEWLINE][NEWLINE]UNIQUE BUILDING: DIVAN (CARAVANSARY)[NEWLINE]The unique Divan is the Caravansary replacement for Afghanistan. Like the Caravansary, the Divan improves the range and [ICON_GOLD] Gold yield of land trade routes. However, it also produces [ICON_CULTURE] Culture whenever a new Tile is acquired, equal to the city's culture output. It also possesses a [ICON_GREAT_WORK] Great Work of Writing slot.[NEWLINE][NEWLINE]UNIQUE UNIT: JEZAILCHI (CAVALRY)[NEWLINE]The Jezailchi is a late-game Mounted Unit with a single-range attack, allowing it to take no damage when engaging in battle. This unit is much more effective when fighting in Hills, especially within your borders, although it is inherently weaker than the Cavalry that it replaces. They are unique to Afghanistan. Use Jezailchi to repel enemy invaders and protect your territory.</Text>
+		</Row>
+	</Language_en_US>
+	
+		<Language_zh_Hant_HK>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_AFGHANISTAN_DURRANI_ADJECTIVE">
+			<Text>阿富汗帝國(杜蘭尼王朝)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AFGHANISTAN_DURRANI_DESC">
+			<Text>阿富汗帝國(杜蘭尼王朝)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AFGHANISTAN_DURRANI_SHORT_DESC">
+			<Text>阿富汗帝國(杜蘭尼王朝)</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_AFGHANISTAN">
+			<Text>阿富汗帝國(杜蘭尼王朝)</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_1">
+			<Text>幾千年來，現在被稱爲阿富汗的中亞地區一直是跨歐亞貿易的中心，不幸的是，它也長期處於衝突之中。阿富汗被稱爲“帝國墳場”，它的關鍵位置使它成爲一個受歡迎的領土，但它已經成功地抵抗了一些帝國的冒險。種族和語言多樣化。阿富汗是一個文化大熔爐，形成了強大的民族文學傳統。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_2">
+			<Text>地理與氣候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_2">
+			<Text>阿富汗是一個內陸地區，位於大陸貿易的十字路口。阿富汗地域多樣，北部和西南部有平原，中部和東南部有高地和興都山、庫什山和帕米爾山。阿富汗通常很幹燥，但沒有沙漠。山區有許多通往南亞的重要山口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_3">
+			<Text>早期歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_3">
+			<Text>人类定居的证据早在公元前3000年就存在了。公元前2000年，包括印度-伊朗人在内的中亚人迁移到该地区。这些社会以琐罗亚斯德教信仰为特征。事实上，先知琐罗亚斯德被认为出生在阿富汗的巴尔赫市。这些民族可能与其他更发达的早期文明有联系，比如印度河流域的哈拉帕人。阿富汗早期历史的大部分特点是作为一系列更大、更显赫的帝国的一部分。阿契美尼德帝国在大流士一世皇帝的统治下征服了阿富汗，在这一点上，土地被划分为总督，或地方政府单位。随着阿契美尼德王朝在亚历山大大帝手中的灭亡，这一切都结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_4">
+			<Text>亞歷山大帝國及其繼承者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_4">
+			<Text>公元前330年馬其頓的亞歷山大大帝到達阿富汗後，阿富汗被並入了短命的馬其頓帝國。更重要的是，亞歷山大帝國的繼承者之一，塞琉古帝國，隨後控制了該地區。僅僅幾十年後，作爲聯盟的一部分，阿富汗被割讓給了印度次大陸上的孔雀帝國。孔雀王朝將佛教引入該地區。在2001年被塔利班摧毀之前，巴米揚大佛是世界上最大的佛像。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_5">
+			<Text>貴霜帝國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_5">
+			<Text>在伊斯兰化之前，最后一个占领阿富汗的国家是公元前一世纪的帕提亚帝国。不久之后，在公元一世纪，贵霜帝国出现了，其中心在阿富汗。这个伟大的佛教帝国与欧亚大陆的各个角落都有联系，包括中国和罗马。它受到了希腊文化的影响，这是亚历山大影响的产物。丝绸之路——从中国到欧洲的跨大陆贸易——是由于贵霜人创造的和平而成为可能的。它还进一步扩大了——帝国将丝绸之路的商业与印度洋贸易联系起来。贵霜帝国持续了三个世纪。这个王国在第三和第四世纪分裂和崩溃，屈服于一些后继王朝。伊斯兰教传入阿富汗伊斯兰教于公元642年通过赫拉特和扎兰吉传入阿富汗。伊斯兰教对此反应不一。该地区值得注意的宗教多样性——印度教、佛教、琐罗亚斯德教和其他信仰——并不容易被取代。尽管如此，伊斯兰教在阿富汗成为一股强大的力量，而且从那以后一直如此。阿富汗曾在一系列伊斯兰帝国的统治下繁荣昌盛。伽扎那帝国以阿富汗的伽扎那为中心，在10世纪完成了阿富汗的伊斯兰化。在此期间，喀布尔作为穆斯林世界的支柱而蓬勃发展。这个王朝还帮助将伊斯兰教引入印度。伽赞尼王朝让位于波斯和突厥王朝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_6">
+			<Text>蒙古入侵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_6">
+			<Text>13世紀，蒙古人成吉思汗入侵阿富汗。在伊斯蘭王朝統治下繁榮的城市被摧毀，國家人口減少。阿富汗一直受到蒙古人的統治，直到一個世紀後，另一個草原強國帖木兒人把蒙古人趕了出去。巴布爾後來在印度建立了莫臥兒帝國，他也通過喀布爾徵服了自己的道路。最終，阿富汗地區被莫臥兒帝國和薩法維波斯人瓜分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_7">
+			<Text>和泰王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_7">
+			<Text>米爾韋斯·霍塔克於1709年反抗薩法維王朝。這一時刻被視爲阿富汗建立自己政體的時刻，而霍塔克則被視爲其祖父。雖然霍塔克自己沒活多久，但他的家族繼承了他的王朝，並與波斯人進行了鬥爭。霍塔克的兒子馬哈茂德率領軍隊來到薩法維王朝的首都伊斯法罕，在那裏他洗劫了這座城市，並宣布自己爲波斯國王。然而，復興的波斯軍隊在1729年驅逐了霍塔基斯人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_8">
+			<Text>杜拉尼帝國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_8">
+			<Text>1738年，波斯人来到阿富汗，在坎大哈释放了艾哈迈德·沙阿·杜拉尼。杜拉尼被任命为波斯人手下当地军队的指挥官。波斯王朝崩溃后，杜拉尼被选为阿富汗的统治者。杜拉尼和他的军队征服了阿富汗、巴基斯坦、伊朗部分地区，甚至远至印度德里。杜拉尼被认为是阿富汗国父。杜拉尼后来打败了印度的马拉塔帝国。艾哈迈德·沙阿·杜拉尼于1772年自然去世，他的后代将他的遗产延续了几十年。在19世纪，阿富汗帝国受到波斯人和英国支持的锡克教帝国的威胁。杜拉尼衰落了，欧洲殖民主义的到来标志着杜拉尼帝国的终结。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_9">
+			<Text>“大博弈”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_9">
+			<Text>“大博弈”指的是俄罗斯和英国围绕阿富汗等中亚国家展开的地缘政治斗争。就像过去的王朝希望阿富汗成为其十字路口一样，英国人和俄罗斯人试图控制这条连接欧洲和亚洲的宝贵通道，以及英属印度和俄罗斯的土地。第一次英阿战争开始时，英国表面上支持沙赫·舒贾收复失地的企图。英国人安置了舒贾，占领了这个国家，尽管他们声称自己没有入侵。阿富汗人在1841年开始起义，最终迫使英国人离开了这个国家。[NEWLINE][NEWLINE]第二次英阿战争发生在英俄关系持续紧张的情况下。事件起因于英国派往喀布尔的外交使团（作为对俄罗斯使团的回应）被拒之门外。英国人开始入侵，阿富汗统治者穆罕默德·亚库布·汗（Mohammad Yaqub Khan）将阿富汗外交事务的控制权交给了英国人，以换取英国的保护。和以前一样，阿富汗主要城市的起义引发了新的冲突。这场冲突以英国继续对阿富汗外交事务施加影响而告终。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_10">
+			<Text>阿富汗的民族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_10">
+			<Text>1918年，阿富汗最終宣布成為獨立民族國家，引發了第三次英阿戰爭。國王阿曼努拉汗在新國家推行改革，這激怒了宗教領袖和部落成員。這迫使他於 1929 年退位。直到此時，阿富汗在意識形態上尚未捲入世界大戰和冷戰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_11">
+			<Text>蘇聯人、塔利班和美國人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_11">
+			<Text>阿富汗馬克思主義人民民主黨於 1978 年成功領導了一場革命。蘇聯於1979年入侵阿富汗，並一直駐紮到1989年。美國秘密武裝聖戰者叛軍。這些叛亂分子包括沙烏地阿拉伯激進分子奧薩馬·本·拉登。9·11 恐怖攻擊事件後，美國於 2001 年入侵阿富汗，因為人們認為奧薩馬·本·拉登藏匿在那裡，直到2010年賓拉登才被發現。[NEWLINE][NEWLINE]美国率领北约联军发起阿富汗战争后，塔利班伊斯兰政权被推翻，此后塔利班便以游击队形式分散在阿富汗，以山区和农村为据点，与共和政府及多国部队对抗；2021年5月美军撤出阿富汗之后，塔利班再度迅速攻占阿富汗领土，至同年8月15日塔利班进入首都后，共和政府代表向其转移政权，阿富汗再度被塔利班政府统治。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_HEADING_12">
+			<Text>小趣聞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_AFGHANISTAN_DURRANI_TEXT_12">
+			<Text>亞瑟柯南道爾爵士飾演的華生醫生是夏洛克福爾摩斯的同伴，在柯南的原版和 2010 年 BBC 的現代化改編中，他都是阿富汗戰爭的老兵。 [NEWLINE][NEWLINE]阿富汗的貨幣是阿富汗尼。根據美國中央情報局統計，普什圖人佔阿富汗總人口的 42%，塔吉克人佔 27%，哈扎拉人和烏茲別克人各佔 8%。 [NEWLINE][NEWLINE]儘管識字率較低，但普什圖人的詩歌和諺語在阿富汗文化中發揮著重要作用。根據《國際毒品政策雜誌》報道，塔利班宣布種植罌粟為非伊斯蘭教義，此舉引發了世界歷史上最成功的禁毒運動之一。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_1">
+			<Text>坎大哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_2">
+			<Text>高附</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_3">
+			<Text>赫拉特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_4">
+			<Text>伊斯法罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_5">
+			<Text>白沙瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_6">
+			<Text>巴爾赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_7">
+			<Text>賈拉拉巴德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_8">
+			<Text>撒馬爾罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_9">
+			<Text>馬扎里沙裡夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_10">
+			<Text>拉什卡爾加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_11">
+			<Text>塔洛寬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_12">
+			<Text>霍斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_13">
+			<Text>希比爾甘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_14">
+			<Text>加茲尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_15">
+			<Text>蒙迪加克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_16">
+			<Text>昆都士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_17">
+			<Text>薩雷波爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_18">
+			<Text>恰赫恰蘭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_19">
+			<Text>法拉赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_20">
+			<Text>米赫塔拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_21">
+			<Text>普利阿拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_22">
+			<Text>薩曼甘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_23">
+			<Text>法伊扎巴德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_24">
+			<Text>札蘭季</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_25">
+			<Text>阿薩達巴德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_26">
+			<Text>馬伊馬納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_27">
+			<Text>埔里胡米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_28">
+			<Text>邁丹沙爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AFGHANISTAN_DURRANI_29">
+			<Text>加德茲</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_0">
+			<Text>卡爾扎伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_1">
+			<Text>蕾拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_2">
+			<Text>阿隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_3">
+			<Text>薩米拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_4">
+			<Text>貝赫魯茲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_5">
+			<Text>札比烏拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_6">
+			<Text>拉梅茲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_7">
+			<Text>普亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_8">
+			<Text>哈米德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_AFGHANISTAN_DURRANI_9">
+			<Text>穆罕默德</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI">
+			<Text>艾哈邁德·沙·杜蘭尼</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_NAME">
+			<Text>艾哈邁德·沙·杜蘭尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_TEXT_1">
+			<Text>艾哈邁德·沙·杜蘭尼，又名艾哈邁德汗阿卜杜拉尼，是杜蘭尼王朝的創始人，被認為是現代阿富汗國家的創始人。他的職業生涯始於年輕時加入阿夫沙爾王朝的軍隊，並迅速晉升為阿卜杜拉軍團的指揮官，該軍團由四千名阿卜杜拉普什圖族士兵組成的騎兵隊組成。[NEWLINE][NEWLINE]他團結阿富汗部落和盟友，向東攻擊印度的莫臥兒帝國和馬拉地帝國，向西攻擊正在瓦解的波斯阿夫沙爾帝國，向北攻擊布哈拉汗國。短短幾年間，他的統治範圍從西邊的呼羅珊拓展到東邊的克什米爾和北印度，從北邊的阿姆河拓展到南邊的阿拉伯海。阿富汗人常稱他為艾哈邁德沙阿巴巴（「艾哈邁德沙阿父親」）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_HEADING_2">
+			<Text>東方的遺產</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_TEXT_2">
+			<Text>艾哈邁德·沙·杜蘭尼對馬拉地人的勝利影響了次大陸的歷史，尤其是英國在該地區的政策。他拒絕繼續深入印度的軍事行動，從而避免了與東印度公司的衝突，並使得東印度公司在 1793 年完全控制了前莫臥兒省孟加拉後，繼續獲得權力和影響力。 然而，在帕尼帕特戰役之後的近半個世紀裡，對阿富汗再次入侵的擔憂一直困擾著英國的政策。英國情報部門關於帕尼帕特戰役的一份報告承認了阿卜杜拉的軍事成就，並將艾哈邁德沙稱為「萬王之王」。這種擔憂導致英國於 1798 年派遣特使前往波斯宮廷，部分目的是煽動波斯人對赫拉特提出主權要求，以阻止阿富汗人入侵印度，從而阻止英國東印度公司的擴張。 [NEWLINE][NEWLINE]艾哈邁德提出主權要求，以阻止阿富汗人入侵印度，從而阻止英國東印度公司的擴張。到 19 世紀末，艾哈邁德沙征服的大部分領土均被他人佔領。他們不僅失去了偏遠的領土，還疏遠了一些普什圖部落和其他杜蘭尼血統的部落。直到 1826 年多斯特·穆罕默德汗即位之前，阿富汗一直處於混亂之中，它實際上已不復存在作為一個單一實體存在，而是分裂為由許多小國或單位組成的零散集合。這項政策確保了他不會繼續走巴布爾或穆罕默德等征服者的道路，而將印度作為其帝國的基地。</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_LIVED">
+			<Text>公元1722-1772年</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_SUBTITLE">
+			<Text>阿富汗的民族英雄和國家領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AFGHANISTAN_DURRANI_TITLES_1">
+			<Text>國王與珍珠汗</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_AFGHANISTAN_DURRANI_TEXT">
+			<Text>上天祝福您，阿富汗帝國之父和創始人艾哈邁德·沙阿·杜拉尼！阿富汗飽受數百年血腥和戰爭的困擾，是一個環境惡劣但堅韌不拔的國家。她的人民被夾在印度、波斯、俄羅斯和中國等強國之間，她們由才華橫溢的詩人和工匠組成，經過無數次入侵和無數次戰役的考驗和磨難，才得以馴服其危險的腹地。但透過這些考驗，阿富汗人民憑藉著虔誠和精神，生存了下來，並繁榮起來。偉大的「珍珠汗」，我們無畏的國父啊！你會挺身而出捍衛她的行為並擊退那些想糟踐她文明與精神的人嗎？你會創作偉大的歌曲和詩歌作品來讚美她的人民嗎？您會建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_FIRSTGREETING_1">
+			<Text>我是艾哈邁德·沙·杜蘭尼，阿富汗之父，杜蘭尼王朝的創建者。如果你不向我下跪，你的國家將會迎來遭到恐怖的結局。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DEFEATED_1">
+			<Text>我將在主的注視下被厚葬，而你將會在阿富汗人民的抗爭下毀滅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_ATTACKED_HOSTILE_1">
+			<Text>你們對阿富汗的攻擊已經犯下致命錯誤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DEC_FRIENDSHIP_1">
+			<Text>忠誠的朋友很難獲得，維持起來則更加困難。來吧，在主的注視下和我一起發表一份永恆的公開友誼宣言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DENOUNCE_1">
+			<Text>你們只會給阿富汗的人民帶來麻煩。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DENOUNCE_FRIEND_1">
+			<Text>你再一次背叛了阿富汗人的信任。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_DOW_GENERIC_1">
+			<Text>很明顯，你對我的人民懷有惡意。我將用你們的血來告慰這片土地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>快點來吧！讓我看看你們在阿富汗的境況如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_GREETING_HOSTILE_HELLO_1">
+			<Text>你好啊，異教徒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_GREETING_NEUTRAL_HELLO_1">
+			<Text>你回來了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_GREETING_POLITE_HELLO_1">
+			<Text>你好，我的朋友，歡迎回來。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>我不懼怕你的軍隊進入我的土地，你要是一意孤行，那麼就讓我們拭目以待。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_LUXURY_TRADE_1">
+			<Text>您的巨額財富眾所周知。我請求你們與那些不幸的人們分享你們的奢侈品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>阿富汗對你不構成威脅，現在向我們開放你們的邊境，我們將確保你們的人民在我們的邊境安全通行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>你可能擁有巨大的財富，但你卻無法擁有阿富汗人民的土地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_REQUEST_1">
+			<Text>我的人民遭受苦難，而你們的人民卻變得肥胖而懶惰。來吧，是時候與我們分享你的財富了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_TOO_SOON_FOR_DOF_1">
+			<Text>你的政府仍未證明你對我的人民沒有惡意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_TOO_SOON_NO_PEACE_1">
+			<Text>你到底在想什麼？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AFGHANISTAN_DURRANI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>如你所願，我並不介意。</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AFGHANISTAN_DURRANI_SHORT">
+			<Text>帝國墳場</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AFGHANISTAN_DURRANI">
+			<Text>當你領土內的敵方單位位於丘陵或山脈附近時，他們會受到傷害。這種傷害和友好領土的戰鬥勝利可產生一次性的[ICON GREAT PEOPLE]大作家點數。</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI">
+			<Text>傑撒伊火槍騎兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI_HELP">
+			<Text>具有單格射程的後期騎兵單位，在丘陵和友軍領地有更高的戰鬥力。只有阿富汗帝國(杜蘭尼王朝)才能建造它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI_STRATEGY">
+			<Text>傑撒伊火槍騎兵是一個遊戲後期的騎乘單位，作爲阿富汗的特殊單位其具有單格攻擊的能力使其在主動攻擊中不會受到額外傷害。這個單位在丘陵戰鬥時效率更高，尤其是在阿富汗帝國的領土內能發揮出最大作用(盡管它本質上比它所取代的騎兵攻擊力弱一點)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_JEZAILCHI_TEXT">
+			<Text>傑撒伊槍是一種結構簡單、成本低廉且通常手工製作的前膛裝式長槍，過去常用於英屬印度、中亞和中東部分地區。它們一般都是手工製作的武器，因此其構造差異很大。傑扎伊爾被視為非常私人的武器，與當時非常樸素和實用的典型軍用武器不同，傑扎伊爾往往製作精良，並且通常裝飾精美。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_JEZAILCHI">
+			<Text>阿富汗腹地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_JEZAILCHI_HELP">
+			<Text>在[COLOR_POSITIVE_TEXT]丘陵[ENDCOLOR]中攻擊時，+20% [ICON_STRENGTH]戰鬥力，在[COLOR_POSITIVE_TEXT]友軍領土[ENDCOLOR]中攻擊時，再額外增加+10%。</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN">
+			<Text>阿富汗海關</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN_HELP">
+			<Text>每當這座城市拓展新的領土時，就會獲得 [ICON_CULTURE] 文化。[NEWLINE][NEWLINE]從這座城市出發的陸地貿易路線的範圍增加 50%，並且在連接到另一個文明時額外產生2 [ICON_GOLD] 金幣，額外提供一個 [ICON_GREAT_WORK] 著作作品槽。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN_STRATEGY">
+			<Text>獨特的阿富汗海關是阿富汗商隊旅館的替代品。與商隊旅館一樣，阿富汗海關可以擴大陸地貿易路線的範圍和 [ICON_GOLD] 黃金產量。然而，每當獲得新的領土時，它​​也會生產 相當於城市的文化產出的[ICON_CULTURE] 文化，它還額外提供一個 [ICON_GREAT_WORK] 著作作品槽。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DIVAN_TEXT">
+			<Text></Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_AFGHANISTAN_DURRANI_DESCRIPTION">
+			<Text>AFGHANISTAN (AHMAD SHAH DURRANI)[NEWLINE][NEWLINE]UNIQUE TRAIT: GRAVEYARD OF EMPIRES[NEWLINE]Enemy Units in your borders take damage when in Hills or next to Mountains. This and combat victories in Friendly Territory produce [ICON_GREAT_PEOPLE] Great Writer Points.[NEWLINE][NEWLINE]UNIQUE BUILDING: DIVAN (CARAVANSARY)[NEWLINE]The unique Divan is the Caravansary replacement for Afghanistan. Like the Caravansary, the Divan improves the range and [ICON_GOLD] Gold yield of land trade routes. However, it also produces [ICON_CULTURE] Culture whenever a new Tile is acquired, equal to the city's culture output. It also possesses a [ICON_GREAT_WORK] Great Work of Writing slot.[NEWLINE][NEWLINE]UNIQUE UNIT: JEZAILCHI (CAVALRY)[NEWLINE]The Jezailchi is a late-game Mounted Unit with a single-range attack, allowing it to take no damage when engaging in battle. This unit is much more effective when fighting in Hills, especially within your borders, although it is inherently weaker than the Cavalry that it replaces. They are unique to Afghanistan. Use Jezailchi to repel enemy invaders and protect your territory.</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>
