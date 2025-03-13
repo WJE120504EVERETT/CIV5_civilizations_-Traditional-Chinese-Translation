@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--NRI-->
+		<Row Tag="TXT_KEY_CIV_JFD_NRI_ADJECTIVE">
+			<Text>Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NRI_DESC">
+			<Text>Nri Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NRI_SHORT_DESC">
+			<Text>Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_TEXT_1">
+			<Text>The Kingdom of Nri (948 - 1911) was the West African medieval state of the Nri-Igbo, a subgroup of the Igbo people, and is the oldest kingdom in Nigeria. The kingdom was a center of learning, religion, and commerce in pre-colonial West Africa. The Kingdom of Nri was unusual in the history of world government in that its leader exercised no military power over his subjects. The kingdom existed as a sphere of religious and political influence over much of Igboland, and was administered by a priest-king called the eze Nri.[NEWLINE][NEWLINE]The eze Nri managed trade and diplomacy on behalf of the Igbo people, and possessed divine authority in religious matters. The eze Nri had the privilege of making the Oguji, or yam medicine, which he distributed to all towns that subjected themselves to him. In exchange, people from surrounding towns would come in and pay tribute. Traveling delegations carrying a palm frond (omu) were considered protected and no one would attack or harm them.[NEWLINE][NEWLINE]For many centuries, the people within the Nri hegemony were committed to peace. This religious pacifism was rooted in a belief that violence was an abomination which polluted the earth. Instead, the eze Nri could declare a form of excommunication against those who violated specific taboos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_HEADING_2">
+			<Text>Ikenga Cult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_TEXT_2">
+			<Text>While the eze Nri lived relatively secluded from his followers, he employed a group of Jesuit-like officials called ndi Nri. These were ritual specialists, easily identifiable by facial scarifications (ichi), who traveled with ritual staffs of peace in order to purify the earth from human crimes. The ndi Nri exercised authority over wide areas of Igboland and had the power to install the next eze Nri.[NEWLINE][NEWLINE]Areas under Nri influence, called odinani Nri, were open to ndi Nri traveling within them to perform rituals and ensure bountiful harvest or restore harmony in local affairs. Local men within the odinani Nri could represent the eze Nri and share his moral authority by purchasing a series of ranked titles. These men were known as mburichi and became an extension of the Nri's religio-political system. They controlled the means for agriculture and determined guilt or innocence in disputes.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_01">
+			<Text>Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_02">
+			<Text>Enugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_03">
+			<Text>Owerri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_04">
+			<Text>Nnewi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_05">
+			<Text>Port Harcourt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_06">
+			<Text>Afikpo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_07">
+			<Text>Onitsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_08">
+			<Text>Awka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_09">
+			<Text>Igbuzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_10">
+			<Text>Nsukka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_11">
+			<Text>Aba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_12">
+			<Text>Ihiala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_13">
+			<Text>Umudioka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_14">
+			<Text>Orlu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_15">
+			<Text>Abakaliki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_16">
+			<Text>Okigwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_17">
+			<Text>Umuahia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_18">
+			<Text>Asaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_19">
+			<Text>Ajalli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_20">
+			<Text>Ogwashi-Uku</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_9">
+			<Text>Amadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_8">
+			<Text>Chidubem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_7">
+			<Text>Ozi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_6">
+			<Text>Emeka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_5">
+			<Text>Ikenna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_4">
+			<Text>Uzoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_3">
+			<Text>Jamuike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_2">
+			<Text>Kwemto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_1">
+			<Text>Ekwutosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_0">
+			<Text>Ogechukwu</Text>
+		</Row>
+		<!--ERI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ERI">
+			<Text>Eri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_LIVED">
+			<Text>c. 900 CE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_NAME">
+			<Text>Eri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_SUBTITLE">
+			<Text>Eze Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_HEADING_1">
+			<Text>Traditional Account</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_TEXT_1">
+			<Text>Eri is said to be the original legendary cultural head of the Nri-Igbo, a subgroup of the Igbo people. From oral and recorded accounts, he is said to come down from the sky, having been sent by God (Chukwu). Eri settled and established in the middle of Anambra river valley where he married two wives. The first wife, Nneamaku, bore him five children. The second was Nri Ifikuanim, the founder of the Kingdom of Nri (Umunri), while the other children founded settlements of their own.[NEWLINE][NEWLINE]Nri Ifikuanim migrated from Aguleri, the ancestral temple of the people, in search of a place of settlement. His second wife Oboli begot Onoja, the only son, who founded the Igala Kingdom in Kogi State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_HEADING_2">
+			<Text>Selection Procedure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_TEXT_2">
+			<Text>The eze Nri was chosen by the state leadership (the Nze and Nzemabua) and had to be recognized by the general public. Before being crowned, he could not have a living father. The potential eze Nri also had to prove he was the choice of Chukwu, Eri, the ancestors and the spirits, through revelations and visions confirmed by diviners.[NEWLINE][NEWLINE]After this, he had to travel to Aguleri to obtain a lump of clay from the bottom of the Anambra River, used to make the ritual pot for the shrine to Nri Menri. After various other rituals such as causing the magical ripening of a fruit palm and undergoing a ritual burial and reviving, the eze Nri was proclaimed and saluted as the "Heavenly One" (Igwe).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_ERI_TEXT">
+			<Text>Divine Eri, eze Nri; priest-king to the Igbo people, the heavens have granted us your blessing. Through the pursuit of peace and harmony, you forged without arms an allegiance of the Igbo communities - what would become the Nri Kingdom. For centuries, Nri would stand as a realm of great prosperity and, uniquely, as a place where slavery was forbidden; where all escaped slaves were welcomed as free men. Today, the religious authority which you once held remains as an integral part of traditional, Igbo society, and the devout legacy of your people lives on.[NEWLINE][NEWLINE]Sacred leader, the vestiges of God once more lace your voice with the words of heaven. Will you guide your people in harmony and peace? Will you don the cloak of divinity and guide the spiritual ways of the Nri Kingdom? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--HARMONY OF ANI-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NRI_SHORT">
+			<Text>Harmony of Ani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NRI">
+			<Text>Civilizations sharing your religion cannot declare war on you until the Industrial Era. During peacetime, may spend [ICON_PEACE] Faith to [ICON_INFLUENCE] Influence City-States which share your religion. Receive a free Mburichi after your Pantheon is founded.</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK_MOD">
+			<Text>May not attack this player due to a special game rule.</Text>
+		</Replace>
+		<!--Notification-->
+		<Row Tag="TXT_KEY_JFD_NRI_CITY_STATES_DECLARE_PEACE_NOTIFICATION_SHORT">
+			<Text>City-State Declares Peace!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_CITY_STATES_DECLARE_PEACE_NOTIFICATION">
+			<Text>Remembering their loyalty to the religious beliefs of the Nri people, the City-State of {1_Desc} has withdrawn their declaration of war against the {2_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_CITY_STATES_DECLARE_PEACE_NOTIFICATION_HUMAN">
+			<Text>Remembering their loyalty to the religious beliefs of your people, the City-State of {1_Desc} has withdrawn their declaration of war against us.</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="TXT_KEY_JFD_NRI_WAR_BUTTON_TT_DISABLED">
+			<Text>[COLOR_WARNING_TEXT]You cannot declare war on City-States that follow your religion.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_FAITH_GIFTS_BUTTON">
+			<Text>Show Faith Gift Options</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_FAITH_GIFTS_BUTTON_TT">
+			<Text>You may spend [ICON_PEACE] Faith to improve your [ICON_INFLUENCE] Influence with this City-State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_FAITH_GIFTS_BUTTON_TT_DISABLED">
+			<Text>You may spend [ICON_PEACE] Faith to improve your [ICON_INFLUENCE] Influence with this City-State.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]You may not spend [ICON_PEACE] Faith if this City-State does not follow your religion, or if you are at war (including with other City-States).[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_LARGE">
+			<Text>{1_Num} [ICON_PEACE] Faith - will earn {2_Num} [ICON_INFLUENCE] Influence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_MEDIUM">
+			<Text>{1_Num} [ICON_PEACE] Faith - will earn {2_Num} [ICON_INFLUENCE] Influence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_SMALL">
+			<Text>{1_Num} [ICON_PEACE] Faith - will earn {2_Num} [ICON_INFLUENCE] Influence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_TT">
+			<Text>Over time, the amount of [ICON_INFLUENCE] Influence earned from gifts of [ICON_PEACE] Faith goes down. Additionally, the more Faith you give in a single gift, the more Influence is earned - making larger gifts is more efficient!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_STATUS_TT">
+			<Text>{1_Num} [ICON_INFLUENCE] Influence is needed to be Friends, and {2_Num} is needed to be Allies. You currently have {3_Num} [ICON_INFLUENCE].</Text>
+		</Row>
+		<!--MBURICHI-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MBURICHI">
+			<Text>Mburichi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_MBURICHI">
+			<Text>The Mburichi is the unique Great Merchant replacement for Nri. Aside from the ability to Conduct a Trade Mission, the Mburichi may be used to spread your religion up to two times. It also will convert any Barbarian unit to [ICON_PEACE] Faith when it moves into an adjacent tile. The Mburichi takes damage from these conversions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MBURICHI_STRATEGY">
+			<Text>The Mburichi can construct Customs Houses and can conduct Trade Missions just like the Great Merchant that it replaces. However, this unit may also be used to spread a religion up to two times (so long as it was born in a city following a religion). In addition, it will convert any Barbarian unit to [ICON_PEACE] Faith when it moves into an adjacent tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_MBURICHI_TEXT">
+			<Text>Allegiance to the eze Nri was obtained not by military force but through ritual oath. Religious authority was vested in the local king, and ties were maintained by traveling mburichi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MBUIRICHI">
+			<Text>Ìkénga Cult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MBUIRICHI_HELP">
+			<Text>Gain [ICON_PEACE] Faith whenever this unit enters a tile adjacent to a Barbarian Unit. This unit takes damage from this action.</Text>
+		</Row>
+		<!--BRONZE CASTER-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER">
+			<Text>Bronze Caster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER_HELP">
+			<Text>Unique Nri Forge that can be built anywhere. When constructed, converts all unimproved sources of [ICON_RES_IRON] Iron within three tiles to [ICON_RES_COPPER] Copper.[NEWLINE][NEWLINE]Each source of [ICON_RES_COPPER] Copper and [ICON_RES_IRON] Iron worked by this City produces +1 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER_STRATEGY">
+			<Text>The Bronze Caster does not increases land unit production unlike the Forge which it replaces for the Nri. However, it may be constructed anywhere, and in addition to increasing the Faith output of nearby sources of Copper and Iron, it possess a Merchant specialist slot. When a Bronze Caster is constructed, it converts all unimproved sources of Iron within three tiles of the city into sources of Copper. Beware any units that might need that Iron!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BRONZE_CASTER_TEXT">
+			<Text>The talent of these ancient casters was truly astonishing and based on the lost wax technique. Many of the castings were made in stages. For instance, in one bronze bowl set on a flat stand found at Igbo-Ukwu, small decorative items including insects and spirals were cast first and placed in the wax model before the main parts of the bowl were made. The vessel itself was then cast in two parts and fitted together by casting a middle band.</Text>
+		</Row>
+		<!--ODINANI-->
+		<Row Tag="TXT_KEY_RELIGION_JFD_ODINANI">
+			<Text>Odinani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JFD_ODINANI_PEDIA">
+			<Text>The traditional religion of the Igbo people, Odinani, is an ancient and complex monotheistic religion, although there are many spirits which serve as part of the overall religion. In its most basic form, the Odinani religion recognizes one God, named Chukwu (among other similar names) in the Igbo language. Like in the Abrahamic religions, Chukwu created the universe and everything in it. This Supreme Being, Ikekaike, is neither an ancestor nor a spirit, both fundamental parts of the religion. While not a physical being, they influence humanity in ways unknown.[NEWLINE][NEWLINE]One of the fundamental forces in Odinani is Alusi. Traditionally, every Igbo village has a shrine dedicated to their own local Alusi, which sometimes takes on the form of a human, but is more often simply a supernatural, ‘being’ force. Mmuo, the ancestor spirits, can take on the form of either a good or a bad spirit; distinguished men and women will be rewarded in this afterlife, while the evil will become rouge spirits. The world and the visible universe, known as Uwa, is a Mother Nature-type of being that directly impacts everyone’s life - interestingly enough, the Odinani religion said that the universe was immensely bigger than the Earth, and recognised that the Earth was simply a part going around the universe rather than being the centre of it well before the Christian church did.[NEWLINE][NEWLINE]One of the fundamental aspects of the Odinani religion is summed up in the phrase ‘Egbo bere, ugo bere’ - ‘Let the eagle perch, let the hawk perch’. This essentially means that everyone should be able to do what they want while not interfering with anyone else, a moral that carries on into the Igbo traditions today.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--NRI-->
+		<Row Tag="TXT_KEY_CIV_JFD_NRI_ADJECTIVE">
+			<Text>尼日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NRI_DESC">
+			<Text>尼日王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NRI_SHORT_DESC">
+			<Text>尼日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_TEXT_1">
+			<Text>內容：尼日王國（948-1911）是尼日利亞最古老的王國，也是西非中世紀時期尼日-伊博族（尼日利亞伊博族的壹個分支）建立的國家。該王國是殖民前西非地區的學習、宗教和商業中心。尼日王國在世界政府史上非常獨特，其領導者對臣民沒有任何軍事權力。王國的存在主要通過宗教和政治影響力覆蓋了大部分伊博地區，由壹位被稱爲“eze　Nri”（尼日祭司王）的神職人員統治。eze　Nri代表伊博人民管理貿易和外交事務，並在宗教事務中擁有神聖權威。eze　Nri享有制作“Oguji”（山藥藥劑）的特權，並將其分發給所有向他臣服的城鎮。作爲回報，周邊城鎮的居民會前來向他進貢。攜帶棕榈葉（omu）的旅行代表團被視爲受到保護的，無人會攻擊或傷害他們。數個世紀以來，尼日統治下的人民致力于和平。這種宗教和平主義源于壹種信念，即暴力是壹種亵犢，會汙染大地。相反，eze　Nri可以對那些違反特定禁忌的人宣布壹種類似絕罰的形式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_HEADING_2">
+			<Text>伊肯加崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NRI_TEXT_2">
+			<Text>盡管eze　Nri相對與他的追隨者隔離生活，但他雇傭了壹群被稱爲“ndi　Nri”的官員，類似于耶稣會士。這些人是儀式專家，通過面部疤痕（ichi）很容易被識別，他們攜帶和平儀式權杖，以淨化人類罪行對大地的汙染。ndi　Nri在伊博地區擁有廣泛的權力，並有權決定下壹任eze　Nri。[NEWLINE][NEWLINE]受尼日影響的地區被稱爲“odinani　Nri”，ndi　Nri可以在這些地區旅行，進行儀式，確保豐收或恢複當地事務的和諧。在odinani　Nri內的當地男性可以通過購買壹系列等級頭銜來代表eze　Nri並分享他的道德權威。這些人被稱爲“mburichi”，成爲尼日宗教政治體系的延伸。他們控制農業手段，並在糾紛中判定有罪或無罪。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_01">
+			<Text>尼日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_02">
+			<Text>埃努古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_03">
+			<Text>奧韋裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_04">
+			<Text>恩紐伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_05">
+			<Text>哈科特港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_06">
+			<Text>阿菲克波</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_07">
+			<Text>奧尼查</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_08">
+			<Text>阿瓦卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_09">
+			<Text>伊布佐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_10">
+			<Text>努蘇卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_11">
+			<Text>阿巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_12">
+			<Text>伊亞拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_13">
+			<Text>烏穆迪奧卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_14">
+			<Text>奧魯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_15">
+			<Text>阿巴卡爾基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_16">
+			<Text>奧基格韋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_17">
+			<Text>烏穆阿希亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_18">
+			<Text>阿薩巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_19">
+			<Text>阿賈利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NRI_20">
+			<Text>奧瓦希-烏庫</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_9">
+			<Text>阿馬迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_8">
+			<Text>奇杜貝姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_7">
+			<Text>奧齊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_6">
+			<Text>埃梅卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_5">
+			<Text>伊肯納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_4">
+			<Text>烏佐骉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_3">
+			<Text>賈穆伊克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_2">
+			<Text>克溫托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_1">
+			<Text>埃克武托西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NRI_0">
+			<Text>奧吉楚庫烏</Text>
+		</Row>
+		<!--ERI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ERI">
+			<Text>埃裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_LIVED">
+			<Text>約公元900年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_NAME">
+			<Text>埃裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_SUBTITLE">
+			<Text>尼日祭司王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_HEADING_1">
+			<Text>傳統記載</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_TEXT_1">
+			<Text>據說埃裏是尼日-伊博族（尼博族的壹個分支）的原始傳奇文化領袖。根據口頭傳說和記載，他從天而降，是上帝（Chukwu）派遣下來的。埃裏定居于阿南布拉河谷中部，並娶了兩位妻子。第壹位妻子名爲Nneamaku，爲他生了五個孩子。第二位妻子是Nri　Ifikuanim，她是尼日王國（Umunri）的創立者，而其他孩子也各自建立了自己的定居點。Nri　Ifikuanim從Aguleri出發，那裏是人民的祖廟，她尋找壹個可以定居的地方。她的第二位妻子Oboli生下了唯壹的兒子Onoja，他建立了位于科吉州的伊加拉王國。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_HEADING_2">
+			<Text>選舉程序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ERI_TEXT_2">
+			<Text>尼日祭司王（eze　Nri）由國家領導層（Nze和Nzemabua）選出，並需得到公衆的認可。在加冕前，他不能有在世的父親。潛在的eze　Nri還必須通過占蔔師確認的啓示和幻象，證明自己是上帝（Chukwu）、埃裏（Eri）、祖先和神靈的選擇。[NEWLINE][NEWLINE]在此之後，他必須前往Aguleri，從阿南布拉河底部取壹塊黏土，用于制作供奉尼日梅尼裏神殿的儀式陶罐。在完成其他各種儀式後，例如使壹棵棕榈樹神奇地結果，以及經曆壹次儀式性的埋葬和複活，eze　Nri被正式宣布並被尊稱爲“天之驕子”（Igwe）。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_ERI_TEXT">
+			<Text>神聖的埃裏，尼日祭司王；伊博族的神職君主，上天已賜予我們您的祝福！通過追求和平與和諧，您用非武力的方式聯合了伊博族的各個社區——這便是後來的尼日王國。數個世紀以來，尼日壹直是壹個繁榮昌盛的國度，獨特的是，這裏禁止奴隸制，所有逃亡的奴隸都被接納爲自由人。如今，您曾經擁有的宗教權威仍然是傳統伊博社會的重要組成部分，您的人民虔誠的遺志也得以延續。[NEWLINE][NEWLINE]神聖的領袖，上帝的余晖再次讓您的聲音充滿天意。您會引導您的人民走向和諧與和平嗎？您會披上神聖的外衣，指引尼日王國的精神之路嗎？您能否建立壹個能夠經受時間考驗的文明？</Text>
+		</Row>
+		<!--HARMONY OF ANI-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NRI_SHORT">
+			<Text>安甯之地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NRI">
+			<Text>信仰與您相同宗教的文明在工業時代之前無法對妳宣戰。在和平時期，您可以使用[ICON_PEACE]信仰值來對信仰妳宗教的城邦施加[ICON_INFLUENCE]影響力。在您的萬神殿建立後，您將獲得壹名免費的"姆布裏奇"。</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK_MOD">
+			<Text>埃裏統治之下的尼日帝國是壹片安甯之地！您目前沒有任何理由攻擊該文明！</Text>
+		</Replace>
+		<!--Notification-->
+		<Row Tag="TXT_KEY_JFD_NRI_CITY_STATES_DECLARE_PEACE_NOTIFICATION_SHORT">
+			<Text>城邦宣布進入停戰的和平狀態！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_CITY_STATES_DECLARE_PEACE_NOTIFICATION">
+			<Text>回憶起對尼日人民宗教信仰的忠誠，{1_Desc}城邦已撤銷對{2_CivName}的戰爭宣言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_CITY_STATES_DECLARE_PEACE_NOTIFICATION_HUMAN">
+			<Text>回憶起對您人民宗教信仰的忠誠，{1_Desc}城邦已撤銷對我們的戰爭宣言。</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="TXT_KEY_JFD_NRI_WAR_BUTTON_TT_DISABLED">
+			<Text>[COLOR_WARNING_TEXT]您不能對信仰您宗教的城邦宣戰！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_FAITH_GIFTS_BUTTON">
+			<Text>信仰的禮物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_FAITH_GIFTS_BUTTON_TT">
+			<Text>您可以花費[ICON_PEACE]信仰值來提升您與該城邦的[ICON_INFLUENCE]影響力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_FAITH_GIFTS_BUTTON_TT_DISABLED">
+			<Text>您可以花費[ICON_PEACE]信仰值來提升您與該城邦的[ICON_INFLUENCE]影響力。[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]如果該城邦不信仰您的宗教，或者您處于戰爭狀態（包括與其他城邦的戰爭），則無法花費[ICON_PEACE]信仰值。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_LARGE">
+			<Text>{1_Num}[ICON_PEACE]信仰值-將獲得{2_Num}[ICON_INFLUENCE]影響力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_MEDIUM">
+			<Text>{1_Num}[ICON_PEACE]信仰值-將獲得{2_Num}[ICON_INFLUENCE]影響力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_SMALL">
+			<Text>{1_Num}[ICON_PEACE]信仰值-將獲得{2_Num}[ICON_INFLUENCE]影響力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_TT">
+			<Text>隨著時間推移，通過[ICON_PEACE]信仰值贈送獲得的[ICON_INFLUENCE]影響力會逐漸減少。此外，單次贈送的信仰值越多，獲得的影響力也越多——大額禮物更有效！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_GIFT_STATUS_TT">
+			<Text>成爲朋友需要{1_Num}[ICON_INFLUENCE]影響力，成爲盟友需要{2_Num}影響力。您目前擁有{3_Num}[ICON_INFLUENCE]影響力。</Text>
+		</Row>
+		<!--MBURICHI-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MBURICHI">
+			<Text>姆布裏奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_MBURICHI">
+			<Text>姆布裏奇是尼日獨特的大商人替代單位。除了能夠執行貿易使命外，姆布裏奇還可以用于傳播妳的宗教，最多兩次。當它移動到相鄰區域時，還會將任何野蠻人單位轉化爲[ICON_PEACE]信仰，但在此過程中會受到壹定的傷害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MBURICHI_STRATEGY">
+			<Text>姆布裏奇可以像它所替代的大商人壹樣建造海關大樓和執行貿易使命。然而，這個單位還可以用于傳播宗教，最多兩次（只要它誕生于壹個信仰宗教的城市）。此外，當它移動到相鄰區域時，會將任何野蠻人單位轉化爲[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_MBURICHI_TEXT">
+			<Text>對尼日祭司王的忠誠並非通過軍事力量獲得，而是通過儀式誓言。宗教權威賦予了當地國王，而流動的姆布裏奇則維持著這些聯系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MBUIRICHI">
+			<Text>奧肯加教派</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MBUIRICHI_HELP">
+			<Text>每當此單位進入與野蠻人單位相鄰的方塊時，獲得 [ICON_PEACE] 信仰值，該單位因該行動而受到傷害。</Text>
+		</Row>
+		<!--BRONZE CASTER-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER">
+			<Text>青銅鑄造廠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER_HELP">
+			<Text>尼日獨特的鍛造廠，可在任何地方建造。建造時，會將城市三格範圍內所有未改良的[ICON_RES_IRON]鐵礦轉化爲[ICON_RES_COPPER]銅礦。[NEWLINE][NEWLINE]該城市所工作的每個[ICON_RES_COPPER]銅礦和[ICON_RES_IRON]鐵礦可産生+1[ICON_PEACE]信仰值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER_STRATEGY">
+			<Text>與尼日所替代的鍛造廠不同，青銅鑄造廠不會增加陸地單位的生産力。然而，它可以在任何地方建造，並且除了增加附近銅礦和鐵礦的信仰産出外，它還有壹個商人專家槽位。當建造青銅鑄造廠時，它會將城市三格範圍內的所有未改良鐵礦轉化爲銅礦。(注意，這可能會影響需要鐵礦的單位！)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BRONZE_CASTER_TEXT">
+			<Text>這些青銅鑄造廠令人驚歎，其基礎是失蠟法。許多鑄件是分階段完成的。例如，在伊博-烏庫發現的壹個青銅碗，放置在平底座上，其上的小裝飾物，包括昆蟲和螺旋紋，是先鑄造的，並在制作碗的主要部分之前放置在蠟模中。容器本身是分兩部分鑄造的，然後通過鑄造壹個中間帶將其組合在壹起。</Text>
+		</Row>
+		<!--ODINANI-->
+		<Row Tag="TXT_KEY_RELIGION_JFD_ODINANI">
+			<Text>奧丁尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JFD_ODINANI_PEDIA">
+			<Text>伊博族的傳統宗教奧丁尼是壹種古老而複雜的單壹神教，盡管其中有許多作爲整體宗教壹部分的神靈。在其最基本的形式中，奧丁尼宗教信仰壹位上帝，用伊博語稱爲Chukwu（以及其他類似的名字）。與亞伯拉罕宗教壹樣，Chukwu創造了宇宙和其中的壹切。這位至高無上的神祇Ikekaike既不是祖先也不是神靈，這兩者都是宗教的基本組成部分。雖然Chukwu不是壹個具體的物質存在，但祂以人類無法理解的方式影響著人類。奧丁尼宗教中的壹個基本力量是Alusi。傳統上，每個伊博村莊都有壹個神龛供奉他們自己的本地Alusi，這有時會以人的形式出現，但更多時候只是壹個超自然的“存在”力量。Mmuo，即祖先神靈，可以是善靈或惡靈；傑出的男女在來世會得到獎勵，而邪惡的人則會變成遊蕩的惡靈。世界和可見的宇宙，稱爲Uwa，是壹種類似母親自然的存在，直接影響著每個人的生活——有趣的是，奧丁尼宗教認爲宇宙比地球大得多，並且早在基督教教會之前就認識到地球只是圍繞宇宙運行的壹部分，而不是宇宙的中心。奧丁尼宗教的壹個基本方面可以用“Egbo　bere,　ugo　bere”來概括，意思是“讓鷹棲息，讓鷹棲息”。這實際上意味著每個人都可以做自己想做的事，同時不幹擾他人，這種道德觀念壹直延續到今天的伊博傳統中。</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

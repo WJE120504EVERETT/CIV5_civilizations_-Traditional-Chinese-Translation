@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_NRI';
+			Leader = 'LEADER_JFD_ERI';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_ERI = {
+				Leader 	= 	'LEADER_JFD_ERI';
+				LeaderTXT	=	'Eri ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_MBURICHI';
+			Class = 'UNITCLASS_MERCHANT';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_BRONZE_CASTER';
+			Class = 'BUILDINGCLASS_FORGE';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_NRI';
+		};
+	};
+};

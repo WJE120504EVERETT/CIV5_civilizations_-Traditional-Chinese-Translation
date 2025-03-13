@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE OVERHAUL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRONZE_CASTER_HELP_CBO">
+			<Text>Unique Nri Forge that can be built anywhere. When constructed, converts all unimproved sources of [ICON_RES_IRON] Iron within three tiles to [ICON_RES_COPPER] Copper.[NEWLINE][NEWLINE]Mines worked by this City gain +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Each source of [ICON_RES_COPPER] Copper and [ICON_RES_IRON] Iron worked by this City produces +1 [ICON_PEACE] Faith and +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<!--JFD CITIES IN DEVELOPMENT-->
+		<!--JFD PROVINCES-->
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_JFD_NRI">
+			<Text>Eko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_NRI">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_NRI_FEMININE">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_JFD_NRI">
+			<Text>Igue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_NRI">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_NRI_FEMININE">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_JFD_NRI">
+			<Text>Ore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_NRI">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_NRI_FEMININE">
+			<Text>Chief</Text>
+		</Row>
+		<!--JFD RISE TO POWER-->
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_JFD_NRI">
+			<Text>Ikenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI">
+			<Text>Onye isi ala</Text>
+		</Row>
+		<!--Odinani-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_RELIGION_JFD_ODINANI">
+			<Text>Ikenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_NDI_NRI">
+			<Text>Onye isi ala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_NAME_RELIGION_JFD_ODINANI">
+			<Text>Ndi Nri</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_1">
+			<Text>Babafemi Ogundipe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_2">
+			<Text>JTU Aguiyi-Ironsi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_3">
+			<Text>Yakubu Gowon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_4">
+			<Text>Joseph Edet Akinwale Wey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_5">
+			<Text>Murtala Muhammed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_6">
+			<Text>Olusegun Obasanjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_7">
+			<Text>Shehu Musa Yar'Adua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_8">
+			<Text>Shehu Shagari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_9">
+			<Text>Alex Ifeanyichukwu Ekwueme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_10">
+			<Text>Tunde Idiagbon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_11">
+			<Text>Ebitu Ukiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_12">
+			<Text>Augustus Aikhomu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_13">
+			<Text>Oladipo Diya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_14">
+			<Text>Michael Akhigbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_15">
+			<Text>Atiku Abubakar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_16">
+			<Text>Goodluck Ebele Jonathan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_17">
+			<Text>Namadi Sambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_18">
+			<Text>Yemi Osinbajo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_19">
+			<Text>Muhammadu Buhari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_20">
+			<Text>Goodluck Ebele Jonathan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_21">
+			<Text>Umaru Musa Yaradua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_22">
+			<Text>Olusegun Obasanjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_23">
+			<Text>Abubakar Tafawa Balewa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_24">
+			<Text>Ernest Shonekan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NRI_25">
+			<Text>Sani Abacha</Text>
+		</Row>
+		<!--Political Parties-->
+		<Row Tag="TXT_KEY_JFD_ASSEMBLY_JFD_MILITARY_JFD_NRI">
+			<Text>Nri Redepemtion Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_NATIONALIST_JFD_NRI">
+			<Text>National Democratic Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_POPULARIST_JFD_NRI">
+			<Text>People's Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_BURGHERS_JFD_NRI">
+			<Text>Merchants</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_JFD_NRI">
+			<Text>Ndi Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_JFD_NRI">
+			<Text>People's Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_JFD_NRI">
+			<Text>Igbira Tribal Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_JFD_NRI">
+			<Text>People's Democratic Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_JFD_NRI">
+			<Text>Democratic Alternative</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_JFD_NRI">
+			<Text>Fresh Democratic Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_JFD_NRI">
+			<Text>Mburichi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_JFD_NRI">
+			<Text>Dimka Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_JFD_NRI">
+			<Text>Action Group</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_JFD_NRI">
+			<Text>isi-</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_LEADER_JFD_NRI">
+			<Text>-isi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_GOVERNMENT_JFD_NRI">
+			<Text>Princedom of {1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_JFD_NRI">
+			<Text>Eze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_GOVERNMENT_JFD_NRI">
+			<Text>Kingdom of {1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_LEADER_JFD_NRI">
+			<Text>Eze Ukwu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_GOVERNMENT_JFD_NRI">
+			<Text>Empire of {1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_JFD_NRI">
+			<Text>Okenye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_GOVERNMENT_JFD_NRI">
+			<Text>Chiefdom of {1_CivDesc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_THEOCRACY_TITLE_LEADER_JFD_NRI">
+			<Text>Eze Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_THEOCRACY_TITLE_GOVERNMENT_JFD_NRI">
+			<Text>Kingdom of {1_CivName}</Text>
+		</Row>
+		<!--Odinani-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_THEOCRACY_TITLE_LEADER_JFD_ODINANI">
+			<Text>Eze Nri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_THEOCRACY_TITLE_GOVERNMENT_JFD_ODINANI">
+			<Text>Kingdom of {1_CivName}</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Journey to the Anambra River-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER">
+			<Text>Journey to the Anambra River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_DESC">
+			<Text>The role of the eze Nri is not complete until the journey to the sacred Anambra River has taken place. There, the eze Nri must demonstrate their blessing by collecting stones from beneath the water, before being buried, exhumed, and anointed in white clay. Only following this can the eze Nri have his people's trust and approval.
+				-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Nri.
+				[NEWLINE][ICON_BULLET]Must have at least one city on a river.
+				[NEWLINE][ICON_BULLET]Must have founded a Religion.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_PEACE] Faith.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain 2 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_DESC_SOVEREIGNTY">
+			<Text>
+				The role of the eze Nri is not complete until the journey to the sacred Anambra River has taken place. There, the eze Nri must demonstrate their blessing by collecting stones from beneath the water, before being buried, exhumed, and anointed in white clay. Only following this can the eze Nri have his people's trust and approval.
+				-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Nri.
+				[NEWLINE][ICON_BULLET]Must have at least one city on a river.
+				[NEWLINE][ICON_BULLET]Must have a Government.
+				[NEWLINE][ICON_BULLET]Must have founded a Religion.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_PEACE] Faith.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain 2 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]Passes the [ICON_JFD_REFORM] Divine Right (Legitimacy) Reform without incurring Cooldown.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_ENACTED_DESC">
+			<Text>The role of the eze Nri is not complete until the journey to the sacred Anambra River has taken place. There, the eze Nri must demonstrate their blessing by collecting stones from beneath the water, before being buried, exhumed, and anointed in white clay. Only following this can the eze Nri have his people's trust and approval.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain 2 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_ENACTED_DESC_SOVEREIGNTY">
+			<Text>The role of the eze Nri is not complete until the journey to the sacred Anambra River has taken place. There, the eze Nri must demonstrate their blessing by collecting stones from beneath the water, before being buried, exhumed, and anointed in white clay. Only following this can the eze Nri have his people's trust and approval.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain 2 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE][ICON_BULLET]Passes the [ICON_JFD_REFORM] Divine Right (Legitimacy) Reform without incurring Cooldown.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NRI_ANAMBRA_RIVER">
+			<Text>{1_LeaderName} of {2_CivDesc} has journeyed to their sacred Anambra River, completing their ascension to religious leadership.</Text>
+		</Row>
+		<!--Sanctify the Ìkénga-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_IKENGA">
+			<Text>Sanctify the Ìkénga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_IKENGA_DESC">
+			<Text>The Ìkénga - priets and noblemen - are our eyes and ears. But they have become too disconnected from the sacred. We must bridge this gap, and give the Ìkénga once again a heavenly purpose.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Nri.
+				[NEWLINE][ICON_BULLET]Must have founded a Religion.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_PEACE] Faith.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Markets and Temples yield +2 [ICON_PEACE] Faith.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_IKENGA_ENACTED_DESC">
+			<Text>The Ìkénga - priets and noblemen - are our eyes and ears. But they have become too disconnected from the sacred. We must bridge this gap, and give the Ìkénga once again a heavenly purpose.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Markets and Temples yield +2 [ICON_PEACE] Faith.
+			</Text>
+		</Row>
+		<!--Abandon the Old Gods-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ABANDON_OLD_GODS">
+			<Text>Abandon the Old Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ABANDON_OLD_GODS_DESC">
+			<Text>
+				The Old Gods are a relic of our former misguidance. The truth is imminent, and we must follow it.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Lithuania.
+				[NEWLINE][ICON_BULLET]Must have a religion in your Capital.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]All pantheon and non-religious followers are converted to {2_ReligionDesc}.
+				[NEWLINE][ICON_BULLET]Forests no longer convert your cities to your pantheon.
+				[NEWLINE][ICON_BULLET]Forests yield +1 [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ABANDON_OLD_GODS_DESC_PIETY">
+			<Text>
+				The Old Gods are a relic of our former misguidance. The truth is imminent, and we must follow it.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Lithuania.
+				[NEWLINE][ICON_BULLET]Must not have a State Religion.
+				[NEWLINE][ICON_BULLET]Must have a religion in your Capital.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{2_ReligionDesc} becomes your State Religion.
+				[NEWLINE][ICON_BULLET]All pantheon and non-religious followers are converted to {2_ReligionDesc}.
+				[NEWLINE][ICON_BULLET]Forests no longer convert your cities to your pantheon.
+				[NEWLINE][ICON_BULLET]Forests yield +1 [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ABANDON_OLD_GODS_ENACTED_DESC">
+			<Text>
+				The Old Gods are a relic of our former misguidance. The truth is imminent, and we must follow it.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]All pantheon and non-religious followers are converted to {1_ReligionDesc}.
+				[NEWLINE][ICON_BULLET]Forests no longer convert your cities to your pantheon.
+				[NEWLINE][ICON_BULLET]Forests yield +1 [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ABANDON_OLD_GODS_ENACTED_DESC_PIETY">
+			<Text>
+				The Old Gods are a relic of our former misguidance. The truth is imminent, and we must follow it.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]A State Religion was established.
+				[NEWLINE][ICON_BULLET]All pantheon and non-religious followers were converted to this State Religion.
+				[NEWLINE][ICON_BULLET]Forests no longer convert your cities to your pantheon.
+				[NEWLINE][ICON_BULLET]Forests yield +1 [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NRI_ABANDON_OLD_GODS">
+			<Text>{1_LeaderName} of {2_CivName} has abandoned their old Gods and adopted {3_ReligionDesc}.</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Year Counting Ceremony-->
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING">
+			<Text>Igu Aro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING_DESC">
+			<Text>It is once again time for the Year Counting Ceremony: Igu Aro; whence all our loyal subjects pay tribute to our great spiritual guide and are unified in our benevolance. Let us rejoice and pass the yams![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING_OUTCOME_1">
+			<Text>He who offers the greatest tribute shall have my blessing and some yams.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The city other than the capital with the highest [ICON_PEACE] Faith output begins celebrating 'We Love the King Day' for {1_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_YEAR_COUNTING_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>{1_CityName} has received our blessing for their great tribute to our unity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_NRI_YEAR_COUNTING">
+			<Text>The Year Counting Ceremony begins in the {1_CivName}.</Text>
+		</Row>
+		<!--Runaway Slaves-->
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES">
+			<Text>Runaway Slaves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_DESC">
+			<Text>Our reputation as an empire of unyielding peace and freedom has attracted a number of slaves from the City-State of {1_CityStateName} to come to our court seeking refuge. They ask that we free them of their servile bonds, and that we may let them live amongst our people.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_1">
+			<Text>No thanks. Our relationship with {1_CityStateName} is too important.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_INFLUENCE] Influence with {2_CityStateName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have turned away runaway slaves from {1_CityStateName}, pleasing them immensely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_2">
+			<Text>Their bonds are broken. Let no man own these people so long as they are of Nri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_INFLUENCE] Influence with {2_CityStateName}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_CITIZEN] Population in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have accepted the runaway slaves from {1_CityStateName} into our empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_3">
+			<Text>Very well. But put them to work!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_INFLUENCE] Influence with {2_CityStateName}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Worker Unit[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have accepted the runaway slaves from {1_CityStateName} into our empire and have put them straight to work.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
