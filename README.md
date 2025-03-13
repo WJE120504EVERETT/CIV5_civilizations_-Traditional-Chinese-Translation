@@ -2,6 +2,8 @@
 
 Translating some English mods into Traditional Chinese for Civ5 (Type:civilizations).
 
+The author (WJE120504EVERETT) will make changes to the game mods with evil bugs (but all special buildings, special units, special abilities, etc will not be changed)
+
 Produced by the author for free! Commercial use not allowed!
 
 
