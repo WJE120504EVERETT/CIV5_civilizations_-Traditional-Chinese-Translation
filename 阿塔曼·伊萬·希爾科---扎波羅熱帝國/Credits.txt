@@ -1,0 +1,47 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+DarthKyofu: 
+----------------
+	Art (Civ Icon)
+----------------
+Sas: 
+----------------
+	Art (Leaderscene; Map; Unique Icons)
+----------------
+Zharques: 
+----------------
+	Research (Cities; Civ Pedia)
+----------------
+Typhlomence:
+----------------
+	Utilities (UniqueDiplomacyUtils.lua)
+	https://forums.civfanatics.com/threads/uniquediplomacyutils-a-set-of-lua-functions-to-enable-unique-diplomacy-responses.550294/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Alexey Omelchuk: 
+----------------
+	Music (Peace)
+	https://www.youtube.com/watch?v=x7koAewvhd0&list=PLgD4epEDL8eqjx0pkW0nteXWMHEQBQoSv&index=8
+	https://www.youtube.com/watch?v=HlxuPOwQzQM&list=PLgD4epEDL8eqjx0pkW0nteXWMHEQBQoSv&index=8
+----------------
+Wikipedia.com: 
+----------------
+	Pedias (Uniques)
+	https://en.wikipedia.org/wiki/Chaika_(boat)
+	https://en.wikipedia.org/wiki/Sich
+--------------------------------------------------------------
+--------------------------------------------------------------

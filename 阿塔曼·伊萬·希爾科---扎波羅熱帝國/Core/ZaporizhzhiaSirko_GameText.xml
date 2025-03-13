@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_ZAPORIZHZHIA_SIRKO_ADJECTIVE">
+			<Text>Zaporizhzhian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ZAPORIZHZHIA_SIRKO_DESC">
+			<Text>Zaporizhzhian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ZAPORIZHZHIA_SIRKO_SHORT_DESC">
+			<Text>Zaporizhzhia</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_COSSACKS">
+			<Text>Cossacks</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_1">
+			<Text>Zaporizhzhia was a semi-autonomous polity and proto-state of Cossacks that existed between the 16th to 18th centuries. The Zaporozhian Cossacks were Cossacks who lived beyond the Dnieper Rapids, the land also known under the historical term Wild Fields in today's Central Ukraine and Eastern Ukraine. Today, much of the territory is flooded by the waters of the Kakhovka Reservoir. The Zaporozhian Sich grew rapidly in the 15th century from serfs fleeing the more controlled parts of the Polish–Lithuanian Commonwealth. It became established as a well-respected political entity with a parliamentary system of government. During the course of the 16th, 17th and well into the 18th century, the Zaporozhian Cossacks were a strong political and military force that challenged the authority of the Polish–Lithuanian Commonwealth, the Tsardom of Russia, and the Crimean Khanate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_2">
+			<Text>The Formation of Zaporizhzhia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_2">
+			<Text>It is not clear when the first Cossack communities on the Lower Dnieper began to form. There are signs and stories of similar people living in the Eurasian Steppe as early as the 12th century. There were also groups of people who fled into these wild steppes from the cultivated lands of Kyivan Rus' in order to escape oppression or criminal pursuit. Their lifestyle largely resembled that of the people now called Cossacks. They survived chiefly from hunting and fishing and raiding the Asiatic tribes for horses and food. In the 16th century, a great organizer, Dmytro Vyshnevetsky, a Ukrainian noble, united these different groups into a strong military organization. The Zaporozhian Cossacks had various social and ethnic origins but were predominantly made up of escaped serfs who preferred the dangerous freedom of the wild steppes, rather than life under the rule of Polish aristocrats. However, townspeople, lesser noblemen and even Crimean Tatars also became part of the Cossack host. They had to accept Eastern Orthodoxy as their religion and adopt its rituals and prayers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_3">
+			<Text>Between Commonwealth and Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_3">
+			<Text>In the 16th century, with the dominance of the Polish–Lithuanian Commonwealth extending south, the Zaporozhian Cossacks were mostly, if tentatively, regarded by the Polish–Lithuanian Commonwealth as their subjects. Registered Cossacks were a part of the Commonwealth army until 1699. Around the end of the 16th century, relations between the Polish–Lithuanian Commonwealth and the Ottoman Empire, which were not cordial to begin with, were further strained by increasing Cossack aggression. From the second part of the 16th century, the Cossacks started raiding Ottoman territories. The Polish government could not control the fiercely independent Cossacks but, since they were nominally subjects of the Commonwealth, it was held responsible for raids by their victims. By 1615 and 1625, Cossacks had managed to raze townships on the outskirts of Constantinople, forcing the Ottoman Sultan Murad IV to flee his palace. His nephew, Sultan Mehmed IV, fared little better as the recipient of the legendary Reply of the Zaporozhian Cossacks, a ribald response to Mehmed's insistence that the Cossacks submit to his authority.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_4">
+			<Text>The Formation of the Sich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_4">
+			<Text>The Zaporozhian Sich emerged as a method of defence by Slavic colonists against the frequent and devastating raids of Crimean Tatars, who captured and enslaved hundreds of thousands of Ukrainians, Belorusians and Poles in operations called "the harvesting of the steppe". The Ukrainians created a self-defence force, the Cossacks, fierce enough to stop the Tatar hordes, and built fortified camps, known as sichi, that were later united to form a central fortress, the Zaporozhian Sich. Prince Dmytro Vyshnevetsky established the first Zaporozhian Sich on the island of Small Khortytsia in 1552, building a fortress at Niz Dnieprovsky and placing a Cossack garrison there. Tatar forces destroyed the fortress in 1558. The Tomakivka Sich was built on a now-inundated island to the south, near the modern city of Marhanets; Tatars also razed that sich, in 1593. A third sich soon followed on Bazavluk island, which survived until 1638, when it was destroyed by a Polish expeditionary force suppressing a Cossack uprising.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_5">
+			<Text>Tensions on the Dnieper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_5">
+			<Text>Cossack numbers expanded, with Ukrainian peasants running from serfdom in the Polish–Lithuanian Commonwealth. The Zaporozhian Cossacks were included in the Kiev Voivodeship from 1583 to 1657, part of the Lesser Poland Province of the Polish Crown. Attempts by the szlachta to turn the Zaporozhian Cossacks into serfs eroded the Cossacks' once fairly strong loyalty towards the Commonwealth. Cossack ambitions to be recognised as equal to the szlachta were constantly rebuffed, and plans for transforming the Polish–Lithuanian Two-Nations Commonwealth into a Polish-Lithuanian-Ruthenian Commonwealth made little progress, owing to the Cossacks' unpopularity. The waning loyalty of the Cossacks and the szlachta's arrogance towards them resulted in several Cossack uprisings against the Polish–Lithuanian Commonwealth in the early 17th century. Finally, the King's adamant refusal to bow to the Cossacks' demand to expand the Cossack Registry was the last straw that prompted the largest and most successful of these: the Khmelnytsky Uprising, which started in 1648.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_6">
+			<Text>Independence for the Cossacks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_6">
+			<Text>The Cossacks resented Polish rule, with one of the reasons being religious differences, as the cossacks were Orthodox Christians whereas the Poles were mostly Catholics. They thus engaged in a long struggle for independence from surrounding powers, the Rzeczpospolita, or Polish state, the Ottoman Empire, the Crimean Khanate, and the Tsardom of Russia and Russian Empire. In 1648, Bohdan Khmelnytsky captured a sich at Mykytyn Rih, near the present-day city of Nikopol. From there he began an uprising against the Polish–Lithuanian Commonwealth that led to the establishment of the Cossack Hetmanate. After the Treaty of Pereyaslav in 1654, the Zaporozhian Host was split into the Hetmanate, with its capital at Chyhyryn, and the more autonomous region of Zaporozhia, which continued to be centred on the Sich. During this period the Sich changed location several times. The Chortomlyk Sich was built at the mouth of the Chortomlyk River in 1652. In 1667 the Truce of Andrusovo made the Sich a condominium ruled jointly by Russia and the Polish–Lithuanian Commonwealth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_7">
+			<Text>A Sich as Form of Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_7">
+			<Text>The Zaporozhian Host was led by the Sich Rada that elected a Kosh Otaman as the host's leader. During military operations the Otaman carried unlimited power supported by his staff as the military collegiate. He decided with an agreement from the Rada whether to support a certain Hetman, or other leaders of state. The population of the Sich had a cosmopolitan component, including Ukrainians, Moldavians, Tatars, Poles, Lithuanians, Jews, Russians and many other ethnicities. The social structure was complex, consisting of destitute gentry and boyars, szlachta, or Polish nobility, merchants, peasants, outlaws of every sort, runaway slaves from Turkish galleys, and runaway serfs. The Cossacks developed a large fleet of fast, light vessels. Their campaigns were targeted at rich settlements on the Black Sea shores of the Ottoman Empire, and several times took them as far as Constantinople.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_8">
+			<Text>A Sich Razed and a Sich Raised</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_8">
+			<Text>After the Battle of Poltava in 1709, the Chortomlyk Sich was destroyed and Baturyn, the capital of Hetman Ivan Mazepa, was razed. Another sich was built at the mouth of the Kamianets river but was destroyed in 1711 by the Russian government. The Cossacks then fled to the Crimean Khanate to avoid persecution and founded the Oleshky Sich in 1711. In 1734, they were allowed to return to the Russian Empire. Suffering from discrimination in the Khanate, Cossacks accepted the offer to return and built another Sich in close proximity to the former Chortomlyk Sich. Fear of the independence of the Sich resulted in the Russian administration abolishing the Hetmanate in 1764. The Cossack officer class was incorporated into the Imperial Russian nobility. The rank and file Cossacks, however, including a substantial portion of the old Zaporozhians, were reduced to peasant status. Tension rose after the Treaty of Küçük Kaynarca, when the need for a southern frontier ended after the annexation of the Crimea. The colonisation of Novorossiya, with Serbian and Romanians sponsored by Russia created further conflict.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_9">
+			<Text>Liquidation of the Sich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_9">
+			<Text>On May 7, 1775, Empress Catherine II issued a direct order that the Zaporozhian Sich was to be destroyed. On June 5, 1775, Russian artillery and infantry surrounded the Sich and razed it to the ground. The Russian troops disarmed the Cossacks, and the treasury archives were confiscated. The Koshovyi Otaman, Petro Kalnyshevsky, was arrested and incarcerated in exile at Solovetsky Monastery. This marked the end of the Zaporozhian Cossacks. In 1780, after disbanding the Zaporozhian Cossack Host, General Grigorii Potemkin attempted to gather and reorganize the Cossacks on a voluntary basis, and they helped to defend Ukraine from the Turks during the Russo-Turkish War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_10">
+			<Text>The Sich Impact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_10">
+			<Text>The destruction of the Sich created difficulties for the Russian Empire. Supporting the increase in the privileges gained by the higher-ranking leadership put a strain in the budget, whilst the stricter regulations of the regular Russian Army prevented many other Cossacks from integrating. The existence of the Danubian Sich, which would support the Ottoman Empire in the next war, was also troublesome for the Russians. In 1784 Potemkin formed the Host of the Loyal Zaporozhians and settled them between the Southern Bug and Dniester rivers. For their invaluable service during the Russo-Turkish War between 1787 and 1792, they were rewarded with the Kuban land and migrated there in 1792.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_1">
+			<Text>Chortomlyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_2">
+			<Text>Baturyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_3">
+			<Text>Kyiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_4">
+			<Text>Nizhyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_5">
+			<Text>Poltava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_6">
+			<Text>Kodak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_7">
+			<Text>Chernihiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_8">
+			<Text>Starodub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_9">
+			<Text>Hadiach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_10">
+			<Text>Lubny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_11">
+			<Text>Pereiaslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_12">
+			<Text>Chyhyryn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_13">
+			<Text>Myrhorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_14">
+			<Text>Mykytyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_15">
+			<Text>Bazavluk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_16">
+			<Text>Hlukhiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_17">
+			<Text>Bila Tserkva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_18">
+			<Text>Cherkasy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_19">
+			<Text>Korsun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_20">
+			<Text>Kaniv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_21">
+			<Text>Ovruch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_22">
+			<Text>Irkliyiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_23">
+			<Text>Sosnytsia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_24">
+			<Text>Borzna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_25">
+			<Text>Zhyvotiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_26">
+			<Text>Bratslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_27">
+			<Text>Vinnytsia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_28">
+			<Text>Uman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_29">
+			<Text>Pryluky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_30">
+			<Text>Hrushivka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_31">
+			<Text>Kremenchuk</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_0">
+			<Text>Demian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_1">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_2">
+			<Text>Mykhailo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_3">
+			<Text>Petro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_4">
+			<Text>Ivan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_5">
+			<Text>Hryhory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_6">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_7">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_8">
+			<Text>Roman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_9">
+			<Text>Sofia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO">
+			<Text>Ivan Sirko</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_NAME">
+			<Text>Ivan Sirko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_1">
+			<Text>The first biography of Ivan Sirko, written by Dmytro Yavornytsky in 1890, gave Sirko's place of birth as the sloboda of Merefa near the city of Kharkiv. Historian Yuriy Mytsyik states that this could not be the case. In his book Otaman Ivan Sirko (1999) he writes that Merefa was established only in 1658 (more than 40 years after the birth of the future otaman). The author also notes that Sirko later in his life did actually live in Merefa with his family on his own estate, and according to some earlier local chronicles there even existed a small settlement called Sirkivka. However, Mytsyik also points out that in 1658–1660 Sirko served as a colonel of the Kalnyk Polk (a military and administrative division of the Cossack Hetmanate) in Podilia, a position usually awarded to the representative of a local population. The author also gives a reference to the letter of Ivan Samiylovych to kniaz G. Romodanovsky (the tsar's voyevoda) in which the hetman refers to Sirko as one born in Polish lands instead of in Sloboda Ukraine (part of Moscovy). Mytsyik also recalls that another historian, Volodymyr Borysenko, allowed for the possibility that Sirko was born in Murafa near the city of Sharhorod (now in Vinnytsia Oblast). The author explains during that time when people were fleeing the war (known as the Ruin, 1659–1686) they may have established a similarly named town in Sloboda Ukraine further east.[NEWLINE][NEWLINE]Further, Mytsyik in his book states that Sirko probably was not of Cossack heritage, but rather of the Ukrainian (Ruthenian) Orthodox szlachta. Mytsyik points out that a local Podilian nobleman, Wojciech Sirko, married a certain Olena Kozynska sometime in 1592. Also in official letters the Polish administration referred to Sirko as urodzonim, implying a native-born Polish subject. Mytsyik states that Sirko stood about 174–176 cm tall and had a birthmark on the right side of the lower lip, a detail which Ilya Repin failed to depict in his artwork when he used General Dragomirov as a prototype of the otaman. Mytsyik also recalls the letter of the Field Hetman of the Crown John III Sobieski (later king of Poland) which referred to Sirko as "a very quiet, noble, polite [man], and has ... great trust among Cossacks".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_2">
+			<Text>Sirko changed his political orientation several times. In 1654 he came to Zaporozhian Sich became polkovnyk (colonel) and in 1659 together with Russian prince Aleksei Trubetskoi fought against the Crimean Khanate. Although Sirko opposed the alliance with Moscow during the Pereyaslav Rada after he became Koshovyi Otaman of the Zaporozhian Host in 1663 he won several battles against Poles, Tatars and hetman Petro Doroshenko in alliance with Muscovy. In 1664, he was one of the inspirators of an uprising in Right-bank Ukraine against Poland which is known from his letter to the Czar.[NEWLINE][NEWLINE]He was the first Cossack ataman to accept Kalmyks into his army. Despite his pro-Moscow orientation he distrusted and hated pro-Russian hetman Ivan Briukhovetsky, but at the same time married his son Roman to Briukhovetsky's daughter. In 1668 this rivalry even forced Ivan Sirko to switch sides again and briefly join Petro Doroshenko in his fight against "Muscovite boyars and Voivodes", but in 1670 once again Sirko pledged loyalty to Russian tsar Alexei Mikhailovich. Afterwards he captured Turkish stronghold Ochakiv and besieged Ismail which he captured.[NEWLINE][NEWLINE]Following the death of Demian Mnohohrishny in 1672 Sirko entered the struggle for the hetman title, but instead was sent by the Russian tsar to Tobolsk, Siberia. In 1673 he returned to Ukraine and once again fought against Tatars and Turks, and captured the fortresses Arslan and Ochakiv. In 1675 Zaporozhian Cossacks defeated Ottoman Turkish forces in a major battle, however, the Sultan of Turkey Mehmed IV still demanded that the Cossacks submit to Turkish rule. The Cossacks led by Ivan Sirko replied in an uncharacteristic manner: they wrote a letter, replete with insults and profanities, which later became the subject of a painting by Ilya Repin. After his death, Ivan Sirko – one of the most popular otamans in Ukrainian history – was remembered as a legendary Cossack, a military genius, and became a hero of many myths, folk songs and poems.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_LIVED">
+			<Text>1605 - 1680 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_SUBTITLE">
+			<Text>Leader of Zaporizhzhia</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_ZAPORIZHZHIA_SIRKO_TEXT">
+			<Text>Good mead and strength to you, mighty warrior Ivan Sirko. You are the leader of the Zaporizhzhia Cossacks, a hardened and democratic people from the central Ukraine. A stalwart military commander, your career would see you repulse the threats of the Cossacks' many enemies: the Poles, Tartars, and, wretched of all, Muscovy. However, it was in 1675 that you and your men would defeat your boldest foe: the Ottoman Turks, cementing your legacy as a hero of Ukraine and their spirit of independence.[NEWLINE][NEWLINE]Legendary commander! The Cossacks face a perilous existence, for their enemies desire nothing more than to seize their freedom. Can you defy the might of greater powers and secure your peoples' livelihoods? Can you stand up to imperialists that would be your invaders? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_FIRSTGREETING_1">
+			<Text>Hahahaha! So this is the 'mighty leader' that has been skulking about. Hail! I am Ivan Sirko of the Zaporizhzhian Cossacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DEFEATED_1">
+			<Text>O mighty ruler, wretched devil and damned devil's kith and kin, secretary to Lucifer himself. What the devil kind of knight are thou, that canst not slay a hedgehog with your naked arse? The devil shits, and your army eats. Thou shalt not, thou son of a whore, make subjects of Christian sons. We have no fear of your army; by land and by sea we will battle with thee. Fuck thy mother.[NEWLINE][NEWLINE]Thou Babylonian scullion, Macedonian wheelwright, brewer of Jerusalem, goat-fucker of Alexandria, swineherd of Greater and Lesser Egypt, pig of Armenia, Podolian thief, catamite of Tartary, hangman of Kamyanets, and fool of all the world and underworld, an idiot before God, grandson of the Serpent, and the crick in our dick. Pig's snout, mare's arse, slaughterhouse cur, unchristened brow. Screw thine own mother![NEWLINE][NEWLINE]So the Zaporozhians declare, you lowlife. You won't even be herding pigs for the Christians. Now we'll conclude, for we don't know the date and don't own a calendar; the moon's in the sky, the year with the Lord. The day's the same over here as it is over there; for this kiss our arse!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_ATTACKED_HOSTILE_1">
+			<Text>You shall not, you son of a whore, make subjects of Cossacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DEC_FRIENDSHIP_1">
+			<Text>Hahaha! Join us in making a public Declaration of Friendship, won't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DENOUNCE_1">
+			<Text>So the Zaporozhians declare, you lowlife. Pig's snout, mare's arse, slaughterhouse cur, unchristened brow.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DENOUNCE_FRIEND_1">
+			<Text>Thou Babylonian scullion, Macedonian wheelwright, brewer of Jerusalem, goat-fucker of Alexandria, swineherd of Greater and Lesser Egypt, pig of Armenia, Podolian thief, catamite of Tartary, hangman of Kamyanets, and fool of all the world and underworld, an idiot before God, grandson of the Serpent, and the crick in our dick.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DOW_GENERIC_1">
+			<Text>Screw thine own mother!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Tread carefully in these lands. Who can say what might become of your settlers should I catch them where they don't belong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_GREETING_HOSTILE_HELLO_1">
+			<Text>Speak, O' damned devil's kith and kin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_GREETING_NEUTRAL_HELLO_1">
+			<Text>Talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_GREETING_POLITE_HELLO_1">
+			<Text>Hahahah! Welcome friend!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>We have no fear of your army; by land and by sea we will battle with thee. Fuck thy mother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_LEADER_JFD_ZAPORIZHZHIA_SIRKO_1">
+			<Text>Thou Babylonian scullion, Macedonian wheelwright, brewer of Jerusalem, goat-fucker of Alexandria, swineherd of Greater and Lesser Egypt, pig of Armenia, Podolian thief, catamite of Tartary, hangman of Kamyanets, and fool of all the world and underworld, an idiot before God, grandson of the Serpent, and the crick in our dick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_MILITARY_1">
+			<Text>The devil shits, and your army eats.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_NUKE_1">
+			<Text>Our nuclear weapons take shits more frightening than you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_BULLY_1">
+			<Text>Hahahaha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_UNHAPPINESS_1">
+			<Text>How sad it must be to live the life of your people!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_CITIES_1">
+			<Text>Where are your cities? All I see are hog's pens!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_POPULATION_1">
+			<Text>Do your people wash their arses with their bedsheets? Hah!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_CULTURE_1">
+			<Text>What the devil kind of knight are you, that can't not slay a hedgehog with your naked arse?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_LUXURY_TRADE_1">
+			<Text>Hah! Do a deal with us, won't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>We aren't bound by your sad little borders! But we'll extend you the courtesy of asking for an open borders agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Foolish little pig! Your coin will not keep your arse safe from us!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_REQUEST_1">
+			<Text>Give us this token of your good fortune! If you have it, hah!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>The day's the same over here as it is over there; for this kiss our arse!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_TOO_SOON_FOR_DOF_1">
+			<Text>You are an idiot before God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_TOO_SOON_NO_PEACE_1">
+			<Text>Hah!</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ZAPORIZHZHIA_SIRKO_SHORT">
+			<Text>Reply of the Zaporozhian Cossacks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ZAPORIZHZHIA_SIRKO">
+			<Text>Enemy denunciations trigger a 'We Love the King Day' to start in your cities on the next turn. Melee, Mounted, and Gun Units trained in a city celebrating a WLTKD gain the Leadership bonus of Great Generals.</Text>
+		</Row>
+		<!--Alert-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ZAPORIZHZHIA_SIRKO_ALERT">
+			<Text>Active Denunciations trigger [COLOR_POSITIVE_TEXT]'We Love the King Days'[ENDCOLOR]!</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA">
+			<Text>Chaika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA_HELP">
+			<Text>Medieval Naval Unit. Faster when stacked with an embarked Siege Unit. Only Zaporizhzhia can train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA_STRATEGY">
+			<Text>Replacing the Galleass for Zaporizhzhia, the Chaika moves at doubled the normal speed when beginning its turn stacked with a Siege Unit. The embarked unit in question also receives doubled movement. Pair Chaika with units such as the Trebuchet and Cannon to quickly transport them to your enemy's cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA_TEXT">
+			<Text>A chaika was a wooden boat that could have a mast and sail, a type of galley, used in early modern warfare and cargo transport by the Zaporozhian Cossacks in the 16th–17th centuries in Ukraine on the Dnipro River and the Black Sea. Chaikas were between 18 and 20 metres in length, 3 and 3.5 metres in width, and 3.5 and 4 metres in depth. The bottom of a chaika was carved out of a single tree trunk, with sides built out of wooden planks. To protect the boat from enemy guns or from sinking, reed bales were tied to the gunwales of the boat. Some chaikas also had two steering oar's, so that the boat never needed turning around in order to switch direction. One such boat could carry around 50 to 60 men and up to 6 falconets (small cannon). </Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHAIKA">
+			<Text>Siege Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHAIKA_HELP">
+			<Text>Doubled [ICON_MOVES] Moves when beginning its turn stacked with an embarked Siege Unit.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH">
+			<Text>Sich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH_HELP">
+			<Text>+15 XP for all Units.[NEWLINE][NEWLINE]Military [ICON_PRODUCTION] Production modifiers also apply to Settlers, and half apply vice versa. During a WLTKD, these bonuses are doubled.[NEWLINE][NEWLINE]City must have a Barracks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH_STRATEGY">
+			<Text>The Sich replaces the Armory for Zaporizhzhia. In addition to increasing the starting XP of newly trained units, the Sich increases Settler Unit [ICON_PRODUCTION] Production based on any Military [ICON_PRODUCTION] Production modifiers in the city, and half vice versa. Whilst the city is actively celebrating a WLTKD, these bonuses are doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH_TEXT">
+			<Text>A sich was an administrative and military centre of the Zaporozhian Cossacks. The word sich derives from the Ukrainian verb сікти sikty, "to chop" – with the implication of clearing a forest for an encampment or of building a fortification with the trees that have been chopped down. The Zaporizhian Sich was the fortified capital of the Zaporozhian Cossacks, located on the Dnieper River, in the 16th–18th centuries in the area of what is today Ukraine. The Sich Rada was the highest organ of government in the Zaporizhian Host, or army of the Zaporozhian Cossacks. The Danubian Sich was the fortified settlement of those Zaporozhian Cossacks who later settled in the Danube Delta.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_1">
+			<Text>Dummy: Sich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_1_HELP">
+			<Text>+1% Settler Production modifier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_2">
+			<Text>Dummy: Sich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_2_HELP">
+			<Text>+1% Military Production modifier.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ZAPORIZHZHIA_SIRKO_DESCRIPTION">
+			<Text>ZAPORIZHZHIA (IVAN SIRKO)[NEWLINE][NEWLINE]UNIQUE TRAIT: REPLY OF THE ZAPORIZHZHIAN COSSACKS[NEWLINE]Enemy denunciations trigger a 'We Love the King Day' to start in your cities on the next turn. Melee, Mounted, and Gun Units trained in a city celebrating a WLTKD gain the Leadership bonus of Great Generals.[NEWLINE][NEWLINE]UNIQUE BUILDING: SICH (ARMORY)[NEWLINE]The Sich replaces the Armory for Zaporizhzhia. In addition to increasing the starting XP of newly trained units, the Sich increases Settler Unit [ICON_PRODUCTION] Production based on any Military [ICON_PRODUCTION] Production modifiers in the city, and half vice versa. Whilst the city is actively celebrating a WLTKD, these bonuses are doubled.[NEWLINE][NEWLINE]UNIQUE UNIT: CHAIKA (GALLEASS)[NEWLINE]Replacing the Galleass for Zaporizhzhia, the Chaika moves at doubled the normal speed when beginning its turn stacked with a Siege Unit. The embarked unit in question also receives doubled movement. Pair Chaika with units such as the Trebuchet and Cannon to quickly transport them to your enemy's cities.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_ZAPORIZHZHIA_SIRKO_ADJECTIVE">
+			<Text>扎波羅熱帝國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ZAPORIZHZHIA_SIRKO_DESC">
+			<Text>扎波羅熱帝國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ZAPORIZHZHIA_SIRKO_SHORT_DESC">
+			<Text>扎波羅熱帝國</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_COSSACKS">
+			<Text>哥薩克</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_1">
+			<Text>扎波羅熱(Zaporizhzhia)是哥薩克的半自治政體和原國家，存在於 16 至 18 世紀之間。扎波羅日亞哥薩克人是居住在第聶伯河急流以外的哥薩克人，這片土地在今天的烏克蘭中部和烏克蘭東部，歷史上也被稱為荒野之地。今天，大部分領土已被水庫的水淹没。在 15 世紀迅速成長，由於農奴逃離波蘭-立陶宛聯邦控制較多的地區。扎波羅日尼亞建立了一個受人尊敬的政治實體，實行議會制政府。在 16 世紀、17 世紀以及 18 世紀，扎波羅日尼亞哥薩克是一支強大的政治和軍事力量，挑戰波蘭-立陶宛聯邦、俄羅斯沙皇國和克里米亞汗國的權威。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_2">
+			<Text>扎波羅熱的形成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_2">
+			<Text>不清楚第聶伯河下游的第一個哥薩克群落是何時開始形成的。早在 12 世紀，就有跡象和故事顯示歐亞大草原上生活著類似的民族。也有一群人為了逃避壓迫或罪犯的追捕，從基輔俄羅斯的耕地逃到這些荒野草原。他們的生活方式與現在被稱為哥薩克的人非常相似。他們主要靠狩獵、捕魚和掠奪亞洲部落的馬匹和食物為生。在 16 世紀，烏克蘭貴族將這些不同的團體聯合成一個強大的軍事組織。哥薩克人有不同的社會和種族來源，但主要是由逃亡的農奴組成，他們寧願選擇荒野草原上危險的自由生活，也不願意在波蘭貴族的統治下生活。然而，城鎮居民、較低級的貴族，甚至克里米亞的韃靼人也成為哥薩克的一份子。他們必須接受東正教為其宗教，並採用其儀式與祈禱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_3">
+			<Text>英聯邦與帝國之間</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_3">
+			<Text>在 16 世紀，隨著波蘭-立陶宛聯邦的統治權向南延伸，扎波羅熱哥薩克人大多被波蘭-立陶宛聯邦視為其臣民，儘管是暫時性的。在 1699 年之前，登記在案的哥薩克一直是聯邦軍隊的一部分。大約在 16 世紀末，波蘭-立陶宛聯邦與鄂圖曼帝國之間的關係本來就不融洽，哥薩克人日益增加的侵略行為使雙方關係更加緊張。從 16 世紀下半葉開始，哥薩克人開始突襲鄂圖曼帝國的領土。波蘭政府無法控制頑強獨立的哥薩克人，但由於他們名義上是英聯邦的臣民，因此政府要對他們的襲擊負責。到了 1615 年和 1625 年，哥薩克人成功地夷平了君士坦丁堡郊區的城鎮，迫使鄂圖曼蘇丹穆拉德四世 (Sultan Murad IV) 逃離他的宮殿。他的侄子，蘇丹穆罕默德四世 (Sultan Mehmed IV) 也沒有好到哪去，因為他收到了傳說中的扎波羅熱哥薩克人的回覆，這是對穆罕默德堅持要哥薩克人服從於他的權威的諷刺性回應。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_4">
+			<Text>塞契的形成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_4">
+			<Text>扎波羅熱部落是斯拉夫殖民者為了抵禦克里米亞韃靼人的頻繁破壞性襲擊而建立的一種防御手段，克里米亞韃靼人俘虜並奴役了數十萬烏克蘭人、白俄羅斯人和波蘭人，這項行動被稱為「草原收割」。烏克蘭人組建了一支自衛部隊——哥薩克，其勇猛足以阻止韃靼大軍的入侵，並建造了防禦營地，稱為“西奇”，後來這些營地聯合起來形成了一個中央堡壘，即扎波羅熱西奇。 1552 年，德米特羅·維什涅維茨基大公在小霍爾蒂恰島建立了第一個扎波羅熱部落，在下德涅普羅夫斯基修建了一座堡壘，並在那裡駐紮了一支哥薩克駐軍。 1558 年，韃靼軍隊摧毀了這座堡壘。 1593 年，韃靼人也將這座領地夷為平地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_5">
+			<Text>第聶伯河的局勢緊張</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_5">
+			<Text>隨著烏克蘭農民逃離波蘭立陶宛聯邦的農奴制，哥薩克人數不斷增加。 1583 年至 1657 年，扎波羅熱哥薩克被劃歸基輔省，是波蘭王國小波蘭省的一部分。什拉赫塔試圖將札波羅熱哥薩克人變成農奴，削弱了哥薩克人對聯邦曾經相當強烈的忠誠。哥薩克人渴望獲得與什拉赫塔同等地位的承認，但這一願望一直受到拒絕，而由於哥薩克人不受歡迎，將波蘭立陶宛兩國聯邦轉變為波蘭-立陶宛-魯塞尼亞聯邦的計劃也進展不大。哥薩克人的忠誠度逐漸下降，而什拉赫塔對他們的傲慢態度，導致 17 世紀初爆發了幾次反抗波蘭立陶宛聯邦的哥薩克起義。最後，國王堅決拒絕屈服於哥薩克人擴大哥薩克登記冊的要求，這成為了壓死駱駝的最後一根稻草，引發了其中規模最大、最成功的起義：1648年爆發的赫梅利尼茨基起義。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_6">
+			<Text>哥薩克獨立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_6">
+			<Text>哥薩克人對波蘭的統治感到憤恨，其中一個原因是宗教差異，因為哥薩克人是東正教基督徒，而波蘭人大多是天主教徒。因此，他們與週邊列強進行了長期的鬥爭，爭取獨立，脫離波蘭國家、奧斯曼帝國、克里米亞汗國、俄羅斯沙皇國和俄羅斯帝國的統治。 1648 年，博格丹·赫梅利尼茨基佔領了位於現今尼科波爾市附近的米基廷里赫的一個城鎮。從那時起，他開始了反抗波蘭立陶宛聯邦的起義，並導致了哥薩克酋長國的建立。 1654 年《佩列亞斯拉夫條約》簽訂後，札波羅熱被分裂為以切赫林為首都的蓋特曼國和仍以錫奇為中心的更自治的札波羅熱地區。在此期間，Sich 多次搬遷。喬托姆雷克西奇於 1652 年在喬托姆雷克河河口建成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_7">
+			<Text>政府的形式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_7">
+			<Text>扎波羅熱軍隊由黨拉達 (Sich Rada) 領導，黨拉達選舉了一位科甚奧塔曼 (Kosh Otaman) 作為軍隊的領導人。在軍事行動期間，奧塔曼擁有無限的權力，並得到其作為軍事團的參謀人員的支持。他在與拉達達成協議的情況下決定是否支持某位蓋特曼或其他國家領導人。錫奇的人口來自世界各地，包括烏克蘭人、摩爾多瓦人、韃靼人、波蘭人、立陶宛人、猶太人、俄羅斯人和許多其他民族。社會結構複雜，由赤貧的紳士和波雅爾、什拉赫塔或波蘭貴族、商人、農民、各種不法之徒、從土耳其船上逃走的奴隸以及逃亡的農奴組成。哥薩克人發展了一支由快速、輕型艦船組成的龐大艦隊。他們的戰役目標是奧斯曼帝國黑海沿岸的富饒定居點，並多次遠至君士坦丁堡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_8">
+			<Text>興起和夷為平地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_8">
+			<Text>1709 年波爾塔瓦戰役後，喬托姆利克的塞契被摧毀，蓋特曼伊凡·馬澤帕的首都巴圖林也被夷為平地。另一座城堡建於卡緬涅茨河口，但在 1711 年被俄羅斯政府摧毀。哥薩克人隨後逃往克里米亞汗國以躲避迫害，並於 1711 年建立了奧列什基西奇。由於在汗國遭受歧視，哥薩克人接受了返回的提議，並在原喬托姆雷克牧區附近建造了另一個牧區。由於擔心錫奇獨立，俄羅斯政府於 1764 年廢除了蓋特曼政權。然而，包括相當一部分老札波羅熱人在內的普通哥薩克士兵卻淪為農民。 《庫楚克凱納爾卡條約》簽訂後，克里米亞被吞併，南部邊境的必要性也隨之消失，緊張局勢隨之加劇。俄羅斯支持塞爾維亞人和羅馬尼亞人對新俄羅斯的殖民統治，引發了進一步的衝突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_9">
+			<Text>清算塞契部落</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_9">
+			<Text>1775年5月7日，女皇葉卡捷琳娜二世直接下令摧毀扎波羅熱部落。 1775 年 6 月 5 日，俄羅斯砲兵和步兵包圍了 Sich，並將其夷為平地。俄軍解除了哥薩克人的武裝，並沒收了國庫檔案。科紹維耶奧塔曼 (Koshovyi Otaman) 彼得羅卡爾尼舍夫斯基 (Petro Kalnyshevsky) 被捕並被流放至索洛維茨基修道院。這標誌著札波羅熱哥薩克的滅亡。 1780年，在解散扎波羅熱哥薩克軍團後，格里戈里·波將金將軍試圖自願召集和重組哥薩克，他們在俄土戰爭期間幫助保衛了烏克蘭免受土耳其人的侵略。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_10">
+			<Text>塞契的衝擊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_10">
+			<Text>塞契的毀滅給俄羅斯帝國帶來了困難。支持高階領導層獲得更多特權給預算帶來了壓力，而俄羅斯正規軍的更嚴格規定阻止了許多其他哥薩克人的融入。多瑙河西奇的存在對俄羅斯人來說也是一個麻煩，因為在下一場戰爭中，多瑙河西奇將會為奧斯曼帝國提供支持。 1784 年，波將金組成了忠誠的扎波羅熱人大軍，並將他們安置在南布格河與德涅斯特河之間。由於他們在 1787 年至 1792 年俄土戰爭期間的卓越貢獻，他們被授予庫班土地並於 1792 年移居到那裡。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_1">
+			<Text>切爾托姆雷克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_2">
+			<Text>巴圖林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_3">
+			<Text>基輔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_4">
+			<Text>尼任</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_5">
+			<Text>波爾塔瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_6">
+			<Text>伊士曼柯達</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_7">
+			<Text>切爾尼戈夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_8">
+			<Text>斯塔羅杜布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_9">
+			<Text>哈佳奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_10">
+			<Text>盧布內</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_11">
+			<Text>佩列亚斯拉夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_12">
+			<Text>奇希林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_13">
+			<Text>米爾霍羅德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_14">
+			<Text>邁克汀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_15">
+			<Text>巴扎夫盧克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_16">
+			<Text>赫盧希夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_17">
+			<Text>白采爾克瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_18">
+			<Text>切爾卡瑟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_19">
+			<Text>科爾孫-舍甫琴柯夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_20">
+			<Text>卡尼夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_21">
+			<Text>奥夫鲁奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_22">
+			<Text>伊爾克利夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_23">
+			<Text>索斯尼察</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_24">
+			<Text>博爾茲納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_25">
+			<Text>齊沃提夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_26">
+			<Text>布拉茨拉夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_27">
+			<Text>文尼察</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_28">
+			<Text>烏曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_29">
+			<Text>普里盧基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_30">
+			<Text>赫魯舍夫卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAPORIZHZHIA_SIRKO_31">
+			<Text>克雷門丘克</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_0">
+			<Text>德米安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_1">
+			<Text>尤裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_2">
+			<Text>米哈伊洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_3">
+			<Text>彼得羅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_4">
+			<Text>伊萬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_5">
+			<Text>格里霍里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_6">
+			<Text>米哈伊爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_7">
+			<Text>彼得</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_8">
+			<Text>羅馬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ZAPORIZHZHIA_SIRKO_9">
+			<Text>索菲亞</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO">
+			<Text>阿塔曼·伊萬·希爾科</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_NAME">
+			<Text>阿塔曼·伊萬·希爾科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_1">
+			<Text>伊凡·西爾科的第一本傳記由德米特羅·亞沃尼茨基於 1890 年撰寫，其中西爾科的出生地為哈爾科夫市附近的梅列法斯洛博達。歷史學家尤里‧米茨伊克 (Yuriy Mytsyik) 表示事實並非如此。伊凡‧西爾科 (Ivan Sirko) 在他的著作《奧塔曼》 (1999) 中寫道，梅列法直到 1658 年才成立（未來的奧塔曼誕生 40 多年後）。作者還指出，西爾科晚年確實與家人在梅列法自己的莊園裡生活過，根據一些早期的地方志記載，那裡甚至存在一個名為西爾基夫卡 (Sirkivka) 的小定居點。然而，米茨伊克也指出，1658 年至 1660 年間，西爾科曾擔任波德利亞卡爾尼克波爾克（哥薩克酋長國的軍事和行政部門）的上校，這個職位通常授予當地人口的代表。作者也引用了伊凡·薩米洛維奇寫給 G. 羅莫達諾夫斯基大公（沙皇的督軍）的信，在信中，這位蓋特曼稱西爾科出生在波蘭，而不是斯洛博達烏克蘭（莫斯科的一部分）。米茨伊克也回憶說，另一位歷史學家沃洛德米爾·博裡先科 (Volodymyr Borysenko) 也認為西爾科出生在沙爾霍羅德市 (現文尼察州) 附近的穆拉法。作者解釋道，在人們逃離戰爭的那段時間（被稱為“廢墟”，1659-1686 年），他們可能在烏克蘭東部更遠的斯洛博達建立了一個名字相似的城鎮。 [NEWLINE][NEWLINE]此外，米茨伊克在他的書中指出，西爾科拉赫裔可能不是哥薩克後裔，而是烏克蘭後裔（魯塞尼亞裔）。米茨伊克指出，1592 年左右，當地波迪利亞貴族沃伊切赫·西爾科 (Wojciech Sirko) 與一位名叫奧列娜·科津斯卡 (Olena Kozynska) 的人結婚。米茨伊克表示，西爾科身高約 174-176 厘米，下唇右側有一塊胎記，而伊利亞·列賓在使用德拉戈米羅夫將軍作為奧塔曼原型時，卻未能在其作品中表現出這一細節。米茨伊克也回憶起波蘭王室野戰司令約翰三世·索別斯基（後來成為波蘭國王）的一封信，信中稱西爾科是「一個非常安靜、高尚、有禮貌的人，並且……深受哥薩克人的信任」。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_TEXT_2">
+			<Text>西爾科多次改變其政治傾向。 1654 年他來到扎波羅熱西奇擔任上校，並於 1659 年與俄羅斯王子阿列克謝特魯別茨科伊一起對抗克里米亞汗國。儘管在 1663 年成為扎波羅熱軍隊的科紹維奧斯曼後，西爾科在佩列亞斯拉夫·拉達期間反對與莫斯科結盟，但他與莫斯科結盟，贏得了與波蘭人、韃靼人和蓋特曼佩特羅·多羅申科的幾場戰鬥。 1664 年，他是右岸烏克蘭反抗波蘭起義的煽動者之一，這起起義從他寫給沙皇的信中得知。儘管他親莫斯科，但他不信任並憎恨親俄的蓋特曼伊凡·布留霍維茨基，但同時卻讓自己的兒子羅曼娶了布留霍維茨基的女兒。 1668 年，這種競爭甚至迫使伊凡·西爾科再次轉換陣營，並短暫加入佩特羅·多羅申科的陣營，共同對抗“莫斯科貴族和總督”，但 1670 年，西爾科再次向俄羅斯沙皇阿列克謝·米哈伊洛維奇宣誓效忠。[NEWLINE][NEWLINE]隨後，他攻占了土耳其堡壘奧恰基夫 (Ochakiv)，並圍攻了伊斯瑪儀城 (Ismail)。 1673年他返回烏克蘭，再次與韃靼人和土耳其人作戰，攻佔了阿爾斯蘭要塞和奧恰基夫要塞。 1675年，扎波羅熱哥薩克在一場大戰中擊敗了奧斯曼土耳其軍隊，然而土耳其蘇丹穆罕默德四世仍然要求哥薩克服從土耳其的統治。伊凡·西爾科率領的哥薩克士兵卻以不同尋常的方式作出了答复：他們寫了一封充滿侮辱和褻瀆的信，後來這封信成為伊利亞·列賓一幅畫作的主題。伊凡·西爾科——烏克蘭歷史上最受歡迎的奧塔曼之一——死後被人們銘記為一位傳奇的哥薩克人、一位軍事天才，並成為許多神話、民歌和詩歌中的英雄。</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_LIVED">
+			<Text>1605 - 1680 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ZAPORIZHZHIA_SIRKO_SUBTITLE">
+			<Text>扎波羅熱領導人</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_ZAPORIZHZHIA_SIRKO_TEXT">
+			<Text>祝您精神如美酒般如意、力量如神靈般強大，偉大的哥薩克戰士阿塔曼·伊萬·希爾科！您是扎波羅熱哥薩克人的領袖，他們是來自烏克蘭中部的強大、民主的民族。身為堅定的軍事指揮官，您的職業生涯將使您擊退哥薩克眾多敵人的威脅：波蘭人、韃靼人，當然還有可惡的莫斯科人！正是在1675年，您和您的士兵擊敗了最強大的敵人：奧斯曼土耳其人，鞏固了您作為烏克蘭英雄和獨立精神的聲譽。如今在俄國的侵略下哥薩克人的生存十分危險，因為他們的敵人只想奪取他們的自由！您能抵抗強國的威力並確保人民的生計嗎？您能抵抗侵略妳的帝國主義者嗎？您能建立壹個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_FIRSTGREETING_1">
+			<Text>哈哈哈哈！原來這就是鬼鬼祟祟的“強大領袖”。萬歲！我是扎波羅熱哥薩克的阿塔曼·伊萬·希爾科！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DEFEATED_1">
+			<Text>你這婊子養的！你不可使基督徒的兒子成為臣民。我們並不懼怕你的軍隊；我們將在陸地和海上與你戰鬥。操你媽。豬的鼻子、馬的屁股、屠宰場的雜種狗、未受洗的額頭！札波羅熱人就這樣宣稱，你這個下流貨色。你甚至不會為基督徒放豬。現在我們就來結束吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_ATTACKED_HOSTILE_1">
+			<Text>你這個婊子養的，你不該讓哥薩克人成為你的臣民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DEC_FRIENDSHIP_1">
+			<Text>哈哈哈！和我們一起發表一份公開的友誼宣言，好嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DENOUNCE_1">
+			<Text>札波羅熱人如此宣稱：“你這個下流貨色。”豬的鼻子、馬的屁股、屠宰場的雜種狗、未受洗的額頭。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DENOUNCE_FRIEND_1">
+			<Text>你這個巴比倫的幫廚，馬其頓的車匠，耶路撒冷的釀酒師，亞歷山大的淫羊藿，大埃及和小埃及的豬倌，亞美尼亞的豬，波多利亞的盜賊，韃靼的淫婦，卡緬涅茨的劊子手，全世界和冥界的傻瓜，上帝面前的白痴，蛇的孫子，我們雞巴裡的怪人。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_DOW_GENERIC_1">
+			<Text>我操妳媽！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>在這些土地上行走時要小心謹慎。如果我把妳們的開拓者抓到他們不屬於的地方，誰能知道他們會變成什麼樣子呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_GREETING_HOSTILE_HELLO_1">
+			<Text>說話吧，該死的魔鬼的親朋好友！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_GREETING_NEUTRAL_HELLO_1">
+			<Text>講！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_GREETING_POLITE_HELLO_1">
+			<Text>哈哈哈！歡迎您！朋友！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>我們並不懼怕妳的軍隊，我們將在陸地和海上與妳戰鬥，操妳媽！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_LEADER_JFD_ZAPORIZHZHIA_SIRKO_1">
+			<Text>你這個巴比倫的幫廚，馬其頓的車匠，耶路撒冷的釀酒師，亞歷山大的淫羊藿，大埃及和小埃及的豬倌，亞美尼亞的豬，波多利亞的盜賊，韃靼的淫婦，卡緬涅茨的劊子手，全世界和冥界的傻瓜，上帝面前的白痴，蛇的孫子，我們雞巴裡的怪人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_MILITARY_1">
+			<Text>魔鬼拉屎，妳的軍隊又把它們吃掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_NUKE_1">
+			<Text>我們的核武器比妳們的狗屎更加可怕！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_BULLY_1">
+			<Text>哈哈哈哈！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_UNHAPPINESS_1">
+			<Text>你們人民的生活是多麼悲慘啊！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_CITIES_1">
+			<Text>你們的城市在哪裡？我看到的只有豬圈！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_POPULATION_1">
+			<Text>你們會用床單洗屁股嗎？哈！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_INSULT_CULTURE_1">
+			<Text>妳到底是怎洋的懦夫，竟然不能用赤裸的屁股殺死壹隻刺蝟？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_LUXURY_TRADE_1">
+			<Text>哈！跟我們做個交易，好嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>我們不受你們那可悲的小邊界的束縛！但我們會向您表示禮貌，要求您簽署一項開放邊境協議。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>蠢豬！妳的硬幣無法保護妳免受我們的傷害！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_REQUEST_1">
+			<Text>把這份好運送給我們吧！如果妳有的話，哈哈！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>現在，親吻哥薩克人的屁股！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_TOO_SOON_FOR_DOF_1">
+			<Text>在上帝面前你就是個白痴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ZAPORIZHZHIA_SIRKO_TOO_SOON_NO_PEACE_1">
+			<Text>哈！</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ZAPORIZHZHIA_SIRKO_SHORT">
+			<Text>哥薩克式外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ZAPORIZHZHIA_SIRKO">
+			<Text>敵方的譴責將會觸發“我們愛國王日”活動並且于下壹輪在您的城市中開啓。在慶祝“我們愛國王日”的城市中訓練近戰、騎兵和槍兵單位將獲得來自大將軍的戰鬥力加成。</Text>
+		</Row>
+		<!--Alert-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ZAPORIZHZHIA_SIRKO_ALERT">
+			<Text>愚蠢的敵國主動譴責觸發了[COLOR_POSITIVE_TEXT]“我們愛國王日”[ENDCOLOR]!</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA">
+			<Text>柴卡戰船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA_HELP">
+			<Text>中世紀海軍部隊，取代加萊賽戰船，與登陸攻城部隊堆疊時其移動速度是正常速度的兩倍，只有扎波羅熱帝國可以訓練它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA_STRATEGY">
+			<Text>柴卡戰船取代了扎波羅熱的加萊賽戰船，當其回合開始時與攻城部隊疊加，其移動速度是正常速度的兩倍。而登船單位也會獲得雙倍的移動力。將柴卡戰船與投石機和大砲等單位配對，以快速將它們運送到敵人的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAIKA_TEXT">
+			<Text>柴卡戰船是一種有桅杆和船帆的木船，是一種帆船，16 至 17 世紀烏克蘭第聶伯河和黑海上的紮波羅熱哥薩克人用於近代戰爭和貨物運輸。柴卡船長 18 至 20 米，寬 3 至 3.5 米，深 3.5 至 4 米。柴卡的底部由一棵樹幹雕刻而成，側面則由木板構成。為了保護船隻免受敵方槍砲的攻擊或免於沉沒，人們將蘆葦捆綁在船舷上。有些海鷗還配有兩支舵槳，這樣船就不需要掉頭來改變方向。一艘這樣的船可搭載約 50 至 60 名士兵和最多 6 門獵鷹炮（小型火砲）。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHAIKA">
+			<Text>攻城艦砲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHAIKA_HELP">
+			<Text>開始回合與已登船的攻城單位堆疊在一起時，獲得兩倍[ICON_MOVES]移動力。</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH">
+			<Text>塞契</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH_HELP">
+			<Text>塞契取代了札波羅熱的軍械庫，所有單位+15經驗值，軍事[ICON_PRODUCTION]生產修正也適用於开拓者，在“我們愛國王日”期間，這些獎勵翻倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH_STRATEGY">
+			<Text>塞契取代了札波羅熱的軍械庫。除了增加新訓練單位的起始經驗值之外，塞契還會根據城市中的任何軍事[ICON_PRODUCTION]生產修正值增加開拓者單位[ICON_PRODUCTION]的產量，反之亦然。當這座城市進行“我們愛國王日”時，金幣將會翻倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SICH_TEXT">
+			<Text>塞契是紮波羅熱哥薩克的行政和軍事中心。塞契這個字源自於烏克蘭語動詞scікти sikty，意為「砍伐」——意義是清理一片森林用於紮營或用砍伐的樹木建造防禦工事。扎波羅熱錫奇是札波羅熱哥薩克人的設防首都，位於第聶伯河畔，16至18世紀時位於現今的烏克蘭地區。黨議會是扎波羅熱哥薩克軍隊（即扎波羅熱哥薩克軍隊）的最高政府機關。多瑙河西奇是後來定居於多瑙河三角洲的扎波羅熱哥薩克人的設防定居點。</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_1">
+			<Text>半軍事化遊牧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_1_HELP">
+			<Text>+1%开拓者生產修正。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_2">
+			<Text>半軍事化遊牧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_SICH_2_HELP">
+			<Text>+1%軍事生產修正值。</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ZAPORIZHZHIA_SIRKO_DESCRIPTION">
+			<Text>ZAPORIZHZHIA (IVAN SIRKO)[NEWLINE][NEWLINE]UNIQUE TRAIT: REPLY OF THE ZAPORIZHZHIAN COSSACKS[NEWLINE]Enemy denunciations trigger a 'We Love the King Day' to start in your cities on the next turn. Melee, Mounted, and Gun Units trained in a city celebrating a WLTKD gain the Leadership bonus of Great Generals.[NEWLINE][NEWLINE]UNIQUE BUILDING: SICH (ARMORY)[NEWLINE]The Sich replaces the Armory for Zaporizhzhia. In addition to increasing the starting XP of newly trained units, the Sich increases Settler Unit [ICON_PRODUCTION] Production based on any Military [ICON_PRODUCTION] Production modifiers in the city, and half vice versa. Whilst the city is actively celebrating a WLTKD, these bonuses are doubled.[NEWLINE][NEWLINE]UNIQUE UNIT: CHAIKA (GALLEASS)[NEWLINE]Replacing the Galleass for Zaporizhzhia, the Chaika moves at doubled the normal speed when beginning its turn stacked with a Siege Unit. The embarked unit in question also receives doubled movement. Pair Chaika with units such as the Trebuchet and Cannon to quickly transport them to your enemy's cities.</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

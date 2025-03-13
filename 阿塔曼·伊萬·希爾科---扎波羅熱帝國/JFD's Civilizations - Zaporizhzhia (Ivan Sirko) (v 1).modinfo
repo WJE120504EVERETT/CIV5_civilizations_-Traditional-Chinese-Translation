@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7918d497-10ff-4c14-bac5-19710a762e3c" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Zaporizhzhia (Ivan Sirko)</Name>
+    <Teaser>Adds [COLOR_CYAN]Zaporizhzhia under Ivan Sirko[ENDCOLOR]. Click for details.</Teaser>
+    <Description>ZAPORIZHZHIA (IVAN SIRKO)[NEWLINE][NEWLINE]UNIQUE TRAIT: REPLY OF THE ZAPORIZHZHIAN COSSACKS[NEWLINE]Enemy denunciations trigger a 'We Love the King Day' to start in your cities on the next turn. Melee, Mounted, and Gun Units trained in a city celebrating a WLTKD gain the Leadership bonus of Great Generals.[NEWLINE][NEWLINE]UNIQUE BUILDING: SICH (ARMORY)[NEWLINE]The Sich replaces the Armory for Zaporizhzhia. In addition to increasing the starting XP of newly trained units, the Sich increases Settler Unit [ICON_PRODUCTION] Production based on any Military [ICON_PRODUCTION] Production modifiers in the city, and half vice versa. Whilst the city is actively celebrating a WLTKD, these bonuses are doubled.[NEWLINE][NEWLINE]UNIQUE UNIT: CHAIKA (GALLEASS)[NEWLINE]Replacing the Galleass for Zaporizhzhia, the Chaika moves at doubled the normal speed when beginning its turn stacked with a Siege Unit. Pair Chaika with units such as the Trebuchet and Cannon to quickly transport them to your enemy's cities.</Description>
+    <Authors>JFD, Sas, DarthKyofu, Zharques</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0A293F2086EAA5EB93267A9ADE291657" import="1">Art/Graphics/Chaika/chaika.fxsxml</File>
+    <File md5="AEFBB05F7A65FFA8628670B7BB7EFC61" import="1">Art/Graphics/Chaika/chaika.gr2</File>
+    <File md5="A56569DDFE278A68395FCD66A02572CB" import="1">Art/Graphics/Chaika/chaika_diff.dds</File>
+    <File md5="36097A2981DB4F2EE5008EF98A4B75DD" import="1">Art/Graphics/Chaika/chaika_sref.dds</File>
+    <File md5="E71C054EF4397201EC3DBC8941778E03" import="1">Art/Graphics/Chaika/sv_Chaika.dds</File>
+    <File md5="6C523559586534E4B5E57564D77DD503" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_128.dds</File>
+    <File md5="6359178BBBF3CE85EAB569CD80D26F8D" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_16.dds</File>
+    <File md5="3EA00FDA6E491D9C84635447A0896DD3" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_24.dds</File>
+    <File md5="BBEBE91D11C73455C07747992F911431" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_32.dds</File>
+    <File md5="2FF1760C44633867652F8F6078941062" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_45.dds</File>
+    <File md5="55C1D6A9E172F630ABB4B58A5D61AD7C" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_48.dds</File>
+    <File md5="327742D996AD0C6F2059E4327A9474BC" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_64.dds</File>
+    <File md5="37693E9102067628BD0A6363556B23C8" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_AlphaAtlas_80.dds</File>
+    <File md5="C09B54733FD8C6F4DB5C1FCC20EE8308" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_IconAtlas_128.dds</File>
+    <File md5="F5C3DF9C298DD289BB9DCA000669D431" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_IconAtlas_256.dds</File>
+    <File md5="0A31EDBAAC9DD099E1BC4E8D5643F3B9" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_IconAtlas_32.dds</File>
+    <File md5="7265DE7BA9B48031DFB2EC605975C49E" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_IconAtlas_45.dds</File>
+    <File md5="A157AC6D48FC0AF94B2CC503CBAC6BCC" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_IconAtlas_64.dds</File>
+    <File md5="60F9FFA7EDBD8DF4F6FD1F4A8971C8E4" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_IconAtlas_80.dds</File>
+    <File md5="FBCEA9374E5D3A9FD914967B964A5D17" import="1">Art/Icons/JFD_ZaporizhzhiaSirko_UnitFlagAtlas_32.dds</File>
+    <File md5="82C7703932D7E7C6DE464D9460555689" import="1">Art/Leaderscene/JFD_ZaporizhzhiaSirko_Scene.xml</File>
+    <File md5="BCA6A9CE3A5D1123D908D192B9B0B06B" import="1">Art/Leaderscene/JFD_ZaporizhzhiasSirko_Diplo.dds</File>
+    <File md5="8028E85531ED5E0DE436B7ED97871C0F" import="1">Art/Maps/JFD_DOM_ZaporizhzhiaSirko.dds</File>
+    <File md5="6ADF20D04CCE56110210EA9AA37B926E" import="1">Art/Maps/JFD_MapZaporizhzhiaSirko512.dds</File>
+    <File md5="3CC75C36AE10C9C3509FEFBCED0E6823" import="1">Audio/JFD_ZaporizhzhiaSirko_Peace.mp3</File>
+    <File md5="511AAA7E5E0B443C9B15D1FC0B60AB0E" import="1">Audio/JFD_ZaporizhzhiaSirko_War.mp3</File>
+    <File md5="A210FBC1996220F14BACCC8D19F459A9" import="0">Core/ZaporizhzhiaSirko_ArtDefines.sql</File>
+    <File md5="8809ABEA460F85DC3644C4F1986835D9" import="0">Core/ZaporizhzhiaSirko_GameDefines.sql</File>
+    <File md5="00B59786CAFB0413A016B4CE5EE47E80" import="0">Core/ZaporizhzhiaSirko_GameText.xml</File>
+    <File md5="15C607D16662804D69C7D831A980A395" import="0">Core/ZaporizhzhiaSirko_ModSupport.sql</File>
+    <File md5="AA09E2F5F1C1586547F7BA6639ABF731" import="0">Credits.txt</File>
+    <File md5="A953C1E45A7911272472495187F40147" import="0">Lua/JFD_Civs_ZaporizhzhiaSirko_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ZaporizhzhiaSirko_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ZaporizhzhiaSirko_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ZaporizhzhiaSirko_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ZaporizhzhiaSirko_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_ZaporizhzhiaSirko_Functions.lua">
+      <Name>JFD_Civs_ZaporizhzhiaSirko_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
