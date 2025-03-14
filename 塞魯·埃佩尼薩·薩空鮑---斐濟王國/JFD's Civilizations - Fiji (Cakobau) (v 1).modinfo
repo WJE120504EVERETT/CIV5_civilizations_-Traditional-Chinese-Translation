@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="370f4c3e-d697-4718-b217-b0a499cdc34b" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Fiji (Cakobau)</Name>
+    <Teaser>Adds [COLOR_CYAN]Fiji under Cakobau[ENDCOLOR]. Click for details.</Teaser>
+    <Description>FIJI (POTATAU)[NEWLINE][NEWLINE]UNIQUE TRAIT: DESTROYER OF BAU[NEWLINE]Clearing Barbarian Encampments yields [ICON_FOOD] Food and [ICON_INFLUENCE] Influence. Allied Militaristic City-States provide of a copy of any Melee Units they train whilst non-Militaristic City-States provide a copy of any Worker Units.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUSE OF CHIEFS (GARDEN)[NEWLINE]The House of Chiefs replaces the Garden for Fiji under Cakobau. In addition to increasing the rate at which Great People spawn in the city, the House of Chiefs yields a burst of [ICON_CULTURE] Culture whenever the city grows in [ICON_CITIZEN] Population. If the city is [ICON_CONNECTED] Connected to the [ICON_CAPITAL] at the time, the [ICON_CAPITAL] Capital also receives progress toward claiming its next tile. Unlike the Garden, the House of Chiefs requires the city to have a Barracks and is unlocked at Civil Service.[NEWLINE][NEWLINE]UNIQUE UNIT: BATI (LONGSWORDSMAN)[NEWLINE]The Bati replaces the Longswordsman for Fiji under Cakobau. Unlike the Longswordsman, the Bati is slightly weaker in combat, but it does not require [ICON_RES_IRON] Iron to be trained and unlocks at Chivalry. Bati purchased with [ICON_GOLD] Gold can be used to enter foreign territory even without an open borders agreement. Bati trained in a city with a House of Chiefs, meanwhile, fight 20% more effectively whilst in friendly borders. All other Bati fight 20% more effectively in foreign borders.</Description>
+    <Authors>JFD, Ari, DarthKyofu, Poom, Alga, TopHatPaladin, Senshi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="96A964A02DDB55649287FD4101514A44" import="1">Art/Graphics/Bati/Oceanic_warrior.fxsxml</File>
+    <File md5="A1D3D7A256EDE4B486F97F68D5283B13" import="1">Art/Graphics/Bati/Oceanic_warrior.gr2</File>
+    <File md5="ECEAEFDC80E331D04B33C4ADDB23CAC5" import="1">Art/Graphics/Bati/Oceanic_warrior_128.dds</File>
+    <File md5="5B1E67FE7068621EFDC04BE437A053E4" import="1">Art/Graphics/Bati/Oceanic_warrior_serf.dds</File>
+    <File md5="DAA6C596F4B00EDB232D45AB43EDC2FE" import="0">Art/Graphics/Bati/sv_Bati.dds</File>
+    <File md5="E33D08A5EE2F232ED18018C48FE3108A" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_128.dds</File>
+    <File md5="1EC02693AB5AE57C8888CE389884FF47" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_16.dds</File>
+    <File md5="10D26FDF8238C79C39B8DE7996C9A66F" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_24.dds</File>
+    <File md5="34DD854017EE97B8C2892AF3C97E2CA5" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_32.dds</File>
+    <File md5="DA9694DC2AACC58FA18701DF9656BD73" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_45.dds</File>
+    <File md5="FEB583EB1FDCE9229F4ED1D1E6E64E00" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_48.dds</File>
+    <File md5="43E92B9D070A46B9EC2EC4EC97451A69" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_64.dds</File>
+    <File md5="AD27B5F7B2E5EA42CDE031E78ACC2F66" import="1">Art/Icons/JFD_FijiCakobau_AlphaAtlas_80.dds</File>
+    <File md5="75F771A3F788B8757D8AB451CF756802" import="1">Art/Icons/JFD_FijiCakobau_IconAtlas_128.dds</File>
+    <File md5="42FD5061A30BF49DB82DCCDA1AA5A169" import="1">Art/Icons/JFD_FijiCakobau_IconAtlas_256.dds</File>
+    <File md5="2375E24EBB41E025C8ED1FB4757D5F81" import="1">Art/Icons/JFD_FijiCakobau_IconAtlas_32.dds</File>
+    <File md5="BA3F15420ABDB370B24D6E55FBFA7517" import="1">Art/Icons/JFD_FijiCakobau_IconAtlas_45.dds</File>
+    <File md5="921D7B54C4101AF37E1DD0E2CDE947BB" import="1">Art/Icons/JFD_FijiCakobau_IconAtlas_64.dds</File>
+    <File md5="95B303ACC5CA76F703F4443F55FF3866" import="1">Art/Icons/JFD_FijiCakobau_IconAtlas_80.dds</File>
+    <File md5="34479A669423ADBF0F39F969290BCE95" import="1">Art/Icons/JFD_FijiCakobau_UnitFlagAtlas_32.dds</File>
+    <File md5="CAABA29A0EE0F9D8F58E23A0B4BB1EA9" import="1">Art/Leaderscene/JFD_FijiCakobau_Diplo.dds</File>
+    <File md5="093884A437D880533D49214E90E37151" import="1">Art/Leaderscene/JFD_FijiCakobau_Scene.xml</File>
+    <File md5="850C7BE28068F50C13B93B0ECFF4F10D" import="1">Art/Maps/JFD_DOM_FijiCakobau.dds</File>
+    <File md5="3915AE4C8C65F0AE89EE97D113A1960D" import="1">Art/Maps/JFD_MapFijiCakobau512.dds</File>
+    <File md5="064756A7DD31A9798952687C371E6AF3" import="1">Audio/JFD_FijiCakobau_Peace.mp3</File>
+    <File md5="23D849D3EC114A7D3B45D00D6B4F3A18" import="1">Audio/JFD_FijiCakobau_War.mp3</File>
+    <File md5="C3716216260B496BD064FE6678FEFF3E" import="0">Core/FijiCakobau_ArtDefines.sql</File>
+    <File md5="26ED549424C81A3FEAF9684F9E8F645D" import="0">Core/FijiCakobau_GameDefines.sql</File>
+    <File md5="3B059A92C4AE92DE7C9B8303F10D0E2E" import="0">Core/FijiCakobau_GameText.xml</File>
+    <File md5="0740BB1DFFD8E8D87848E7D0D03C2D7E" import="0">Core/FijiCakobau_ModSupport.sql</File>
+    <File md5="5CB8698954646AD73D0B2C3CB30FB5D9" import="0">Credits.txt</File>
+    <File md5="7198E4318051F123A2612367E07FC137" import="0">Lua/JFD_Civs_FijiCakobau_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/FijiCakobau_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/FijiCakobau_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/FijiCakobau_GameText.xml</UpdateDatabase>
+      <UpdateUserData>Core/FijiCakobau_ModSupport.sql</UpdateUserData>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_FijiCakobau_Functions.lua">
+      <Name>JFD_Civs_FijiCakobau_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

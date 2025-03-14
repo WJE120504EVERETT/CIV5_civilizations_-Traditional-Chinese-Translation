@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_FIJI_CAKOBAU_ADJECTIVE">
+			<Text>斐濟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_FIJI_CAKOBAU_DESC">
+			<Text>斐濟王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_FIJI_CAKOBAU_SHORT_DESC">
+			<Text>斐濟</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_FIJI_DESC">
+			<Text>斐濟</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_FIJI_CAKOBAU_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_FIJI_CAKOBAU_TEXT_1">
+			<Text>斐濟王國（斐濟語：Matanitu o Viti；英語：Kingdom of Fiji）是1871年—1874年在斐濟群島存在的君主立憲制國家，由塞魯·埃佩尼薩·薩空鮑擔任國王。[NEWLINE][NEWLINE]斐濟王國是第一個統一斐濟群島的國家，它的領土涵蓋除羅圖馬之外的現代斐濟。薩空鮑是姆巴烏島的「武尼瓦盧」（意為「戰爭首領」或「最高酋長」）。他的父親塔諾阿·維薩萬加征服了布雷巴薩加聯盟並控制了西斐濟的大部分。薩空鮑鞏固了對斐濟群島的控制並宣佈自己為「圖伊維提」（意為「斐濟國王」）。這一舉動招致了其他酋長的反對，他們只認可薩空鮑位列地位平等的眾酋長的首席。但在1871年6月，英國名譽領事約翰·貝茨·瑟斯頓說服了斐濟眾酋長接受君主立憲制，並由薩空鮑出任國王。不過，王國的實權掌握在澳洲移民主導的內閣和立法機構手中。1871年11月，立法議會在萊武卡首次召開。[NEWLINE][NEWLINE]此後的幾個月里，政府預算超支導致了不良債務累積。1872年，鑑於經濟和社會動盪持續，在薩空鮑的要求下，瑟斯頓接觸英國政府並轉達出讓群島的提議。隨後，兩名英國特使來到斐濟研究合併的可能性。但由於薩空鮑和他的競爭對手埃內萊·馬阿富對權力分配的爭執，斐濟併入英國的問題變得複雜起來，薩空鮑和馬阿富都為此猶豫了許多個月。1874年3月21日，薩空鮑終於作出最後決定，英國人隨即接受。9月23日，負責處理斐濟併入英國事務的夏喬士·羅便臣爵士（不久，他被任命為斐濟殖民地首任總督）乘坐小型風帆戰船「迪多」號抵達斐濟，薩空鮑以鳴槍21響的王家禮節迎接了他。薩空鮑又猶豫了一陣子，才同意放棄他的「圖伊維提」頭銜。1874年10月10日，薩空鮑、馬阿富和斐濟其他一些資深酋長簽署了兩份轉讓契據副本，由此成立了幾乎持續一個世紀的斐濟殖民地。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_01">
+			<Text>萊武卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_02">
+			<Text>蘇瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_03">
+			<Text>鮑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_04">
+			<Text>諾魯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_05">
+			<Text>維塞塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_06">
+			<Text>拉斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_07">
+			<Text>蘇蘇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_08">
+			<Text>奈塔西裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_09">
+			<Text>泰萊武</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_10">
+			<Text>拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_11">
+			<Text>薩武薩武</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_12">
+			<Text>圖布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_13">
+			<Text>納薩卡拉烏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_14">
+			<Text>塞塞萊卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_15">
+			<Text>瓦伊尼凱萊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_16">
+			<Text>納索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_17">
+			<Text>馬努庫伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_18">
+			<Text>馬庫塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_19">
+			<Text>卡考德羅夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_20">
+			<Text>雷瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_21">
+			<Text>托夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_22">
+			<Text>科羅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_23">
+			<Text>瓦托阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_24">
+			<Text>亞羅伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_25">
+			<Text>納莫西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FIJI_CAKOBAU_26">
+			<Text>索洛礁</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_0">
+			<Text>薩洛特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_1">
+			<Text>利蒂亞</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_2">
+			<Text>盧西亞娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_3">
+			<Text>阿麗塔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_4">
+			<Text>維利亞梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_5">
+			<Text>何塞法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_6">
+			<Text>蘇庫納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_7">
+			<Text>提莫西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_8">
+			<Text>塔諾阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FIJI_CAKOBAU_9">
+			<Text>埃佩利</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU">
+			<Text>塞魯·埃佩尼薩·薩空鮑</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_NAME">
+			<Text>塞魯·埃佩尼薩·薩空鮑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_TEXT_1">
+			<Text>塞魯·埃佩尼薩·薩空鮑出生於洛馬伊維提（Lomaiviti）的奈賴島（Nairai Island），是拉圖·塔諾阿·維薩瓦卡（Ratu Tanoa Visawaqa）與他九位妻子之一阿迪·薩武薩武（Adi Savusavu）的兒子。瓦尼瓦（Vunivalu，即鮑島的首席大酋長）和鮑島的羅科·圖伊·鮑（Roko Tui Bau，即神聖酋長）在近一個世紀裡經歷了多次權力鬥爭。這些鬥爭導致塞魯的叔父、鮑島的瓦尼瓦盧——瑙利沃·拉馬塔尼庫圖（Naulivou Ramatenikutu）死亡，並使塔諾阿成為新的瓦尼瓦盧。然而，在他殺死羅科·圖伊·鮑——拉圖·賴瓦盧伊（Ratu Raiwalui）以及在瓦努阿·巴拉武（Vanua Balavu）附近犯下其他謀殺和報復行為後，塔諾阿於1832年被流放。他娶了兩位姊妹為妻，分別是利蒂亞（Lydia）薩馬努努（Litia Samanunu）和薩洛特（Charlotte）卡利雷阿·考尼洛圖納（Salote Qalirea Kaunilotuna，均為羅科·圖伊·鮑的女兒）。瑪麗·沃利斯（Mary Wallis）在1844年12月7日與他會面後對他進行了描述：“他身材高大，相貌英俊，顯得十分清楚自己的重要性，並且不乏尊嚴。他的頭上長滿了濃密的頭髮，身上纏繞著數米的土布……”塞魯被賦予了“奇基諾，”（Cikino”（Cikino？後來，他被稱為“卡科鮑”（Cakobau，意為“鮑島的毀滅者”），因為他摧毀了鮑島的一切；但塞魯也建立了一個新的鮑島，處於瓦尼瓦盧的統治之下。在他皈依基督教後，他又取了「埃佩尼薩」（Epenisa，意為「以伯尼撒」）這個名字。[NEWLINE][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_HEADING_2">
+			<Text>掌權</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_TEXT_2">
+			<Text>1852 年 12 月 8 日，卡科鮑繼任巴烏的武尼瓦盧王位。然而，卡科鮑的要求並沒有被其他酋長接受，他們最多只把他視為平等人中的長子。因此，卡科鮑 (Cakobau) 發動了近十九年的持續戰爭，以將這些島嶼統一在他的統治之下。卡科鮑在東加國王的幫助下鎮壓了叛亂。皈依基督教後，他在戰場上赦免了所有俘虜；根據斐濟的異教習俗，戰敗者將被儀式性地羞辱、殺死並吃掉。然而兩年後，該邦聯分裂為巴烏王國和勞邦聯（由布阿、卡考德羅夫、勞組成），卡科巴烏成為前者的國王。他決定建立君主立憲制，並於同年11月召開了第一屆立法議會。立法機構和內閣均由外國人主導。 1874 年 10 月 10 日，斐濟主權移交給英國王室的割讓契約簽署時，他將自己的戰棍贈予了維多利亞女王。 1932 年 10 月，喬治五世國王向斐濟立法會贈送了卡科鮑國王的戰棍，作為禮儀用途的權杖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_HEADING_3">
+			<Text>權力移交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_TEXT_3">
+			<Text>早在卡科鮑的其他酋長接受他的主權之前，美國政府就已經承認了卡科鮑對統一的斐濟國家的王權。但從長遠來看，這對他不利。美國政府認為他對 1849 年美國領事約翰·布朗·威廉 (John Brown William) 在努庫勞島的住所遭到縱火事件負責（當時卡科鮑還不是武尼瓦盧國王），並要求賠償 44,000 美元。由於無力償還雷萬酋長所欠的債務，並擔心美國入侵吞併，卡科鮑決定將這些島嶼割讓給英國。這一頭銜一直由她的後代保留，直到2012年3月14日大酋長委員會解散，伊莉莎白二世成為最後一位最高酋長。他過著平靜的生活，直到 1883 年 2 月 1 日去世。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_HEADING_5">
+			<Text>遺產</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_TEXT_5">
+			<Text>斐濟的許多領導人物都是卡科鮑的直系後裔。他的曾孫喬治·卡科鮑爵士王后是卡科鮑第三個兒子的後代，曾於 1973 年至 1983 年擔任斐濟第一位本土出生的總督，而現代斐濟第一任總理和第二任總統卡米塞塞·馬拉爵士則是卡科鮑的次女阿迪·阿塞納卡·卡庫阿維卡巴的後代。拉圖埃佩利奈拉蒂考 (Ratu Epeli Nailatikau) 於 2009 年成為斐濟總統，現任斐濟眾議院議長，是卡科鮑的孫女阿迪利蒂亞卡科鮑 (Adi Litia Cakobau) 的孫子。 Ratu Epeli 也是議員兼前反對黨領袖 Ro Teimumu Kepa 的堂兄，而後者是 Adi Teimumu Vuikaba 的後代，而 Adi Teimumu Vuikaba 是 Adi Litia Cakobau 的妹妹。其他一些政治人物也是卡科鮑的後裔，包括前全國聯邦黨主席和前議會議員羅科·圖普·德勞尼達洛 (Roko Tupou Draunidalo)。</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_LIVED">
+			<Text>1815 - 1883 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_SUBTITLE">
+			<Text>斐濟領導人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FIJI_CAKOBAU_TITLES_1">
+			<Text>國王</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_FIJI_CAKOBAU_TEXT">
+			<Text>尊敬的國王塞魯·埃佩尼薩·薩空鮑，您的王室駕臨令我們深感榮幸！斐濟長期以來壹直被各酋長之間爲爭奪權力而引發的暴力鬥爭所困擾。在長達十八年的時間裏，您作爲其中最偉大的壹位——鮑島的酋長，發動了壹場持續的戰爭，直到1865年，在湯加王國的協助下，您終于見證了斐濟被馴服和統壹，您的酋長之位也因此得以確立。經英國和美國的確認，您就此結束了斐濟曆史上長期的暴力無序狀態，將她永遠地統壹爲壹個國家。[NEWLINE][NEWLINE]如今，鮑島的顯赫王室再次被召喚，去爲斐濟動蕩不安的島嶼帶來秩序與安甯。您能否壓制那些渴望榮譽和權力的對手？您能否爲分裂的人民帶來文化和團結？您能否建立壹個能夠經受時間考驗的文明？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_FIRSTGREETING_1">
+			<Text>我是塞魯·埃佩尼薩·薩空鮑，偉大的戰士和斐濟的領主。您願意和我和我的戰士們壹起坐下共進晚餐嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_DEFEATED_1">
+			<Text>但願妳被我的殘骸噎住。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_ATTACKED_HOSTILE_1">
+			<Text>我的戰士們已經饑腸辘辘了...我說的不僅僅是戰鬥！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_DEC_FRIENDSHIP_1">
+			<Text>願意和我壹起發表公開的友好聲明嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_DENOUNCE_1">
+			<Text>不錯，憤怒會讓肉質更鮮美！[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_DENOUNCE_FRIEND_1">
+			<Text>大話連篇，小家夥。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_DOW_GENERIC_1">
+			<Text>看起來大家都餓了！現來找點樂子吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>下壹次我的戰士們在我的領土上抓到妳的開拓者，他可能會少壹條胳膊回來。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_GREETING_HOSTILE_HELLO_1">
+			<Text>我越來越餓了...快點說!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_GREETING_NEUTRAL_HELLO_1">
+			<Text>說吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_GREETING_POLITE_HELLO_1">
+			<Text>說吧，我的朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>我唯壹擔心妳們戰士的地方，就是他們需要多少調料。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_LUXURY_TRADE_1">
+			<Text>讓我們達成這筆交易，然後我們就可以開始盛宴了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>別再搞這些繁文缛節了。讓我們在兩國之間建立開放邊界協議。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>妳們的開拓者看起來非常美味，最好別讓他們在我的領土上走得太遠！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_REQUEST_1">
+			<Text>妳會通過達成這筆交易來紀念我們過去的友誼嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>身體虛弱的人往往都是誇誇其談的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_TOO_SOON_FOR_DOF_1">
+			<Text>想得美。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FIJI_CAKOBAU_TOO_SOON_NO_PEACE_1">
+			<Text>要我答應這種事，真是丟人。</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_FIJI_CAKOBAU_SHORT">
+			<Text>食人群島</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_FIJI_CAKOBAU">
+			<Text>清除野蠻人營地可獲得[ICON_FOOD]食物和城邦的[ICON_INFLUENCE]影響力。盟友城邦提供其訓練的任何近戰單位的複制單位，而非軍事城邦則提供任何工人單位的複制單位。</Text>
+		</Row>
+		<!--Alerts-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_FIJI_CAKOBAU_MESSAGE_1">
+			<Text>清除[COLOR_POSITIVE_TEXT]野蠻人營地[ENDCOLOR]可增加對城邦的[ICON_INFLUENCE]影響力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_FIJI_CAKOBAU_MESSAGE_2">
+			<Text>我們的盟友[COLOR_POSITIVE_TEXT]{1_Desc}[ENDCOLOR]為我們提供了[COLOR_POSITIVE_TEXT]{2_Desc}[ENDCOLOR]!</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_CHIEFS">
+			<Text>酋長院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_CHIEFS_HELP">
+			<Text>在[ICON_CITIZEN]人口增長後會獲得壹次[ICON_CULTURE]文化值爆發。如果該城市與[ICON_CAPITAL]首都[ICON_CONNECTED]相連，還會將這些[ICON_CULTURE]文化值貢獻給首都的邊界擴張，在該城市中[ICON_GREAT_PEOPLE]偉人産生速度提高25%，該城市必須擁有軍營。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_CHIEFS_STRATEGY">
+			<Text>酋長院取代了塞魯·埃佩尼薩·薩空鮑統治下的花園。除了增加城市中偉人的出現速度之外，每當城市人口增加[ICON_CITIZEN]時，酋長院還會產生大量[ICON_CULTURE]文化。如果該城市當時[ICON_CONNECTED]連接到[ICON_CAPITAL]，則 [ICON_CAPITAL] 首都也會獲得佔領下一塊地塊的進度。與花園不同，酋長院要求城市擁有軍營，並在文官制度下解鎖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_CHIEFS_TEXT">
+			<Text>斐濟社會傳統上分層分明。酋長分別管轄村莊（koro）、分區（tikina vou）、區（tikina cokavata）和省份（yasana）。這些行政區劃通常大致與大家庭（tokatoka）、氏族（mataqali）、部落（yavusa）和土地（vanua）的社會單位相對應。每個 mataqali 由一名首領擔任，男性首領稱為 Ratu，女性首領稱為 Adi（發音為 Ahn-di）。統治 mataqali 以上單位的酋長有其他更有聲望的頭銜，儘管存在地區差異，但他們通常也被稱為 Ratu 或 Adi。在雷瓦 (Rewa)，人們使用 Ro 來代替 Ratu 和 Adi；而在勞群島，人們使用 Roko。在卡達武群島和斐濟西部，布魯 (Bulou) 取代了阿迪 (Adi)。任命酋長的方法並不統一，但該職位一般都是終身任職（有一些例外），並且具有世襲性，儘管酋長的兒子不會在其父親去世後自動繼承該職位。酋長可以擁有多個頭銜，就像英國的貴族一樣；例如，已故的 Ratu Sir Kamisese Mara 既是 Tui Nayau，也是 Tui Lau。 </Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_BATI">
+			<Text>巴蒂戰士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BATI_HELP">
+			<Text>巴蒂戰士是遊戲中期的近戰單位，替代長劍士，其根據不同條件擁有不同的作戰能力。當使用[ICON_GOLD]金幣購買時，可以在沒有開放邊界協議的情況下進入外國領土；當在擁有酋長院的城市中訓練時，在友方邊界內作戰能力更強；如果兩者皆無，則在外國邊界內作戰能力更強。只有在卡科鮑統治下的斐濟可以訓練這種單位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BATI_STRATEGY">
+			<Text>巴蒂戰士是斐濟在卡科鮑統治下對長劍士的替代單位。與長劍士不同，巴蒂戰士在戰鬥中略顯弱勢，但訓練它不需要[ICON_RES_IRON]鐵，並且在騎士制度時代即可解鎖。使用[ICON_GOLD]金幣購買的巴蒂可以進入外國領土，即使沒有開放邊界協議。在擁有酋長院的城市中訓練的巴蒂，在友方邊界內作戰能力會提升20%。其他所有巴蒂在境外作戰能力會提升20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BATI_TEXT">
+			<Text>巴蒂（Bati）是斐濟群島的傳統戰士，這個詞在斐濟語中大致翻譯爲“士兵”或“保镖”。它源自表示“牙齒”或“邊緣”的詞語。在古老的斐濟，有兩種從屬關系被認可，分別稱爲Qali和Bati。Qali是指隸屬于酋長城鎮的省份或城鎮，而Bati則指那些並非直接從屬但地位低于Qali的地區。Bati地區毗鄰酋長的領地，並爲其提供服務，這也是“Mataqali”和“Bati”這兩個術語的由來。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BATI_1">
+			<Text>巴蒂-卡迪(金幣購買)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BATI_1_HELP">
+			<Text>可以在沒有開放邊界協議的情況下進入外國領土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BATI_2">
+			<Text>巴蒂-巴拉武(無條件)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BATI_2_HELP">
+			<Text>在境外作戰能力[ICON_STRENGTH]會提升20%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BATI_3">
+			<Text>巴蒂-萊卡(酋長院)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BATI_3_HELP">
+			<Text>在友方邊界內作戰能力%[ICON_STRENGTH]會提升20%。</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_FIJI_CAKOBAU_DESCRIPTION">
+			<Text>FIJI (POTATAU)[NEWLINE][NEWLINE]UNIQUE TRAIT: DESTROYER OF BAU[NEWLINE]Clearing Barbarian Encampments yields [ICON_FOOD] Food and [ICON_INFLUENCE] Influence. Allied Militaristic City-States provide of a copy of any Melee Units they train whilst non-Militaristic City-States provide a copy of any Worker Units.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUSE OF CHIEFS (GARDEN)[NEWLINE]The House of Chiefs replaces the Garden for Fiji under Cakobau. In addition to increasing the rate at which Great People spawn in the city, the House of Chiefs yields a burst of [ICON_CULTURE] Culture whenever the city grows in [ICON_CITIZEN] Population. If the city is [ICON_CONNECTED] Connected to the [ICON_CAPITAL] at the time, the [ICON_CAPITAL] Capital also receives progress toward claiming its next tile. Unlike the Garden, the House of Chiefs requires the city to have a Barracks and is unlocked at Civil Service.[NEWLINE][NEWLINE]UNIQUE UNIT: BATI (LONGSWORDSMAN)[NEWLINE]The Bati replaces the Longswordsman for Fiji under Cakobau. Unlike the Longswordsman, the Bati is slightly weaker in combat, but it does not require [ICON_RES_IRON] Iron to be trained and unlocks at Chivalry. Bati purchased with [ICON_GOLD] Gold can be used to enter foreign territory even without an open borders agreement. Bati trained in a city with a House of Chiefs, meanwhile, fight 20% more effectively whilst in friendly borders. All other Bati fight 20% more effectively in foreign borders.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
