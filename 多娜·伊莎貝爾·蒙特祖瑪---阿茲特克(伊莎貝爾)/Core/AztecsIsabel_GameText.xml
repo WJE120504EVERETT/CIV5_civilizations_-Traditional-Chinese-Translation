@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_AZTECS_ISABEL_DESCRIPTION">
+			<Text>AZTECS (ISABEL MONTEZUMA)[NEWLINE][NEWLINE]UNIQUE TRAIT: BAPTISM OF TECUICHPOCHTZIN[NEWLINE][ICON_BULLET]Civilizations with whom you share a DoF passively convert your cities to their Religion. Purchasing a Missionary or Inquisitor from a foreign Religion grants a burst of [ICON_GOLD] Gold and [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]UNIQUE BUILDING: AUGUSTINIAN FRIARY (UNIVERSITY)[NEWLINE][ICON_BULLET]The unique Augustinian Friary replaces the University for the Aztecs. Any Improvement built within range of a city with an Augustinian Friary grants a burst of [ICON_PEACE] Faith for the city. Unlike the University, the Augustinian Friary is unlocked earlier, at Theology. It also does not require a Library and costs 1 less Gold maintenance.[NEWLINE][NEWLINE]UNIQUE UNIT: TLACOTIN (WORKER)[NEWLINE][ICON_BULLET]The Tlacotin replaces the Worker for the Aztecs. This unit is slightly more expensive to train than the standard Worker, however, it causes the city in which it is trained to expand to claim a new tile. If purchased with [ICON_GOLD] Gold, the Tlacotin may move immediately. With Tlacotin, you will have an advantage over your foes when it comes to improving your lands quickly.</Text>
+		</Row>
+		<!--AZTECS-->
+		<Row Tag="TXT_KEY_CIV_JFD_AZTECS_ISABEL_ADJECTIVE">
+			<Text>Aztec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AZTECS_ISABEL_DESC">
+			<Text>Aztec Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AZTECS_ISABEL_SHORT_DESC">
+			<Text>The Aztecs</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AZTECS_ISABEL_01">
+			<Text>Mexico City</Text>
+		</Row>
+		<!--ISABEL MONTEZUMA-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL">
+			<Text>Isabel Montezuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_1">
+			<Text>Dona Isabel Moctezuma was a daughter of the Aztec ruler Moctezuma II. She was the consort of the Aztec emperors Atlixcatzin, Cuitlahuac, and Cuauhtemoc and as such the last Aztec empress. After the Spanish conquest, Dona Isabel was recognized as Moctezuma's legitimate heir, and became one of the indigenous Mexicans granted an encomienda. Among the others were her half-sister Marina (or Leonor) Moctezuma, and Juan Sanchez, an Indian governor in Oaxaca.[NEWLINE][NEWLINE]Dona Isabel was married to three Aztec emperors and three Spaniards and widowed five times. She had a daughter out of wedlock, Leonor Cortes Moctezuma, with conquistador Hernan Cortes. Her sons founded a line of Spanish nobility. The title of Duke of Moctezuma de Tultengo still exists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_2">
+			<Text>Family and early marriages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_2">
+			<Text>Dona Isabel's mother was Princess Teotlalco and her birth name was Tecuich(po)tzin, translated as "lord's daughter" in Nahuatl. Teotlalco was Moctezuma's principal wife and, thus, among Moctezuma's daughters Tecuichpotzin had primacy. As a small child, Tecuichpotzin was married to Atlixcatzin, who died by 1520. After her father was killed, either by his own people or the Spanish, she was quickly married to her uncle Cuitlahuac who became emperor after Moctezuma's death. Cuitlahuac died of smallpox after only sixty days of rule. Cuauhtemoc became emperor and married Tecuichpotzin. She was only about eleven or twelve years old at the time of her third marriage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_3">
+			<Text>Dona Isabel and the conquest of Tenochtitlan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_3">
+			<Text>Hernan Cortes and other Spaniards entered Tenochtitlan on November 8, 1519. For several months they lived in Moctezuma's palace. At some time during their sojourn there they took the emperor hostage which ended with his death either at the hands of the Spanish or his own people. The Aztecs revolted and expelled Cortes and his army from Tenochtitlan (La Noche Triste, June 30, 1520). However, Tecuichpotzin was left behind in the city by the Spanish. Aztec leaders quickly married her to Cuitlahuac, the new emperor, and, after he died of smallpox, to Cuauhtemoc.[NEWLINE][NEWLINE]Cortes returned in 1521 with a large group of Spaniards and Indian allies, mostly from Tlaxcala, to attack Tenochtitlan. The Aztecs, their numbers and morale depleted by a smallpox epidemic, were defeated. Cuauhtemoc and his court attempted to flee Tenochtitlan by boat, but they were captured by the Spanish. On surrendering, Cuauhtemoc asked the Spanish to respect the ladies of his court, including his young wife Tecuichpotzin.[NEWLINE][NEWLINE]In 1525, Cortes executed Cuauhtemoc and Tecuichpotzin was widowed for the third time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_4">
+			<Text>Conversion to Christianity and Dynastic union to Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_4">
+			<Text>Cortes valued Tecuichpotzin as a symbol of what he wished to portray as the continuity of rule between the Aztecs and the Spanish. She was instructed in Christianity, converted to Catholicism, probably in 1526, and baptized as Isabel, the name by which she would thereafter be known. Every indication is that Dona Isabel, the former Aztec princess Tecuichpotzin, was devout in her new religion. She gave generously in alms to the Augustinians, to the point that she was asked to stop. Isabel’s education as a Christian did not include teaching her to read and she remained illiterate.[NEWLINE][NEWLINE]Cortes arranged the marriage of Dona Isabel to his close colleague Alonso de Grado in June 1526. Part of the marriage arrangement was the granting of a large encomienda to Dona Isabel. The encomienda consisted of the city of Tacuba (about eight kilometres or five miles) west of Tenochitlan (now called Mexico City) and was the largest encomienda in the Valley of Mexico, an indicator of the importance Cortes gave to Isabel. The encomienda of Dona Isabel endured for centuries. The Spanish and, later, Mexican governments, paid royalties in the form of a pension to the descendants of Dona Isabel until 1933 and a Count of Miravalle, the descendants of Moctezuma, still exists in Spain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_5">
+			<Text>Very little is known about Dona Isabel beyond a few facts of her life. She seems to have been more than a mere pawn in the hands of Aztec royalty and Spanish conquerors. Her will reveals her to have been a decisive and strong woman who was generous and thoughtful. She seems to have made the transition from Aztec princess to Spanish doña successfully. Her descendants were the most prominent example of her day of mestizaje – melding Spanish and indigenous Mexican ancestries – that would characterize the future of Mexico. The Spanish wished to inculcate in the indigenous populations "the economic, religious, and cultural orientation of Spain." Isabel, whether by desire or necessity, was the first great success of the assimilation of Spanish and native Mexicans. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_NAME">
+			<Text>Isabela Montezuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_SUBTITLE">
+			<Text>Leader of the Aztecs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TITLES_1">
+			<Text>Empress Consort of the Aztecs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_LIVED">
+			<Text>1510 - 1551 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_AZTECS_ISABEL_TEXT">
+			<Text>May the blessings of God and the sun be upon you, Isabel Montezuma, daughter of the great emperor Montezuma II. You are the last empress of the Aztecs, wedded to the emperors Atlixcatzin, Cuitlahuac, and Cuauhtemoc as Tecuichpotzin. Against the devastating conquest of your people by the Spanish Empire, you managed to ensure the survival of your dynasty, converting to Christianity and coming to preside over one of Mexico City's most important estates. Through yours and the perseverance of your bloodline, the name of the great house of Montezuma lives on to this day.[NEWLINE][NEWLINE]O' shrewd and fiery-willed daughter to Montezuma, your people may no longer be free, but their legacy must persist. Can you do what you must to ensure the survival of your people? Can you adapt to the savage ways of your enemies in the name of your divine household? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_FIRSTGREETING_1">
+			<Text>My greetings. I am Isabel Montezuma, leader of the Aztec people. I am at your pleasure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DEFEATED_1">
+			<Text>If this is my fate, then I must suffer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_ATTACKED_HOSTILE_1">
+			<Text>Please, is there no other way?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DEC_FRIENDSHIP_1">
+			<Text>Your power and wealth is legendary. It would please me greatly if you would join me in a public declaration of friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DENOUNCE_1">
+			<Text>I cannot bare to treat with you any longer.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DENOUNCE_FRIEND_1">
+			<Text>Please, I can only bring so much shame to my people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DOW_GENERIC_1">
+			<Text>I have bided my time for this moment. The moment of the freedom of my people has come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I hope you will reconsider.</Text>
+		</Row>
+		<!--BAPTISM OF TECUICHPOCHTZIN-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AZTECS_ISABEL_SHORT">
+			<Text>Baptism of Tecuichpochtzin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AZTECS_ISABEL">
+			<Text>Civilizations with whom you share a DoF passively convert your cities to their Religion. Purchasing a Missionary or Inquisitor from a foreign Religion grants a burst of [ICON_GOLD] Gold and [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<!--AUGUSTINIAN FRIARY-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY">
+			<Text>Augustinian Friary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY_HELP">
+			<Text>Improvements built in range of this city grant a burst of [ICON_PEACE] Faith when completed. Unlocks at Theology.[NEWLINE][NEWLINE]+2 [ICON_RESEARCH] Science from Jungle tiles worked by this City. Allows Archaeologists to be built in this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY_STRATEGY">
+			<Text>The unique Augustinian Friary replaces the University for the Aztecs. Any Improvement built within range of a city with an Augustinian Friary grants a burst of [ICON_PEACE] Faith for the city. Unlike the University, the Augustinian Friary is unlocked earlier, at Theology. It also does not require a Library and costs 1 less Gold maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY_TEXT">
+			<Text>The Augustinian Order emerged as a formally constituted brotherhood in 1256 under Pope Alexander IV, uniting various hermetic convents in Italy under one constitution. The consolidation transformed these cloistered communities into mendicant ones that not only emphasized contemplation, but also ministry outside of the convent’s walls. The Order identified as its patriarch St. Augustine, a preeminent fifth-century doctor of the Catholic Church and Bishop of Hippo (circa 395-430) who led a monastic life, taking the Rule he authored as their guide for a spiritual life. Augustinian friars first set foot in Mexico in 1533, shortly after the arrival of their Franciscan (1524) and Dominican (1526) peers. They established a convent in Mexico City, adding a novitiate within a few years to train new friars for ministry and grow their religious community in New Spain.</Text>
+		</Row>
+		<!--TLACOTIN-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN">
+			<Text>Tlacotin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN_HELP">
+			<Text>Unique Worker replacement that improves [ICON_FOOD] Food [ICON_PRODUCTION] Production and [ICON_GOLD] Gold by constructing Improvements on map tiles outside of Cities. Causes the city in which it is trained to expand to claim a new tile. Can move immediately if purchased with [ICON_GOLD] Gold. Only the Aztecs can train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN_STRATEGY">
+			<Text>The Tlacotin replaces the Worker for the Aztecs. This unit is slightly more expensive to train than the standard Worker, however, it causes the city in which it is trained to expand to claim a new tile. If purchased with [ICON_GOLD] Gold, the Tlacotin may move immediately. With Tlacotin, you will have an advantage over your foes when it comes to improving your lands quickly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN_TEXT">
+			<Text>Aztec slavery, within the structure of the Mexico society, produced many slaves, known by the Nahuatl word, tlacotin. Within Mexica society, slaves constituted an important class. Slavery was not a station one was born into, but a state entered into as a form of punishment, out of financial desperation, or as a captive. While slavery could not be inherited, in Mexica society, one could, in fact, live indefinitely as a slave. For example, Moctezuma II, in addition to confiscating property, would condemn traitors, or their families, to slavery for life. He would also do the same to astrologers who failed to predict the occurrence of omens.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_AZTECS_ISABEL_DESCRIPTION">
+			<Text>AZTECS (ISABEL MONTEZUMA)[NEWLINE][NEWLINE]UNIQUE TRAIT: BAPTISM OF TECUICHPOCHTZIN[NEWLINE][ICON_BULLET]Civilizations with whom you share a DoF passively convert your cities to their Religion. Purchasing a Missionary or Inquisitor from a foreign Religion grants a burst of [ICON_GOLD] Gold and [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]UNIQUE BUILDING: AUGUSTINIAN FRIARY (UNIVERSITY)[NEWLINE][ICON_BULLET]The unique Augustinian Friary replaces the University for the Aztecs. Any Improvement built within range of a city with an Augustinian Friary grants a burst of [ICON_PEACE] Faith for the city. Unlike the University, the Augustinian Friary is unlocked earlier, at Theology. It also does not require a Library and costs 1 less Gold maintenance.[NEWLINE][NEWLINE]UNIQUE UNIT: TLACOTIN (WORKER)[NEWLINE][ICON_BULLET]The Tlacotin replaces the Worker for the Aztecs. This unit is slightly more expensive to train than the standard Worker, however, it causes the city in which it is trained to expand to claim a new tile. If purchased with [ICON_GOLD] Gold, the Tlacotin may move immediately. With Tlacotin, you will have an advantage over your foes when it comes to improving your lands quickly.</Text>
+		</Row>
+		<!--AZTECS-->
+		<Row Tag="TXT_KEY_CIV_JFD_AZTECS_ISABEL_ADJECTIVE">
+			<Text>阿茲特克(伊莎貝爾)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AZTECS_ISABEL_DESC">
+			<Text>阿茲特克帝國(伊莎貝爾)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AZTECS_ISABEL_SHORT_DESC">
+			<Text>阿茲特克(伊莎貝爾)</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AZTECS_ISABEL_01">
+			<Text>墨西哥城</Text>
+		</Row>
+		<!--ISABEL MONTEZUMA-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL">
+			<Text>多娜·伊莎貝爾·蒙特祖瑪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_1">
+			<Text>多娜·伊莎貝爾·蒙特祖瑪 (Dona Isabel Moctezuma) 是阿茲特克統治者蒙特蘇馬二世 (Moctezuma II) 的女兒。她是阿茲特克皇帝阿特利克斯卡津 (Atlixcatzin)、庫伊特拉瓦克 (Cuitlahuac) 和庫奧特莫克 (Cuauhtemoc) 的皇后，也是最後一位阿茲特克皇后。西班牙征服後，伊莎貝爾女士被認定為蒙特蘇馬的合法繼承人，並成為獲得監護權的墨西哥土著之一。其他人包括她的同父異母姐姐瑪麗娜 (或萊昂諾爾) 蒙特蘇馬和瓦哈卡州的印第安總督胡安桑切斯。她與征服者埃爾南·科爾特斯 (Hernan Cortes) 育有一女，名為萊昂諾爾·科爾特斯·蒙特蘇馬 (Leonor Cortes Moctezuma)。她的兒子創立了西班牙貴族家族。蒙特蘇馬·德·圖爾滕戈公爵的頭銜仍然存在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_2">
+			<Text>家庭和早婚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_2">
+			<Text>伊莎貝爾小姐的母親是特奧特拉爾科公主，出生時的名字是 Tecuich(po)tzin，在納瓦特爾語中意為「領主的女兒」。特奧特拉爾科是蒙特蘇馬的正妻，因此，在蒙特蘇馬的女兒中，特庫伊奇波津擁有首要地位。特庫伊奇波津幼年時嫁給了阿特利克斯卡津 (Atlixcatzin)，後者於 1520 年去世。庫伊特拉瓦克統治僅 60 天後就死於天花。庫奧特莫克 (Cuauhtemoc) 成為皇帝並與特庫伊奇波津 (Tecuichpotzin) 結婚。第三次結婚時，她只有十一二歲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_3">
+			<Text>多娜·伊莎貝爾·蒙特祖瑪和特諾奇蒂特蘭的征服</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_3">
+			<Text>1519 年 11 月 8 日，埃爾南·科爾特斯和其他西班牙人進入特諾奇蒂特蘭。 他們在蒙特蘇馬的宮殿裡住了幾個月。在他們逗留期間的某個時候，他們將皇帝劫持為人質，最終皇帝死於西班牙人或其人民之手。阿茲特克人發動起義，將科爾特斯和他的軍隊驅逐出特諾奇蒂特蘭（La Noche Triste，1520 年 6 月 30 日）。然而，特庫伊奇波津被西班牙人留在了城裡。阿茲特克領導人很快就把她嫁給了新皇帝庫伊特拉瓦克 (Cuitlahuac)，而在他死於天花之後，又將她嫁給了庫奧特莫克 (Cuauhtemoc)。阿茲特克人因天花疫情而人數減少、士氣低落，最後被擊敗。庫奧特莫克和他的朝臣試圖乘船逃離特諾奇蒂特蘭，但被西班牙人抓獲。投降時，誇烏特莫克要求西班牙人尊重他的宮廷女士，包括他年輕的妻子特庫伊奇波津。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_4">
+			<Text>皈依基督教並與西班牙王朝合併</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_4">
+			<Text>科爾特斯認為特庫伊奇波津是他希望體現阿茲特克人和西班牙人之間統治延續性的象徵。她接受了基督教的教育，大約在 1526 年皈依天主教，並受洗為伊莎貝爾，從此她便以這個名字為人所知。種種跡象表明，前阿茲特克公主特庫伊奇波津多娜·伊莎貝爾 (Dona Isabel) 對她的新宗教十分虔誠。她慷慨地向奧古斯丁修士施捨，甚至有人要求她停止。身為基督徒，伊莎貝爾所受的教育並不包括教她讀書識字，因此她一直是文盲。該封邑包括位於特諾奇特蘭（現稱為墨西哥城）以西約八公里或五英里的塔庫巴市，是墨西哥谷最大的封邑，體現了科爾特斯對伊莎貝爾的重視。伊莎貝爾夫人的封地延續了幾個世紀。西班牙政府以及後來的墨西哥政府一直以養老金的形式向多娜·伊莎貝爾的後代支付特許權使用費，直到 1933 年，而蒙特蘇馬的後代米拉瓦萊伯爵至今仍在西班牙存在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_HEADING_5">
+			<Text>遺產</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TEXT_5">
+			<Text>除了關於多娜·伊莎貝爾·蒙特祖瑪(Dona Isabel Moctezuma) 生活的一些事實外，人們對她的了解很少。她似乎不只是阿茲特克皇室和西班牙征服者手中的一枚棋子。她的遺囑顯示她是個果斷、堅強、慷慨、體貼的女人。她似乎已成功從阿茲特克公主轉型為西班牙女士。她的後代是她那個時代混血兒（融合了西班牙和墨西哥土著血統）最突出的例子，這代表了墨西哥的未來。西班牙人希望向當地居民灌輸「西班牙的經濟、宗教和文化取向」。無論是出於願望還是需要，伊莎貝爾都是西班牙人和墨西哥本地人同化的第一次偉大成功。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_NAME">
+			<Text>多娜·伊莎貝爾·蒙特祖瑪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_SUBTITLE">
+			<Text>阿茲特克人的領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_TITLES_1">
+			<Text>阿茲特克皇后</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AZTECS_ISABEL_LIVED">
+			<Text>1510 - 1551 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_AZTECS_ISABEL_TEXT">
+			<Text>願上帝和太陽的祝福降臨到您身上，偉大的皇帝蒙特蘇馬二世的女兒多娜·伊莎貝爾·蒙特祖瑪。您是阿茲特克人的最後一位皇后，以特庫伊奇波津的名義嫁給皇帝阿特利克斯卡津、庫伊特拉瓦克和庫奧特莫克。在西班牙帝國對您的人民進行毀滅性征服的同時，您成功地確保了王朝的生存，皈依了基督教，並統治了墨西哥城最重要的莊園之一。透過你們的努力和你們血脈的堅韌，偉大的蒙特蘇馬家族的名字一直流傳至今。你能做你必須做的事來確保你的人民的生存嗎？你能以神聖家族的名義適應敵人的野蠻行徑嗎？你能建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_FIRSTGREETING_1">
+			<Text>您好，我是多娜·伊莎貝爾·蒙特祖瑪，阿茲特克民族的領袖,我在此爲您效勞。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DEFEATED_1">
+			<Text>如果這是我的命運，那我就必須接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_ATTACKED_HOSTILE_1">
+			<Text>請問一下，沒有別的辦法了嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DEC_FRIENDSHIP_1">
+			<Text>您的權力和財富是个傳奇,如果您能和我一起公開宣告友誼，我將非常高興。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DENOUNCE_1">
+			<Text>我不能再忍受跟你相處了。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DENOUNCE_FRIEND_1">
+			<Text>我實在不能再給我的人民帶來更多的恥辱了。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_DOW_GENERIC_1">
+			<Text>我壹直在等待這壹刻，我的人民獲得自由的時刻已經到來。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_AZTECS_ISABEL_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>我希望妳會重新考慮。</Text>
+		</Row>
+		<!--BAPTISM OF TECUICHPOCHTZIN-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AZTECS_ISABEL_SHORT">
+			<Text>特庫奇波奇茨特的洗禮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AZTECS_ISABEL">
+			<Text>與您宣布友谊的文明會被動地將您的城市轉變為他們的宗教。購買外國宗教的傳教士或審判官可以獲得大量 [ICON_GOLD]金幣和[ICON_PRODUCTION]生產力。</Text>
+		</Row>
+		<!--AUGUSTINIAN FRIARY-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY">
+			<Text>奧古斯丁修道院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY_HELP">
+			<Text>取代大學，在解鎖神學後在該城市範圍內建造的改良設施完成時會獲得壹次性的信仰值[ICON_PEACE]增長，來自該城市已開發的的叢林地塊+2科技值，允許在該城市建造考古學家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY_STRATEGY">
+			<Text>獨特的奧古斯丁修道院取代了大學。在擁有奧古斯丁修道院的城市範圍內建造的任何改良設施都會為該城市帶來壹次性的[ICON_PEACE]信仰。與大學不同的是，奧古斯丁修道院的解瑣時間更早，它也不需要圖書館維護成本也減少1金幣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUGUSTINIAN_FRIARY_TEXT">
+			<Text>奧古斯丁會于1256年在教皇亞曆山大四世（Pope　Alexander　IV）的領導下正式成立爲壹個有組織的兄弟會，將意大利各地的隱修修道院聯合在壹個統壹的會規之下。這種整合將這些閉關修行的社區轉變爲托缽修會，不僅強調靜修冥想，還強調在修道院牆外的傳教活動。該會以聖奧古斯丁爲其宗族之父，他是五世紀傑出的天主教教會博士和希波主教（約395-430年），過著修道生活，並以他所著的會規作爲他們精神生活的指南。奧古斯丁會修士于1533年首次踏上墨西哥的土地，這比他們的方濟各會（1524年）和多明我會（1526年）同行稍晚。他們在墨西哥城建立了壹個修道院，並在幾年內增設了壹個初學修道院，以培訓新修士從事傳教工作，並在新西班牙發展壯大他們的宗教團體。</Text>
+		</Row>
+		<!--TLACOTIN-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN">
+			<Text>特拉科廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN_HELP">
+			<Text>獨特的工人替代品，透過在城市外的地塊上建造改良設施來提高[ICON_FOOD]食物[ICON_PRODUCTION]生産力和[ICON_GOLD]金幣，使其接受訓練的城市擴張以佔據新的地塊。如果使用[ICON_GOLD]黃金購買，可以立即移動，只有多娜·伊莎貝爾·蒙特祖瑪統治下的阿茲特克帝國可以訓練它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN_STRATEGY">
+			<Text>特拉科廷取代了阿茲特克人的工人。這個單位的訓練成本比標準工人稍微高一點，但是，它會導致接受訓練的城市擴大以佔據新的土地。如果使用[ICON_GOLD]黃金購買，特拉科廷可以立即移動。有了特拉科廷，您在快速改善土地方面將比您的敵人更具優勢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TLACOTIN_TEXT">
+			<Text>在墨西哥社會結構中，阿茲特克奴隸制產生了許多奴隸，他們被納瓦特爾語稱為“tlacotin”。在墨西哥社會中，奴隸是重要的階級。奴隸制不是一個人生來就有的地位，而是一種作為一種懲罰、出於經濟絕望或作為俘虜而進入的狀態。雖然奴隸制不能繼承，但在墨西哥社會，人們實際上可以無限期地作為奴隸生活。例如，蒙特蘇馬二世除了沒收財產外，還會判處叛徒或其家人終身為奴。他也會對那些未能預測到預兆的占星家採取同樣的措施。</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

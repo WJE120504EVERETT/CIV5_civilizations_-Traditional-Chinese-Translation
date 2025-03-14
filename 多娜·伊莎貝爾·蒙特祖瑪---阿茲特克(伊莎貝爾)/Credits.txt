@@ -1,0 +1,55 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Alga: 
+----------------
+	Art (Tlacotin Icon)
+----------------
+DarthKyofu: 
+----------------
+	Art (Aztecs Icon)
+----------------
+JakeWalrusWhale: 
+----------------
+	Art (Aztecs Map)
+----------------
+Tarcisio: 
+----------------
+	Art (Isabel Montezuma Leaderscene)
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Andreas Waldeloft: 
+----------------
+	Music (The Hunt - Europa Universalis IV: Songs of the New World)
+	https://www.youtube.com/watch?v=qZO3QOlx-Gk
+----------------
+Leonardo Badinella: 
+----------------
+	Music (Expeditions Conquistador OST - Cortes (Battle theme))
+	https://youtu.be/QpZntucsblY?list=PL7n9Lk9WUhM--QO2z4VyhYFU-lBHIPlbq
+----------------
+Albert A. Palacios: 
+----------------
+	Pedias
+	https://storymaps.arcgis.com/stories/7602ac86739c425d9f6c0e2a6b662d9f
+----------------
+Wikipedia.com: 
+----------------
+	Pedias
+	https://en.wikipedia.org/wiki/Aztec_slavery
+	https://en.wikipedia.org/wiki/Isabel_Moctezuma
+--------------------------------------------------------------
+--------------------------------------------------------------
