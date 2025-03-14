@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_CANADA_KING_DESCRIPTION">
+			<Text>CANADA (MACKENZIE KING)[NEWLINE][NEWLINE]UNIQUE TRAIT: VOLUNTEER SPIRIT[NEWLINE][ICON_BULLET]Gain up to three [ICON_SWAP] Trade Route slots whilst one of your Friends is at war. Cities with a Trade Route have increased [ICON_PRODUCTION] Military Unit Production (+10%).[NEWLINE][NEWLINE]UNIQUE BUILDING: MERCHANT SHIPYARD (SEAPORT)[NEWLINE][ICON_BULLET]The Merchant Shipyard is Canada's unique replacement for the Seaport. It increases the [ICON_PRODUCTION] Production in a city, especially toward Naval Units. In addition, half of the [ICON_PRODUCTION] Production put toward building a Cargo Ship will also be added toward any available Naval Melee and Naval Ranged Units (you will still need to complete the Production of the unit, however). Constructing Merchant Shipyards in your most important ports will ensure your Trade Routes can be well protected by a ready navy.[NEWLINE][NEWLINE]UNIQUE UNIT: FLOWER CLASS (DESTROYER)[NEWLINE][ICON_BULLET]The unique Flower Class replaces the Destroyer for Canada. This unit has a stronger combat bonus against Submarines than the Destroyer. It also begins with bonus [ICON_MOVES] Movement whenever it begins its turn on a neutral or friendly tile over which any Trade Route passes. Use Flower Classes to patrol your trade routes and protect your Cargo Ships.</Text>
+		</Row>
+		<!--CANADA-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_CANADA_DESC">
+			<Text>Canada</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_CIV_JFD_CANADA_KING_ADJECTIVE">
+			<Text>Canadian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_CANADA_KING_DESC">
+			<Text>Canadian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_CANADA_KING_SHORT_DESC">
+			<Text>Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CANADA_KING_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CANADA_KING_TEXT_1">
+			<Text>There have been people living in Canada since before recorded time. Archaeological evidence shows the first groups of hunters crossed into Canada from Siberia during the Wisconsin glaciation, then spread east and southward over time. As the climate stabilized, the indigenous groups diversified and specialized to their geographic regions. These aboriginal inhabitants (now called “First Nations” in Canada) included nations as diverse as the Cree, Hopewell, Inuit, Tlingit, Ojibwa, Haida, and Mi'kmaq, as well as countless other bands and nations over the ages.[NEWLINE][NEWLINE]First contact between the First Nations and Europeans was when the Vikings created small settlements along the Atlantic, though these settlements eventually failed, and control of the land reverted to the First Nations. John Cabot, sailing from England, arrived off the Atlantic provinces in 1497, but the first colonization efforts focused mainly on the rich offshore fisheries, rather than the mainland.[NEWLINE][NEWLINE]The French explorer Jacques Cartier claimed “Canada” in the name of Francis I in 1534, injecting French presence into what had previously been a mix of English and Portuguese claims into the area. Cartier attempted permanent French colonies at a number of locations, starting in 1541, and by the turn of the 17th Century, there were French trade and fishing settlements throughout the area, effectively cementing French control of the Canadian mainland.[NEWLINE][NEWLINE]The lucrative fur trade fueled the early colony through a robust system of trade with the First Nations and exploration and settlement of the St. Lawrence River region. During this time, the legendary coureurs des bois and voyageurs plied their canoes into the interior of the nation, establishing strong ties between the First Nations and the colonists from France. Intermarriage between settlers and First Nations led to a rising group of Metis—persons of mixed ancestry—whose interactions with the colonial government and First Nations would play important parts through Canadian history.[NEWLINE][NEWLINE]Tensions between France and England in Europe led to a series of wars in Canada as well, collectively called the French and Indian Wars, as the First Nations and settlers of New France were strongly allied in Acadia (the area around the mouth of the St. Lawrence River, extending to the Great Lakes). These came to a head during the Seven Years' War, as this European conflict quickly flashed over into Canada. French settlers in the English-controlled Maritime provinces were forcibly expelled from their homes, and most relocated to Quebec, the Caribbean, or the mouth of the Mississippi river, where “Acadian” became “Cajun.” France renounced its Canadian territorial claims in 1763, leaving the region under English rule. Canada was now under one rule, but possessed two distinct settler cultures and a significant First Nations presence.[NEWLINE][NEWLINE]During the American War of Independence, many Loyalists moved north to settle in Canada, and the Continental Army attempted a disastrous expedition, which was thoroughly routed. In what is surely one of the earliest expressions of American military hubris, James Madison authorized a military expedition to conquer Canada during the War of 1812, with former president Thomas Jefferson saying conquest would be a “mere matter of marching.” Two years later, the White House had been burned, the Americans had been stymied all along the frontier, and the American government gratefully accepted a status quo ante border in the peace.[NEWLINE][NEWLINE]Armed rebellions broke out in 1837 in response to a demand for political reforms and responsible government for Canada. Although the rebellions were suppressed, the British government's own report on the events recommended reforming the government of Canada. A series of incremental measures culminated in the Constitution Act of 1867, the act that created the basis of modern Canada.[NEWLINE][NEWLINE]The nation had continued to expand, but now the westward expansion of settlers became a flood. This brought new settlers into conflict with both First Nations and the Metis in competition for land and resources of the frontier. A series of numbered treaties with the First Nations transferred land for settlement, with the government making only token effort to honor the treaties, if not breaking them outright. The First Nations had undergone transformation through their interaction with the settlers, but this new flood threated to end traditional ways of living. The largest and most important conflict of this period was the North-West Rebellion in 1885. This rebellion by the Metis and their First Nation allies was an effort to secure political autonomy, led by the visionary Metis leader Louis Riel.[NEWLINE][NEWLINE]The Rebellion was suppressed, but the conflict had deepened long-existing divisions between Francophone and English-speaking Canadians. Minority groups (Francophone communities, the First Nations, and the Metis) saw the rising tide of dominant English Canadian culture as a threat to their own cultures, and in fairness, there was a strong tendency by the English Canadians to dismiss the minority groups as retrograde holdovers if not actively erase the groups. The matter is not entirely resolved to this day, although Canadians have made laudable efforts to debate this amongst themselves in a spirit of justice and dignity.[NEWLINE][NEWLINE]During World War I and World War II, Canada was one of the staunchest pillars of the Commonwealth forces in terms of human and material support, though conscription was deeply unpopular at home during both wars. After the World War II, Canada was an enthusiastic participant in international diplomatic efforts (Prime Minister Lester Pearson was awarded the Nobel Prize for his effort to resolve the Suez Crisis through the young United Nations).[NEWLINE][NEWLINE]The relatively young nation of Canada is the largest nation by size in North America. Its citizens have repeatedly chosen unity in a Canadian identity over a balkanization over ethnic and linguistic lines, even as they continue to work through the conflicts of Canada's history. We apologize that the scope of the Civilopedia does not allow us to recognize the nation's achievements in full, nor discuss its past in deeper detail. Sorry!</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_01">
+			<Text>Ottawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_02">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_03">
+			<Text>Toronto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_04">
+			<Text>Vancouver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_05">
+			<Text>Hamilton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_06">
+			<Text>Quebec City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_07">
+			<Text>Winnipeg </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_08">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_09">
+			<Text>London</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_10">
+			<Text>Calgary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_11">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_12">
+			<Text>Edmonton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_13">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_14">
+			<Text>Saint John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_15">
+			<Text>Halifax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_16">
+			<Text>Trois-Rivières</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_17">
+			<Text>Longueuil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_18">
+			<Text>St. Catharines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_19">
+			<Text>Oshawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_20">
+			<Text>Saskatoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_21">
+			<Text>Sault Ste. Marie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_22">
+			<Text>Burlington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_23">
+			<Text>Sudbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_24">
+			<Text>Sherbrooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_25">
+			<Text>Kitchener</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_26">
+			<Text>Prince George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_27">
+			<Text>Whitby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_28">
+			<Text>Red Deer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_29">
+			<Text>Moncton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_30">
+			<Text>Thunder Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_31">
+			<Text>Oakville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_32">
+			<Text>Medicine Hat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_33">
+			<Text>Grande Prairie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_34">
+			<Text>Laval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_35">
+			<Text>Gatineau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_36">
+			<Text>Regina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_37">
+			<Text>Valcourt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_38">
+			<Text>Barrie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_39">
+			<Text>Niagara Falls</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_0">
+			<Text>Sam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_1">
+			<Text>William</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_2">
+			<Text>Bernard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_3">
+			<Text>Claude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_4">
+			<Text>Louie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_5">
+			<Text>Stanley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_6">
+			<Text>Werner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_7">
+			<Text>Peggy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_8">
+			<Text>Jacqueline</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_9">
+			<Text>Lorraine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_10">
+			<Text>Kathleen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_11">
+			<Text>Joan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--MACKENZIE KING-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING">
+			<Text>Mackenzie King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_TEXT_1">
+			<Text>William Lyon Mackenzie King OM, CMG, PC, also commonly known as Mackenzie King, was the dominant Canadian political leader, as the Prime Minister of Canada, from the 1920s through the 1940s. He served as the tenth Prime Minister of Canada in 1921–1926, 1926–1930 and 1935–1948. He is best known for his leadership of Canada throughout the Second World War (1939–1945) when he mobilized Canadian money, supplies and volunteers to support Britain while boosting the economy and maintaining home front morale. A Liberal with 21 years and 154 days in office, he was the longest-serving prime minister in Canadian history. Trained in law and social work, he was keenly interested in the human condition (as a boy, his motto was "Help those that cannot help themselves"), and played a major role in laying the foundations of the Canadian welfare state.[NEWLINE][NEWLINE]King acceded to the leadership of the Liberal Party in 1919. Taking the helm of a party bitterly torn apart during the First World War, he reconciled factions, unifying the Liberal Party and leading it to victory in the 1921 election. His party was out of office during the harshest days of the Great Depression in Canada, 1930–35; he returned when the economy was on an upswing. He personally handled complex relations with the Prairie Provinces, while his top aides Ernest Lapointe and Louis St. Laurent skillfully met the demands of French Canadians. During the Second World War, he carefully avoided the battles over conscription, patriotism and ethnicity that had divided Canada so deeply in the First World War. Though few major policy innovations took place during his premiership, he was able to synthesize and pass a number of measures that had reached a level of broad national support. Scholars attribute King's long tenure as party leader to his wide range of skills that were appropriate to Canada's needs. He understood the workings of capital and labour. Keenly sensitive to the nuances of public policy, he was a workaholic with a shrewd and penetrating intelligence and a profound understanding of the complexities of Canadian society. A modernizing technocrat who regarded managerial mediation as essential to an industrial society, he wanted his Liberal Party to represent liberal corporatism to create social harmony. King worked to bring compromise and harmony to many competing and feuding elements, using politics and government action as his instrument. He led his party for 29 years, and established Canada's international reputation as a middle power fully committed to world order.[NEWLINE][NEWLINE]King's biographers agree on the personal characteristics that made him distinctive. He lacked the charisma of such contemporaries as Franklin Roosevelt, Winston Churchill, or Charles de Gaulle. He lacked a commanding presence or oratorical skill; his best writing was academic, and did not resonate with the electorate. Cold and tactless in human relations, he had many political allies but very few close personal friends. He never married and lacked a hostess whose charm could substitute for his chill. He kept secret his beliefs in spiritualism and use of mediums to stay in contact with departed associates and particularly with his mother, and allowed his intense spirituality to distort his understanding of Adolf Hitler throughout the late 1930s.[NEWLINE][NEWLINE]A survey of scholars in 1997 by Maclean's magazine ranked King first among all Canada's prime ministers, ahead of Sir John A. Macdonald and Sir Wilfrid Laurier. As historian Jack Granatstein notes, "the scholars expressed little admiration for King the man but offered unbounded admiration for his political skills and attention to Canadian unity." On the other hand, political scientist Ian Stewart in 2007 found that even Liberal activists have but a dim memory of him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_NAME">
+			<Text>Mackenzie King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_SUBTITLE">
+			<Text>Leader of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_TITLES_1">
+			<Text>Prime Minister of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_LIVED">
+			<Text>1874 - 1950</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_CANADA_KING_TEXT">
+			<Text>War is upon the friends and allies of Canada, Mackenzie King, and you must not sit idly by. As Prime Minister for over two decades, you oversaw some of the most stable years in Canada's history; all the while with war and economic depression threatening to engulf the world. A shrewd and intelligent public servant, you sought to bring economic prosperity to Canada and her allies, and in your success, you would pave the way for Canada to take her place as an actor on the international stage.[NEWLINE][NEWLINE]War tolls on the horizon, Mackenzie King, and Canada needs an able statesman to carry her through. Can you bring economic prosperity to those that cannot help themselves? Can you inspire your countrymen to serve for peace; not glory? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_FIRSTGREETING_1">
+			<Text>Greetings and welcome. I am Mackenzie King, Prime Minister of Canada. That's all the pleasantries I have time for.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DEFEATED_1">
+			<Text>A shame. I was growing to admire you. Perhaps we'll keep in on the other side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_ATTACKED_HOSTILE_1">
+			<Text>Then we will do what we must.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DEC_FRIENDSHIP_1">
+			<Text>My ministers think highly of you, and have asked that Canada extend her hand in a public Declaration of Friendship with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DENOUNCE_1">
+			<Text>My parliament has decided to denounce you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DENOUNCE_FRIEND_1">
+			<Text>I have little more to say to you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DOW_GENERIC_1">
+			<Text>My parliament has moved to declare war upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So be it.</Text>
+		</Row>
+		<!--VOLUNTEER SPIRIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_CANADA_KING_SHORT">
+			<Text>Volunteer Spirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_CANADA_KING">
+			<Text>Gain up to three [ICON_SWAP] Trade Route slots whilst one of your Friends is at war. Cities with a Trade Route have increased [ICON_PRODUCTION] Military Unit Production (+10%).</Text>
+		</Row>
+		<!--JFD: Canada (King) (Production)-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_PRODUCTION">
+			<Text>JFD: Canada (King) (Production)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_PRODUCTION_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Canada (King) (Trade Route)-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_TRADE_ROUTE">
+			<Text>JFD: Canada (King) (Trade Route)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_TRADE_ROUTE_HELP">
+			<Text></Text>
+		</Row>
+		<!--MERCHANT SHIPYARD-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD">
+			<Text>Merchant Shipyard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and [ICON_GOLD] Gold from Sea Resources worked by this City. +15% [ICON_PRODUCTION] Production when building Naval Units.[NEWLINE][NEWLINE]Building Cargo Ships adds half [ICON_PRODUCTION] Production toward Naval Melee and Naval Ranged Units at the same time.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_HELP_EE">
+			<Text>Naval units trained in this city have +15% [ICON_STRENGTH] Combat Strength.[NEWLINE][NEWLINE]Building Cargo Ships adds half [ICON_PRODUCTION] Production toward Naval Combat Units at the same time.[NEWLINE][NEWLINE]City must have a Seaport.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_STRATEGY">
+			<Text>The Merchant Shipyard is Canada's unique replacement for the Seaport. It increases the [ICON_PRODUCTION] Production in a city, especially toward Naval Units. In addition, half of the [ICON_PRODUCTION] Production put toward building a Cargo Ship will also be added toward any available Naval Melee and Naval Ranged Units (you will still need to complete the Production of the unit, however). Constructing Merchant Shipyards in your most important ports will ensure your Trade Routes can be well protected by a ready navy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_STRATEGY_EE">
+			<Text>The Merchant Shipyard is Canada's unique replacement for the Drydock. It increases the [ICON_STRENGTH] Combat Strength of Naval Units trained in the city. In addition, half of the [ICON_PRODUCTION] Production put toward building a Cargo Ship will also be added toward any available Naval Melee and Naval Ranged Units (you will still need to complete the Production of the unit, however). Constructing Merchant Shipyards in your most important ports will ensure your Trade Routes can be well protected by a ready navy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_TEXT">
+			<Text>A shipyard (also called a dockyard) is a place where ships are built and repaired. These can be yachts, military vessels, cruise liners or other cargo or passenger ships. Dockyards are sometimes more associated with maintenance and basing activities than shipyards, which are sometimes associated more with initial construction. The terms are routinely used interchangeably, in part because the evolution of dockyards and shipyards has often caused them to change or merge roles. </Text>
+		</Row>
+		<!--FLOWER CLASS-->
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS">
+			<Text>Flower Class</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS_HELP">
+			<Text>Fast Destroyer replacement that excels at defeating Submarine units. Begins with bonus [ICON_MOVES] Moves when beginning its turn on a Trade Route in neutral or friendly waters. Only Canada can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS_STRATEGY">
+			<Text>The unique Flower Class replaces the Destroyer for Canada. This unit has a stronger combat bonus against Submarines than the Destroyer. It also begins with bonus [ICON_MOVES] Movement whenever it begins its turn on a neutral or friendly tile over which any Trade Route passes. Use Flower Classes to patrol your trade routes and protect your Cargo Ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS_TEXT">
+			<Text>The Flower-class corvette (also referred to as the Gladiolus class after the lead ship) was a British class of 267 corvettes used during World War II, specifically with the Allied navies as anti-submarine convoy escorts during the Battle of the Atlantic. Royal Navy ships of this class were named after flowers, hence the name of the class. The majority served during World War II with the Royal Navy (RN) and Royal Canadian Navy (RCN). Several ships built largely in Canada were transferred from the RN to the United States Navy (USN) under the lend-lease programme, seeing service in both navies.</Text>
+		</Row>
+		<!--Extra Bonus vs Submarines (25)-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS">
+			<Text>Extra Bonus vs Submarines (25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS_HELP">
+			<Text>Extra Bonus vs Submarines (25)</Text>
+		</Row>
+		<!--Canadian Merchant Navy-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS_ACTIVE">
+			<Text>Canadian Merchant Navy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS_ACTIVE_HELP">
+			<Text>+2 [ICON_MOVES] Movement when [COLOR_POSITIVE_TEXT]beginning their turn[ENDCOLOR] on a Trade Route in neutral or friendly water.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_CANADA_KING_DESCRIPTION">
+			<Text>CANADA (MACKENZIE KING)[NEWLINE][NEWLINE]UNIQUE TRAIT: VOLUNTEER SPIRIT[NEWLINE][ICON_BULLET]Gain up to three [ICON_SWAP] Trade Route slots whilst one of your Friends is at war. Cities with a Trade Route have increased [ICON_PRODUCTION] Military Unit Production (+10%).[NEWLINE][NEWLINE]UNIQUE BUILDING: MERCHANT SHIPYARD (SEAPORT)[NEWLINE][ICON_BULLET]The Merchant Shipyard is Canada's unique replacement for the Seaport. It increases the [ICON_PRODUCTION] Production in a city, especially toward Naval Units. In addition, half of the [ICON_PRODUCTION] Production put toward building a Cargo Ship will also be added toward any available Naval Melee and Naval Ranged Units (you will still need to complete the Production of the unit, however). Constructing Merchant Shipyards in your most important ports will ensure your Trade Routes can be well protected by a ready navy.[NEWLINE][NEWLINE]UNIQUE UNIT: FLOWER CLASS (DESTROYER)[NEWLINE][ICON_BULLET]The unique Flower Class replaces the Destroyer for Canada. This unit has a stronger combat bonus against Submarines than the Destroyer. It also begins with bonus [ICON_MOVES] Movement whenever it begins its turn on a neutral or friendly tile over which any Trade Route passes. Use Flower Classes to patrol your trade routes and protect your Cargo Ships.</Text>
+		</Row>
+		<!--CANADA-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_CANADA_DESC">
+			<Text>加拿大</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_CIV_JFD_CANADA_KING_ADJECTIVE">
+			<Text>加拿大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_CANADA_KING_DESC">
+			<Text>加拿大自治領</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_CANADA_KING_SHORT_DESC">
+			<Text>加拿大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CANADA_KING_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CANADA_KING_TEXT_1">
+			<Text>自有記載以來，就有人類居住在加拿大。考古證據表明，第一批獵人在威斯康辛冰川期從西伯利亞進入加拿大，然後隨著時間的推移向東和向南擴散。隨著氣候穩定，原住民群體變得多樣化，並專門適應其地理區域。這些原住民（現加拿大稱為「第一民族」）包括克里族、霍普韋爾族、因紐特人、特林吉特人、奧吉布瓦人、海達人和米克馬克人等不同民族，以及各個時代不計其數的其他族群和國家。 1497 年，約翰·卡伯特從英國啟航，抵達大西洋沿岸各省，但最初的殖民工作主要集中在豐富的近海漁業上，而不是大陸。從 1541 年開始，卡蒂埃就試圖在多個地點建立永久性的法國殖民地。在此期間，傳奇的伐木者和航行者將他們的獨木舟駛入該國內陸，建立了原住民與法國殖民者之間的牢固聯繫。定居者與原住民之間的通婚導致了梅蒂人（混血血統的人）群體的崛起，他們與殖民政府和原住民的互動在加拿大歷史上發揮了重要作用。七年戰爭期間，這一問題達到了頂峰，因為這場歐洲衝突迅速蔓延到加拿大。英國控制的沿海省份的法國定居者被強行驅逐出家園，大多數人遷移到魁北克、加勒比地區或密西西比河河口，「阿卡迪亞人」變成了「卡津人」。 1763 年，法國放棄了對加拿大領土的主張，將該地區置於英國的統治之下。加拿大現在處於一個統治之下，但擁有兩種不同的定居文化和大量原住民。詹姆斯·麥迪遜在 1812 年戰爭期間批准軍事遠徵征服加拿大，這無疑是美國軍事狂妄自大最早的表現之一，而前總統托馬斯·杰斐遜卻說征服只不過是“行軍而已”。兩年後，白宮被燒毀，美國人在整個邊境地區受阻，美國政府只能心懷感激地接受和平時期邊界的現狀。儘管叛亂被鎮壓了，但英國政府自己關於這些事件的報告建議改革加拿大政府。一系列漸進的措施最終促成了 1867 年憲法法案的通過，該法案奠定了現代加拿大的基礎。這使得新移民與第一民族和梅蒂斯人因爭奪邊境土地和資源而發生衝突。與原住民簽訂的一系列編號條約將土地轉讓給定居者，而政府只是像徵性地努力履行條約，甚至徹底違反條約。原住民透過與定居者的互動經歷了變革，但這場新的洪水威脅著他們傳統的生活方式的終結。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_01">
+			<Text>渥太華</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_02">
+			<Text>蒙特利爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_03">
+			<Text>多倫多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_04">
+			<Text>漢密爾頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_05">
+			<Text>溫哥華</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_06">
+			<Text>魁北克市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_07">
+			<Text>溫尼伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_08">
+			<Text>金斯頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_09">
+			<Text>倫敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_10">
+			<Text>溫莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_11">
+			<Text>卡加利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_12">
+			<Text>埃德蒙頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_13">
+			<Text>維多利亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_14">
+			<Text>聖約翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_15">
+			<Text>哈利法克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_16">
+			<Text>三河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_17">
+			<Text>隆格伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_18">
+			<Text>聖凱瑟琳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_19">
+			<Text>奧沙瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_20">
+			<Text>薩斯卡通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_21">
+			<Text>蘇聖瑪麗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_22">
+			<Text>伯靈頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_23">
+			<Text>薩德伯里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_24">
+			<Text>舍布魯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_25">
+			<Text>基奇納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_26">
+			<Text>喬治王子城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_27">
+			<Text>惠特比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_28">
+			<Text>馬鹿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_29">
+			<Text>蒙克頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_30">
+			<Text>桑德貝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_31">
+			<Text>奧克維爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_32">
+			<Text>梅迪辛哈特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_33">
+			<Text>大草原城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_34">
+			<Text>拉瓦爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_35">
+			<Text>加蒂諾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_36">
+			<Text>里賈納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_37">
+			<Text>瓦爾庫爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_38">
+			<Text>巴里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANADA_KING_39">
+			<Text>尼加拉</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_0">
+			<Text>薩姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_1">
+			<Text>威廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_2">
+			<Text>伯納德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_3">
+			<Text>克勞德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_4">
+			<Text>路易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_5">
+			<Text>斯坦利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_6">
+			<Text>沃納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_7">
+			<Text>佩吉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_8">
+			<Text>傑奎琳</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_9">
+			<Text>洛麗</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_10">
+			<Text>凱瑟琳</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_CANADA_KING_11">
+			<Text>喬安</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--MACKENZIE KING-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING">
+			<Text>威廉·萊昂·麥肯齊·金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_TEXT_1">
+			<Text>威廉·萊昂·麥肯齊·金 OM，CMG，PC，也通常被稱為麥肯齊·金，是加拿大的主要政治領袖，從 20 世紀 20 年代到 40 年代一直擔任加拿大總理。他曾於1921年至1926年、1926年至1930年和1935年至1948年擔任加拿大第十任總理。他最著名的事蹟是第二次世界大戰期間（1939 年至 1945 年）加拿大的領導，當時他調動加拿大的資金、物資和志工來支持英國，同時促進經濟發展並維護國內士氣。他是自由黨人，任職 21 年 154 天，是加拿大歷史上任職時間最長的總理。他接受過法律和社會工作方面的培訓，對人類的處境非常感興趣（小時候，他的座右銘是“幫助那些無法自助的人”），並在奠定加拿大福利國家的基礎方面發揮了重要作用。 1930 年至 1935 年，加拿大大蕭條最為嚴重的時候，他的政黨卻在野。他回國時正值經濟好轉。他親自處理與草原省份的複雜關係，而他的高級助手埃內斯特·拉波因特 (Ernest Lapointe) 和路易斯·聖洛朗 (Louis St. Laurent) 則巧妙地滿足了法裔加拿大人的要求。第二次世界大戰期間，他小心翼翼地避開了在第一次世界大戰中導致加拿大嚴重分裂的徵兵、愛國主義和種族問題之爭。雖然他在擔任首相期間沒有推出任何重大的政策創新，但他還是綜合併通過了一系列得到全國廣泛支持的措施。學者認為，金之所以能長期擔任黨魁是因為他擁有廣泛的技能，並且符合加拿大的需要。他了解資本和勞動力的運作。他對公共政策的細微差別非常敏感，是個工作狂，擁有敏銳的才智和深刻的洞察力，對加拿大社會的複雜性有著深刻的理解。身為一位現代化的技術專家，他認為管理調解對於工業社會至關重要，他希望他的自由黨能代表自由法團主義來創造社會和諧。金利用政治與政府行動作為工具，努力為許多競爭與爭鬥的因素帶來妥協與和諧。他領導加拿大工黨長達 29 年，並建立了加拿大作為一個致力於世界秩序的中等強國的國際聲譽。他缺乏富蘭克林·羅斯福、溫斯頓·邱吉爾或夏爾·戴高樂等同時代人的魅力。他缺乏威嚴和演講技巧；他最好的作品是學術性的，並沒有引起選民的共鳴。他在人際關係上冷漠而欠圓滑，政治上有許多盟友，但親密的私人朋友卻很少。他終身未婚，也缺少一位能用魅力取代他冷淡的女主人。他一直隱瞞自己對唯靈論的信仰，並利用靈媒與已故的同事（尤其是他的母親）保持聯繫，並讓自己強烈的精神信仰扭曲了他在 20 世紀 30 年代末對阿道夫·希特勒的理解。正如歷史學家傑克·格拉納斯坦 (Jack Granatstein) 所說，“學者們對金本人並不太欽佩，但對他的政治才能和對加拿大統一的關注卻無限欽佩。”另一方面，政治學家伊恩·史都華 (Ian Stewart) 在 2007 年發現，甚至自由黨活動家對他的記憶也很模糊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_NAME">
+			<Text>麥肯齊·金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_SUBTITLE">
+			<Text>加拿大領導人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_TITLES_1">
+			<Text>加拿大總理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CANADA_KING_LIVED">
+			<Text>1874 - 1950</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_CANADA_KING_TEXT">
+			<Text>戰爭已經降臨到加拿大的朋友和盟友頭上，麥肯齊·金，你不能袖手旁觀。身為加拿大總理二十多年，您見證了加拿大史上最穩定的幾年；同時，戰爭和經濟衰退威脅著整個世界。身為一位精明、聰明的公務員，您致力於為加拿大及其盟友帶來經濟繁榮，而您的成功將為加拿大在國際舞台上佔據一席之地鋪平道路。你能為那些無法自助的人帶來經濟繁榮嗎？你能激勵你的同胞為和平服務嗎？不是榮耀？你能建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_FIRSTGREETING_1">
+			<Text>歡迎您，我是加拿大總理麥肯齊·金...我所能說的客套話就這麼多了!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DEFEATED_1">
+			<Text>丟人現眼！我曾經對妳的欽佩之情日漸加深。也許如今我要把這種情感另壹邊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_ATTACKED_HOSTILE_1">
+			<Text>我們馬上就會做我們必須做的事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DEC_FRIENDSHIP_1">
+			<Text>我的部長們對你們評價很高，並請加拿大向你們公開發表友好宣言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DENOUNCE_1">
+			<Text>加拿大議會抉定譴責您。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DENOUNCE_FRIEND_1">
+			<Text>我對你說的已經不多了。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_DOW_GENERIC_1">
+			<Text>我的議會已向你們宣戰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CANADA_KING_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>就這樣吧。</Text>
+		</Row>
+		<!--VOLUNTEER SPIRIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_CANADA_KING_SHORT">
+			<Text>志工精神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_CANADA_KING">
+			<Text>當您的一位盟友国家處於戰爭狀態時，您将獲得最多三個 [ICON_SWAP] 貿易路線槽。擁有貿易路線的城市可以增加[ICON_PRODUCTION]軍事單位生產力(+10%)。</Text>
+		</Row>
+		<!--JFD: Canada (King) (Production)-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_PRODUCTION">
+			<Text>志工精神-生産力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_PRODUCTION_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Canada (King) (Trade Route)-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_TRADE_ROUTE">
+			<Text>志工精神-自由貿易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CANADA_KING_TRADE_ROUTE_HELP">
+			<Text></Text>
+		</Row>
+		<!--MERCHANT SHIPYARD-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD">
+			<Text>商船船廠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_HELP">
+			<Text>該城市工作的海洋資源可提供+1生産力[ICON_PRODUCTION]和+1金幣[ICON_GOLD]建造海軍單位時生産力[ICON_PRODUCTION]+15%，建造貨船可同時爲近戰海軍單位和遠程海軍單位提供壹半的生産力[ICON_PRODUCTION]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_HELP_EE">
+			<Text>在該城市訓練的海軍單位戰鬥力[ICON_STRENGTH]+15%，建造貨船時，同時爲海軍作戰單位提供壹半的[ICON_PRODUCTION]生産力，該城市必須擁有海港。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_STRATEGY">
+			<Text>商船造船廠是加拿大的獨特替代品，用于替代海港。它可以增加城市的生産力，尤其是針對海軍單位的生産力。此外，用于建造貨船的壹半生産力也會被加到任何可用的海軍近戰單位和海軍遠程單位上（不過妳仍然需要完成單位的生産）。在最重要的港口建造商船造船廠，可以確保妳的貿易路線得到隨時待命的海軍的充分保護。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_STRATEGY_EE">
+			<Text>商船造船廠是加拿大的獨特替代建築，用于替代旱船塢。它能增加在該城市訓練的海軍單位的戰鬥力。此外，用于建造貨船的壹半生産力也會被加到任何可用的海軍近戰單位和海軍遠程單位上（不過妳仍然需要完成單位的建造）。在最重要的港口建造商船造船廠，可以確保妳的貿易路線得到隨時待命的海軍的充分保護。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MERCHANT_SHIPYARD_TEXT">
+			<Text>造船廠（也稱爲船塢）是建造和修理船只的地方。這些船只可以是遊艇、軍艦、遊輪，或者是其他貨船或客船。船塢有時更多地與維護和停靠活動相關聯，而造船廠則有時更多地與初始建造相關。不過，這兩個術語通常可以互換使用，部分原因是船塢和造船廠的演變經常導致它們的角色發生變化或合並。</Text>
+		</Row>
+		<!--FLOWER CLASS-->
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS">
+			<Text>花級輕量護衛艦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS_HELP">
+			<Text>快速驅逐艦替代品，擅長擊敗潛艇部隊，當其在中立或友方水域的貿易路線上開始回合時，會獲得額外的+2[ICON_MOVES]移動力，只有加拿大自治領可以建造它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS_STRATEGY">
+			<Text>獨特的花級輕量護衛艦取代了加拿大的驅逐艦。該部隊對抗潛艦的戰鬥加成比驅逐艦更強。每當它在任何貿易路線經過的中立或友好地塊上開始輪到它時，它也會從獎勵 [ICON_MOVES] 移動開始。使用花卉班巡邏您的貿易路線並保護您的貨船。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLOWER_CLASS_TEXT">
+			<Text>花級輕型護衛艦（也稱為劍蘭級，以其首艦命名）是第二次世界大戰期間英國使用的一個級別的輕型護衛艦，共有 267 艘，具體來說是在大西洋戰役期間作為反潛護航艦為盟軍海軍護航。英國皇家海軍該級別的艦艇以花朵命名，因此得名。他們中的大多數在第二次世界大戰期間曾在英國皇家海軍 (RN) 和加拿大皇家海軍 (RCN) 服役。根據租借法案，幾艘主要在加拿大建造的船隻從英國皇家海軍轉移到美國海軍 (USN)，並在兩國海軍中服役。</Text>
+		</Row>
+		<!--Extra Bonus vs Submarines (25)-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS">
+			<Text>潛水艇的額外猎杀獎勵(25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS_HELP">
+			<Text>潛水艇的額外猎杀獎勵(25)</Text>
+		</Row>
+		<!--Canadian Merchant Navy-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS_ACTIVE">
+			<Text>加拿大商船隊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FLOWER_CLASS_ACTIVE_HELP">
+			<Text>其在中立或友方水域的貿易路線上開始回合時，獲得額外的+2[ICON_MOVES]移動力。</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

@@ -1,0 +1,50 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Art (Canada Icon)
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+DarthStarKiller: 
+----------------
+	Art (Merchant Shipyard Icon)
+----------------
+Rawsasquatch: 
+----------------
+	Art (Mackenzie King Leaderscene; Canada Map)
+----------------
+Wolfdog:
+----------------
+	Graphics (Flower Class Model)
+	https://forums.civfanatics.com/resources/civ5-flower-class-corvette.21763/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Andreas Waldetoft: 
+----------------
+	Music (Hearts of Iron IV - End of the Tour; Hearts of Iron IV - We Are Soldiers)
+	https://www.youtube.com/watch?v=TL55Ryz2r6M
+	https://www.youtube.com/watch?v=NAaAd7zTSG4
+----------------
+Civilization.fandom.com: 
+----------------
+	Pedias
+	https://civilization.fandom.com/wiki/Canadian_(Civ6)
+----------------
+Wikipedia.com: 
+----------------
+	Pedias
+	https://en.wikipedia.org/wiki/Flower-class_corvette
+	https://en.wikipedia.org/wiki/Shipyard
+	https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King
+--------------------------------------------------------------
+--------------------------------------------------------------
