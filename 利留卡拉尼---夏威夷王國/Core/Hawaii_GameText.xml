@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_HAWAII_DESCRIPTION">
+			<Text>HAWAII (LILIUOKALANI)[NEWLINE][NEWLINE]UNIQUE TRAIT: ALOHA OE[NEWLINE][ICON_BULLET]National Wonders with a [ICON_GREAT_WORK] Great Work yield +1 Point toward all [ICON_GREAT_PEOPLE] Cultural Great People.[NEWLINE][ICON_BULLET][ICON_GREAT_PEOPLE] Cultural Great People Points from Buildings add to [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUSE OF KINGS[NEWLINE][ICON_BULLET]Replaces Museum.[NEWLINE][ICON_BULLET]No maintenance.[NEWLINE][ICON_BULLET]+5% [ICON_GREAT_PEOPLE] Great People generation.[NEWLINE][ICON_BULLET]+5% [ICON_GREAT_PEOPLE] Great People generation per Social Policy Branch completed.[NEWLINE][NEWLINE]UNIQUE UNIT: KAIMILOA[NEWLINE][ICON_BULLET]Replaces Ironclad.[NEWLINE][ICON_BULLET]Can enter rival territory.[NEWLINE][ICON_BULLET]Begins with bonus [ICON_MOVES] Movement based on the city's [ICON_CULTURE] Culture.</Text>
+		</Row> 
+		<!--HAWAII-->
+		<Row Tag="TXT_KEY_CIV_JFD_HAWAII_ADJECTIVE">
+			<Text>Hawaiian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAWAII_DESC">
+			<Text>Hawaiian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAWAII_SHORT_DESC">
+			<Text>Hawai'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_1">
+			<Text>The history of the Hawaiian archipelago is one of isolated beginnings, European influence, unification, the overthrow of native control and finally administered to the United States as a territory. Discovered by Captain James Cook in 1778, Hawai'i was originally called the 'Sandwich Islands', named after the fourth Earl of Sandwich, John Montagu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_2">
+			<Text>Hawai'i is made up of eight islands placed some 2000 miles southwest of North America, deep in the northern Pacific Ocean. Constantly created, formed and reformed by underwater volcanic activity, the Hawaiian islands sit on top of a hotspot - a magma source fed by the underlying mantle. As the Pacific plate moves northwest the hotspot remains under Hawai'i, creating new volcanoes and fertile land. The Hawaiian climate is typically tropical for the most part, but the islands themselves vary a great deal in their local climates, as a result resorts tend to face windward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_3">
+			<Text>Ancient Hawai'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_3">
+			<Text>The earliest settlement of the Hawaiian islands is not entirely known; scholars tend to believe the first Polynesians arrived on Hawai'i in the third century from the Marquesas, followed by Tahitian invaders a millenium later. Others suggest that there was a single period of extensive settlement of the entire Polynesian region. Some writers believe that there may have been native Hawaiians before the arrival of the Polynesians, stories about menehune - little people who built heiau and fishponds - were said to prove the existence of ancient peoples who settled before the Polynesians, however in 1951 historians such as Luomala argue the stories as folklore, archaeologists have also yet to prove any suggestion of menehune settlements.[NEWLINE][NEWLINE]Ancient Hawai'i was a caste society. Four major classes existed in the tribe; the ali'i were the chiefs of the islands, ruling with divine power called 'mana'. The kahuna were the professionals - priests, carpenters, chanters and dancers, physicians and healers. The maka'ainana were the commoners - farmers and fishers, the laborers who did so not only for themselves and their families, but to support the ali'i and kahuna. Finally the kauwa were the war captives or their descendants; much like other slave classes from ancient cultures the kauwa could not marry above them and largely worked for the ali'i, even used for human sacrifice.[NEWLINE][NEWLINE]Like other Polynesian civilizations the Hawaiians remained entirely isolated from outside influence - Asian, American or European - until January 18, 1778 when British Captain James Cook first discovered Kaua'i island and then continued southward to discover and explore the rest of the island chain. When Cook landed at what would become Kealakekua Bay the natives believed him as Lono - the Hawaiian god of fertility, rainfall, music and peace. In this chance meeting Cook had met with a young Kamehameha I amongst other ali'i. The young ali'i would soon begin a great campaign to unify the archipelago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_4">
+			<Text>The Kingdom of Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_4">
+			<Text>Starting in 1780 Kamehameha began a lengthy military campaign to unify and claim the entire archipelago; travelling from island to island, defeating all the chiefs. The wars lasted fifteen long years in which Kamehameha used modern weapons from Europe and western advisors such as John Young and Issac Davis. Despite success in claiming O'ahu and Maui islands he was not able to secure a victory at Kaua'i, his attempts foiled by a storm and a plague that severely weakened his army. Eventually however the chief of Kaua'i swore allegiance to Kamehameha, thus in that action unified the islands under a single banner for the first time in its history. The unification ended the ancient Hawaiian society and created an independent constitutional monarchy, forged in the traditions and the manner of western monarchs.[NEWLINE][NEWLINE]From its inception in 1810 to 1893 the Kingdom of Hawai'i was governed by two dynastic families; the House of Kamehameha and the Kalakaua Dynasty. The Kamehameha Dynasty saw more tumult and political threats whereas the shorter Kalakaua Dynasty displayed internal political upheavals and constitutions. After Kamehameha's death his wife, Queen Ka'ahumanu came to rule as a newly converted Protestant. In that time Catholicism was illegal, in 1831 chiefs loyal to the queen forced the removal of French Catholic priests from the islands and natives converted to the religion were claimed to have been imprisoned and tortured after the expulsion. This prejudice held under her successor Kuhina Nui Ka'ahumanu II, where Captain Laplace of the French frigate Artémise sailed to Hawai'i in 1839 with orders to send an ultimatum, threatening war. By July 17 King Kamehameha III signed the Edict of Toleration, he paid US$20,000 in compensation and agreed to Laplace's demands. After what would become known as the French Incident, admiral Louis Tromelin arrived in Honolulu in August 1849. Tromelin made ten demands to Kamehameha III, mostly to give full religious rites to Catholics. The demands were never met and, after warnings from the admiral, the French force overwhelmed the skeleton army, taking the fort and plundering property. By September 5 Tromelin retreated and left.[NEWLINE][NEWLINE]To make matters worse, on February 10 1843, Lord George Paulet on the HMS Carysfort sailed into Honolulu to demand the cession of the Hawaiian Islands to the British Crown. Under threat of fire Kamehameha III abdicated under protest, surrendering to Paulet fifteen days later. Gerrit P Judd, a mission who became the Minister of Finance, sent envoys to the United States, France and Britain secretly to protest against the lord’s actions. The protest eventually reached Rear Admiral Richard Darton Thomas, Paulet’s commanding officer; he arrived on July 26 to repudiate his subordinate’s actions. Five days after, the Hawaiian government was restored with Kamehameha III restored as king.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_5">
+			<Text>American Cession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_5">
+			<Text>As the House of Kamehameha ended its rule over Hawai’i in 1872, the House of Kalakaua seated the throne. Initially Lunalilo won the election to rule, but his death after thirteen months placed the only remaining male relative of Kamehameha, Kalakaua as king. By this time American influence was well established; at the start of the 19th century American Protestant missions settled in Hawai’i and gained wealth and influence rapidly. They prohibited traditions they disliked, Reverend Amos Starr Cooke established a school to educate the royal family and its future monarchs. His relations with the king earned him an unofficial position as advisor to King Kamehameha III in 1843 where devised a land reform granting foreigners the ability to buy land from locals so as to plant sugarcane. Cooke and other missionaries became big landholders in Hawai’i, and from sugar production took hold of the economy.[NEWLINE][NEWLINE]A free trade agreement between the United States and the Kingdom of Hawai’i was drafted in 1875, the Reciprocity Treaty. It granted duty-free importation of Hawaiian sugar into the States, further promoting plantation growth, held largely by the foreigners. Later that year the US demanded the cession of what is now Pearl Harbour, Hawaiians protested on the streets until the revolt was choked by US marines. The treaty also allowed similar transactions with rice as rice was also a major crop. This attracted Chinese and Japanese immigration into Hawai’i to support the sugar industry and expand the cultivation of the rice.[NEWLINE][NEWLINE]Over the course of eleven years, starting in 1887, revolts sprung up from the white minorities; beginning with the formation of the Reform Party and their armed militia, the Honolulu Rifles. The militia and members of the cabinet seized the palace and forced King David Kalakaua into proclaiming their bill. Forcing the Bayonet Constitution, the militia striped the authority of the monarchy bare and set about disenfranchising the Asian population, giving three-quarters of the vote to white Europeans and Americans. The following year a plot to overthrow the king was exposed. By 1889 a rebellion of natives led by Colonel Robert Wilcox attempted to depose the unpopular constitution and storm the palace. The Wilcox Rebellions were crushed by the Honolulu Rifles. When the king died in 1891 Lili’uokalani ascended and immediately altered the constitution to restore the monarch’s authority. Unsettled by the turn of events a group of white men formed the Committee of Safety in January 14 1983, the primary goal of the party was the unseat the queen and annex Hawai’i to the United States. In just three days the States Government summoned a company of Marines and sailors to land and assume positions in US Legation and Consulate, establishing the Provisional Government of Hawaii. By January 17 Lili’uokalani abdicated under this pressure, yielding authority and pleading for justice.[NEWLINE][NEWLINE]Fear grew for the Hawaiian whites of a US intervention to restore the monarchy, thus prompting the Republic of Hawaii on July 4, the American Independance Day, 1894 under the presidency of Sanford Dole. The 1895 Counter-Revolution led by Colonels Robert Nowlein and Wilcox attempted to remove the republic and restore the queen to the throne, both colonels and Lili’uokalani were captured and imprisoned. Seeking to annex Hawaii as an American territory President William McKinley signed the Newlands Resolution on July 7 1889, ending Hawaiian independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_6">
+			<Text>20th Century Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_6">
+			<Text>The territorial legislature convened for the first time on February 20, 1901, where the year prior the Hawaiians formed the Hawaiian Independent Party, led by Robert Wilcox, who in doing so became the first Hawaiian congressional delegate. During this period the sugar industry expanded greatly, the major companies began to gain considerable strength as the tariffs of sugarcane were lifted, planters had more money to invest. Five of the biggest sugar manufacturers held the monopoly in their hands, controlling 90% of the business - they were known as the ‘Big Five’. They kept their prices high and profited greatly; the executives began to sit at each other’s boards and began to grow political power, the families often favoring the Republican Party.[NEWLINE][NEWLINE]On December 7 1941 the Empire of Japan committed a surprise attack on Pearl Harbour in the Hawaiian Territory. The attack was designed to preemptively stop the U.S. Pacific Fleet from interfering with Japan’s actions in Southeast Asia. While it shocked the Americans, it in fact led to America entering World War II, declaring war against Japan and in turn Germany and Italy declaring war on America. To compound Japan’s oversight Admiral Hara Tadaichi, upon reflection summed up the result of the attack as “a great tactical victory at Pearl Harbour and thereby lost the war.” Isoroku Yamamoto, the mastermind of the attack was not aware of a decision on the U.S. Navy as far back as 1935 to abandon charging across the Pacific in response to an outbreak of war. The Pearl Harbour attack, it would seem, was entirely unnecessary and eventually resulted in the Atomic Bomb and Germany and Japan’s defeat in the conflict.[NEWLINE][NEWLINE]In 1954 a non-violent revolution swept across Hawaii’s industry with strikes, protests and other forms of civil disobedience. That year’s election saw the Republican Party’s unbroken rule ended, establishing the Democratic Party in Hawaii. The Democrats lobbied for statehood, unionized the workforce and as a result hasted the decline of the sugar industry. Statehood eventually came to Hawaii when President Dwight David Eisenhower signed the Hawaii Admission Act on March 18 1959 and after a referendum Hawaii became America’s 50th state on August 21 that year. The Big Five sugar companies declined to such a point that they, like most other sugar businesses became bought out by foreign firms.[NEWLINE][NEWLINE]Today Hawaii is a lush Pacific islander paradise, modernizing quickly from American construction and trading heavily on its tourism industry. In 1978 the Hawai’i State Constitutional Convention incorporated programs to promote native Hawaiian language and culture. The promotion of Hawaiian culture led to a Hawaiian Renaissance, reigniting interest in Ancient Hawai’i. With help of the Congress the Apology Resolution passed on November 23 1993 where President Bill Clinton signed the bill, it apologized to the native Hawaiians for the United States’ role in overthrowing the kingdom in 1893.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_7">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_7">
+			<Text>The Hawaiian archipelago is the longest island chain in the world, measuring at some 1,500 miles from end to end.[NEWLINE][NEWLINE]The military and navy of the kingdom conformed to the warriors of Kona, who under Kamehameha originally mobilized in his campaigns. The divisions both used traditional canoes and uniforms with western technology such as artillery, muskets and European ships.[NEWLINE][NEWLINE]The reasons James Cook was revered as a god in Hawai'i were due to a series of coincidences; the mast and sails of Cook's ship - HMS Resolution - resembled Lono's emblem, a mast and a sheet of white tapa. Additionally Cook arrived during the Makahiki season dedicated to Lono.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_01">
+			<Text>Honolulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_02">
+			<Text>Waikiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_03">
+			<Text>Hilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_04">
+			<Text>Kailua-Kona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_05">
+			<Text>Waipahu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_06">
+			<Text>Kaneohe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_07">
+			<Text>Mililani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_08">
+			<Text>Kahului</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_09">
+			<Text>Mililani Mauka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_10">
+			<Text>Kihei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_11">
+			<Text>Makakilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_12">
+			<Text>Wahiawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_13">
+			<Text>Wailuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_14">
+			<Text>Kapolei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_15">
+			<Text>Kunia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_16">
+			<Text>Halawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_17">
+			<Text>Waimalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_18">
+			<Text>Waianae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_19">
+			<Text>Nanakuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_20">
+			<Text>Kailua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_21">
+			<Text>Lahaina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_22">
+			<Text>Waipio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_23">
+			<Text>Kapaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_24">
+			<Text>Kalaoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_25">
+			<Text>Maili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_26">
+			<Text>Aiea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_27">
+			<Text>Waimea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_28">
+			<Text>Waihee-Waiehu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_29">
+			<Text>Ahuimanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_30">
+			<Text>Holualoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_31">
+			<Text>Makaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_32">
+			<Text>Haiku-Pauwela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_33">
+			<Text>Pukalani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_34">
+			<Text>Waikele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_35">
+			<Text>Napili-Honokowai</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_0">
+			<Text>Analea</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_1">
+			<Text>Konia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_2">
+			<Text>Pauli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_3">
+			<Text>Kalakaua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_4">
+			<Text>Likelike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_5">
+			<Text>Pauahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_6">
+			<Text>Hao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_7">
+			<Text>Inaina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_8">
+			<Text>Eia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_9">
+			<Text>Moana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_10">
+			<Text>Leilani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_11">
+			<Text>Illima</Text>
+		</Row>
+		<!--LILIUOKALANI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII">
+			<Text>Lili'uokalani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_TEXT_1">
+			<Text>Lydia Kamakaeha was of a high-ranking family. Her mother, Keohokalole, was an adviser of King Kamehameha III. Reared in the missionary tradition deemed appropriate for Hawaiian princesses, she received a thoroughly modern education, which was augmented by a tour of the Western world. After a time as a member of the court of Kamehameha IV, she was married in September 1862 to John Owen Dominis, son of a Boston sea captain and himself an official in the Hawaiian government. In 1874 her brother David Kalakaua was chosen king, and in 1877, on the death of a second brother, W.P. Leleiohoku, who was heir apparent, she was named heir presumptive. She was known from that time by her royal name, Lili'uokalani.[NEWLINE][NEWLINE]Over the next 14 years she established herself firmly in that role. She served as regent during King Kalakaua’s world tour in 1881, and she was active in organizing schools for Hawaiian youth. During a world tour in 1887 she was received by U.S. Pres. Grover Cleveland and by Britain’s Queen Victoria. On the death of King Kalakaua in January 1891, Lili'uokalani ascended the throne, becoming the first woman ever to occupy it. Lili'uokalani regretted the loss of power the monarchy had suffered under Kalakaua and tried to restore something of the traditional autocracy to the Hawaiian throne. She had earlier made her position clear by opposing the renewed Reciprocity Treaty of 1887, signed by Kalakaua, granting privileged commercial concessions to the United States and ceding to them the port of Pearl Harbor. This attitude forever alienated her from Hawaii’s haole—foreign businessmen—who, after her accession, tried to abrogate her authority.[NEWLINE][NEWLINE]Lili'uokalani regretted the loss of power the monarchy had suffered under Kalakaua and tried to restore something of the traditional autocracy to the Hawaiian throne. She had earlier made her position clear by opposing the renewed Reciprocity Treaty of 1887, signed by Kalakaua, granting privileged commercial concessions to the United States and ceding to them the port of Pearl Harbor. This attitude forever alienated her from Hawaii’s haole—foreign businessmen—who, after her accession, tried to abrogate her authority.[NEWLINE][NEWLINE]Led by Sanford Dole, the Missionary Party asked for her abdication in January 1893 and, declaring the queen deposed, announced the establishment of a provisional government pending annexation by the United States. To avoid bloodshed, Lili'uokalani surrendered, but she appealed to President Cleveland to reinstate her. Cleveland ordered the queen restored, but Dole defied the order, claiming that Cleveland did not have the authority to interfere. In 1895 an insurrection in the queen’s name, led by royalist Robert Wilcox, was suppressed by Dole’s group, and Lili'uokalani was kept under house arrest on charges of treason. On January 24, 1895, to win pardons for her supporters who had been jailed following the revolt, she agreed to sign a formal abdication.[NEWLINE][NEWLINE]As head of the ‘Onipa‘a (meaning “immovable,” “steadfast,” “firm,” “resolute”) movement, whose motto was “Hawaii for the Hawaiians,” Lili'uokalani fought bitterly against annexation of the islands by the United States. Annexation nonetheless occurred in July 1898. In that year she published Hawaii’s Story by Hawaii’s Queen and composed “Aloha Oe,” a song ever afterward beloved in the islands. Thereafter she withdrew from public life, enjoying a government pension and the homage of islanders and visitors alike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_NAME">
+			<Text>Lili'uokalani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_SUBTITLE">
+			<Text>Leader of Hawai'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_TITLES_1">
+			<Text>Queen of Hawai'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_LIVED">
+			<Text>1838 - 1917</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_HAWAII_TEXT">
+			<Text>O' serene and steadfast Lili'uokalani, how the people of Hawai'i long to see you as their Queen. Although you were not born to be monarch, you would take your unexpected ascension in 1877 with dignity and grace. For fourteen years, you would carry yourself and the sovereignty and welfare of the Hawaiian people on your shoulders, even as your kingdom fell to American annexation in 1898. Though in your final days you would be a Queen without a kingdom, you would nonetheless fight for the spirit of Hawai'i and your rightful throne until your death in 1917.[NEWLINE][NEWLINE]The Hawaiian people keep your songs in their hearts, Lili'uokalani. Can you once more safeguard the sovereignty of the Hawaiian nation? Can you restore the dignity and authority of your royal household? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_FIRSTGREETING_1">
+			<Text>I am Lili'uokalani; proudly, Queen of Hawai'i and its people. Come to me with good intentions, and you will find my kingdom is open to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DEFEATED_1">
+			<Text>I will not take this defeat sitting. I will fight on, wherever I might be heard to oppose this act.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_ATTACKED_HOSTILE_1">
+			<Text>Hawai'i is a nation for Hawaiins. You will not find the fight easy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DEC_FRIENDSHIP_1">
+			<Text>You have been a kind soul to me. Would you care to make a public Declaration of Friendship with my people?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DENOUNCE_1">
+			<Text>It is clear to me that you do not care for the sovereign right of all peoples.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DENOUNCE_FRIEND_1">
+			<Text>You will no longer find yourself welcome in Hawai'i.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DOW_GENERIC_1">
+			<Text>I must act before it is too late.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>The world will hear me. The world will hear of your foolishness.</Text>
+		</Row>
+		<!--ALOHA 'OE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAWAII_SHORT">
+			<Text>Aloha 'Oe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAWAII">
+			<Text>National Wonders with a [ICON_GREAT_WORK] Great Work yield +1 Point toward all Cultural Great People. Cultural Great People Points from Buildings add to [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!--JFD: Hawaii Culture-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_CULTURE">
+			<Text>JFD: Hawaii Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_CULTURE_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Artist-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_ARTIST">
+			<Text>JFD: Hawaii Artist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_ARTIST_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Director-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_DIRECTOR">
+			<Text>JFD: Hawaii Director</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_DIRECTOR_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Musician-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_MUSICIAN">
+			<Text>JFD: Hawaii Musician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_MUSICIAN_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Writer-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_WRITER">
+			<Text>JFD: Hawaii Writer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_WRITER_HELP">
+			<Text></Text>
+		</Row>
+		<!--HOUSE OF KINGS-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS">
+			<Text>House of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_HELP">
+			<Text>+5% [ICON_GREAT_PEOPLE] Great People generation, and +5% more generation per Social Policy Branch completed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_STRATEGY">
+			<Text>This unique Museum replacement for Hawai'i increases the generation of [ICON_GREAT_PEOPLE] Great People in the city, the amount increasing for every Social Policy Branch that has been unlocked. In addition, the House of Kings costs no [ICON_GOLD] Gold maintenance. Construct Houses of Kings to ensure you generate plenty of Great People Points, and with them, hasten your acquisition of new Social Policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_TEXT">
+			<Text>The ʻIolani Palace was the royal residence of the rulers of the Kingdom of Hawaii beginning with Kamehameha III under the Kamehameha Dynasty (1845) and ending with Queen Liliʻuokalani (1893) under the Kalākaua Dynasty, founded by her brother, King David Kalākaua. It is located in the capitol district of downtown Honolulu in the U.S. state of Hawaiʻi. It is now a National Historic Landmark listed on the National Register of Historic Places. After the monarchy was overthrown in 1893, the building was used as the capitol building for the Provisional Government, Republic, Territory, and State of Hawaiʻi until 1969. The palace was restored and opened to the public as a museum in 1978. The ʻIolani Palace is the only royal palace on US soil.</Text>
+		</Row>
+		<!--JFD: House of Kings GP-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_GREAT_PEOPLE">
+			<Text>JFD: House of Kings GP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_GREAT_PEOPLE_HELP">
+			<Text></Text>
+		</Row>
+		<!--KAIMILOA-->
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA">
+			<Text>Kaimiloa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA_HELP">
+			<Text>Unique Industrial Era Naval Unit that begins with bonus starting [ICON_MOVES] Movement based on the city's [ICON_CULTURE] Culture per turn. Can also enter foreign territory without open borders. Weaker than the Ironclad that it replaces. Only Hawai'i can train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA_STRATEGY">
+			<Text>The Kaimiloa is Hawaii's unique replacement for the Ironclad. This unit begins with bonus [ICON_MOVES] Movement based on the city's starting [ICON_CULTURE] Culture, meaning it can be used to navigate the seas quickly. It can also enter foreign territory without open borders. However, the Kaimiloa is much less effective in combat. Use Kaimiloa for scouting our the seas rather than engaging them in combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA_TEXT">
+			<Text>HHMS Kaimiloa was the first and only ship of the Hawaiian Royal Navy. The ship was a 170-ton Explorer gunboat, made in Britain in 1871. King Kalakaua bought the ship for $20,000 and added the rigging. It sailed from Hawaii to Samoa and other Pacific islands in 1887 in an effort by Kalākaua to form a confederation of Polynesian states to counteract European imperialism. The instance nearly resulted in military conflict between Hawaii and the German Empire, who viewed Samoa as their possession in the Pacific. It was also used as a training ship. In the Hawaiian language, kaimiloa means "one who seeks afar".</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_HAWAII_DESCRIPTION">
+			<Text>HAWAII (LILIUOKALANI)[NEWLINE][NEWLINE]UNIQUE TRAIT: ALOHA OE[NEWLINE][ICON_BULLET]National Wonders with a [ICON_GREAT_WORK] Great Work yield +1 Point toward all [ICON_GREAT_PEOPLE] Cultural Great People.[NEWLINE][ICON_BULLET][ICON_GREAT_PEOPLE] Cultural Great People Points from Buildings add to [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUSE OF KINGS[NEWLINE][ICON_BULLET]Replaces Museum.[NEWLINE][ICON_BULLET]No maintenance.[NEWLINE][ICON_BULLET]+5% [ICON_GREAT_PEOPLE] Great People generation.[NEWLINE][ICON_BULLET]+5% [ICON_GREAT_PEOPLE] Great People generation per Social Policy Branch completed.[NEWLINE][NEWLINE]UNIQUE UNIT: KAIMILOA[NEWLINE][ICON_BULLET]Replaces Ironclad.[NEWLINE][ICON_BULLET]Can enter rival territory.[NEWLINE][ICON_BULLET]Begins with bonus [ICON_MOVES] Movement based on the city's [ICON_CULTURE] Culture.</Text>
+		</Row> 
+		<!--HAWAII-->
+		<Row Tag="TXT_KEY_CIV_JFD_HAWAII_ADJECTIVE">
+			<Text>夏威夷王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAWAII_DESC">
+			<Text>夏威夷王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAWAII_SHORT_DESC">
+			<Text>夏威夷王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_1">
+			<Text>夏威夷羣島的歷史是一個孤立的開端，歐洲的影響，統一，推翻土著控制，最終作爲一個領土管理給美國。1778年由詹姆斯·庫克船長發現，夏威夷最初被稱爲“三明治羣島”，以第四任三明治伯爵約翰·蒙塔古的名字命名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_2">
+			<Text>夏威夷的地理與氣候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_2">
+			<Text>夏威夷由八個島嶼組成，位於北美西南約2000英裏處，位於北太平洋深處。水下火山活動不斷地創造、形成和改造，夏威夷羣島坐落在一個熱點的頂部——一個巖漿源，由下面的地幔提供。隨着太平洋板塊向西北移動，熱點仍然在夏威夷下方，創造了新的火山和肥沃的土地。夏威夷大部分地區的氣候是典型的熱帶氣候，但這些島嶼本身在當地氣候上變化很大，因此度假勝地往往面向風。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_3">
+			<Text>古代夏威夷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_3">
+			<Text>夏威夷羣島最早的定居點並不完全清楚；學者們傾向於認爲，第一批波利尼西亞人是在公元三世紀從馬克薩斯羣島來到夏威夷的，一千年後，塔希提人入侵了夏威夷。另一些人則認爲，整個波利尼西亞地區有一個廣泛定居的單一時期。一些作家認爲可能在波利尼西亞人到來之前就已經有夏威夷原住民了，關於menehune的故事——建造房屋和魚塘的小人物——據說證明了在波利尼西亞人到來之前定居的古人類的存在，然而在1951年，像Luomala這樣的歷史學家認爲這些故事是民間傳說，考古學家也沒有證明任何關於menehune定居點的建議。古代夏威夷是一個種姓社會。部落中存在四個主要階級；ali'i是島上的首領，用被稱爲“mana”的神力進行統治。卡胡納是專業人士——牧師、木匠、吟唱者和舞者、醫生和治療師。maka'ainana指的是平民——農民和漁民，他們這樣做不僅是爲了自己和家人，也是爲了養活ali'i和kahuna。最後，考瓦人是戰俘或他們的後代；就像古代文化中的其他奴隸階級一樣，考瓦人不能與他們之上的人通婚，他們主要爲阿裏工作，甚至被用作活人祭祀。像其他波利尼西亞文明一樣，夏威夷人一直完全隔絕於外界的影響——亞洲、美洲或歐洲——直到1778年1月18日，英國船長詹姆斯·庫克首次發現了考阿伊島，然後繼續向南發現和探索其餘的島鏈。當庫克在後來的卡阿拉凱誇灣登陸時，當地人認爲他是洛諾——夏威夷的生育、降雨、音樂與和平之神。在這次偶然的相遇中，庫克遇到了一位年輕的卡美哈美哈一世。年輕的阿裏將很快開始一場統一羣島的偉大戰役。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_4">
+			<Text>夏威夷王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_4">
+			<Text>從1780年開始，卡美哈美哈開始了一場漫長的軍事行動，以統一並佔領整個羣島；從一個島遊到另一個島，打敗所有酋長。這場戰爭持續了15年之久，卡美哈美哈使用了來自歐洲的現代武器以及約翰·楊和伊薩克·戴維斯等西方顧問。盡管他成功地佔領了奧胡島和毛伊島，但他未能在考艾島取得勝利，他的企圖被一場風暴和瘟疫挫敗，這場瘟疫嚴重削弱了他的軍隊。然而，最終考艾島的酋長宣誓效忠卡美哈美哈，因此在這一行動中，考艾島在其歷史上第一次統一在一個旗幟下。統一結束了古老的夏威夷社會，建立了一個獨立的君主立憲制，在傳統和西方君主的方式鍛造。從1810年成立到1893年，夏威夷王國由兩個王朝家族統治；卡美哈美哈家族和卡拉卡瓦王朝。卡美哈美哈王朝經歷了更多的動蕩和政治威脅，而較短的卡拉卡瓦王朝則表現出內部政治動蕩和憲法。卡美哈美哈死後，他的妻子卡阿哈瑪努王後作爲一個新皈依的新教徒開始統治。在那個時候，天主教是非法的，1831年，忠於女王的酋長迫使法國天主教牧師從島上搬走，據說皈依宗教的當地人在被驅逐後被監禁和折磨。這種偏見在她的繼任者庫希娜·努伊·卡阿哈曼努二世（Kuhina Nui Ka’ahumanu II）的統治下依然存在。1839年，法國護衛艦“阿爾茨海默斯”號的拉普拉斯船長奉命向夏威夷發出最後通牒，威脅要發動戰爭。7月17日，國王卡美哈美哈三世籤署了《寬容法令》，他支付了2萬美元的賠償金，並同意了拉普拉斯的要求。[NEWLINE][NEWLINE]1849年8月，在後來被稱爲“法國事件”的事件之後，海軍上將路易斯·特羅梅林抵達檀香山。特羅默林向卡美哈美哈三世提出了十項要求，主要是要求給予天主教徒完整的宗教儀式。這些要求從未得到滿足，在海軍上將發出警告後，法國軍隊擊敗了骷髏軍，佔領了堡壘並掠奪了財產。9月5日，Tromelin撤退並離開。更糟糕的是，1843年2月10日，英國皇家海軍“卡裏斯福特”號上的喬治·波萊特勳爵駛入檀香山，要求將夏威夷羣島割讓給英國王室。在炮火的威脅下，卡美哈美哈三世在抗議下退位，15天後向保萊投降。傑裏特·P·賈德（Gerrit P Judd）是一個使團，後來成爲財政部長，他向美國、法國和英國祕密派遣特使，抗議領主的行爲。抗議最終傳到了海軍少將理查德·達頓·託馬斯那裏，他是波萊特的指揮官；他於7月26日來批駁他下屬的行爲。五天後，夏威夷政府恢復，卡美哈美哈三世復闢爲國王。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_5">
+			<Text>轉讓於美國人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_5">
+			<Text>當卡美哈美哈家族在1872年結束對夏威夷的統治時，卡拉卡瓦家族坐上了王位。最初，盧納利洛贏得了選舉，成爲統治者，但他在13個月後去世，卡美哈美哈唯一剩下的男性親屬卡拉卡瓦成爲了國王。到這個時候，美國的影響力已經確立；19世紀初，美國新教使團在夏威夷定居，並迅速獲得財富和影響力。他們禁止他們不喜歡的傳統，牧師阿莫斯·斯塔爾·庫克建立了一所學校來教育王室和未來的君主。他與國王的關系使他在1843年成爲卡美哈美哈三世國王的非官方顧問，他設計了一項土地改革，允許外國人從當地人那裏購買土地以種植甘蔗。庫克和其他傳教士成爲夏威夷的大地主，並通過制糖控制了經濟。1875年，美國和夏威夷王國籤署了一項自由貿易協定，即《互惠條約》。它允許夏威夷的糖免稅進口到美國，進一步促進了主要由外國人持有的種植園的發展。當年晚些時候，美國要求割讓現在的珍珠港，夏威夷人走上街頭抗議，直到反抗被美國海軍陸戰隊鎮壓。[NEWLINE][NEWLINE]該條約還允許與大米進行類似的交易，因爲大米也是一種主要作物。這吸引了中國和日本移民到夏威夷，以支持制糖業和擴大水稻種植。從1887年開始，在11年的時間裏，白人少數民族的起義如雨後春筍般湧現；首先是改革黨和他們的武裝民兵，火奴魯魯步槍隊的成立。民兵和內閣成員佔領了宮殿，迫使戴維·卡拉卡瓦國王宣布他們的法案。民兵強行制定了《刺刀憲法》（Bayonet Constitution），剝奪了君主制的權威，開始剝奪亞洲人的公民權，讓歐洲和美國白人獲得了四分之三的投票權。第二年，推翻國王的陰謀被揭露。1889年，由羅伯特·威爾科克斯上校領導的土著人叛亂試圖推翻不受歡迎的憲法，並衝進宮殿。威爾科克斯叛亂被火奴魯魯步槍鎮壓。1891年國王去世後，Lili 'uokalani即位並立即修改憲法以恢復君主的權威。由於事態的發展，一羣白人男子感到不安，於1983年1月14日成立了“安全委員會”，該黨的主要目標是推翻女王，並將夏威夷並入美國。在短短三天內，州政府召集了一隊海軍陸戰隊員和水兵登陸，並在美國使領館任職，成立了夏威夷臨時政府。1月17日，Lili 'uokalani在這種壓力下退位，放棄權力並懇求正義。[NEWLINE][NEWLINE]夏威夷白人越來越擔心美國幹預恢復君主制，因此促使夏威夷共和國於1894年7月4日，美國獨立日，在桑福德·多爾總統的領導下成立。1895年，由羅伯特·諾萊因上校和威爾考克斯上校領導的反革命試圖推翻共和國，恢復女王的王位，上校和莉莉·烏卡拉尼都被捕入獄。爲了將夏威夷並入美國領土，威廉·麥金利總統於1889年7月7日籤署了《紐蘭茲決議》，結束了夏威夷的獨立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_6">
+			<Text>20世紀的夏威夷王國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_6">
+			<Text>1901年2月20日，領土立法機構首次召開會議，在此之前一年，夏威夷人成立了夏威夷獨立黨，由羅伯特·威爾科克斯領導，他因此成爲第一位夏威夷國會代表。在此期間，制糖業得到了極大的發展，隨着甘蔗關稅的取消，大公司開始獲得相當大的實力，種植園主有了更多的錢來投資。五家最大的制糖商壟斷了市場，控制了90%的市場份額——他們被稱爲“五巨頭”。他們把價格保持在很高的水平，並獲得了巨大的利潤；高管們開始進入彼此的董事會，並開始擴大政治權力，這些家族往往傾向於共和黨。1941年12月7日，日本帝國對夏威夷領土上的珍珠港發動了突然襲擊。這次襲擊旨在先發制人地阻止美國太平洋艦隊幹涉日本在東南亞的行動。雖然這件事震驚了美國人，但它實際上導致美國加入了第二次世界大戰，對日本宣戰，反過來德國和意大利也對美國宣戰。爲了加強日本的疏忽，海軍上將原忠一在反思後總結了這次襲擊的結果：“在珍珠港取得了巨大的戰術勝利，因此輸掉了戰爭。”[NEWLINE][NEWLINE]早在1935年，爲應對戰爭爆發，美國海軍就決定放棄穿越太平洋的進攻，而這次襲擊的策劃者山本五十五（Isoroku Yamamoto）並不知情。偷襲珍珠港似乎是完全沒有必要的，最終導致了原子彈的爆炸，德國和日本在衝突中戰敗。1954年，一場非暴力革命以罷工、抗議和其他形式的非暴力反抗席卷了夏威夷的工業。那一年的選舉結束了共和黨的統治，民主黨在夏威夷成立。民主黨人爲州地位進行遊說，將勞動力組織起來，結果加速了制糖業的衰落。1959年3月18日，德懷特·戴維·艾森豪威爾總統籤署了《夏威夷接納法案》，夏威夷最終成爲美國的一個州，同年8月21日，經過公民投票，夏威夷成爲美國的第50個州。[NEWLINE][NEWLINE]五大糖業公司衰落到如此地步，以至於它們像大多數其他糖業公司一樣被外國公司收購。今天的夏威夷是一個鬱鬱蔥蔥的太平洋島嶼居民的天堂，從美國的建築和大量的旅遊業中迅速現代化。1978年，夏威夷州制憲會議納入了促進夏威夷本土語言和文化的計劃。夏威夷文化的推廣導致了夏威夷文藝復興，重新點燃了人們對古代夏威夷的興趣。在國會的幫助下，1993年11月23日通過了道歉決議，比爾·克林頓總統籤署了該法案，爲美國在1893年推翻王國的過程中所扮演的角色向夏威夷原住民道歉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_HEADING_7">
+			<Text>小趣聞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HAWAII_TEXT_7">
+			<Text>夏威夷羣島是世界上最長的島鏈，從一端到另一端約有1500英裏。王國的軍隊和海軍服從於科納的戰士，他們在卡美哈美哈的統治下最初在他的戰役中動員起來。這些師都使用傳統的獨木舟和帶有西方技術的制服，如火炮、火槍和歐洲船只。詹姆斯·庫克在夏威夷被尊爲神的原因是由於一系列的巧合；庫克的船“決議號”（HMS Resolution）的桅杆和帆酷似洛諾的標志，一根桅杆和一張白色的塔帕。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_01">
+			<Text>火奴魯魯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_02">
+			<Text>威基基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_03">
+			<Text>希洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_04">
+			<Text>凱路亞-科納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_05">
+			<Text>懷帕胡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_06">
+			<Text>卡內奧赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_07">
+			<Text>米利拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_08">
+			<Text>卡胡魯伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_09">
+			<Text>米利拉尼-莫卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_10">
+			<Text>吉平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_11">
+			<Text>馬卡基洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_12">
+			<Text>瓦希阿瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_13">
+			<Text>威陸庫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_14">
+			<Text>卡波爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_15">
+			<Text>庫尼亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_16">
+			<Text>哈拉瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_17">
+			<Text>懷馬魯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_18">
+			<Text>懷厄奈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_19">
+			<Text>七阿庫里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_20">
+			<Text>凱路亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_21">
+			<Text>拉海納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_22">
+			<Text>懷皮奧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_23">
+			<Text>卡帕阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_24">
+			<Text>卡拉奧阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_25">
+			<Text>邁里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_26">
+			<Text>愛亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_27">
+			<Text>威美亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_28">
+			<Text>懷希-懷耶胡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_29">
+			<Text>阿維馬努</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_30">
+			<Text>霍盧阿洛阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_31">
+			<Text>馬卡哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_32">
+			<Text>哈伊庫-保威拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_33">
+			<Text>普卡拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_34">
+			<Text>懷克勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAWAII_35">
+			<Text>納皮利-霍諾科懷</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_0">
+			<Text>凱奧卡洛爾</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_1">
+			<Text>科尼亞</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_2">
+			<Text>泡利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_3">
+			<Text>卡拉卡瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_4">
+			<Text>凱赫拉帕拉帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_5">
+			<Text>伯妮絲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_6">
+			<Text>卡皮利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_7">
+			<Text>畢肖普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_8">
+			<Text>保阿希</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_9">
+			<Text>利利烏卡拉尼</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_10">
+			<Text>萊拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAWAII_11">
+			<Text>伊利瑪</Text>
+		</Row>
+		<!--LILIUOKALANI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII">
+			<Text>利留卡拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_TEXT_1">
+			<Text>莉迪亞·卡瑪卡依哈（利留卡拉尼女王）出身於一個貴族家庭。她的母親是卡美哈美哈三世國王的顧問。在被認爲適合夏威夷公主的傳教士傳統中長大，她接受了徹底的現代教育，並在西方世界的旅行中得到了加強。在卡美哈美哈四世擔任過一段時間的宮廷成員後，她於1862年9月嫁給了約翰·歐文·多米尼斯，他是波士頓船長的兒子，也是夏威夷政府的官員。1874年，她的哥哥大衛·卡拉卡瓦被選爲國王，1877年，她的第二個哥哥、法定繼承人W.P.勒列奧霍庫去世，她被任命爲推定繼承人。從那時起，她就以她的王室名字利留卡拉尼而聞名。在接下來的14年裏，她堅定地確立了自己的角色。她在1881年卡拉卡瓦國王環球旅行期間擔任攝政王，並積極爲夏威夷青年組織學校。在1887年的一次世界旅行中，她受到了美國總統格羅弗·克利夫蘭和英國女王維多利亞的接見。1891年1月卡拉卡瓦國王去世後，莉莉·烏卡拉尼登上了王位，成爲第一位女性。利留卡拉尼對卡拉卡瓦統治下的君主失去權力感到遺憾，並試圖恢復夏威夷王位的傳統專制。早些時候，她曾明確表示自己的立場，反對由卡拉卡瓦籤署的1887年續籤的互惠條約，該條約給予美國特權商業特許權，並將珍珠港港割讓給美國。這種態度使她永遠疏遠了夏威夷的外國商人，在她登基後，他們試圖廢除她的權威。利留卡拉尼對卡拉卡瓦統治下的君主失去權力感到遺憾，並試圖恢復夏威夷王位的傳統專制。早些時候，她曾明確表示自己的立場，反對由卡拉卡瓦籤署的1887年續籤的互惠條約，該條約給予美國特權商業特許權，並將珍珠港港割讓給美國。這種態度使她永遠疏遠了夏威夷的外國商人，在她登基後，他們試圖廢除她的權威。1893年1月，在桑福德·多爾（Sanford Dole）的領導下，傳教黨要求女王退位，宣布女王已被廢黜，並宣布成立臨時政府，等待美國的吞並。爲了避免流血，莉莉·烏卡拉尼投降了，但她請求克利夫蘭總統恢復她的職務。克利夫蘭下令恢復女王的身份，但多爾違抗命令，聲稱克利夫蘭無權幹涉。1895年，一場由保皇派羅伯特·威爾科克斯（Robert Wilcox）領導的以女王名義發動的叛亂被多爾的集團鎮壓，莉莉·烏卡拉尼（Lili'uokalani）因叛國罪被軟禁起來。1895年1月24日，爲了爲她的支持者贏得赦免，她同意籤署正式退位。作爲以“夏威夷爲夏威夷人”爲座右銘的“Onipa”（意爲“不可動搖的”、“堅定的”、“堅定的”、“堅決的”）運動的領袖，利留卡拉尼女王爲反對美國吞並這些島嶼而進行了激烈的鬥爭。盡管如此，1898年7月吞並還是發生了。那一年，她出版了《夏威夷女王的夏威夷故事》，並創作了《阿羅哈·奧》，這首歌後來在島上廣受歡迎。此後，她退出了公共生活，享受政府養老金和島民和遊客的敬意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_NAME">
+			<Text>利留卡拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_SUBTITLE">
+			<Text>夏威夷領導者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_TITLES_1">
+			<Text>夏威夷女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAWAII_LIVED">
+			<Text>1838 - 1917</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_HAWAII_TEXT">
+			<Text>寧靜而堅定的莉莉·烏卡拉尼啊，夏威夷人民多麼渴望看到你成爲他們的女王！雖然你不是天生的君主，但你在1877年以尊嚴和優雅的姿態出人意料地登上王位。十四年來，你將自己和夏威夷人民的主權和福利扛在肩上，即使你的王國在1898年被美國吞並。雖然在你最後的日子裏，你將是一個沒有王國的女王，但你仍將爲夏威夷精神和你的合法王位而戰，直到1917年去世。利留卡拉尼女王！夏威夷人把你的歌藏在心裏。你能再一次維護夏威夷民族的主權嗎？你能恢復王室的尊嚴和權威嗎？你能建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_FIRSTGREETING_1">
+			<Text>我是利留卡拉尼女王，自豪地成爲了夏威夷及其人民的女王。若你心懷善意來到我的領土，你會發現我的王國向你敞開。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DEFEATED_1">
+			<Text>我不會坐以待斃。 無論在何方，只要我能反對這種愚蠢行為，我就會繼續奮鬥。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_ATTACKED_HOSTILE_1">
+			<Text>夏威夷是夏威夷人的國家，你將會發現這將是一場惡戰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DEC_FRIENDSHIP_1">
+			<Text>你對我十分仁慈。你願意和我們的人民公開發表友好宣言嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DENOUNCE_1">
+			<Text>我很清楚，你們並不關心夏威夷人的主權。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DENOUNCE_FRIEND_1">
+			<Text>你將不再受到夏威夷的歡迎。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_DOW_GENERIC_1">
+			<Text>我必須趁早採取行動。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAWAII_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>全世界都會聽到我的聲音，而世人都會知道你的愚蠢。</Text>
+		</Row>
+		<!--ALOHA 'OE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAWAII_SHORT">
+			<Text>夏威夷驪歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAWAII">
+			<Text>擁有[ICON_GREAT_WORK]的國家奇觀使得所有偉人點數+1，從建築而來的大作家點數會增加相對應的[ICON_CULTURE]文化值。</Text>
+		</Row>
+		<!--JFD: Hawaii Culture-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_CULTURE">
+			<Text>夏威夷文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_CULTURE_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Artist-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_ARTIST">
+			<Text>夏威夷藝術家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_ARTIST_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Director-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_DIRECTOR">
+			<Text>夏威夷導演</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_DIRECTOR_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Musician-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_MUSICIAN">
+			<Text>夏威夷大音樂家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_MUSICIAN_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Hawaii Writer-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_WRITER">
+			<Text>夏威夷作家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAWAII_WRITER_HELP">
+			<Text></Text>
+		</Row>
+		<!--HOUSE OF KINGS-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS">
+			<Text>國王寓所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_HELP">
+			<Text>夏威夷王國的特殊建築，替代博物館，+5%[ICON_GREAT_PEOPLE]偉人点数，且每個完成的社會政策分支額外生成 +5%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_STRATEGY">
+			<Text>這個夏威夷王國的獨特博物館替代品，增加了城市中 [ICON_GREAT_PEOPLE] 偉人點數的產生，每解鎖一個社會政策分支，偉人點數的數量就會增加。此外，國王之家的維護費用為 [ICON_GOLD] 金幣。建造國王之家以確保您獲得足夠的偉人點數，並利用它們加速您獲得新的社會政策以此來滾雪球。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_TEXT">
+			<Text>伊歐拉尼宮是夏威夷王國統治者的皇家住所，從卡美哈梅哈王朝的卡美哈梅哈三世 (1845 年) 開始，到卡拉卡瓦王朝的莉莉烏卡拉尼女王 (1893 年) 結束，由她的兄弟大衛卡拉卡瓦國王建造。它位於美國夏威夷州檀香山市中心的首都區。它現已成為國家歷史地標，被列入國家史蹟名錄。 1893 年君主制被推翻後，該建築被用作夏威夷臨時政府、共和國、領地和州的國會大廈，直到 1969 年。</Text>
+		</Row>
+		<!--JFD: House of Kings GP-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_GREAT_PEOPLE">
+			<Text>夏威夷改革黨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUSE_OF_KINGS_GREAT_PEOPLE_HELP">
+			<Text></Text>
+		</Row>
+		<!--KAIMILOA-->
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA">
+			<Text>凱米洛亞型鐵甲艦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA_HELP">
+			<Text>獨特的工業時代海軍部隊，根據城市的 [ICON_CULTURE] 文化，每回合開始時獲得 [ICON_MOVES] 移動獎勵。也可以進入沒有開放邊境的外國領土。比它所取代的鐵甲艦更弱，只有夏威夷可以訓練它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA_STRATEGY">
+			<Text>凱米洛亞型鐵甲艦(Kaimiloa)是夏威夷獨特的鐵甲艦替代品。該單位根據城市的起始 [ICON_CULTURE] 文化開始獲得獎勵 [ICON_MOVES] 移動力，這意味著它可以用來快速航行於海上。它也可以進入沒有開放邊界的外國領土。然而，凱米洛亞型鐵甲艦在戰鬥中的效率卻低得多。使用凱米洛亞型鐵甲艦來偵察我們的海域而不是與其交戰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KAIMILOA_TEXT">
+			<Text>凱米洛亞型是夏威夷皇家海軍的第一艘也是唯一一艘船隻。這艘船是一艘 170 噸的探險家砲艇，於 1871 年在英國製造。 1887 年，凱米洛亞型鐵甲艦從夏威夷啟航前往薩摩亞和其他太平洋島嶼，試圖組成波利尼西亞國家聯盟來對抗歐洲帝國主義。這次事件幾乎導致夏威夷和德意志帝國之間的軍事衝突，因為德意志帝國將薩摩亞視為其在太平洋的領土。它也被用作訓練船。在夏威夷語中，凱米洛亞型鐵甲艦的意思是「遠方尋求者」。</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>
