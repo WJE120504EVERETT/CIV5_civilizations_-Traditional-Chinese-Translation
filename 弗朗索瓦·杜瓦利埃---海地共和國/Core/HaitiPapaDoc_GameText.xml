@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_HAITI_PAPA_DOC_ADJECTIVE">
+			<Text>Haitian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAITI_PAPA_DOC_DESC">
+			<Text>Haitian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAITI_PAPA_DOC_SHORT_DESC">
+			<Text>Haiti</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_HAITI_DESC">
+			<Text>Haiti</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_HAITI_PAPA_DOC_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_HAITI_PAPA_DOC_TEXT_1">
+			<Text>In 1492, Christopher Columbus made the European discovery of the island of Hispaniola and established a settlement near the present city of Cap-Haïtien. Within 25 years, the native Arawak, a peace-loving, agricultural people, were virtually annihilated by the Spanish settlers. Bishop Bartolomé de las Casas, a missionary to the Amerindians, who had originally come to Hispaniola as a planter in 1502, proposed that African slaves be imported for plantation labor. Starting after 1517 a forced migration of Africans gave Haiti its black population.[NEWLINE][NEWLINE]About 1625, French and English privateers and buccaneers, preying on Spanish Caribbean shipping, made the small island of Tortuga their base. The French soon also established a colonial presence on nearby mainland coasts and competed with the Spaniards. In the Treaty of Ryswick (1697), Spain ceded the western third of the island (Haiti) to the French. Under French rule it became one of the wealthiest of the Caribbean communities. This prosperity, stemming from forestry and sugar-related industries, came at a heavy cost in human misery and environmental degradation.[NEWLINE][NEWLINE]The French Revolution in 1789 outlawed slavery in France, which inspired Haiti's nearly half million black slaves to revolt. In a series of violent uprisings, slaves killed white planters and razed estates. Although they suffered cruel reprisals, they fought on under the direction of Toussaint L'Ouverture, an ex-slave who had risen to the rank of general in the French army. By 1801 Toussaint controlled the entire island, and promulgated a constitution, which abolished slavery. The emperor Napoleon did not accept this move, and sent 70 warships and 25,000 men to suppress the movement. Toussaint was captured, and died in a French prison.[NEWLINE][NEWLINE]Jean Jacques Dessalines, another black general who rose from the ranks, continued the struggle, and in 1803 the disease-decimated French army surrendered. On 1 January 1804, Dessalines proclaimed Haiti's independence. Dessalines, after assuming the title of emperor in 1804, was assassinated in 1806, and Haiti was divided into a northern monarchy and a southern republic. Under both regimes, the plantations were distributed among former slaves, and Haiti became a nation of small farmers. Haiti was reunited by Jean Pierre Boyer in 1820, and in 1822 the Haitian army conquered Santo Domingo (now the Dominican Republic). For 22 years there was one republic for the entire island. In 1844, however, one year after Boyer was overthrown, the Dominican Republic proclaimed its independence from Haiti. In 1849, the president of Haiti, Faustin Elie Soulouque, proclaimed himself Emperor Faustin I. He was dethroned by a revolution headed by Nicholas Fabre Geffrard, who reestablished the republic and became president. In 1860, Geffrard negotiated a concordat with the Holy See that established Roman Catholicism as the national religion, although freedom of worship was retained.[NEWLINE][NEWLINE]A long period of political instability between 1843 and 1915, during which time Haiti had 22 dictators, culminated in the assassination of President Vilbrun Guillaume Sam and was followed by US military occupation. The occupation, which lasted 19 years, terminated in 1934 during the administration of President Sténio Vincent (1930–41), who in 1935 proclaimed a new constitution.[NEWLINE][NEWLINE]After World War II, another period of political instability reached a peak in a 1950 coup d'etat that brought Gen. Paul Magloire to power. Magloire's economic policies led to a serious depression. In December 1956 a national sit-down strike, organized jointly by business, labor, and professional leaders, forced Magloire into exile. A period of chaos ensued in which seven governments attempted to establish control.[NEWLINE][NEWLINE]In a September 1957 election filled with irregularities, François Duvalier, a middle-class black physician known to his followers as Papa Doc, became president. He began to rule by decree in 1958, and in May 1961, he had himself elected for another six years. On 22 June 1964, Duvalier was formally elected president for life. Despite several attempted revolts, he consolidated his position, ruling largely through his security force, the Tontons Macoutes ("bogeymen"). Political opposition was ruthlessly suppressed, and thousands of suspected dissidents "disappeared." Also murdered were some 3,000 supporters of Daniel Fignolé, leader of the Peasant Workers Movement (Mouvement Ouvrier Paysan) and Duvalier's most effective opponent.[NEWLINE][NEWLINE]Political life under the Papa Doc regime was characterized by plots against the government and governmental counterterrorism, the latter was entrusted to the Tontons Macoutes and to other thugs known as cagoulards. Opposition leaders went into hiding or exile. The Haitian Revolutionary Movement (Mouvement Révolutionnaire Haïtien), led by Haitian exiles Luc B. Innocent and Paul G. Argelin, began operations in Colombia in February 1961.[NEWLINE][NEWLINE]The National Democratic Union (Union Démocratique Nationale) was founded in Puerto Rico in April 1962 by former Ambassador Pierre Rigaud, with a branch in Venezuela organized by Paul Verna and an underground movement operating in Haiti. Invasions in 1964, 1969, and 1970 met with no success. Haitian exiles in New York, Montréal, Chicago, and Washington mounted an influential anti-Duvalier campaign during the 1960s. Throughout this period, no party operated openly in Haiti except the Duvalierist Party of National Unity (Parti de l'Unité Nationale).[NEWLINE][NEWLINE]On 22 January 1971, Duvalier named his son Jean-Claude to be his successor. Papa Doc died on 21 April 1971, and Jean-Claude, at the age of 19, became president for life the following day. The younger Duvalier sought to ease political tensions, encouraged tourism and foreign investment, and contributed to the beginnings of an economic revival. However, political arrests did not wholly cease, and there were severe economic reversals in the mid- and late-1970s.[NEWLINE][NEWLINE]In February 1979, elections to the National Assembly took place amid allegations of government fraud. Opposition groups were then arrested, tried, and convicted of subversion, but later released. In January and March 1982, two small exile groups tried unsuccessfully to overthrow the government by staging armed invasions. The first municipal elections of the Duvalier period were held in spring 1983. The voting resulted, for the most part, in victories for the government, partly because several opposition figures had been arrested during the campaign.[NEWLINE][NEWLINE]Jean-Claude proved to be an ineffectual leader and tensions mounted as the economy stagnated after 1980. When civil disorder began to break out in the mid-1980s, the president became increasingly reclusive. In February 1986, following a series of demonstrations and protests, Jean-Claude and his family fled to France, and the National Governing Council (Conseil National de Gouvernement—CNG), led by Lt. Gen. Henri Namphy, seized power. Namphy's declared purpose was to provide a transition to a democratically elected government. A constituent assembly, convened in October 1986, drafted a new constitution that was approved by referendum in March 1987.[NEWLINE][NEWLINE]Hopes for the restoration of democracy soon faded. The presidential election scheduled for November 1987 was postponed as gangs of thugs and soldiers killed at least 34 persons. The CNG attempted new elections and a new government, but those governments had no legitimacy at home or abroad. In December 1990 a Roman Catholic priest, Jean-Bertrand Aristide, was elected with 67.5% of the votes cast. The immediate aftermath of the CNG's takeover was euphoric. Political prisoners were released and the dreaded Tontons Macoute (Duvalier's clandestine secret police) were disbanded.[NEWLINE][NEWLINE]Aristide had an ideology, a sort of egalitarian Catholic doctrine, and a political coalition of 15 parties, the National Front for Change and Democracy (FNCD). But, he did not have the confidence of the military. Upset by his popularity and his foreign policy, which favored stronger hemispheric relations at the expense of US-Haitian relations, the military under Gen. Raoul Cédras ousted him in October 1991. From exile, Aristide did not relent, and appealed to international organizations for help. The UN and OAS forged an agreement between Cédras and Aristide to return Aristide to the presidency in October 1993, but the military balked. Aristide promptly appealed to the Clinton administration, even as he criticized US policy, and the Clinton administration responded with sanctions against the Haitian regime in May and June of 1994. However, the impasse persisted.[NEWLINE][NEWLINE]In September 1994, as a last resort, the Clinton administration secured international support for a military invasion of Haiti to force Cédras from power. A US invasion force was assembled and war seemed imminent. However, in the 11th hour, Clinton sent a special delegation, headed by former US president Jimmy Carter, to negotiate a peaceful solution to the crisis. As US fighter planes were about to take off for Haiti, the Carter team reached an agreement with Cédras and war was diverted. American forces peacefully took control of the country and, in October 1994, restored Aristide to power.[NEWLINE][NEWLINE]Returning to the country after a three-year absence, Aristide faced two major challenges: rescuing the country's economy, which was in dire straits following the international embargo that had been imposed on it, and curbing the rampant violent street crime, gang activity, and vigilantism that had developed in the absence of an adequate justice system. To cope with the security vacuum created by the departure of the military regime, UN peacekeeping forces arrived in March of 1995.[NEWLINE][NEWLINE]In June 1995 elections for local and legislative office, though marred by mismanagement and requiring additional rounds of voting, remained free of state-sponsored violence and were generally regarded as a sign of success for the nation's fledgling democracy. Although there was strong sentiment among many Haitians in favor of having Aristide remain in office beyond the end of his designated single term as president (most of which had been usurped by military rule), US support remained contingent on adhering to the terms of the 1987 constitution, which barred the president from seeking a second consecutive term. Aristide himself wavered about honoring this provision but ultimately stepped down, endorsing a close associate, René Préval, to succeed him in office. Préval was elected on 17 December 1995, with 88% of the vote. In February 1996 he took office, becoming Haiti's second democratically elected president in the country's 191-year history as an independent nation. The presence of both a UN peacekeeping force of over 1,000 and several hundred US troops was extended through November 1997. In July 1997 Haiti became a member of the Caribbean Community (CARICOM).[NEWLINE][NEWLINE]Even under relatively stable political conditions, Haiti's economic and security problems proved intractable. Poverty and unemployment—estimated at 80%—remained endemic. In May 1996 Préval agreed to economic reforms demanded by the International Monetary Fund, including privatization of state-owned enterprises, a measure previously resisted by his government. However, former president Aristide opposed the privatization plans and in 1997 formed a new political grouping of his own. After failing to win parliamentary approval for three nominees for prime minister in 1998, President Préval dissolved parliament in January 1999 and unilaterally appointed a new prime minister, provoking civil unrest in the streets. Through the rest of 1999 and into early 2000, Préval repeatedly postponed promised legislative elections, leaving the country without a fully operating government. A wave of violence escalated and eventually claimed the life of the country's most prominent radio journalist, Jean Leopold Dominique, who was murdered in April 2000.[NEWLINE][NEWLINE]In the presidential election held in November 2000, former president Aristide easily won the election with 91.8% of the vote. His party, the Fanmi Lavalas (FL—Lavalas Family), won 83 of the 93 seats in the National Assembly. After taking office in early 2001, Aristide was accused of developing a highly personalist and authoritarian government. He concentrated power in his own hands and failed to build and consolidate democratic institutions. The economy continued its downward spiral, with negative growth in 2001 and 2002 and more than 80% of Haitians living in poverty. In addition, international organizations expressed concern over the growing violence in the country and the little respect for human rights shown by the Aristide government. Rebellion, escalating in early 2003, coupled with international pressure, led to the resignation of Aristide on 29 February 2004, who then went into exile in South Africa. The same day, Boniface Alexandre, a Supreme Court justice, was sworn in as president of an interim government. The rebels, made up largely of personnel from the disbanded military, continued sporadic violence as UN forces attempted to control security by confiscating weapons; Aristide supporters also protested, sometimes in violent support for his return. Rebels almost began another attempt to oust the interim government, but money began flowing into the country again when loans and aid were released after about a four-year freeze. The interim government was able to make some payments to appease the rebels, who demanded that the military be reinstated with 10 years of back pay, but organizational hurdles twice postponed elections originally slated for October.[NEWLINE][NEWLINE]On 7 February 2006, general elections were held for the first time since Aristide was overthrown in 2004. Former President René Préval was declared the winner of the highly contested presidential election, with 51% of the vote. Préval was declared the winner after election officials agreed to discount thousands of blank ballots. Préval's supporters had taken to the streets, rejecting initial vote tallies, which would have led to a second round of voting. Préval took office on 14 May 2006.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_01">
+			<Text>Port-au-Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_02">
+			<Text>Delmas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_03">
+			<Text>Gonaïves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_04">
+			<Text>Cap-Haïtien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_05">
+			<Text>Pétion-Ville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_06">
+			<Text>Saint-Marc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_07">
+			<Text>Croix-des-Bouquets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_08">
+			<Text>Port-de-Paix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_09">
+			<Text>Léogâne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_10">
+			<Text>Jacmel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_11">
+			<Text>Dessalines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_12">
+			<Text>Petit-Goâve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_13">
+			<Text>Petite Rivière de l'Artibonite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_14">
+			<Text>Gros-Morne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_15">
+			<Text>Les Cayes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_16">
+			<Text>Saint-Michel-de-l'Atalaye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_17">
+			<Text>Jean-Rabel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_18">
+			<Text>Varrettes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_19">
+			<Text>Grand-Goâve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_20">
+			<Text>Jérémie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_21">
+			<Text>Arcahaie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_22">
+			<Text>Hinche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_23">
+			<Text>Saint-Louis-du-Nord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_24">
+			<Text>Ouanaminthe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_25">
+			<Text>Aquin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_26">
+			<Text>Mirebalais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_27">
+			<Text>Banet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_28">
+			<Text>Belladère</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_29">
+			<Text>Limbé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_30">
+			<Text>Torbeck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_31">
+			<Text>Belle-Anse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_32">
+			<Text>Marigot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_33">
+			<Text>Plaisance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_34">
+			<Text>Saint-Louis-du-Sud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_35">
+			<Text>Borgne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_36">
+			<Text>Thomassique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_37">
+			<Text>Ganthier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_38">
+			<Text>Bonbon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_39">
+			<Text>Limonade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_40">
+			<Text>Cabaret</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_0">
+			<Text>Michèle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_1">
+			<Text>Simone</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_2">
+			<Text>Marie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_3">
+			<Text>Henri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_4">
+			<Text>Prosper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_5">
+			<Text>Emile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_6">
+			<Text>Sténio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_7">
+			<Text>Dumarsais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_8">
+			<Text>Jean-Claude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_9">
+			<Text>Antonio</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC">
+			<Text>Papa Doc</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_NAME">
+			<Text>Papa Doc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_1">
+			<Text>François Duvalier, known as Papa Doc, was President of Haiti from 1957 to 1971. He was elected president in the 1957 general election on a populist and black nationalist platform. After thwarting a military coup d'état in 1958, his regime rapidly became more autocratic and despotic. Prior to his rule, Duvalier was a physician by profession. He graduated from the Graduate School of Public Health at the University of Michigan on a scholarship that was meant to train Black doctors from the Caribbean to take care of African American servicemen during World War II. Due to his profession and expertise in the medical field, he acquired the nickname "Papa Doc".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_2">
+			<Text>Medicine…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_2">
+			<Text>Duvalier was born in Port-au-Prince in 1907, the son of Duval Duvalier, a justice of the peace, and baker Ulyssia Abraham. Raised by his aunt, he completed a degree in medicine from the University of Haiti in 1934 and served as staff physician at several local hospitals. He spent a year at the University of Michigan studying public health, and in 1943, became active in a United States–sponsored campaign to control the spread of contagious tropical diseases, helping the poor to fight typhus, yaws, malaria and other tropical diseases that had ravaged Haiti for years. His patients affectionately called him "Papa Doc", a moniker that he used throughout his life. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_3">
+			<Text>… And Black Nationalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_3">
+			<Text>The racism and violence that occurred during the United States occupation of Haiti, which began in 1915, inspired black nationalism among Haitians and left a powerful impression on the young Duvalier. He was also aware of the latent political power of the poor black majority and their resentment against the small coloured elite. Duvalier supported Pan-African ideals and became involved in the négritude movement of Haitian author Jean Price-Mars, both of which led to his advocacy of Haitian Vodou. It was during this time he also married Simone Ovide.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_4">
+			<Text>Rebuilding and Renewing?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_4">
+			<Text>In 1946, Duvalier aligned himself with President Dumarsais Estimé and was appointed Director General of the National Public Health Service. In 1949, he served as Minister of Health and Labor, but when Duvalier opposed Paul Magloire's 1950 coup d'état, he left the government and resumed practicing medicine. In 1954, Duvalier abandoned medicine, hiding out in Haiti's countryside from the Magloire regime. In 1956, the Magloire government was failing, and although still in hiding, Duvalier announced his candidacy to replace him as president. By December 1956, an amnesty was issued and Duvalier emerged from hiding, and on 12 December 1956, Magloire conceded defeat. The two frontrunners in the 1957 campaign for the presidency were Duvalier and Louis Déjoie. During their campaigning, Haiti was ruled by five temporary administrations, none lasting longer than a few months. Duvalier promised to rebuild and renew the country and rural Haiti solidly supported him as did the military. François Duvalier was elected president on 22 September 1957. Duvalier received 679,884 votes to Déjoie's 266,992. Even in this election, however, there are multiple first-hand accounts of voter fraud and voter intimidation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_5">
+			<Text>Instant Oppression</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_5">
+			<Text>After being elected president in 1957, Duvalier exiled most of the major supporters of Déjoie. He had a new constitution adopted that year. Duvalier promoted and installed members of the black majority in the civil service and the army. In July 1958, three exiled Haitian army officers and five American mercenaries landed in Haiti and tried to overthrow Duvalier; all were killed. Although the army and its leaders had quashed the coup attempt, the incident deepened Duvalier's distrust of the army, an important Haitian institution over which he did not have firm control. He replaced the chief-of-staff with a more reliable officer and then proceeded to create his own power base within the army by turning the Presidential Guard into an elite corps aimed at maintaining his power. In 1959, Duvalier created a rural militia, the Milice de Volontaires de la Sécurité Nationale, also known as the Tonton Macoute, to extend and bolster support for the regime in the countryside. The Macoute, which by 1961 was twice as big as the army, never developed into a real military force but was more than just a secret police. In the name of nationalism, Duvalier expelled almost all of Haiti's foreign-born bishops, an act that earned him excommunication from the Catholic Church.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_6">
+			<Text>In the Hands of the Tonton Macoute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_6">
+			<Text>On 24 May 1959, Duvalier suffered a massive heart attack, possibly due to an insulin overdose; he had been a diabetic since early adulthood and also suffered from heart disease and associated circulatory problems. During the heart attack, he was comatose for nine hours. His physician believed that he had suffered neurological damage during these events, harming his mental health and perhaps explaining his subsequent actions. While recovering, Duvalier left power in the hands of Clément Barbot, leader of the Tonton Macoute. Upon his return to work, Duvalier accused Barbot of trying to supplant him as president and had him imprisoned. In April 1963, Barbot was released and began plotting to remove Duvalier from office by kidnapping his children. The plot failed and Duvalier then ordered a nationwide search for Barbot and his fellow conspirators. During the search, Duvalier was told that Barbot had transformed himself into a black dog, which prompted Duvalier to order that all black dogs in Haiti be put to death. The Tonton Macoute captured and killed Barbot in July 1963. In other incidents, Duvalier ordered the head of an executed rebel packed in ice and brought to him so he could commune with the dead man's spirit. Peepholes were carved into the walls of the interrogation chambers, through which Duvalier watched Haitian detainees being tortured and submerged in baths of sulfuric acid; sometimes, he was in the room during the torture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_7">
+			<Text>100% In Favour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_7">
+			<Text>Then he called a new presidential election in which he was the sole candidate, though his term was to expire in 1963 and the constitution prohibited re-election. The election was flagrantly rigged; the official tally showed a total of 1,320,748 "yes" votes for another term for Duvalier, with none opposed. Upon hearing the results, he proclaimed, "I accept the people's will. ... As a revolutionary, I have no right to disregard the will of the people". On 14 June 1964, a constitutional referendum made Duvalier "President for Life", a title previously held by seven Haitian presidents. This referendum was also blatantly rigged. His relationship with the United States proved difficult. In his early years, Duvalier rebuked the United States for its friendly relations with Dominican dictator Rafael Trujillo while ignoring Haiti. The Kennedy administration was particularly disturbed by Duvalier's repressive and totalitarian rule. Duvalier misappropriated millions of dollars of international aid, including US$ 15 million annually from the United States. After the assassination of John F. Kennedy in November 1963, which Duvalier later claimed resulted from a curse that he had placed on Kennedy, the U.S. eased its pressure on Duvalier, grudgingly accepting him as a bulwark against communism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_8">
+			<Text>Defying the Dominican Republic and Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_8">
+			<Text>After Fulgencio Batista, a friend of Duvalier, was overthrown in the Cuban Revolution, Duvalier worried that new Cuban leader Fidel Castro would provide a safe haven for Haitian dissidents. Duvalier attempted to win Cuba over by recognizing Castro's government by sending medicine and pardoning several political prisoners, but to no avail; from the very start of his regime, Castro gave anti-Duvalier dissidents his full support. Duvalier's relationship with the neighboring Dominican Republic was always tense: in his early years, Duvalier emphasized the differences between the two countries. In April 1963, relations were brought to the edge of war by the political enmity between Duvalier and Dominican president Juan Bosch. Bosch, a leftist, provided asylum and support to Haitian exiles who had plotted against the Duvalier regime. Duvalier ordered his Presidential Guard to occupy the Dominican Embassy in Pétion-Ville, with the goal of arresting a Haitian army officer believed to have been involved in Barbot's plot to kidnap Duvalier's children. The Dominican president reacted with outrage, publicly threatened to invade Haiti, and ordered army units to the border. In 1966, Duvalier hosted the emperor of Ethiopia, Haile Selassie I, in what would be the only visit of a foreign head of state to Haiti under Duvalier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_9">
+			<Text>All Were Shot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_9">
+			<Text>Duvalier's government was one of the most repressive in the Western Hemisphere. Within the country he murdered and exiled his opponents; estimates of those killed are as high as 60,000. Attacks on Duvalier from within the military were treated as especially serious. When bombs were detonated near the Presidential Palace in 1967, Duvalier had nineteen officers of the Presidential Guard executed in Fort Dimanche. A few days later Duvalier gave a public speech during which he read the attendance sheet with names of all 19 officers killed. After each name, he said "absent". After reading the whole list, Duvalier remarked that "all were shot". Haitian communists and even suspected communists bore the brunt of the government's repression. Duvalier targeted them to reassure the U.S. he was not communist: Duvalier was exposed to communist and leftist ideas early in his life and rejected them. On 28 April 1969, Duvalier instituted a campaign to rid Haiti of all communists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_10">
+			<Text>Skimming Off the Top</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_10">
+			<Text>Duvalier employed intimidation, repression, and patronage to supplant the old coloured elites with a new elite of his own making. Corruption, in the form of government rake-offs of industries, bribery, extortion of domestic businesses, and stolen government funds, enriched the dictator's closest supporters. Most of them held sufficient power to intimidate the members of the old elite, who were gradually co-opted or eliminated. Many educated professionals fled Haiti for New York City, Miami, Montreal, Paris and several French-speaking African countries, exacerbating an already serious lack of doctors and teachers. The government confiscated peasant landholdings and allotted them to members of the militia, who had no official salary and made their living through crime and extortion.  The dispossessed fled to the slums of the capital where they would find only meager incomes to feed themselves. Malnutrition and famine became endemic. Nonetheless, Duvalier enjoyed significant support among Haiti's majority black rural population, who saw in him a champion of their claims against the historically dominant coloured elite. During his 14 years in power, he created a substantial black middle class, chiefly through government patronage. Duvalier also initiated the development of François Duvalier Airport, now known as Toussaint Louverture International Airport.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_11">
+			<Text>Voodoo Guru and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_11">
+			<Text>Duvalier fostered his cult of personality and claimed that he was the physical embodiment of the island nation. He also revived the traditions of Vodou, later using them to consolidate his power with his claim of being a Vodou priest himself. In an effort to make himself even more imposing, Duvalier deliberately modeled his image on that of Baron Samedi, one of the lwa, or spirits, of Haitian Vodou. He often donned sunglasses in order to hide his eyes and talked with the strong nasal tone associated with the lwa. The regime's propaganda stated that "Papa Doc was one with the lwa, Jesus Christ and God himself". The most celebrated image from the time shows a standing Jesus Christ with a hand on the shoulder of a seated Papa Doc, captioned, "I have chosen him". Duvalier also held in his closet the head of former opponent Blucher Philogenes, who tried to overthrow him in 1963. Despite all this consolidation of power, François Duvalier died of heart disease and diabetes on 21 April 1971, seven days after his 64th birthday. His 19-year-old son Jean-Claude Duvalier, nicknamed "Baby Doc", succeeded him as president.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_LIVED">
+			<Text>1907 - 1971 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_SUBTITLE">
+			<Text>Leader of Haiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TITLES_1">
+			<Text>President[NEWLINE]President-For-Life</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_HAITI_PAPA_DOC_TEXT">
+			<Text>Papa Doc Duvalier, your loyal forces stand at the ready to crush what foes might stand in your way. A physician by training, you grew up angered by the legacy of the American occupation of Haiti and the mistreatment of her people. Aligning yourself with the ideas of Pan-Africanism, you would come to rise to oppose the power of the mulatto elite, securing your victory in the 1957 Presidential election. In time, however, your presidency would come to be carried forward with unmatched brutality and repression against your opponents, and you would set out to consolidate your legacy as not just President-for-Life but the very spirit of Haiti itself.[NEWLINE][NEWLINE]Flag of Haiti, once again your enemies grow bold and in number. As one with the very spirit of your ancestors, you must show no mercy to those who show none back. Can you rise Haiti up from the soil and honour the spirits? Can you crush those that would threaten Haiti without mercy? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_FIRSTGREETING_1">
+			<Text>I speak with the voice of the Haitian people. They call me Papa Doc as I was their first doctor. Now I am their spirit for life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DEFEATED_1">
+			<Text>As a revolutionary, I cannot be defeated. The spirit of Haiti cannot be defeated - because that spirit is me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_ATTACKED_HOSTILE_1">
+			<Text>Toy soldiers cannot defeat a spirit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DEC_FRIENDSHIP_1">
+			<Text>If you are a revolutionary like I am, then I ask of you a Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DENOUNCE_1">
+			<Text>You have forsaken the revolutionary voice of your people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DENOUNCE_FRIEND_1">
+			<Text>By betraying me, you have betrayed the spirit of the Haitian people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DOW_GENERIC_1">
+			<Text>As a revolutionary, I must fight those that threaten the spirit of Haiti with violence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Continue to send settlers near my land and I will have them meet the spirits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_GREETING_HOSTILE_HELLO_1">
+			<Text>I wish not to treat with an enemy of mine, for that makes you an enemy of the Haitian people. So speak quickly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_GREETING_NEUTRAL_HELLO_1">
+			<Text>You are welcome to sit down and speak with me, for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_GREETING_POLITE_HELLO_1">
+			<Text>As the spirit of the Haitian people, I cannot deny a chance for you to speak to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You cannot hope to attack the spirit of Haiti. You may as well turn away your soldiers now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_LUXURY_TRADE_1">
+			<Text>By gunfire or words I will have this deal done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open your borders to me and you will be opening your borders to Haiti.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You cannot purchase a spirit with gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_REQUEST_1">
+			<Text>I am the flag of Haiti. You will agree to my terms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Revolution is made with gunfire. You shall have violence not words.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_TOO_SOON_FOR_DOF_1">
+			<Text>Do not presume to befriend the spirit of Haiti.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_TOO_SOON_NO_PEACE_1">
+			<Text>I am the Haitian flag. I will not rest until all my enemies are vanquished.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAITI_PAPA_DOC_SHORT">
+			<Text>Cult of the Living Ioa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAITI_PAPA_DOC">
+			<Text>During 'We Love the King Days,' [ICON_PEACE] Faith Buildings increase the amount of [ICON_FOOD] Food stored after growth by 10% each (up to 30%) and Espionage and Military Buildings are automatically constructed using a city's [ICON_PEACE] Faith output.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HAITI_PAPA_DOC">
+			<Text>JFD: Haiti (Papa Doc) (Dummy)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HAITI_PAPA_DOC_HELP">
+			<Text>+10% [ICON_FOOD] Food kept after growth.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR">
+			<Text>Hounfour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR_HELP">
+			<Text>Constructed faster the further the city is from the [ICON_CAPITAL] Capital and triggers a WLTKD when built. Costs no maintenance.[NEWLINE][NEWLINE]City must have a Shrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR_STRATEGY">
+			<Text>The Honfour is the Temple replacement for Haiti under Papa Doc. Unlike the Temple, the Honfour costs no Gold Maintenance. It is also constructed faster the further the city is from the [ICON_CAPITAL] Capital. When constructed, the Honfour triggers a WLTKD in the city in which it was built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR_TEXT">
+			<Text>A Hounfour is a Vodou temple. At the centre of the temple, is the potomitan, a post used to contact spirits, and a highly decorated altar. Haitian Vodou, also spelt Voodoo, is an African diasporic religion that developed in Haiti between the 16th and 19th centuries. Vodou revolves around spirits known as lwa. Typically deriving their names and attributes from traditional West and Central African divinities, they are equated with Roman Catholic saints. Vodou developed among Afro-Haitian communities amid the Atlantic slave trade of the 16th to 19th centuries. Duvalier was widely perceived as a champion of Vodou, calling it the supreme factor of Haitian unity. He utilised it for his own purposes, encouraging rumours about his own powers of sorcery. Under his government, regional networks of houngans doubled as the country's chefs-de-sections, or rural section chiefs.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HOUNFOUR">
+			<Text>JFD: Haiti (Hounfour) (Dummy)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HOUNFOUR_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON">
+			<Text>Tonton Macoute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON_HELP">
+			<Text>Late-game Gun Unit that replaces the Marine but does not possess the Marine's abilities. When garrisoned in a city, causes the city to lose [ICON_FOOD] Food whilst also gaining [ICON_PRODUCTION] Production. For each [ICON_CITIZEN] Population that is lost with a Tonton Macoute garrisoned in it, the Tonton Macoute gains XP. Only Haiti under Papa Doc can train it.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_CAPITAL] Capital's [ICON_CITIZEN] Population cannot fall below 5 and all other city [ICON_CITIZEN] Population cannot fall below 3.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON_STRATEGY">
+			<Text>The Tonton Macoute is the unique Marine replacement for Haiti under Papa Doc. However, the Tonton Macoute does not possess any of the same abilities as the Marine. Instead, whilst your civilization is in excess [ICON_HAPPINESS_4] Unhappiness, the Tonton Macoute can be garrisoned in a city to gradually reduce the city's [ICON_FOOD] Food whilst at the same time increasing its [ICON_PRODUCTION] Production. If a Tonton Macoute is garrisoned in the city when [ICON_CITIZEN] Population is lost, it gains XP. The amount of [ICON_FOOD] Food lost and [ICON_PRODUCTION] Production gained is based on the number of Espionage Buildings in the city, and is doubled in [ICON_PUPPET] Puppet and [ICON_OCCUPIED] Occupied cities. Meanwhile, the amount of XP gained is based on the XP generated from the city's Military Buildings (decreasing with the unit's Level), and can be earned even when your civilization is not in excess [ICON_HAPPINESS_4] Unhappiness. Use Tonton Macoute to exert unrivalled control over your population and to bolster an unstoppable force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON_TEXT">
+			<Text>The Tonton Macoute were a Haitian paramilitary special operations unit created in 1959 by Papa Doc. Haitians named this force after the Haitian mythological bogeyman, Tonton Macoute, translated as Uncle Gunnysack, who kidnaps and punishes unruly children by snaring them in a gunny sack before carrying them off to be consumed for breakfast. Known later as the Volontaires de la Sécurité Nationale, it was created due to Papa Doc’s distrust in the military after the July 1958 Haitian coup d'état attempt. The force was authorised to commit systematic violence and human rights abuses to suppress political opposition. They were responsible for unknown numbers of murders and rapes in Haiti. Political opponents often disappeared overnight or were sometimes attacked in broad daylight. Tontons Macoutes stoned and burned people alive. Luckner Cambronne led the Tontons Macoute throughout the 1960s and the beginning of the 1970s. His cruelty earned him the nickname "Vampire of the Caribbean". This particular name was earned by one of his endeavors of extorting blood plasma from locals for sale. Some of the most important members of the Tontons Macoute were Vodou leaders.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TONTON">
+			<Text>Uncle Gunnysack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TONTON_HELP">
+			<Text>While your civilization is in excess [ICON_HAPPINESS_4] Unhappiness, [COLOR_UNIT_TEXT]garrison[ENDCOLOR] this unit in a city to reduce the city's [ICON_FOOD] Food whilst increasing its [ICON_PRODUCTION] Production. If this unit is garrisoned in the city when it [COLOR_WARNING_TEXT]LOSES[ENDCOLOR] [ICON_CITIZEN] Population, it gains XP.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_HAITI_PAPA_DOC_DESCRIPTION">
+			<Text>HAITI (PAPA DOC)[NEWLINE][NEWLINE]UNIQUE TRAIT: CULT OF THE LIVING IOA[NEWLINE]During 'We Love the King Days,' [ICON_PEACE] Faith Buildings increase the amount of [ICON_FOOD] Food stored after growth by 10% each (up to 30%) and Espionage and Military Buildings are automatically constructed using a city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUNFOUR (TEMPLE)[NEWLINE]The Honfour is the Temple replacement for Haiti under Papa Doc. Unlike the Temple, the Honfour costs no Gold Maintenance. It is also constructed faster the further the city is from the [ICON_CAPITAL] Capital. When constructed, the Honfour triggers a WLTKD in the city in which it was built.[NEWLINE][NEWLINE]UNIQUE UNIT: TONTON MACOUTE (MARINE)[NEWLINE]The Tonton Macoute is the unique Marine replacement for Haiti under Papa Doc. However, the Tonton Macoute does not possess any of the same abilities as the Marine. Instead, whilst your civilization is in excess [ICON_HAPPINESS_4] Unhappiness, the Tonton Macoute can be garrisoned in a city to gradually reduce the city's [ICON_FOOD] Food whilst at the same time increasing its [ICON_PRODUCTION] Production. If a Tonton Macoute is garrisoned in the city when [ICON_CITIZEN] Population is lost, it gains XP. The amount of [ICON_FOOD] Food lost and [ICON_PRODUCTION] Production gained is based on the number of Espionage Buildings in the city, and is doubled in [ICON_PUPPET] Puppet and [ICON_OCCUPIED] Occupied cities. Meanwhile, the amount of XP gained is based on the XP generated from the city's Military Buildings (decreasing with the unit's Level), and can be earned even when your civilization is not in excess [ICON_HAPPINESS_4] Unhappiness. Use Tonton Macoute to exert unrivalled control over your population and to bolster an unstoppable force.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_HAITI_PAPA_DOC_ADJECTIVE">
+			<Text>海地共和國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAITI_PAPA_DOC_DESC">
+			<Text>海地共和國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_HAITI_PAPA_DOC_SHORT_DESC">
+			<Text>海地共和國</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_CIV_TAL_JFD_HAITI_DESC">
+			<Text>海地共和國</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_HAITI_PAPA_DOC_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_HAITI_PAPA_DOC_TEXT_1">
+			<Text>1492年，哥倫布(Christopher Columbus)讓歐洲人發現了伊斯帕尼奧拉島，並在現在的海地角(Cap-Haïtien)附近建立了定居地。在 25 年內，原住民阿拉瓦克人（Arawak）這個熱愛和平的農業民族幾乎被西班牙殖民者滅絕。Bishop Bartolomé de las Casas 是美洲印第安人的傳教士，最初於 1502 年以種植者的身份來到伊斯帕尼奧拉島，他建議輸入非洲奴隸作為種植園的勞動力。約1625年，法國和英國的私掠船和海盜捕食西班牙的加勒比海船隻，並將小島Tortuga作為他們的基地。法國人很快也在附近的大陸海岸建立了殖民存在，並與西班牙人競爭。在《雷斯威克條約》（1697 年）中，西班牙將該島西三分之一的土地（海地）割讓給法國人。在法國的統治下，海地成為加勒比海地區最富有的國家之一。1789年的法國大革命取締了法國的奴隸制，這激起了海地近50萬黑人奴隸的反抗。在一連串的暴力起義中，奴隸們殺死了白人種植園主，夷平了莊園。儘管他們遭受了殘酷的報復，但他們仍在法國政府的直接領導下繼續戰鬥。在一連串的暴力起義中，奴隸們殺死了白人種植園主，夷平了莊園。儘管他們遭受了殘酷的報復，但他們在杜桑‧勒維杜爾（Toussaint L'Ouverture）的指導下繼續戰鬥。1801年，杜桑控制了整個島嶼，並頒布憲法廢除奴隸制。拿破崙皇帝不接受此舉，派出70艘軍艦和25,000人鎮壓這場運動。杜桑被俘，死於法國監獄。[NEWLINE][NEWLINE]讓-雅克-德薩林（Jean Jacques Dessalines）是另一位從軍隊中崛起的黑人將領，他繼續進行鬥爭，1803年，被疾病擊垮的法國軍隊投降。1804年1月1日，德薩林宣佈海地獨立。德薩林在 1804 年稱帝後，於 1806 年被暗殺，海地分裂為北部君主制和南部共和制。在這兩個政權下，種植園被分配給前奴隸，海地成為一個小農國家。1820 年，Jean Pierre Boyer 統一了海地，1822 年，海地軍隊征服了聖多明哥（今多米尼加共和國）。22 年來，整個島嶼只有一個共和國。然而，1844 年，在 Boyer 被推翻一年後，多米尼加共和國宣布從海地獨立。1849 年，海地總統 Faustin Elie Soulouque 自封為 Faustin 一世皇帝。</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_01">
+			<Text>太子港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_02">
+			<Text>德爾馬斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_03">
+			<Text>戈納伊夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_04">
+			<Text>海地角</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_05">
+			<Text>佩蒂翁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_06">
+			<Text>聖馬克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_07">
+			<Text>克魯瓦德布凱區</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_08">
+			<Text>和平港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_09">
+			<Text>莱奥甘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_10">
+			<Text>雅克梅勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_11">
+			<Text>让-雅克·德萨林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_12">
+			<Text>小戈阿沃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_13">
+			<Text>德薩利納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_14">
+			<Text>格罗斯莫恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_15">
+			<Text>莱凯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_16">
+			<Text>聖米歇爾德拉塔萊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_17">
+			<Text>讓·拉貝爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_18">
+			<Text>瓦雷特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_19">
+			<Text>格蘭德戈夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_20">
+			<Text>耶利米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_21">
+			<Text>阿卡艾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_22">
+			<Text>欣切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_23">
+			<Text>聖路易斯杜諾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_24">
+			<Text>瓦納明特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_25">
+			<Text>阿金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_26">
+			<Text>米雷巴萊斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_27">
+			<Text>巴內</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_28">
+			<Text>貝拉黛爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_29">
+			<Text>林貝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_30">
+			<Text>托貝克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_31">
+			<Text>貝麗安斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_32">
+			<Text>馬里戈特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_33">
+			<Text>普莱桑斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_34">
+			<Text>南聖路易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_35">
+			<Text>博爾涅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_36">
+			<Text>托馬西克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_37">
+			<Text>甘蒂爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_38">
+			<Text>博爾涅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_39">
+			<Text>伊斯帕尼奧拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HAITI_PAPA_DOC_40">
+			<Text>卡巴莱</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_0">
+			<Text>米歇爾</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_1">
+			<Text>西蒙</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_2">
+			<Text>瑪麗</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_3">
+			<Text>亨利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_4">
+			<Text>普羅斯珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_5">
+			<Text>埃米爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_6">
+			<Text>斯泰尼奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_7">
+			<Text>埃斯蒂梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_8">
+			<Text>讓-克勞德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_HAITI_PAPA_DOC_9">
+			<Text>安東尼奧</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC">
+			<Text>弗朗索瓦·杜瓦利埃</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_NAME">
+			<Text>弗朗索瓦·杜瓦利埃（法蘭索華·杜華利）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_1">
+			<Text>歷史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_1">
+			<Text>弗朗索瓦·杜瓦利埃，人稱「醫生爸爸」，1957年至1971年擔任海地總統。他在1957年的大選中以民粹主義和黑人民族主義為綱領當選總統。在1958年挫敗了一場軍事政變后，他的政權迅速變得更加獨裁和專制。在他統治之前，杜瓦利埃是一名職業醫生。他從密歇根大學公共衛生研究生院畢業，獲得了獎學金，該獎學金旨在培訓來自加勒比地區的黑人醫生，以便在第二次世界大戰期間照顧非洲裔美國軍人。由於他在醫學領域的專業知識，他獲得了「爸爸醫生」的綽號。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_2">
+			<Text>醫學方面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_2">
+			<Text>弗朗索瓦·杜瓦利埃（香港翻譯：法蘭索華·杜華利）於 1907 年出生於太子港，是太平紳士杜瓦爾·杜瓦利埃 （Duval Duvalier） 和麵包師尤利西亞·亞伯拉罕 （Ulyssia Abraham） 的兒子。他由姑姑撫養長大，於1934年在海地大學獲得醫學學位，並在當地幾家醫院擔任主治醫生。他在密歇根大學（University of Michigan）花了一年時間學習公共衛生，並於1943年積极參與美國贊助的控制傳染性熱帶病傳播的運動，説明窮人對抗斑疹傷寒、雅司病、瘧疾和其他多年來肆虐海地的熱帶疾病。他的病人親切地稱他為“Papa Doc”，這個綽號他一生都在使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_3">
+			<Text>黑人民族主義</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_3">
+			<Text>1915 年開始的美國佔領海地期間發生的種族主義和暴力激發了海地人的黑人民族主義，並給年輕的弗朗索瓦·杜瓦利埃留下了深刻的印象。他還意識到大多數貧窮的黑人的潛在政治力量以及他們對少數有色人種精英的不滿。弗朗索瓦·杜瓦利埃支援泛非理想，並參與了海地作家讓·普萊斯-瑪律斯 （Jean Price-Mars） 的黑人運動，這兩者都導致他宣導海地巫毒教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_4">
+			<Text>重建國家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_4">
+			<Text>1946年，杜瓦利埃與總統杜馬賽·埃斯蒂梅結盟，被任命為國家公共衛生服務局局長。 1949年，他擔任衛生和勞工部長，但當杜瓦利埃反對保羅·馬格洛瓦爾1950年發動的政變時，他離開了政府並重新開始行醫。 1954年，杜瓦利埃放棄醫學生涯，躲藏海地鄉村以躲避馬格洛瓦爾政權。 1956年，馬格盧瓦爾政府瀕臨失敗，儘管杜瓦利埃仍在躲藏，但他還是宣布參選接替馬格盧瓦爾擔任總統。 1956 年 12 月，大赦令頒布，杜瓦利埃從躲藏中現身，1956 年 12 月 12 日，馬格洛瓦爾承認失敗。 1957年總統競選中的兩位領袖是杜瓦利埃和路易·德茹瓦。在他們的競選期間，海地曾被五個臨時政府統治，但每個政府的統治時間都不超過幾個月。杜瓦利埃承諾重建和振興國家，海地農村和軍隊都堅定地支持他。 1957 年 9 月 22 日，弗朗索瓦·杜瓦利埃當選總統。然而，即使在這次選舉中，也存在多起選民欺詐和選民恐嚇的第一手報道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_5">
+			<Text>極端壓迫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_5">
+			<Text>1957年當選總統後，杜瓦利埃流放了德茹瓦的大部分主要支持者。他在那一年通過了一部新憲法。杜瓦利埃提拔並安插了黑人多數派成員進入公務員隊伍和軍隊。 1958年7月，3名流亡的海地軍隊軍官和5名美國傭兵登陸海地，試圖推翻杜瓦利埃；全部被殺了。儘管軍隊及其領導人鎮壓了政變企圖，但這一事件加深了杜瓦利埃對軍隊的不信任，因為軍隊是海地的一個重要機構，而杜瓦利埃對軍隊卻沒有牢固的控制。他用一位更可靠的軍官替換了總參謀長，然後著手在軍隊中建立自己的權力基礎，將總統衛隊變成一支旨在維護其權力的精銳部隊。 1959 年，杜瓦利埃創建了農村民兵組織，即“國家安全志願軍”，又稱通頓馬庫特(Tonton Macoute)，以擴大和加強農村對政權的支持。到 1961 年，馬庫特警察的規模已是軍隊的兩倍，但它從未發展成為一支真正的軍事力量，而只是一支秘密警察部隊。杜瓦利埃以民族主義的名義驅逐了海地幾乎所有的外國主教，此舉導致他被天主教會逐出教會。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_6">
+			<Text>通頓馬庫特的恐怖統治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_6">
+			<Text>1959 年 5 月 24 日，杜瓦利埃突發嚴重心臟病，可能是由於胰島素過量引起；他自成年起就患有糖尿病，也患有心臟病和相關的循環系統疾病。心臟病發作期間，他昏迷了九個小時。他的醫生認為，他在這些事件中遭受了神經損傷，損害了他的精神健康，或許也解釋了他隨後的行為。康復期間，杜瓦利埃將權力交給了通頓馬庫特黨領袖克萊芒巴博。重返工作崗位後，杜瓦利埃指責巴博試圖取代他的總統職位，並將他監禁。 1963 年 4 月，巴博特被釋放並開始策劃綁架杜瓦利埃的孩子以罷免他。該陰謀失敗後，杜瓦利埃下令在全國範圍內搜捕巴博及其同謀。在搜尋過程中，杜瓦利埃被告知巴博特已經變成了一隻黑狗，促使杜瓦利埃下令將海地所有黑狗處死。 1963 年 7 月，通頓馬庫特號捕獲並殺死了巴博特。審訊室的牆上刻有窺視孔，杜瓦利埃可以透過窺視孔看到海地被拘留者遭受酷刑並被浸泡在硫酸浴中；有時，他在遭受酷刑時就在房間裡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_7">
+			<Text>"完美支持率"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_7">
+			<Text>隨後，他宣布舉行新的總統選舉，並以他自己為唯一候選人，儘管他的任期將於 1963 年到期，而憲法禁止他連任。這次選舉被明顯操縱；官方統計結果顯示，共 1,320,748 票贊成杜瓦利埃連任，無人反對。聽到結果後，他宣稱：「我接受人民的意願。……身為革命者，我沒有權利無視人民的意願」。 1964 年 6 月 14 日，一場憲法公投選舉杜瓦利埃為“終身總統”，這一頭銜此前已有七位海地總統獲得過。這次公投也明顯存在操縱。事實證明，他與美國的關係很困難。杜瓦利埃早年曾斥責美國與多明尼加獨裁者拉斐爾·特魯希略保持友好關係，對海地卻置之不理。甘迺迪政府對杜瓦利埃的壓制和極權統治尤其感到不安。杜瓦利埃挪用了數百萬美元的國際援助，其中包括美國每年提供的1,500萬美元。 1963 年 11 月約翰·F·甘迺迪遇刺後，杜瓦利埃聲稱刺殺甘迺迪是自己對甘迺迪施了詛咒的結果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_8">
+			<Text>對鄰居的挑釁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_8">
+			<Text>杜瓦利埃的朋友富爾亨西奧·巴蒂斯塔在古巴革命中被推翻後，杜瓦利埃擔心古巴新領導人菲德爾·卡斯特羅會為海地異議人士提供避風港。 杜瓦利埃試圖透過向古巴提供藥物和赦免數名政治犯來承認卡斯楚政府，以贏得古巴的支持，但無濟於事； 卡斯楚從執政伊始就全力支持反對杜瓦利埃的異議人士。 杜瓦利埃與鄰國多明尼加共和國的關係一直很緊張：杜瓦利埃早年強調兩國之間的差異。 1963年4月，杜瓦利埃和多明尼加總統胡安·博什之間的政治敵意使兩國關係瀕臨戰爭邊緣。 博世是一名左翼人士，他為密謀推翻杜瓦利埃政權的海地流亡者提供庇護和支持。 杜瓦利埃命令總統衛隊佔領佩蒂翁維爾的多明尼加大使館，目的是逮捕一名被認為參與了巴博綁架杜瓦利埃子女陰謀的海地軍官。 多明尼加總統對此作出憤怒反應，公開威脅入侵海地，並命令軍隊前往邊境。 1966 年，杜瓦利埃接待了埃塞俄比亞皇帝海爾·塞拉西一世，這是杜瓦利埃執政期間唯一一次外國元首訪問海地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_9">
+			<Text>謀殺和流放</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_9">
+			<Text>杜瓦利埃的政府是西半球鎮壓最嚴厲的政府之一。在國內，他謀殺和流放他的反對者；據估計，被殺害的人數高達 60,000 人。軍方內部對杜瓦利埃的攻擊尤其嚴重。1967 年，總統府附近的炸彈被引爆，杜瓦利埃在 Dimanche 要塞處決了 19 名總統衛隊軍官。幾天後，杜瓦利埃發表了一次公開演講，在演講中他宣讀了列有所有 19 名被殺軍官名字的出席表。在每個名字後，他都說 「缺席」。讀完整份名單後，杜瓦利埃說：「所有人都被槍殺了」。海地共產黨員，甚至是共產黨員嫌疑犯，在政府的鎮壓下首當其衝。杜瓦利埃以他們為目標，向美國保證他不是共產黨員： 杜瓦利埃早年曾接觸共產主義和左派思想，並予以拒絕。1969 年 4 月 28 日，杜瓦利埃展開一場剷除海地所有共產黨員的運動。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_10">
+			<Text>流氓精英</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_10">
+			<Text>杜瓦利埃運用恐嚇、鎮壓和恩賜等手段，以自己打造的新精英取代舊有色精英。賄賂、勒索國內企業、偷竊政府資金等形式的貪污，讓獨裁者最親密的支持者富得流油。他們中的大多數人掌握了足夠的權力來威脅舊有精英，而舊有精英則逐漸被收編或淘汰。許多受教育的專業人士逃離海地，前往紐約市、邁阿密、蒙特婁、巴黎和幾個非洲法語國家，使得原本就嚴重缺乏的醫生和教師更加匱乏。政府沒收了農民的土地，並將其分配給民兵成員，這些民兵沒有正式薪水，靠犯罪和勒索謀生。  被剝奪土地的人逃到首都的貧民窟，在那裡他們只能找到微薄的收入來養活自己。營養不良和饑荒成為地方病。儘管如此，杜瓦利埃在海地佔大多數的黑人農村人口中仍獲得相當大的支持，他們認為杜瓦利埃是他們反對歷史上佔優勢的有色人種精英的代言人。在他執政的 14 年間，他主要透過政府的贊助，創造了一個龐大的黑人中產階級。杜瓦利埃還發起了弗朗索瓦-杜瓦利埃機場（François Duvalier Airport）的發展，即現在的杜桑-盧維杜爾國際機場（Toussaint Louverture International Airport）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_HEADING_11">
+			<Text>巫毒大師與生理死亡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TEXT_11">
+			<Text>杜瓦利埃培養了他的個人崇拜，聲稱自己是島國的化身。他還恢復了巫毒教的傳統，後來利用這些傳統鞏固自己的權力，並聲稱自己就是巫毒教的祭司。為了讓自己更有氣勢，杜瓦利埃刻意以薩梅迪男爵 (Baron Samedi) 的形象為藍本，薩梅迪男爵是海地伏都神靈 (lwa, or spirits, of the Haitian Vodou) 之一。他經常戴上太陽眼鏡以遮住眼睛，說話時帶有與 lwa 相關的強烈鼻音。該政權的宣傳稱，「Papa Doc 與 lwa、耶穌基督和上帝本身是一體的」。當時最著名的圖片是站立的耶穌基督手搭在坐著的 Papa Doc 的肩膀上，標題是「我已經選擇了他」。杜瓦利埃還在壁櫥中收藏了前對手 Blucher Philogenes 的頭顱，他曾在 1963 年試圖推翻杜瓦利埃。儘管如此鞏固權力，François Duvalier 仍於 1971 年 4 月 21 日，也就是他 64 歲生日的七天後，因心臟病和糖尿病過世。他 19 歲的兒子讓-克勞德-杜瓦利埃 (Jean-Claude Duvalier)，綽號「寶貝多克」，繼任總統。</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_LIVED">
+			<Text>公元1907-1971年</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_SUBTITLE">
+			<Text>海地領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAITI_PAPA_DOC_TITLES_1">
+			<Text>總統[NEWLINE]終身總統</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_HAITI_PAPA_DOC_TEXT">
+			<Text>偉大的獨裁者，敬愛的弗朗索瓦·杜瓦利埃總統，無所不能的醫生父親，巫毒的偉大祭司！您忠誠的軍隊隨時準備粉碎阻礙您的敵人。您是醫生出身，從小就對美國佔領海地和虐待海地人民的歷史感到憤怒。您將自己與泛非主義的思想結盟，以反對黑白混血精英的勢力，並在 1957 年的總統選舉中取得勝利。然而，隨著時間的推移，您的總統任期將以無與倫比的殘暴和鎮壓對抗您的對手，您將開始鞏固您的遺產，不僅是終生總統，更是海地本身的精神。身為你祖先精神的一員，你必須對那些毫不留情的人毫不留情。你能讓海地從泥土中站起來，向神靈致敬嗎？你能毫不留情地粉碎那些威脅海地的人嗎？你們能建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_FIRSTGREETING_1">
+			<Text>我代表海地人民發聲！我是弗朗索瓦·杜瓦利埃，他們尊稱我爲爸爸醫生，而如今我也是他們生命中最偉大的神靈。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DEFEATED_1">
+			<Text>作爲一個革命者，我是不會被打敗的...海地精神是不能被打敗的———因爲我就是這種精神的偉大化身！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_ATTACKED_HOSTILE_1">
+			<Text>玩具一樣的軍隊可無法打敗神的化身。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DEC_FRIENDSHIP_1">
+			<Text>如果你也是革命者，那麼你就需要與我發表一份友誼宣言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DENOUNCE_1">
+			<Text>你們拋棄了人民的革命之音。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：您目前並未處於戰爭狀態。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DENOUNCE_FRIEND_1">
+			<Text>你們背叛了我，也背叛了海地人民的精神。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：您目前並未處於戰爭狀態。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_DOW_GENERIC_1">
+			<Text>身為革命者，我必須與那些以暴力威脅海地精神的人奮戰！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_EXPANSION_SERIOUS_WARNING_1">
+			<Text>身為革命者與神靈的化身，我必須與那些以暴力威脅海地精神的人奮戰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_GREETING_HOSTILE_HELLO_1">
+			<Text>我不想花時間與海地人民的敵人打交道，所以請說快點。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_GREETING_NEUTRAL_HELLO_1">
+			<Text>現在，歡迎您坐下來與我這個神靈交談。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_GREETING_POLITE_HELLO_1">
+			<Text>作爲海地人民的神靈，我或許不能剝奪你對他們講話的機會。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>你不能指望攻擊我這個海地的神靈。你最好現在就遣返你的部隊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_LUXURY_TRADE_1">
+			<Text>不管是用槍炮或是談判，我都一定會達成這筆交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_OPEN_BORDERS_EXCHANGE_1">
+			<Text>向我本人開放你們的邊界你們也會同時向海地開放你們的邊界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>你無法用金錢買到靈魂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_REQUEST_1">
+			<Text>我是海地的象徵。你得同意我的條件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>革命是用槍炮發動的。你應該貫徹暴力而不是平淡的言語。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_TOO_SOON_FOR_DOF_1">
+			<Text>不要妄想海地人民對你友好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_HAITI_PAPA_DOC_TOO_SOON_NO_PEACE_1">
+			<Text>我是海地的神！不殺死我所有的敵人我絕不罷休！</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAITI_PAPA_DOC_SHORT">
+			<Text>巫毒政治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_HAITI_PAPA_DOC">
+			<Text>在「我們愛國王日」期間，[ICON_PEACE] 信仰建築會使增長後儲存的[ICON_FOOD]食物量增加10%（最高30%），並且間諜和軍事建築會使用城市的[ICON_PEACE]信仰產出自動建造。</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HAITI_PAPA_DOC">
+			<Text>強行徵糧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HAITI_PAPA_DOC_HELP">
+			<Text>+10% [ICON_FOOD] 生長後保留的食物。</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR">
+			<Text>巫毒神殿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR_HELP">
+			<Text>城市距離 [ICON_CAPITAL] 首都越遠，建造速度就越快，建成後會觸發「我們愛國王日」。巫毒神殿無需維護费。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR_STRATEGY">
+			<Text>在弗朗索瓦·杜瓦利埃的領導下，海地的巫毒神殿取代了神殿。與神殿不同，巫毒神殿不需要花費黃金維護費。城市距離 [ICON_CAPITAL] 首都越遠，其建造速度就越快。當巫毒神殿被建造時，它會在其建造城市引發「我們愛國王日」。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HOUNFOUR_TEXT">
+			<Text>巫毒神殿是一種巫毒教的宗教建築。在神殿的中心，是一個用來聯系神靈的柱子，還有一個裝飾精美的祭壇。海地巫毒教，是16世紀和19世紀之間在海地發展起來的非洲散居宗教。巫毒教圍繞着被稱爲"lwa"的靈魂。通常，他們的名字和屬性來自傳統的西非和中非神，他們被等同於羅馬天主教聖徒。在16至19世紀的大西洋奴隸貿易中，巫毒教在非洲-海地社區中發展起來。杜瓦利埃被廣泛認爲是巫毒教的擁護者，稱它是海地團結的最高因素。他利用它來達到自己的目的，散播關於他自己的魔法能力的謠言。在他的政府領導下，地區網絡的執政官充當了國家農村部門的負責人。</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HOUNFOUR">
+			<Text>巫毒神殿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_HOUNFOUR_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON">
+			<Text>通頓馬庫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON_HELP">
+			<Text>在遊戲後期取代海軍陸戰隊的單位，但不具備陸海軍陸戰隊的能力。 當駐紮在城市時，會導致城市失去 [ICON_FOOD] 糧食，同時也會獲得 [ICON_PRODUCTION] 生產。 在有通頓馬庫特駐守的情況下，每失去 [ICON_CITIZEN] 人口，通頓馬庫特就會獲得經驗值。 只有弗朗索瓦·杜瓦利埃統治下的海地共和國可以訓練這種單位。[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]注意：[ICON_CAPITAL]首都的[ICON_CITIZEN]人口不能低於5，其他所有城市的 [ICON_CITIZEN] 人口不能低於3。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON_STRATEGY">
+			<Text>通頓馬庫特是弗朗索瓦·杜瓦利埃指揮下派往海地的唯一海軍陸戰隊替代者。然而，通頓馬庫特並不具備海軍陸戰隊的任何能力。相反，當你的文明處於過度的 [ICON_HAPPINESS_4] 不幸福狀態時，你可以派遣通頓馬庫特駐紮在城市中，逐漸減少城市的 [ICON_FOOD] 食物，同時增加其 [ICON_PRODUCTION] 產量。如果在 [ICON_CITIZEN] 人口減少時通頓馬庫特駐紮在城市中，它將獲得经验值。 [ICON_FOOD] 食物損失和 [ICON_PRODUCTION] 生產力增加取決於城市中的間諜建築數量，在 [ICON_PUPPET] 傀儡城市和 [ICON_OCCUPIED] 被佔領城市中則翻倍。同時，獲得的经验值數量取決於城市軍事建築產生的经验值（隨著單位等級的提高而減少），即使您的文明沒有過度 [ICON_HAPPINESS_4] 不幸福度，也可以獲得。使用通頓馬庫特對你的人口施加無與倫比的控制並增強不可阻擋的力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TONTON_TEXT">
+			<Text>通頓馬庫特是海地準軍事特種作戰部隊，由弗朗索瓦·杜瓦利埃於 1959 年創建。海地人以海地神話中的惡魔通頓馬庫特（意為「麻袋叔叔」）來命名這支力量，他會綁架並懲罰不守規矩的孩子，把他們困在麻袋裡，然後帶走當早餐吃掉。該組織後來被稱為國家安全志願者組織，其成立源於 1958 年 7 月海地政變未遂後，弗朗索瓦·杜瓦利埃對軍隊產生了不信任。該部隊被授權採取系統性暴力和侵犯人權的行為來鎮壓政治反對派。他們對海地發生的無數起謀殺和強暴事件負有責任。政治對手經常在一夜之間消失，有時甚至在光天化日之下遭到攻擊。湯頓斯·馬庫斯用石頭砸死人，並把人活活燒死。盧克納·坎布羅納 (Luckner Cambronne) 在整個 20 世紀 60 年代和 70 年代初領導著通頓馬庫特樂隊。他的殘忍使他贏得了“加勒比吸血鬼”的綽號。這個特殊的名字是因為他從當地人那裡勒索血漿並出售的行為而獲得的。 通頓馬庫特的一些最重要成員是巫毒教領袖。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TONTON">
+			<Text>「麻袋叔叔」</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TONTON_HELP">
+			<Text>當你的文明處於過度的[ICON_HAPPINESS_4]不幸福狀態時，[COLOR_UNIT_TEXT]駐紮[ENDCOLOR]該單位在城市中以減少城市的[ICON_FOOD]食物，同時增加其[ICON_PRODUCTION]產量。如果此單位在城市 [COLOR_WARNING_TEXT]失去[ENDCOLOR] [ICON_CITIZEN] 人口時駐紮在城市中，它將獲得經驗值。</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_HAITI_PAPA_DOC_DESCRIPTION">
+			<Text>HAITI (PAPA DOC)[NEWLINE][NEWLINE]UNIQUE TRAIT: CULT OF THE LIVING IOA[NEWLINE]During 'We Love the King Days,' [ICON_PEACE] Faith Buildings increase the amount of [ICON_FOOD] Food stored after growth by 10% each (up to 30%) and Espionage and Military Buildings are automatically constructed using a city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUNFOUR (TEMPLE)[NEWLINE]The Honfour is the Temple replacement for Haiti under Papa Doc. Unlike the Temple, the Honfour costs no Gold Maintenance. It is also constructed faster the further the city is from the [ICON_CAPITAL] Capital. When constructed, the Honfour triggers a WLTKD in the city in which it was built.[NEWLINE][NEWLINE]UNIQUE UNIT: TONTON MACOUTE (MARINE)[NEWLINE]The Tonton Macoute is the unique Marine replacement for Haiti under Papa Doc. However, the Tonton Macoute does not possess any of the same abilities as the Marine. Instead, whilst your civilization is in excess [ICON_HAPPINESS_4] Unhappiness, the Tonton Macoute can be garrisoned in a city to gradually reduce the city's [ICON_FOOD] Food whilst at the same time increasing its [ICON_PRODUCTION] Production. If a Tonton Macoute is garrisoned in the city when [ICON_CITIZEN] Population is lost, it gains XP. The amount of [ICON_FOOD] Food lost and [ICON_PRODUCTION] Production gained is based on the number of Espionage Buildings in the city, and is doubled in [ICON_PUPPET] Puppet and [ICON_OCCUPIED] Occupied cities. Meanwhile, the amount of XP gained is based on the XP generated from the city's Military Buildings (decreasing with the unit's Level), and can be earned even when your civilization is not in excess [ICON_HAPPINESS_4] Unhappiness. Use Tonton Macoute to exert unrivalled control over your population and to bolster an unstoppable force.</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

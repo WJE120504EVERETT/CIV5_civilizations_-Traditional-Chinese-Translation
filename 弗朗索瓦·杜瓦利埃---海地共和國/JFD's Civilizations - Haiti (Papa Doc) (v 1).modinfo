@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a941bcd8-90c4-49f9-af54-570a58d8d57f" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Haiti (Papa Doc)</Name>
+    <Teaser>Adds [COLOR_CYAN]Haiti under Papa Doc[ENDCOLOR]. Click for details.</Teaser>
+    <Description>HAITI (PAPA DOC)[NEWLINE][NEWLINE]UNIQUE TRAIT: CULT OF THE LIVING IOA[NEWLINE]During 'We Love the King Days,' [ICON_PEACE] Faith Buildings increase the amount of [ICON_FOOD] Food stored after growth by 10% each (up to 30%) and Espionage and Military Buildings are automatically constructed using a city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]UNIQUE BUILDING: HOUNFOUR (TEMPLE)[NEWLINE]The Honfour is the Temple replacement for Haiti under Papa Doc. Unlike the Temple, the Honfour costs no Gold Maintenance. It is also constructed faster the further the city is from the [ICON_CAPITAL] Capital. When constructed, the Honfour triggers a WLTKD in the city in which it was built.[NEWLINE][NEWLINE]UNIQUE UNIT: TONTON MACOUTE (MARINE)[NEWLINE]The Tonton Macoute is the unique Marine replacement for Haiti under Papa Doc. However, the Tonton Macoute does not possess any of the same abilities as the Marine. Instead, whilst your civilization is in excess [ICON_HAPPINESS_4] Unhappiness, the Tonton Macoute can be garrisoned in a city to gradually reduce the city's [ICON_FOOD] Food whilst at the same time increasing its [ICON_PRODUCTION] Production. If a Tonton Macoute is garrisoned in the city when [ICON_CITIZEN] Population is lost, it gains XP. The amount of [ICON_FOOD] Food lost and [ICON_PRODUCTION] Production gained is based on the number of Espionage Buildings in the city, and is doubled in [ICON_PUPPET] Puppet and [ICON_OCCUPIED] Occupied cities. Meanwhile, the amount of XP gained is based on the XP generated from the city's Military Buildings (decreasing with the unit's Level), and can be earned even when your civilization is not in excess [ICON_HAPPINESS_4] Unhappiness. Use Tonton Macoute to exert unrivalled control over your population and to bolster an unstoppable force.</Description>
+    <Authors>JFD, DarthKyofu, TopHatPaladin, Zharques</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/Tonton/no_gloss.dds</File>
+    <File md5="D59B26474BF3F3D23760FD93DB967D52" import="1">Art/Graphics/Tonton/sv_Tonton.dds</File>
+    <File md5="AF664AB943C31670833C462CC6809646" import="1">Art/Graphics/Tonton/Tonton.dds</File>
+    <File md5="20B554F8C91190DA7D5142325681EF64" import="1">Art/Graphics/Tonton/Tonton.fxsxml</File>
+    <File md5="74CE2533C3CAF657B3AAFBDF69AABDD5" import="1">Art/Graphics/Tonton/Tonton.gr2</File>
+    <File md5="84D5D2866ED1784295396C45EFC74B8B" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_128.dds</File>
+    <File md5="5E0EC4EF4CB45BFD997B3B1C1B1E80D6" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_16.dds</File>
+    <File md5="D24C44C0CB33B90EEFD0C267BE9EFCEB" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_24.dds</File>
+    <File md5="9ADD546F15E2261911EFC4ED75A4AB0B" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_32.dds</File>
+    <File md5="F81854F4A0C177465024E5FFE5A7C397" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_45.dds</File>
+    <File md5="EE4DA92BDB096C2D2F54624B8515B2CC" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_48.dds</File>
+    <File md5="E75315FA6190768C4E7505909C768E06" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_64.dds</File>
+    <File md5="53C54AE6F0EE0F98617C0C5EF6517052" import="1">Art/Icons/JFD_HaitiPapaDoc_AlphaAtlas_80.dds</File>
+    <File md5="2E465AB44C0E82AC266B2240973172DF" import="1">Art/Icons/JFD_HaitiPapaDoc_IconAtlas_128.dds</File>
+    <File md5="DEF20F0EC55EB5E27BD05C9635BBAE9D" import="1">Art/Icons/JFD_HaitiPapaDoc_IconAtlas_256.dds</File>
+    <File md5="B6C142FC37584060937778A750AD8995" import="1">Art/Icons/JFD_HaitiPapaDoc_IconAtlas_32.dds</File>
+    <File md5="1EA855EDD2445315E001BEE694391F29" import="1">Art/Icons/JFD_HaitiPapaDoc_IconAtlas_45.dds</File>
+    <File md5="95CF9C723957C9A8558B4801D9D789E1" import="1">Art/Icons/JFD_HaitiPapaDoc_IconAtlas_64.dds</File>
+    <File md5="D24E74AF4C729E02A1416B635E44F3E9" import="1">Art/Icons/JFD_HaitiPapaDoc_IconAtlas_80.dds</File>
+    <File md5="023303331A256F5B9162FC757FD2E89D" import="1">Art/Icons/JFD_HaitiPapaDoc_UnitFlagAtlas_32.dds</File>
+    <File md5="4F0E134D3D84A95A082D40AF50A7974B" import="1">Art/Leaderscene/JFD_HaitiPapaDoc_Diplo.dds</File>
+    <File md5="FB2A467A3E80565FA95489DFE156A5F1" import="1">Art/Leaderscene/JFD_HaitiPapaDoc_Scene.xml</File>
+    <File md5="726B2AE078ECEB2856FA3872E4146C02" import="1">Art/Maps/JFD_DOM_HaitiPapaDoc.dds</File>
+    <File md5="B7A46441FF35F524C49287FC36B94110" import="1">Art/Maps/JFD_MapHaitiPapaDoc512.dds</File>
+    <File md5="FBB9BAF504B590F73CD670B0EB0C7202" import="1">Audio/JFD_HaitiPapaDoc_Peace.mp3</File>
+    <File md5="49975B5431B818F5491CD0D0228F060B" import="1">Audio/JFD_HaitiPapaDoc_War.mp3</File>
+    <File md5="5498512B21A51FF028A1E2AE317D32C2" import="1">Audio/TontonGunfire.mp3</File>
+    <File md5="2312B99551E7724A2A227D7F97C19A29" import="0">Core/HaitiPapaDoc_ArtDefines.sql</File>
+    <File md5="0D2951377CB08DC05E56C7CA2CA5BF00" import="0">Core/HaitiPapaDoc_GameDefines.sql</File>
+    <File md5="9D157EA60EFDC32BF0AF252510CCC10F" import="0">Core/HaitiPapaDoc_GameText.xml</File>
+    <File md5="C8B55A8781151A9FA0FFFC8926DF1B5B" import="0">Core/HaitiPapaDoc_ModSupport.sql</File>
+    <File md5="2665AEF49E354C3901B39EB989BBF052" import="0">Credits.txt</File>
+    <File md5="5C38BC0A605D558CFBDFE0DE4339870F" import="0">Lua/JFD_Civs_HaitiPapaDoc_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/HaitiPapaDoc_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/HaitiPapaDoc_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/HaitiPapaDoc_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/HaitiPapaDoc_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_HaitiPapaDoc_Functions.lua">
+      <Name>JFD_Civs_HaitiPapaDoc_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
