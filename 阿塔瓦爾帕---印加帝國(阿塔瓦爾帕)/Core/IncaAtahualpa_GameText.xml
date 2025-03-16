@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_INCA_ATAHUALPA_ADJECTIVE">
+			<Text>Incan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_INCA_ATAHUALPA_DESC">
+			<Text>Incan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_INCA_ATAHUALPA_SHORT_DESC">
+			<Text>The Inca</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_01">
+			<Text>Cusco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_02">
+			<Text>Quito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_03">
+			<Text>Chan Chan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_04">
+			<Text>Machu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_05">
+			<Text>Ollantaytambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_06">
+			<Text>Vilcashuamán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_07">
+			<Text>Tiwanaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_08">
+			<Text>Choquequirao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_09">
+			<Text>Corihuayrachina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_10">
+			<Text>Vilcabamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_11">
+			<Text>Vitcos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_12">
+			<Text>Huánuco Pampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_13">
+			<Text>Ingapirca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_14">
+			<Text>Cochabamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_15">
+			<Text>Hatunqulla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_16">
+			<Text>Surco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_17">
+			<Text>Shausha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_18">
+			<Text>Catarpe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_19">
+			<Text>Chillopampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_20">
+			<Text>Puka Tampu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_21">
+			<Text>Usnu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_22">
+			<Text>Kashamarka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_23">
+			<Text>Písac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_24">
+			<Text>Chupachos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_25">
+			<Text>Huari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_26">
+			<Text>Chimborazo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_27">
+			<Text>Huancabamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_28">
+			<Text>Andahuaylas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_29">
+			<Text>Pachacamac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_30">
+			<Text>Llaqtapata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_31">
+			<Text>Hatun Canar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_32">
+			<Text>Inti Watana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_33">
+			<Text>Huanucopampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_34">
+			<Text>Pilluchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_35">
+			<Text>Oroncota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_36">
+			<Text>Chucuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_37">
+			<Text>Pukara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_38">
+			<Text>Qalla Q'asa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_39">
+			<Text>Auachumbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_40">
+			<Text>Ninachumbi</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_0">
+			<Text>Tocto</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_1">
+			<Text>Coya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_2">
+			<Text>Cuxirimay</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_3">
+			<Text>Quispe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_4">
+			<Text>Tocto</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_5">
+			<Text>Paccha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_6">
+			<Text>Marca</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_7">
+			<Text>Túpac</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_8">
+			<Text>Cura</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_9">
+			<Text>Leonor</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA">
+			<Text>Atahualpa</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_NAME">
+			<Text>Atahualpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_1">
+			<Text>Atahualpa was the last effective Inca emperor before his capture and execution during the Spanish conquest of the Inca Empire. The son of Huayna Cápac, Atahualpa initially accepted his half-brother Huáscar as the emperor. However, from 1529 to 1532, they contested the succession in the Inca Civil War, in which Atahualpa's forces defeated and captured Huáscar. Around the same time as Atahualpa's victory, a group of Spanish conquistadors, led by Francisco Pizarro, arrived in the region. In November 1532, they captured Atahualpa during an ambush at Cajamarca. In captivity, Atahualpa gave a ransom in exchange for a promise of release and arranged for the execution of Huáscar. After receiving the ransom, the Spanish accused Atahualpa of treason, conspiracy against the Spanish Crown, and the murder of Huáscar. They put him on trial and sentenced him to death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_2">
+			<Text>Wherein Chroniclers and Historians Have Some Origins Disagreements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_2">
+			<Text>There are uncertainties about Atahualpa's date and place of birth. He was likely born around the turn of the 16th century, c. 1502. There is disagreement on his place of birth. For example, the chronicler and soldier Pedro Cieza de León, from his investigations among the members of the Inca nobility of Cusco, affirmed that Atahualpa had been born in Cusco and that his mother was Tuto Palla or Túpac Palla. According to Juan de Betanzos, Atahualpa was born in Cusco and his mother was a ñusta from Cusco of the lineage of Pachacuti. Most Peruvian historians maintain that, according to the most reliable chronicles, Atahualpa was born in Cusco and his mother was a princess of Inca lineage. These historians consider that Huáscar's side invented the version of Atahualpa's Quito origin to show him to the Spanish as a usurper and bastard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_3">
+			<Text>Warachikuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_3">
+			<Text>Atahualpa spent his childhood with his father in Cusco. At the beginning of his adolescence he went through the Warachikuy, a rite of passage that marked the passage to adulthood. When Atahualpa was thirteen years old, there was a rebellion in the north of the empire by two peoples from that region, the Caranquis and the Cayambis. Together with his father and his brother, Ninan Cuyuchi marched at the head of the Inca army towards the northern provinces. Four governors remained in Cusco, including Huáscar. Atahualpa stayed in Quito with his father for more than ten years, helping him put down rebellions and conquer new lands. For this he had the support of skilled Inca generals, such as Chalcuchímac and Quizquiz. During this period he learned government tasks and gained prestige for the courage he displayed in war actions. After Huayna Capac died in 1527, Atahualpa was appointed governor of Quito by his brother Huáscar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_4">
+			<Text>The Inca Civil War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_4">
+			<Text>Huáscar saw Atahualpa as the greatest threat to his power, but did not dethrone him to respect the wishes of his late father. A tense five-year peace ensued, Huáscar took advantage of that time to get the support of the Cañari, a powerful ethnic group that dominated extensive territories of the north of the empire and maintained grudges against Atahualpa, who had fought them during his father's campaigns. By 1529 the relationship between both brothers had quite deteriorated. According to the chronicler Pedro Pizarro, Huáscar sent an army to the North, which ambushed Atahualpa in Tumebamba and defeated him. Atahualpa was captured and imprisoned in a tambo, but succeeded in escaping. During his time in captivity he was cut and lost an ear. From then on he wore a headpiece that fastened under his chin to hide the injury. But the chronicler Miguel Cabello de Balboa said that this story of capture was improbable because if Atahualpa had been captured by Huáscar's forces they would have executed him immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_5">
+			<Text>Seizing Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_5">
+			<Text>Atahualpa returned to Quito and amassed a great army. He attacked the Cañari of Tumebamba, defeating its defenses and levelling the city and the surrounding lands. He arrived in Tumbes, from which he planned an assault by rafts on the island Puná. During the naval operation, Atahualpa sustained a leg injury and returned to land. From Cuzco the Huascarites, led by the armies of general Atoc, defeated Atahualpa in the battle of Chillopampa. The Atahualapite generals responded quickly; they gathered together their scattered troops, counter-attacked and forcefully defeated Atoc in Mulliambato. They captured Atoc and later tortured and killed him. The Atahualapite forces continued to be victorious, as a result of the strategic abilities of Quizquiz and Chalcuchímac. Atahualpa began a slow advance on Cuzco. While based in Marcahuamachuco, he sent an emissary to consult the oracle of the Huaca Catequil, who prophesied that Atahualpa's advance would end poorly. Furious at the prophecy, Atahualpa went to the sanctuary, killed the priest and ordered the temple to be destroyed. During this period, he first learned that Pizarro and his expedition had arrived in the empire. Atahualpa's leading generals were Quizquiz, Chalcuchímac and Rumiñawi. In April 1532, Quizquiz and his companions led the armies of Atahualpa to victory in the battles of Mullihambato, Chimborazo and Quipaipán. The Battle of Quipaipán was the final one between the warring brothers. Quizquiz and Chalcuchimac defeated Huáscar's army, captured him, killed his family and seized the capital, Cuzco. Atahualpa had remained behind in the Andean city of Cajamarca, where he encountered the Spanish, led by Pizarro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_6">
+			<Text>The Pizarros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_6">
+			<Text>In January 1531, a Spanish expedition led by Francisco Pizarro, on a mission to conquer the Inca Empire, landed on Puná Island. Pizarro brought with him 169 men and 69 horses. The Spaniards headed south and occupied Tumbes, where they heard about the civil war that Huáscar and Atahualpa were waging against each other. About a year and a half later, in September 1532, after reinforcements had arrived from Spain, Pizarro founded the city of San Miguel de Piura and then marched towards the heart of the Inca Empire with a force of 106 foot-soldiers and 62 horsemen. Atahualpa, in Cajamarca with his army of 80,000 troops, heard that this party of strangers was advancing into the empire and sent an Inca noble to investigate. The noble stayed for two days in the Spanish camp, making an assessment of the Spaniards' weapons and horses. Atahualpa decided that the 168 Spaniards were not a threat to him and his 80,000 troops, so he sent word inviting them to visit Cajamarca and meet him, expecting to capture them. Pizarro and his men thus advanced unopposed through some very difficult terrain. They arrived at Cajamarca on 15 November 1532. Atahualpa and his army had camped on a hill just outside Cajamarca. He was staying in a building close to the Konoj hot springs, while his soldiers were in tents set up around him. When Pizarro arrived in Cajamarca, the town was mostly empty except for a few hundred acllas. The Spaniards were billeted in certain long buildings on the main square and Pizarro sent an embassy to the Inca, led by Hernando de Soto. The group consisted of 15 horsemen and an interpreter; shortly thereafter de Soto sent 20 more horsemen as reinforcements in case of an Inca attack. These were led by Francisco Pizarro's brother, Hernando Pizarro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_7">
+			<Text>Nightfall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_7">
+			<Text>The Spaniards invited Atahualpa to visit Cajamarca to meet Pizarro, which he resolved to do the following day. Meanwhile, Pizarro was preparing an ambush to trap the Inca: while the Spanish cavalry and infantry were occupying three long buildings around the square, some musketeers and four pieces of artillery were located in a stone structure in the middle of the square. The plan was to persuade Atahualpa to submit to the authority of the Spaniards and, if this failed, there were two options: a surprise attack, if success seemed possible or to keep up a friendly stance if the Inca forces appeared too powerful. The following day, Atahualpa left his camp at midday, preceded by a large number of men in ceremonial attire; as the procession advanced slowly, Pizarro sent his brother Hernando to invite the Inca to enter Cajamarca before nightfall. Atahualpa entered the town late in the afternoon in a litter carried by eighty lords; with him were four other lords in litters and hammocks and 5,000 to 6,000 men carrying small battle axes, slings and pouches of stones underneath their clothes. The Inca found no Spaniards in the plaza, as they were all inside the buildings. The only man to emerge was the Dominican friar Vincente de Valverde with an interpreter. Although there are different accounts as to what Valverde said, most agree that he invited the Inca to come inside to talk and dine with Pizarro. Atahualpa instead demanded the return of every thing the Spaniards had taken since they landed. According to eyewitness accounts, Valverde spoke about the Catholic religion but did not deliver the requerimiento, a speech requiring the listener to submit to the authority of the Spanish Crown and accept the Christian faith. At Atahualpa's request, Valverde gave him his breviary but, after a brief examination, the Inca threw it to the ground; Valverde hurried back toward Pizarro, calling on the Spaniards to attack. At that moment, Pizarro gave the signal; the Spanish infantry and cavalry came out of their hiding places and charged the unsuspecting Inca retinue, killing a great number while the rest fled in panic. Pizarro led the charge on Atahualpa, but captured him only after killing all those carrying him and turning over his litter. Not a single Spanish soldier was killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_8">
+			<Text>Francisco Atahualpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_8">
+			<Text>On 17 November the Spaniards sacked the Inca army camp, in which they found great treasures of gold, silver and emeralds. Noticing their lust for precious metals, Atahualpa offered to fill a large room about 6.7 m long and 5.2 m wide up to a height of 2.4 m once with gold and twice with silver within two months. It is commonly believed that Atahualpa offered this ransom to regain his freedom, but Hemming says that he did so to save his life. After several months in fear of an imminent attack from general Rumiñawi, the outnumbered Spanish considered Atahualpa to be too much of a liability and decided to execute him. Pizarro staged a mock trial and found Atahualpa guilty of revolting against the Spanish, practicing idolatry and murdering Huáscar, his brother. Atahualpa was sentenced to death by burning at the stake. He was horrified, since the Inca believed that the soul would not be able to go on to the afterlife if the body were burned. Friar Vincente de Valverde, who had earlier offered his breviary to Atahualpa, intervened, telling Atahualpa that, if he agreed to convert to Catholicism, the friar could convince Pizarro to commute the sentence. Atahualpa agreed to be baptized into the Catholic faith. He was given the name Francisco Atahualpa for Francisco Pizarro. In accordance with his request, he was executed by strangling with a garrote on 26 July 1533. His clothes and some of his skin were burned and his remains were given a Christian burial.
+</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_LIVED">
+			<Text>1502 - 1533 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_SUBTITLE">
+			<Text>Leader of the Inca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TITLES_1">
+			<Text>Sapa Inca</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_INCA_ATAHUALPA_TEXT">
+			<Text>Blessings of the sun be upon you, O' righteous Atahualpa. You are the last true emperor of the Inca. The favoured son of your father, Huayana Capac, your rule would be one amidst the chaos of the ambitions of your half-brother Huáscar. From 1529 AD, you and your loyal generals would wage civil war, deftly proving your superior skill until Huáscar's final defeat in 1532 and the capture of the ancient capital of Cuzco. Yet short was your victory, for soon you would the Incan empire's final and greatest threat: the Spanish.[NEWLINE][NEWLINE]Noble Sapa Inca, the treachery of your rivals has once again risen up against you. Can you, with the aid and skill of your tactful generals, lead your armies to victory? Can you inspire the righteous loyalty of those fallen sway to your enemies? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_FIRSTGREETING_1">
+			<Text>I am the one true son of the sun, Atahualpa of the Inca. Have you come to pledge your allegiance to me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DEFEATED_1">
+			<Text>A room filled with treasures beyond your imagination. That is what you have just thrown away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_ATTACKED_HOSTILE_1">
+			<Text>I should have known you for a traitor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DEC_FRIENDSHIP_1">
+			<Text>You have proven yourself loyal to me. I hope we can tell the world through a public Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DENOUNCE_1">
+			<Text>I am no fool to think you could be my ally. You are my enemy.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DENOUNCE_FRIEND_1">
+			<Text>I was a fool to think you could be my ally. Now you are revealed to be my enemy.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DOW_GENERIC_1">
+			<Text>You defy my right and sully your reputation. You must pay with your life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>My empire is vast and you are getting in its way with your settlers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_GREETING_HOSTILE_HELLO_1">
+			<Text>I have one ear too many to listen to your forked tongue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Speak then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_GREETING_POLITE_HELLO_1">
+			<Text>Welcome, my friend. You are always welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your soldiers seek to go to war with mine? Then speak it. Don't cower in the corner with them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_LUXURY_TRADE_1">
+			<Text>I hope we can find common ground and that you will accept this deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Our two lands are vast. Let us make things easier and arrange open borders between them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>My gold can beat your gold any day. I suggest you tread carefully with what lands you think to buy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_REQUEST_1">
+			<Text>Shall we be agreed then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You think your right greater than mine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_TOO_SOON_FOR_DOF_1">
+			<Text>I would be a fool to accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_TOO_SOON_NO_PEACE_1">
+			<Text>I have known too much treachery to trust such a proposition.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_SHORT">
+			<Text>War of the Two Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA">
+			<Text>Capturing cities doubles the [ICON_MOVES] Moves of existing Workers, Settlers, and Scouts. While a captured city is being [ICON_RAZING] razed, enemy Great Generals and Land Combat Units may be converted to your side.</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_NOTIFICATION_SHORT_DESC">
+			<Text>War of the Two Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_NOTIFICATION_DESC_1">
+			<Text>With the caputre of the city of {1_Desc}, our Workers, Settlers, and Scouts have had their [COLOR_POSITIVE_TEXT][ICON_MOVES] Movement doubled![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_NOTIFICATION_DESC_2">
+			<Text>With the [ICON_RAZING] Razing of the city of {1_Desc}, an enemy {2_Desc} has [COLOR_POSITIVE_TEXT]defected to our cause![ENDCOLOR]</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO">
+			<Text>Tambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO_HELP">
+			<Text>Units beginning their turn on a Road or Railroad connected to a city with a Tambo heal extra damage per turn. Land Combat Units trained in this city can use enemy Roads.[NEWLINE][NEWLINE]Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO_STRATEGY">
+			<Text>The Tambo is the unique Caravansary replacement for the Inca under Atahualpa. In addition to boosting the length and [ICON_GOLD] Gold output of the city's Land Trade Routes, the Tambo heals any Land Units starting their turn on a Road or Railroad connected to a city in which it is built. The amount healed depends on whether the Unit is in own (+5), neutral (+3), or foreign borders (+2), and stacks with each city connected. It also grants any units trained in the city the ability to use enemy Roads. Unlocked at Mathematics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO_TEXT">
+			<Text>A tambo was an Inca structure built for administrative and military purposes. Found along the extensive roads, tambos typically contained supplies, served as lodging for itinerant state personnel, and were depositories of quipu-based accounting records. Individuals from nearby communities within the Inca empire were conscripted to maintain and serve in the tambos, as part of the mit'a labor system. Tambos were spaced along Inca roads, generally about one day's travel apart.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TAMBO">
+			<Text>Can Use Enemy Roads</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TAMBO_HELP">
+			<Text>Can Use Enemy Roads</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY">
+			<Text>Apukispay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY_HELP">
+			<Text>Stacked units benefit twice as much from this unit's Leadership bonus. Adjacent and stacked Land Combat Units receive +15% [ICON_STRENGTH] Combat Strength when fighting adjacent to another Combat Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY_STRATEGY">
+			<Text>The Apukispay replaces the Great General for Atahualpa's Inca. This unit is twice as effective in conferring its Leadership bonus to Combat Units stacked with it. In addition, Combat Units near an Apukispay receive +15% [ICON_STRENGTH] Combat Strength when fighting adjacent to another friendly Combat Unit. Use Apukispay to bolster the strategic superiority of your armed forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY_TEXT">
+			<Text>The main difference between the Inca army and other pre-columbian civilizations military forces was their organization, meanwhile most of them usually attacked in hordes or disorganized groups of specialized warriors, the imperial army had at their disposal a large number of soldiers (200,000 in a single field army). The army was organized on the decimal system, in units of ten, one hundred, one thousand, and so on. Pedro Cieza de León reveals that the military leadership had ten, fifty, one hundred, five hundred, one thousand, five thousand and ten thousand under their command. From this, it's understood that the organization scale would be a factor of 2 and then of 5. However, this can be interpreted as a decimal scale organization, as mentioned before, with two sub-leaders below that would compete for the higher position. This would make total sense if we take into account that it would symbolize the andean duality (Hanan and Hurin) present in all the Inca organization.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY">
+			<Text>Apukispay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_HELP">
+			<Text>Leadership bonus is [COLOR_POSITIVE_TEXT]doubled[ENDCOLOR] (to +30%) for units [COLOR_POSITIVE_TEXT]beginning their turn stacked with an Apukispay.[ENDCOLOR] +15% [ICON_STRENGTH] Combat Strength for Land Combat Units fighting next to another Combat Unit [COLOR_POSITIVE_TEXT]when beginning their turn adjacent to or stacked with this unit.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_1">
+			<Text>Great General Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_1_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength [COLOR_POSITIVE_TEXT]when beginning its turn stacked with an Apukispay.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_2">
+			<Text>Adjacent Unit Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_2_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when fighting adjacent to a friendly Combat Unit [COLOR_POSITIVE_TEXT]when beginning its turn adjacent to or stacked with an Apukispay.[ENDCOLOR]</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_01">
+			<Text>Rumiñahui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_02">
+			<Text>Chalcuchímac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_03">
+			<Text>Quizquiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_04">
+			<Text>Zopozopangui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_05">
+			<Text>Pintag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_06">
+			<Text>Zope-Zopahua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_07">
+			<Text>Razo-razo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_08">
+			<Text>Pintag II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_09">
+			<Text>Ukumari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_10">
+			<Text>Tomay Rima</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_INCA_ATAHUALPA_DESCRIPTION">
+			<Text>INCA (ATAHUALPA)[NEWLINE][NEWLINE]UNIQUE TRAIT: WAR OF THE TWO BROTHERS[NEWLINE]Capturing cities doubles the [ICON_MOVES] Moves of existing Workers, Settlers, and Scouts. While a captured city is being [ICON_RAZING] razed, enemy Great Generals and Land Combat Units may be converted to your side.[NEWLINE][NEWLINE]UNIQUE BUILDING: TAMBO (CARAVANSAREI)[NEWLINE]The Tambo is the unique Caravansary replacement for the Inca under Atahualpa. In addition to boosting the length and [ICON_GOLD] Gold output of the city's Land Trade Routes, the Tambo heals any Land Units starting their turn on a Road or Railroad connected to a city in which it is built. The amount healed depends on whether the Unit is in own (+5), neutral (+3), or foreign borders (+2), and stacks with each city connected. It also grants any units trained in the city the ability to use enemy Roads. Unlocked at Mathematics.[NEWLINE][NEWLINE]UNIQUE UNIT: APUQUISPAY (GREAT GENERAL)[NEWLINE]The Apukispay replaces the Great General for Atahualpa's Inca. This unit is twice as effective in conferring its Leadership bonus to Combat Units stacked with it. In addition, Combat Units near an Apukispay receive +15% [ICON_STRENGTH] Combat Strength when fighting adjacent to another friendly Combat Unit. Use Apukispay to bolster the strategic superiority of your armed forces.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_INCA_ATAHUALPA_ADJECTIVE">
+			<Text>印加帝國(阿塔瓦爾帕)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_INCA_ATAHUALPA_DESC">
+			<Text>印加帝國(阿塔瓦爾帕)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_INCA_ATAHUALPA_SHORT_DESC">
+			<Text>印加帝國(阿塔瓦爾帕)</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_01">
+			<Text>庫斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_02">
+			<Text>基多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_03">
+			<Text>切切坎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_04">
+			<Text>馬丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_05">
+			<Text>奧蘭泰坦博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_06">
+			<Text>比爾卡蘇阿曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_07">
+			<Text>提瓦納庫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_08">
+			<Text>喬克基拉奧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_09">
+			<Text>科里瓦亞拉奇納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_10">
+			<Text>維爾卡班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_11">
+			<Text>維特科斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_12">
+			<Text>華努科潘帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_13">
+			<Text>英加皮爾卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_14">
+			<Text>科恰班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_15">
+			<Text>哈圖恩庫利亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_16">
+			<Text>蘇爾科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_17">
+			<Text>沙烏沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_18">
+			<Text>卡塔佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_19">
+			<Text>奇略潘帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_20">
+			<Text>普卡坦普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_21">
+			<Text>烏斯努</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_22">
+			<Text>卡沙馬爾卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_23">
+			<Text>比薩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_24">
+			<Text>丘帕喬斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_25">
+			<Text>華裡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_26">
+			<Text>奇姆博拉索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_27">
+			<Text>華安卡班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_28">
+			<Text>安達瓦亞拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_29">
+			<Text>帕查卡馬克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_30">
+			<Text>拉克塔帕塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_31">
+			<Text>哈圖恩卡納爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_32">
+			<Text>英蒂瓦塔納</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_33">
+			<Text>華努科潘帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_34">
+			<Text>皮盧楚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_35">
+			<Text>奧龍科塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_36">
+			<Text>丘基托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_37">
+			<Text>普卡拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_38">
+			<Text>卡拉卡薩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_39">
+			<Text>奧阿丘姆比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INCA_ATAHUALPA_40">
+			<Text>尼納丘姆比</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_0">
+			<Text>托克托</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_1">
+			<Text>科亞</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_2">
+			<Text>庫西里馬伊</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_3">
+			<Text>奎斯佩</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_4">
+			<Text>托克</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_5">
+			<Text>帕查</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_6">
+			<Text>馬爾卡</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_7">
+			<Text>圖帕克</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_8">
+			<Text>庫拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INCA_ATAHUALPA_9">
+			<Text>萊昂諾爾</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA">
+			<Text>阿塔瓦爾帕</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_NAME">
+			<Text>阿塔瓦爾帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_1">
+			<Text>阿塔瓦爾帕在西班牙征服印加帝國期間被捕並被處決，是最後壹位有效的印加皇帝，是瓦依那的兒子，阿塔瓦爾帕最初接受他同父異母的兄弟Huáscar爲皇帝。然而，從1529年到1532年，他們在印加內戰中爭奪繼承權，阿塔瓦爾帕的軍隊在這場內戰中擊敗並占領了Huáscar。大約在阿塔瓦爾帕取得勝利的同時，由弗朗西斯科·皮薩羅（Francisco　Pizarro）率領的壹群西班牙征服者抵達了該地區。1532年11月，他們在卡哈馬卡的壹次伏擊中占領了阿塔瓦爾帕。在囚禁期間，阿塔瓦爾帕支付了贖金，以換取釋放的承諾，並安排了Huáscar的處決。收到贖金後，西班牙人指控阿塔瓦爾帕叛國，陰謀反對西班牙王室，並謀殺Huáscar。他們對他進行審判並判處他死刑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_2">
+			<Text>史學家和編年史作者在起源問題上存在壹些分歧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_2">
+			<Text>關于阿塔瓦爾帕（Atahualpa）的出生日期和出生地存在壹些不確定性。他可能出生于16世紀初，大約是1502年。關于他的出生地，存在不同的說法。例如，編年史家兼士兵佩德羅·西耶薩·德·萊昂（Pedro　Cieza　de　León）通過對庫斯科印加貴族的調查，認爲阿塔瓦爾帕出生于庫斯科，其母親是圖托·帕拉（Tuto　Palla）或圖帕克·帕拉（Túpac　Palla）。而胡安·德·貝坦佐斯（Juan　de　Betanzos）則認爲阿塔瓦爾帕出生于庫斯科，其母親是庫斯科的公主，屬于帕查庫特克（Pachacuti）的後裔。大多數秘魯曆史學家認爲，根據最可靠的編年史記載，阿塔瓦爾帕出生于庫斯科，其母親是印加王室的公主。這些曆史學家認爲，胡阿斯卡爾（Huáscar）壹方編造了阿塔瓦爾帕出生于基多的說法，目的是向西班牙人展示他是壹個篡位者和私生子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_3">
+			<Text>瓦拉奇庫伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_3">
+			<Text>阿塔瓦爾帕（Atahualpa）在庫斯科與父親度過了童年。在他青春期的開始，他經曆了瓦拉奇庫伊(Warachikuy)儀式，這標志著他正式進入成年。阿塔瓦爾帕13歲時，帝國北部發生了叛亂，當地兩個民族——卡蘭基人（Caranquis）和凱揚比人（Cayambis）發起了反抗。他與父親和兄弟尼南·庫伊奇（Ninan　Cuyuchi）壹起，率領印加軍隊前往北部省份。當時，庫斯科留下了四位總督，其中包括胡阿斯卡爾（Huáscar）。阿塔瓦爾帕在基多與父親共同生活了十多年，幫助他鎮壓叛亂並征服新的土地。在此期間，他得到了印加將軍的支持，如查爾庫奇馬（Chalcuchímac）和基基斯（Quizquiz）。他通過在戰爭中的勇敢表現贏得了聲譽，並學習了治理國家的任務。1527年，瓦伊納·卡帕克（Huayna　Capac）去世後，阿塔瓦爾帕被其兄弟胡阿斯卡爾任命爲基多的總督。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_4">
+			<Text>印加內戰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_4">
+			<Text>Huáscar認爲阿塔瓦爾帕是對他權力的最大威脅，但沒有廢黜他，以尊重他已故父親的意願。緊張的五年和平隨之而來，Huáscar利用這段時間得到Cañari的支持，Cañari是壹個強大的民族，統治著帝國北部的大片領土，並對阿塔瓦爾帕保持怨恨，阿塔瓦爾帕在他父親的競選期間曾與他們作戰。到1529年，兩兄弟之間的關系嚴重惡化。根據編年史家佩德羅·皮薩羅（Pedro　Pizarro）的記載，Huáscar向北方派遣了壹支軍隊，在圖梅班巴伏擊了阿塔瓦爾帕，並擊敗了他。阿塔瓦爾帕被抓獲並囚禁在壹輛坦博裏，但他成功地逃脫了。在囚禁期間，他被割掉了壹只耳朵。從那時起，他戴著壹頂帽子，固定在下巴下面，以掩蓋傷口。但編年史家米格爾·卡貝洛·德·巴爾博亞說，這個被俘的故事是不可能的，因爲如果阿塔瓦爾帕被Huáscar的軍隊俘虜，他們會立即處決他。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_5">
+			<Text>奪取政權</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_5">
+			<Text>阿塔瓦爾帕回到基多，集結了壹支龐大的軍隊。他攻擊了圖梅班巴的Cañari，擊敗了它的防禦，夷平了城市和周圍的土地。他到達了湯貝斯，從那裏他計劃用木筏襲擊普納島。在海軍行動中，阿塔瓦爾帕腿部受傷，返回陸地。來自庫斯科的華斯卡萊特人在阿托克將軍的軍隊的帶領下，在奇洛潘帕戰役中擊敗了阿塔瓦爾帕。阿塔瓦拉皮特的將軍們反應迅速；他們集結了分散的軍隊，反攻並在穆裏安巴托強力擊敗了阿托克。他們抓住了阿托克，後來折磨並殺害了他。由于Quizquiz和Chalcuchímac的戰略能力，Atahualapite軍隊繼續取得勝利。阿塔瓦爾帕開始向庫斯科緩慢推進。當他駐紮在馬爾卡瓦馬丘科時，他派了壹名使者去咨詢瓦卡Catequil的神谕，後者預言阿塔瓦爾帕的前進將以失敗告終。阿塔瓦爾帕對這個預言非常憤怒，他來到聖殿，殺死了祭司，並下令摧毀聖殿。在此期間，他第壹次得知皮薩羅和他的探險隊已經到達了帝國。阿塔瓦爾帕的主要將領是Quizquiz，　Chalcuchímac和Rumiñawi。1532年4月，奎茲丘和他的同伴率領阿塔瓦爾帕的軍隊在穆裏漢巴托、欽博拉索和Quipaipán戰役中取得勝利。Quipaipán之戰是交戰兄弟之間的最後壹戰。Quizquiz和Chalcuchimac打敗了Huáscar的軍隊，俘虜了他，殺死了他的家人，並占領了首都庫斯科。阿塔瓦爾帕留在了安第斯山脈的卡哈馬卡城，在那裏他遇到了皮薩羅率領的西班牙人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_6">
+			<Text>皮薩羅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_6">
+			<Text>1531年1月，壹支由弗朗西斯科·皮薩羅率領的西班牙探險隊，在征服印加帝國的任務中，登陸了普納島。皮薩羅帶來了169個人和69匹馬。西班牙人向南挺進，占領了通貝斯，在那裏他們聽說Huáscar和阿塔瓦爾帕正在進行內戰。大約壹年半之後，1532年9月，西班牙援軍抵達後，皮薩羅建立了聖米格爾德皮烏拉城，然後率領106名步兵和62名騎兵向印加帝國的中心進軍。阿塔瓦爾帕和他的八萬大軍在卡哈馬卡，聽說這群陌生人正在向帝國挺進，就派了壹名印加貴族去調查。這位貴族在西班牙人的營地裏呆了兩天，評估了西班牙人的武器和馬匹。阿塔瓦爾帕認爲這168名西班牙人不會對他和他的8萬軍隊構成威脅，所以他傳話邀請他們訪問卡哈馬卡與他會面，希望能抓住他們。皮薩羅和他的部下就這樣順利地通過了壹些非常困難的地形。他們于1532年11月15日到達卡哈馬卡。阿塔瓦爾帕和他的軍隊駐紮在卡哈馬卡外的壹座小山上。他當時住在科諾伊溫泉附近的壹棟建築裏，而他的士兵們則住在他周圍搭起的帳篷裏。當皮薩羅到達卡哈馬卡時，除了幾百個阿克拉斯外，鎮上幾乎空無壹人。西班牙人住在主要廣場上的壹些長型建築裏，皮薩羅向印加人派遣了壹個由埃爾南多·德·索托率領的使團。該小組由15名騎兵和壹名翻譯組成；此後不久，德索托又派出20名騎兵增援印加人。他們由弗朗西斯科·皮薩羅的兄弟埃爾南多·皮薩羅領導。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_7">
+			<Text>夜幕降臨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_7">
+			<Text>西班牙人邀請阿塔瓦爾帕到卡哈馬卡去見皮薩羅，皮薩羅決定第二天就去。與此同時，皮薩羅正在准備伏擊印加人：西班牙騎兵和步兵占據了廣場周圍的三座長條形建築，壹些火槍手和四門大炮則安置在廣場中央的壹座石頭建築裏。他的計劃是說服阿塔瓦爾帕向西班牙人屈服，如果失敗，有兩個選擇：如果可能成功，就發動突然襲擊；如果印加軍隊過于強大，就保持友好姿態。第二天中午，阿塔瓦爾帕離開了他的營地，前面有許多穿著禮服的人；隨著隊伍緩慢前進，皮薩羅派他的兄弟埃爾南多去邀請印加人在夜幕降臨前進入卡哈馬卡。傍晚時分，阿塔瓦爾帕坐著壹輛轎子進了城，轎子由八十個貴族擡著。與他同行的還有另外四名貴族，他們躺在轎子和吊床上，還有五六千名士兵，他們在衣服下面拿著小戰斧、吊索和石袋。印加人在廣場上沒有發現西班牙人，因爲他們都在建築物裏。唯壹出來的人是多米尼加修士文森特·德·巴爾韋德（vincent　de　Valverde）和壹名翻譯。盡管關于巴爾韋德說了什麽有不同的說法，但大多數人都認爲他邀請印加人進來與皮薩羅交談並共進晚餐。相反，阿塔瓦爾帕要求歸還西班牙人登陸後拿走的所有東西。根據目擊者的說法，巴爾韋德談到了天主教，但沒有提出要求，即要求聽衆服從西班牙王室的權威並接受基督教信仰。在阿塔瓦爾帕的要求下，巴爾韋德把他的祈禱書給了他，但印加人匆匆看了壹下，就把它扔在地上；巴爾韋德急忙趕回皮薩羅，號召西班牙人進攻。就在這時，皮薩羅發出了信號；西班牙步兵和騎兵從他們的藏身之處出來，沖向毫無防備的印加隨從，殺死了大量的印加隨從，而其余的印加隨從則在恐慌中逃跑。皮薩羅領導了對阿塔瓦爾帕的進攻，但在殺死了所有馱著他的人並掀翻了他的轎子後才將他抓獲。沒有壹個西班牙士兵陣亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_HEADING_8">
+			<Text>舊金山的阿塔瓦爾帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TEXT_8">
+			<Text>11月17日，西班牙人洗劫了印加軍營，在那裏他們發現了大量的金、銀和祖母綠寶藏。阿塔瓦爾帕注意到他們對貴金屬的渴望，于是提議在兩個月內用黃金和白銀分別填滿壹個長6.7米、寬5.2米、高2.4米的大房間。人們普遍認爲，阿塔瓦爾帕提出這筆贖金是爲了重獲自由，但亨明說，他這樣做是爲了救他的命。幾個月後，由于擔心Rumiñawi將軍即將發動進攻，人數不足的西班牙人認爲阿塔瓦爾帕是個累贅，決定處決他。皮薩羅進行了壹次模擬審判，發現阿塔瓦爾帕犯有反抗西班牙人、崇拜偶像和謀殺他的兄弟Huáscar的罪行。阿塔瓦爾帕被判處火刑。他被嚇壞了，因爲印加人認爲，如果身體被焚燒，靈魂將無法進入來世。早先曾向阿塔瓦爾帕提供祈禱書的文森特·德·巴爾韋德修士介入，告訴阿塔瓦爾帕，如果他同意皈依天主教，他可以說服皮薩羅減刑。阿塔瓦爾帕同意受洗皈依天主教。他的名字是弗朗西斯科·皮薩羅的名字弗朗西斯科·阿塔瓦爾帕。按照他的要求，他于1533年7月26日被絞殺。他的衣服和部分皮膚被燒毀，他的遺體被以基督教的方式埋葬。</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_LIVED">
+			<Text>1502 - 1533 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_SUBTITLE">
+			<Text>印加帝國的領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INCA_ATAHUALPA_TITLES_1">
+			<Text>薩帕·印卡</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_INCA_ATAHUALPA_TEXT">
+			<Text>願太陽賜福于妳，正義的阿塔瓦爾帕。妳是印加最後壹位真正的皇帝。妳父親最寵愛的兒子，華亞納·卡帕克，妳的統治將會陷入妳兄弟野心的混亂之中。從公元1529年開始，妳和妳忠誠的將軍們將發動內戰，巧妙地證明妳的卓越技能，直到叛軍在1532年最終失敗並占領古都庫斯科。然而妳的勝利是短暫的，因爲妳很快就會面對印加帝國最後也是最大的威脅：西班牙人。高貴的薩帕印加，妳的對手們的背叛再壹次反抗了您。您能在機智的將軍們的幫助和技巧下，帶領您的軍隊走向勝利嗎？您能激發那些墮落的統治者對妳的敵人的正義忠誠嗎？您能建立壹個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_FIRSTGREETING_1">
+			<Text>我是太陽真正的兒子，印加的阿塔瓦爾帕。妳是來向我宣誓效忠的嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DEFEATED_1">
+			<Text>印加壹個滿是妳想象不到的寶藏的房間，而道德就是妳剛剛扔掉的東西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_ATTACKED_HOSTILE_1">
+			<Text>我早該知道妳是個叛徒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DEC_FRIENDSHIP_1">
+			<Text>妳已經證明了妳對我的忠誠。我希望我們能通過公開的友誼宣言告訴全世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DENOUNCE_1">
+			<Text>我不會傻到以爲妳會成爲我的盟友，妳是我的敵人。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DENOUNCE_FRIEND_1">
+			<Text>我真傻，以爲妳會成爲我的盟友。現在妳成了我的敵人。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_DOW_GENERIC_1">
+			<Text>妳無視我的權利，玷汙了妳的名譽,妳必須付出生命的代價。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>我的帝國很大，而妳卻用妳的移民來妨礙我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_GREETING_HOSTILE_HELLO_1">
+			<Text>我多了壹只耳朵，聽不清妳那分叉的舌頭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_GREETING_NEUTRAL_HELLO_1">
+			<Text>說話。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_GREETING_POLITE_HELLO_1">
+			<Text>歡迎妳，我的朋友，隨時歡迎妳。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>妳的士兵想跟我的開戰嗎？那就說出來，不要和躲在角落裏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_LUXURY_TRADE_1">
+			<Text>我希望我們能找到共同點，妳會接受這筆交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>我們兩國幅員遼闊。讓我們讓事情變得更容易，安排它們之間的開放邊界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>我的財寶隨時都可以把妳的帝國買下，我建議妳慎重考慮要買什麽地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_REQUEST_1">
+			<Text>那麽我們達成壹致意見好嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>妳覺得妳的權利比我的大嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_TOO_SOON_FOR_DOF_1">
+			<Text>如果我接受，我就是個傻瓜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_INCA_ATAHUALPA_TOO_SOON_NO_PEACE_1">
+			<Text>我知道太多的背叛，不會相信這樣的提議。</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_SHORT">
+			<Text>王朝戰爭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA">
+			<Text>占領城市使現有工人，開拓者和斥候的[ICON_MOVES]移動加倍。當壹個被占領的城市被[ICON_RAZING]夷爲平地時，敵人的大將軍和陸地作戰單位可能會轉換到您的壹邊。</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_NOTIFICATION_SHORT_DESC">
+			<Text>王朝戰爭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_NOTIFICATION_DESC_1">
+			<Text>隨著占領城市{1_Desc}，我們的工人，開拓者和斥候的[COLOR_POSITIVE_TEXT][ICON_MOVES]移動力增加了壹倍！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INCA_ATAHUALPA_NOTIFICATION_DESC_2">
+			<Text>隨著{1_Desc}城被夷爲平地，壹個敵方單位{2_Desc}叛逃到我們的帝國中來了！[ENDCOLOR]</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO">
+			<Text>坦博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO_HELP">
+			<Text>在與城市相連的道路上或鐵路開始回合的單位，每回合會獲得額外的治療量。在此城市訓練的陸戰單位可以使用敵方的道路，從這座城市出發的陸地貿易路線範圍增加50%，並且在連接到另壹個文明時額外産生2金幣[ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO_STRATEGY">
+			<Text>坦博 (Tambo) 是阿塔瓦爾帕 (Atahualpa) 統治下的印加帝國唯一的商隊旅館替代品。除了增加城市陸地貿易路線的長度和 [ICON_GOLD] 黃金產出之外，Tambo 還可以治療任何在其所在城市連接的道路或鐵路上開始回合的陸地單位。治療量取決於單位是否位於自身（+5）、中立（+3）或外國邊界（+2），並與每個連接的城市疊加。它還賦予在城市中訓練的任何部隊使用敵人道路的能力。在數學上解鎖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_TAMBO_TEXT">
+			<Text>坦博 (tambo) 是印加人為行政和軍事目的而建造的建築。坦博斯 (tambos) 位於廣闊的道路沿線，通常用於存放物資、作為流動政府人員的住所以及保存基於奇普 (quipu) 的會計記錄。作為米塔勞工製度的一部分，印加帝國內附近社區的個人被徵召去維護和服務坦博斯。坦博斯城分佈在印加道路沿線，一般間隔一天的路程。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TAMBO">
+			<Text>廣闊道路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TAMBO_HELP">
+			<Text>可以使用敵路</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY">
+			<Text>阿普基斯帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY_HELP">
+			<Text>堆疊單位可從該單位的領導力獎勵中獲得兩倍收益。相鄰且堆疊的陸戰單位在與另一個戰鬥單位相鄰作戰時，將獲得+15％[ICON_STRENGTH]戰鬥力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY_STRATEGY">
+			<Text>阿普基斯帕(Apukispay)是印加帝國的大將軍。此單位在為與其堆疊的戰鬥單位提供領導力獎勵方面效率是其兩倍。此外，當與另一個友方戰鬥單位相鄰作戰時，阿普基斯帕附近的戰鬥單位將獲得+15%[ICON_STRENGTH]戰鬥力。使用Apukispay來增強你的武裝部隊的戰略優勢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_APUQUISPAY_TEXT">
+			<Text>印加軍隊與其他前哥倫布文明軍事力量的主要區別在於其組織，儘管印加軍隊通常以部落或雜亂無章的專業戰士團體形式發動攻擊，但帝國軍隊卻擁有大量士兵（一支野戰軍就有 20 萬人）。軍隊以十進制編制，以十、百、千等為單位。佩德羅·西薩·德萊昂 (Pedro Cieza de León) 透露，軍事領導層手下有十萬人、五十萬人、一百萬人、五百萬人、一千萬人、五千萬人和一萬人。由此可知，組織規模將是 2 的倍數，然後是 5 的倍數。如果我們考慮到它像徵著整個印加組織中存在的安第斯二元性（哈南 (Hanan) 和胡林 (Hurin)），那麼這將完全有意義。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY">
+			<Text>領主與將軍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_HELP">
+			<Text>對於[COLOR_POSITIVE_TEXT]在其回合開始時與阿普基斯帕堆疊的單位，戰鬥力獎勵將增加一倍[ENDCOLOR]（至+30%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_1">
+			<Text>大將加成-堆疊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_1_HELP">
+			<Text>當開始與阿普基斯帕堆疊時+15%[ICON_STRENGTH]戰鬥強度。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_2">
+			<Text>大將加成-周邊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_APUQUISPAY_2_HELP">
+			<Text>當其開始與阿普基斯帕相鄰或堆疊時。+15%[ICON_STRENGTH]與友方戰鬥單位相鄰戰鬥時的戰鬥強度。[ENDCOLOR]</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_01">
+			<Text>魯米納維</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_02">
+			<Text>查爾庫奇馬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_03">
+			<Text>基斯基斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_04">
+			<Text>佐波索潘吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_05">
+			<Text>平塔格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_06">
+			<Text>佐佩-佐帕華</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_07">
+			<Text>拉佐-拉佐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_08">
+			<Text>平塔格 II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_09">
+			<Text>佩雷拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_APUQUISPAY_10">
+			<Text>尤里瑪</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_INCA_ATAHUALPA_DESCRIPTION">
+			<Text>INCA (ATAHUALPA)[NEWLINE][NEWLINE]UNIQUE TRAIT: WAR OF THE TWO BROTHERS[NEWLINE]Capturing cities doubles the [ICON_MOVES] Moves of existing Workers, Settlers, and Scouts. While a captured city is being [ICON_RAZING] razed, enemy Great Generals and Land Combat Units may be converted to your side.[NEWLINE][NEWLINE]UNIQUE BUILDING: TAMBO (CARAVANSAREI)[NEWLINE]The Tambo is the unique Caravansary replacement for the Inca under Atahualpa. In addition to boosting the length and [ICON_GOLD] Gold output of the city's Land Trade Routes, the Tambo heals any Land Units starting their turn on a Road or Railroad connected to a city in which it is built. The amount healed depends on whether the Unit is in own (+5), neutral (+3), or foreign borders (+2), and stacks with each city connected. It also grants any units trained in the city the ability to use enemy Roads. Unlocked at Mathematics.[NEWLINE][NEWLINE]UNIQUE UNIT: APUQUISPAY (GREAT GENERAL)[NEWLINE]The Apukispay replaces the Great General for Atahualpa's Inca. This unit is twice as effective in conferring its Leadership bonus to Combat Units stacked with it. In addition, Combat Units near an Apukispay receive +15% [ICON_STRENGTH] Combat Strength when fighting adjacent to another friendly Combat Unit. Use Apukispay to bolster the strategic superiority of your armed forces.</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

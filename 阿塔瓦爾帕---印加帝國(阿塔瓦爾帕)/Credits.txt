@@ -1,0 +1,52 @@
+==============================================
+--MAIN CREDITS
+==============================================
+----------------------------------------------
+--JFD:
+  Code; Design; Research; Writing
+----------------------------------------------
+--Leugi: 
+  Art (Leaderscene; Unique Icons)
+  Research (Unique Unit)
+----------------------------------------------
+--DarthKyofu: 
+  Art (Civ Icon; Map)
+  Research (Cities)
+----------------------------------------------
+--Zharques: 
+  Research (Pedia)
+==============================================
+--RESOURCE CREDITS (MODDERS)
+==============================================
+----------------------------------------------
+--Danrell
+  Civ5 Ancient Unit Pack 21 : Inca
+  https://forums.civfanatics.com/resources/civ5-ancient-unit-pack-21-inca.20310/  
+----------------------------------------------
+--Whoward69
+  Border and Area plot iterators
+  https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+  RouteConnections.lua
+==============================================
+--RESOURCE CREDITS (OTHER)
+==============================================
+----------------------------------------------
+--MUSIC
+----------------------------------------------
+--Adrian von Ziegler
+  Kay Pacha
+  https://youtu.be/7FO-VoX9PH4?list=PLC7tOliaQsbFV3Kkl1xFFkLMQ8-cPYv5r
+----------------------------------------------
+--Canal Kala Marka
+  Atahuallpa
+  https://www.youtube.com/watch?v=QnX8z-gvHR4
+----------------------------------------------
+--PEDIAS
+----------------------------------------------
+--Wikipedia.com
+  Inca Army#Structure
+  https://en.wikipedia.org/wiki/Inca_army#Structure
+  Tambo (Inca structure)
+  https://en.wikipedia.org/wiki/Tambo_(Inca_structure)
+==============================================
+==============================================
