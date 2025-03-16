@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+</Language_zh_Hant_HK>
+	<!--New abilities -->
+		<Row Tag="TXT_KEY_CHYQUY_01">
+		<Text>梅庫楚卡</Text>
+		</Row>
+			<Row Tag="TXT_KEY_CHYQUY_02">
+<Text>薩瓜曼奇卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_03">
+<Text>蒂斯克埃薩</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_04">
+<Text>薩吉帕</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_05">
+<Text>米楚阿</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_06">
+<Text>克梅恩查託查</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_07">
+<Text>阿基明扎克</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_08">
+<Text>西亞蘇阿</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_09">
+<Text>查斯克楚薩</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_10">
+<Text>奇查</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_11">
+<Text>奇查圖巴</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_12">
+<Text>奇瓜提巴</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_13">
+<Text>薩卡卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_14">
+<Text>圖拜圖巴</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_15">
+<Text>梯烏基</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_16">
+<Text>烏巴克</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_17">
+<Text>哈瓜拉</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_18">
+<Text>梯巴克</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_19">
+<Text>皮拉科卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_20">
+<Text>阿伊哈科</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_21">
+<Text>克姆巴</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_22">
+<Text>延克恩</Text>
+</Row>
+<Row Tag="TXT_KEY_CHYQUY_23">
+<Text>梯布塔</Text>
+</Row>
+
+<Row Tag="TXT_KEY_IMPROVEMENT_OFFERING">
+<Text>"聖祭"</Text>
+</Row>
+<Row Tag="TXT_KEY_IMPROVEMENT_OFFERING_TEXT">
+<Text>由穆伊斯卡文明中的奇基單位收集的"聖祭"。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILD_OFFERING_HELP">
+<Text>從該地塊收集“聖祭”後將會在此移除該類移除資源。奇基可以前往城市交付“聖祭”，獲得一定數量的[ICON_GOLD]金幣和[ICON_PEACE]信仰值。交付“聖祭”會消耗奇基。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILD_OFFERING">
+<Text>收集“聖祭”</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILD_CITYSTATE_OFFERING_HELP">
+<Text>從友好的或同盟的城市國家收集“聖祭”，並將其交付到你所擁有的城市。金幣和信仰值的數量取決於該城市中你的宗教信仰的強度（如果該城市完全信仰你的宗教，最多可獲得700[ICON_GOLD]金幣和90[ICON_PEACE]信仰值）。交付“聖祭”會消耗奇基。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILD_OFFERING_REC">
+<Text>您應該從這個地塊收集“聖祭”！</Text>
+</Row>
+
+<Row Tag="TXT_KEY_CHYQUY_OFFERING_ALERT">
+<Text>贊美神靈！你的奇基交付了{1_goldbonus} [ICON_GOLD]金幣和{2_faithbonus} [ICON_PEACE]信仰值的“聖祭”！</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_1">
+<Text>“聖祭” [COLOR_YIELD_GOLD]（等級1）[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_1_HELP">
+<Text>該單位攜帶“聖祭”，如果帶到城市的地塊上，可能會獲得 [COLOR_YIELD_GOLD]100金幣和50信仰值[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_2">
+<Text>“聖祭” [COLOR_YIELD_GOLD]（等級2）[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_2_HELP">
+<Text>該單位攜帶“聖祭”，如果帶到城市的地塊上，可能會獲得 [COLOR_YIELD_GOLD]200金幣和70信仰值[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_3">
+<Text>“聖祭” [COLOR_YIELD_GOLD]（等級3）[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_3_HELP">
+<Text>該單位攜帶“聖祭”，如果帶到城市的地塊上，可能會獲得 [COLOR_YIELD_GOLD]450金幣和80信仰值[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_4">
+<Text>“聖祭” [COLOR_YIELD_GOLD]（等級4）[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_4_HELP">
+<Text>該單位攜帶“聖祭”，如果帶到城市的地塊上，可能會獲得 [COLOR_YIELD_GOLD]700金幣和90信仰值[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_GOLD">
+<Text>“聖祭” [COLOR_YIELD_GOLD]（從資源中獲取）[ENDCOLOR]</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_OFFERINGS_GOLD_HELP">
+<Text>該單位攜帶“聖祭”，如果帶到城市的地塊上，可能會獲得 [COLOR_YIELD_GOLD]400金幣和200信仰值[ENDCOLOR]</Text>
+</Row>
+<!--Leader Speech -->
+<!--Greeting (first time meeting) -->
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_1">
+<Text>我們的祭司告訴我你的到來，歡迎來到我們神聖的瓜塔維塔湖。我是尼梅克恩，穆伊斯卡聯盟的齊帕…</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_2">
+<Text>陌生人，你好。我是尼梅克恩。歡迎來到富饒的穆伊斯卡聯盟之地…現在，加入我們並向我們的神獻上黃金吧！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE_FIRSTGREETING_3">
+<Text>陌生人，你正在接近神聖的瓜塔維塔湖，希望你帶着祭品而來。我是尼梅克恩，穆伊斯卡人民的齊帕。</Text>
+</Row>
+
+<!--Defeated and removed from game -->
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_1">
+<Text>我們的財富被掠奪，城市被摧毀，傳統即將隨風而逝……但你永遠不會找到黃金國！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_2">
+<Text>我們的財富被掠奪，城市被摧毀，傳統即將隨風而逝……但你永遠不會找到黃金國！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE_DEFEATED_3">
+<Text>我們的財富被掠奪，城市被摧毀，傳統即將隨風而逝……但你永遠不會找到黃金國！</Text>
+</Row>
+
+
+
+<Row Tag="TXT_KEY_CITY_MUISCA_01">
+<Text>洪薩</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_02">
+<Text>巴卡塔</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_03">
+<Text>伊拉卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_04">
+<Text>圖恩達馬</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_05">
+<Text>瓜塔維塔</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_06">
+<Text>烏巴特</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_07">
+<Text>富薩加蘇加</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_08">
+<Text>蘇加穆希</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_09">
+<Text>豐薩</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_10">
+<Text>杜伊塔馬</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_11">
+<Text>薩博亞</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_12">
+<Text>查臘</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_13">
+<Text>奇帕塔</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_MUISCA_14">
+<Text>薩肯奇帕</Text>
+</Row>
+
+<Row Tag="TXT_KEY_CIV_MUISCA_ADJECTIVE">
+<Text>穆伊斯卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV_MUISCA_DESC">
+<Text>穆伊斯卡聯盟</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV_MUISCA_SHORT_DESC">
+<Text>穆伊斯卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_MUISCA_HEADING_1">
+<Text>歷史</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_MUISCA_TEXT_1">
+<Text>
+你好，偉大的巴卡塔齊帕，穆伊斯卡人民的尼梅克恩。
+[NEWLINE][NEWLINE]你成功地爲聯盟制定了一套律法，這對加強齊帕和扎克土地的統一，形成強大的聯盟起到至關重要的作用。
+[NEWLINE][NEWLINE]穆伊斯卡聯盟的中心位於洪薩城，即現在的東加，博亞卡的首府。最初通過血緣關系聯合起來的聯盟，在巴卡塔齊帕的指揮下開始擴張，其信仰在宗教和貿易方面將他們團結在一起。
+[NEWLINE][NEWLINE]這裏礦產資源無比豐厚，寶石和黃金作爲制作服裝、建築和陶器的主要材料構成了偉大的穆伊斯卡聯盟。當然，它也成爲瓜塔維塔湖儀式的重要組成部分，從而引發了關於黃金國的傳說。
+[NEWLINE][NEWLINE]令人遺憾的是，這一傳說引起了西班牙帝國對穆伊斯卡土地的興趣，然而，這也意味着聯盟的終結。
+[NEWLINE][NEWLINE]偉大的齊帕啊！你的人民仍然記得爲神靈獻上的豐厚祭品以及他們曾經無上的輝煌。你會重建偉大的穆伊斯卡聯盟嗎？你會建立一個能夠經受時間考驗的文明嗎？
+</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_MUISCA_DOM_TEXT_1">
+<Text>
+你好，偉大的巴卡塔齊帕，穆伊斯卡人民的尼梅克恩。
+[NEWLINE][NEWLINE]你成功地爲聯盟制定了一套律法，這對加強齊帕和扎克土地的統一，形成強大的聯盟起到至關重要的作用。
+[NEWLINE][NEWLINE]穆伊斯卡聯盟的中心位於洪薩城，即現在的東加，博亞卡的首府。最初通過血緣關系聯合起來的聯盟，在巴卡塔齊帕的指揮下開始擴張，其信仰在宗教和貿易方面將他們團結在一起。
+[NEWLINE][NEWLINE]這裏礦產資源無比豐厚，寶石和黃金作爲制作服裝、建築和陶器的主要材料構成了偉大的穆伊斯卡聯盟。當然，它也成爲瓜塔維塔湖儀式的重要組成部分，從而引發了關於黃金國的傳說。
+[NEWLINE][NEWLINE]令人遺憾的是，這一傳說引起了西班牙帝國對穆伊斯卡土地的興趣，然而，這也意味着聯盟的終結。
+[NEWLINE][NEWLINE]偉大的齊帕啊！你的人民仍然記得爲神靈獻上的豐厚祭品以及他們曾經無上的輝煌。你會重建偉大的穆伊斯卡聯盟嗎？你會建立一個能夠經受時間考驗的文明嗎？
+</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_HEADING_1">
+<Text>歷史</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_TEXT_1">
+<Text>
+尼梅克恩是巴卡塔的第三位齊帕，在位時間爲1490年至1514年。他是薩瓜曼奇卡的侄子，在其去世後順利繼位。
+[NEWLINE][NEWLINE]在他的統治期間，他不得不應對來自穆伊斯卡聯盟內外不同部落的多次叛亂。其中最爲嚴重的是發生在烏扎克的潘切人和蘇塔加人的叛亂。齊帕英勇地鎮壓了他們，蘇塔加國王富薩加蘇加甚至在戰鬥結束前就離開了戰場。尼梅克恩此後經歷了許多戰鬥，直到去世前五天仍在戰鬥。
+[NEWLINE][NEWLINE]他被認爲是穆伊斯卡聯盟的立法者，因爲他制定了《尼梅克恩法典》，該法典被聯盟的人民口頭銘記。刑罰通常是死刑或驅逐與社會性隔離。在其中，亂倫、雞奸、通奸、盜竊、戰士的懦弱和酗酒等行爲都是被懲罰的罪行。此外，法典還規定了繼承權、行爲、禮儀、服從、順從和貢品的規則。
+</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_LIVED">
+<Text>1514年去世。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_NAME">
+<Text>尼梅克恩</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_SUBTITLE">
+<Text>穆伊斯卡的立法者和巴卡塔的齊帕</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_NEMEQUENE">
+<Text>尼梅克恩</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_NEMEQUENE_TITLES_1">
+<Text>巴卡塔的齊帕</Text>
+</Row>
+<Row Tag="TXT_KEY_TRAIT_DORADO">
+<Text>
+直到文藝復興時代，每擁有125[ICON_GOLD]未使用的金幣可獲得+1[ICON_PEACE]信仰值。所有黃金、銅、寶石和白銀資源的產出翻倍，首都提供兩個免費的黃金資源。
+</Text>
+</Row>
+<Row Tag="TXT_KEY_TRAIT_DORADO_SHORT">
+<Text>博奇卡的教誨</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_0">
+<Text>梅庫楚卡</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_1">
+<Text>薩瓜曼奇卡</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_2">
+<Text>蒂斯克埃薩</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_3">
+<Text>薩吉帕</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_4">
+<Text>米楚阿</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_5">
+<Text>克梅恩查託查</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_6">
+<Text>阿基明扎克</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_7">
+<Text>門查克</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_8">
+<Text>齊楚卡</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MUISCA_9">
+<Text>查克託阿</Text>
+</Row>
+
+<Row Tag="TXT_KEY_PROMOTION_ELITE">
+<Text>耀世精英</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_ELITE_HELP">
+<Text>初始獲得15點免費經驗，獲得經驗的速度提高15%</Text>
+</Row>
+
+<Row Tag="TXT_KEY_BUILDING_MUISCA">
+<Text>穆伊斯卡城市</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_MUISCA_DESC">
+<Text>該城市可生成奇基（Chyquy）的生產點數。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_MUISCA_STRATEGY">
+<Text>該城市可生成奇基（Chyquy）的生產點數。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_MUISCA_HELP">
+<Text>該城市可生成奇基（Chyquy）的生產點數。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_GUECHA">
+<Text>古埃查戰士</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_GUECHA">
+<Text>穆伊斯卡的特殊單位，替代長劍士。不需要鐵便可建造，但維護成本較高。初始便可獲得足夠升級一次的經驗值，並且獲得經驗的速度更快。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_GUECHA_STRATEGY">
+<Text>古埃查戰士是穆伊斯卡文明的精英部隊，初始獲得足夠升級一次的經驗，且不需要鐵，這使得他們可以一直使用直到升級爲火槍兵。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_GUECHA_TEXT">
+<Text>
+“古埃查”（Güechas）是奇布查語/穆伊斯卡語中的戰士，他們駐守在領土邊境，負責抵御潘切人和皮亞奧人的襲擊。當地的印第安作家將他們描述爲憤怒的戰士和好戰的食人族。從描述來看，“古埃查”似乎是一個特殊的羣體，他們因身體特徵、性格、作爲穆伊斯卡領土守護者的職責以及他們所獲得的激勵和獎勵而形成一個特殊階層。
+[NEWLINE][NEWLINE]關於“古埃查”的含義，西班牙方濟各會編年史家佩德羅·西蒙修士告訴我們，在奇布查語/穆伊斯卡語中，“古埃查”意味着“勇敢”。有趣的是，這個詞的第一個音元的翻譯存在一些困難，因爲音標並不總是被一致地書寫；güe-(音標)是“人”，因此güecha是“人民之人”，這一含義與戰士的地位或等級完美契合。
+[NEWLINE][NEWLINE]古埃查是穆伊斯卡士兵中的精英部隊，從齊帕（北奇布查帝國的統治者）的領地最強壯和最勇敢的男子中選出。選拔時不考慮貴族血統，因此任何奇布查人都可以被徵召並成爲古埃查。如果一個人表現出色，他們甚至可以被任命爲地方酋長，從而進入地方貴族階層。因此，古埃查代表了勇氣、勇敢和在一個嚴格組織的社會中突破等級制度，類似於東方的絕對君主制。
+[NEWLINE][NEWLINE]
+</Text>
+</Row>
+
+<Row Tag="TXT_KEY_UNIT_XUEPRIEST">
+<Text>奇基</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_XUEPRIEST">
+<Text>穆伊斯卡的先知，用於替代大預言家。當駐扎在友方或同盟城市國家的未改良地塊上時，奇基可以收集"聖祭"。它們還可以通過移除任何己方或中立地塊上的黃金、銅、白銀或寶石資源來獲得"聖祭"。"聖祭"會禁用奇基傳播宗教的能力，反之亦然。獲得"聖祭"後須將祭品交付到己方城市的地塊上並且消耗奇基。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_XUEPRIEST_STRATEGY">
+<Text>奇基是生成強大宗教信仰和改善經濟的有力方式。鑑於穆伊斯卡宗教與經濟之間的關系，奇基能夠很好地增加信仰值。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_XUEPRIEST_HELP">
+<Text>奇基是生成強大宗教信仰和改善經濟的有力方式。鑑於穆伊斯卡宗教與經濟之間的關系，奇基能夠很好地增加信仰值。</Text>
+</Row>
+<Row Tag="TXT_KEY_XUEPRIEST_TEXT">
+<Text>
+奇基（祭司）是穆伊斯卡（或奇布查語中的“耶克”）日常生活的重要組成部分。祭品在古代居住在東部山脈的社會的宗教實踐中發揮了基礎性作用。在穆伊斯卡的信仰中，他們試圖通過祭品來維持世界的平衡和穩定。
+[NEWLINE][NEWLINE]
+金、木、石珠、貝殼和骨頭制品、指甲、頭發、精液、煙草和古柯以及其他致幻物質、飲料、食物、植物和草藥、紡織品、陶器、籃子、石英晶體、煤炭以及大量祖母綠等祭品，都以其形狀和材料體現了這些人的宇宙觀中對立統一的基本原則。
+[NEWLINE][NEWLINE]
+當這些物品被放置在聖地（如河流、洞穴或湖泊，或農業梯田、山峯或山頂，房屋的地板，或神殿和墓葬中）時，這些原則得以體現。祭司們前往這些地方留下祭品，他們憑借自己的知識和預言行爲，相信這些祭品具有必要的力量，以幫助他們應對因雙重宇宙平衡失調而影響他們的自然現象或社會事件。
+[NEWLINE][NEWLINE]
+像“圖尼約”或“桑蒂略”這樣的物品，即人形或動物形的金或銅合金小雕像，通常成對或成組供奉。兩個形象體現了對立的一對，如男女。
+[NEWLINE][NEWLINE]
+然而，僅僅由祭司在這些聖地供奉這些物品，並不能釋放其中的力量。與非物質世界的溝通要復雜得多，而從中獲得的好處取決於整個過程的精確性。祭司根據祭品的需要，選擇在特定時間舉行儀式，儀式包括祈禱、吟唱和舞蹈。
+[NEWLINE][NEWLINE]
+</Text>
+</Row>
+</Language_zh_Hant_HK>
+</GameData>
