@@ -1,0 +1,61 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+DarthKyofu: 
+----------------
+	Art (Civ Icon)
+----------------
+Janboruta: 
+----------------
+	Art (Map; Unique Icons)
+----------------
+Leugi: 
+----------------
+	Art (Leaderscene)
+----------------
+The Lohoped: 
+----------------
+	Research (Cities)
+----------------
+Danrell: 
+----------------
+	Graphics (Unit Model)
+	https://forums.civfanatics.com/resources/civ5-wwii-unit-pack-16-paratrooper.17457/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+James Hannigan: 
+----------------
+	Music (Peace; War)
+	https://www.youtube.com/watch?v=fZivESqMV5g
+	https://www.youtube.com/watch?v=3vPozJHJfk0
+----------------
+Britannica.com: 
+----------------
+	Pedias (Civ)
+	https://www.britannica.com/place/Soviet-Union
+----------------
+Encyclopedia.com: 
+----------------
+	Pedias (Leader)
+	https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/vladimir-ilyich-lenin
+----------------
+Wikipedia.com: 
+----------------
+	Pedias (Uniques)
+	https://en.wikipedia.org/wiki/Narodnoe_Opolcheniye
+	https://en.wikipedia.org/wiki/Pioneers_Palace
+--------------------------------------------------------------
+--------------------------------------------------------------
