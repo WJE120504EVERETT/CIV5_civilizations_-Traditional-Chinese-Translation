@@ -1,0 +1,928 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--=============================================================-->
+		<!-- Unique Unit - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21">
+			<Text>MiG-21</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21_HELP">
+			<Text>Jet Fighter replacement unique to Khrushchev's Soviet Union. Weaker, but receives additional [ICON_STRENGTH] combat strength for every allied [ICON_CITY_STATE] City State. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21_STRATEGY">
+			<Text>The MiG-21 is an air unit available only to Khrushchev's Soviet Union. Although weaker than the Jet Fighter, which it replaces, the MiG-21 receives a boost to its [ICON_STRENGTH] for each allied [ICON_CITY_STATE] City State, allowing it to quickly become a fearsome sight in the skies. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21_PEDIA">
+			<Text>The MiG-21 is a supersonic jet fighter designed by the Mikoyan-Gurevich Design Bureau in the Soviet Union during the early days of the Cold War. Known to the West as Fishbed, the MiG-21 quickly became a mainstay of Soviet-aligned air forces, having been used by around 60 countries, and still serves in some air forces. It is most produced supersonic jet aircraft in aviation history and the most-produced combat aircraft since the Korean War. It is capable of flying about twice the speed of sound, has around 32 variants, and was involved in the Indo-Pakistani war of 1971, the Vietnam war, the Yom Kippur war, the Syrian civil warm and the Iran-Iraq war. During the American Cold War incursions into Iron Curtain dominated airspace, a Soviet Air Defence Forces MiG-21 intercepted and shot down a US Air Force RB-66 Destroyer over Gardelegen, East Germany, in 1964.</Text>
+		</Row>
+		<!--Unit Promos-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH">
+			<Text>Air Force of the Internationale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_1_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+5%[ENDCOLOR] [ICON_STRENGTH] Strength from 1 Ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_2_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+10%[ENDCOLOR] [ICON_STRENGTH] Strength from 2 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_3_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+15%[ENDCOLOR] [ICON_STRENGTH] Strength from 3 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_4_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+20%[ENDCOLOR] [ICON_STRENGTH] Strength from 4 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_5_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+25%[ENDCOLOR] [ICON_STRENGTH] Strength from 5 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_6_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+30%[ENDCOLOR] [ICON_STRENGTH] Strength from 6 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_7_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+35%[ENDCOLOR] [ICON_STRENGTH] Strength from 7 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_8_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+40%[ENDCOLOR] [ICON_STRENGTH] Strength from 8 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_9_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+45%[ENDCOLOR] [ICON_STRENGTH] Strength from 9 Allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_10_HELP">
+			<Text>+5% [ICON_STRENGTH] Strength for each city state ally[NEWLINE][NEWLINE]Currently receiving [COLOR_POSITIVE_TEXT]+50%[ENDCOLOR] [ICON_STRENGTH] Strength from 10 Allies.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB">
+			<Text>OKB</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB_HELP">
+			<Text>Replaces the Research Lab. Provides +1 [ICON_RESEARCH] Science for every military unit within three tiles of the city. +20% [ICON_PRODUCTION] Production to Spaceship Parts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB_STRATEGY">
+			<Text>The OKB is a late-game science building unique to Khrusuchev's Soviet Union, replacing the Research Lab. In addition to all the usual benefits of the Research Lab, the OKB provides additional [ICON_RESEARCH] Science for every military unit within three tiles of the city, allowing your military development to feed back into your research. The OKB also provides additional [ICON_PRODUCTION] Production when building Spaceship parts, helping push towards a Science victory. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB_PEDIA">
+			<Text>The OKB, or Opytnoye Konstruktorskoye Byuro, meaning Experimental Design Bureau, were Soviet design institutions focused on prototyping of advanced technology, usually for military applications. Bureaus were identified by number, and often semiofficially by the name of its lead designer. They were small organisations, state run, designing and constructing prototypes. Many of these OKB started in the latter part of World War II, or the early part of the Cold War. Designs that were accepted by the Soviet were then assigned to factories with the direction of mass production. Several of these OKB’s have since become Russian private manufacturers, such as RSC Energia, which was formerly OKB-1 Korolev. It was this OKB that was responsible for a major part of the Soviet space program, including Sputnik 1.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Ability  - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_TRAIT_MC_VIRGIN_LANDS_COSMOS_SHORT">
+			<Text>Ot Polya do Kosmosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_VIRGIN_LANDS_COSMOS">
+			<Text>Cities start with up to two adjacent farms if there are valid adjacent tiles, and receive a burst of [ICON_RESEARCH] Science when you are the first to research a technology that unlocks a military unit.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Mod Support - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_SOVIETS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now watching your ballets and celebrating your cosmonauts! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Misc Civ Text - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_SOVIETS">
+			<Text>Soviet Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SOVIETS_DESC">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_MC_SOVIETS_SHORT_DESC">
+			<Text>Soviet Union</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_MC_SOVIETS_ADJECTIVE">
+			<Text>Soviet</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_SOVIETS_TEXT">
+			<Text>Bury your opponents, Nikita Khrushchev, First Secretary of the Communist Party of the Soviet Union. Since your rise from the poor peasant village you were born, you have worked hard to innovate and strengthen the mighty Soviet! Your political reforms and agricultural revolution have helped the mighty Soviet Union prosper in the face of imperialist opposition. You faced foreign crisis, such as the U2 incident and the Caribbean Missile Crisis. You also travelled to America, seeing how the West conducted their economics, trying to see if you could learn, for you were not of the belief that there was nothing to be gained. You led the pace in the Space Race, launching such technological and engineering marvels such as Sputnik 1, a great success for the Soviet Union. But most importantly of all, you believed in the workers of the Soviet Union, that they could one day live just as materially comfortably as their compatriots in the West, opening up the USSR.[NEWLINE][NEWLINE]Premier Khrushchev, your homeland has fallen into the hands of oligarchs and imperialists. You must once again fight for the workers of the Soviet Union and innovate if you are to keep up with the modern world. You must learn the lessons of your first premiership if you are to lead your people to glory. Can you lead your people into prosperity? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FIRSTGREETING_1">
+			<Text>Comrade! Welcome to the glorious Soviet Union - the most powerful nation on this Earth and beyond. Have you come to marvel at our fields of corn?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FIRSTGREETING_2">
+			<Text>They say that the Soviet delegates smile, that smile is genuine - it is not artificial. We wish to live in peace and tranquility, can you say the same?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DEFEATED_1">
+			<Text>My arms are up to the elbows in blood. That is the most terrible thing that lies in my soul.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DEFEATED_2">
+			<Text>Once is quite enough. What good does it do to annihilate a country twice? We're not a bloodthirsty people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_ATTACKED_1">
+			<Text>If you start throwing hedgehogs under me, I shall throw porcupines under you. Prepare for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DOW_1">
+			<Text>Whether you like it or not, history is on our side. We will bury you.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_0">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_1">
+			<Text>Boris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_2">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_3">
+			<Text>Mischa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_4">
+			<Text>Nadezhda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_5">
+			<Text>Arkady</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_6">
+			<Text>Valentina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_7">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_8">
+			<Text>Marion</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--=============================================================-->
+		<!-- Civilopedias  - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TITLE">
+			<Text>Soviet Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_1">
+			<Text>The Soviet Union, officially the Union of Soviet Socialist Republics or USSR, was a socialist state that spanned Europe and Asia during its existence from 1922 to 1991. Its government and economy were highly centralized until its final years. The country was a one-party state prior to 1990 governed by the Communist Party of the Soviet Union, with Moscow as its capital. Before its dissolution, the USSR had maintained its status as a world superpower alongside the United States, for four decades after World War II. The Soviet Union covered an area of over 22,402,200 square kilometres and was the largest country of its time, almost covered a sixth of Earth's land surface. It had five climate zones: tundra, taiga, steppes, desert and mountains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_2">
+			<Text>February and October</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_2">
+			<Text>A spontaneous popular uprising in Petrograd, in response to the wartime decay of Imperial Russia's economy and morale in World War I, culminated in the February Revolution and the toppling of Nicholas II and the imperial government in March 1917. The tsarist autocracy was replaced by the Russian Provisional Government, which intended to conduct elections to the Russian Constituent Assembly and to continue fighting on the side of the Entente in World War I. At the same time, workers' councils, known in Russian as "Soviets", sprang up across the country. The Bolsheviks, led by Vladimir Lenin, pushed for socialist revolution in the Soviets and on the streets. On 7 November 1917, the Red Guards stormed the Winter Palace in Petrograd, ending the rule of the Provisional Government and leaving all political power to the Soviets. This was the Great October Socialist Revolution. In December, the Bolsheviks signed an armistice with the Central Powers, though by February 1918, fighting had resumed. In March, the Soviets ended involvement in the war and signed the Treaty of Brest-Litovsk. A long and bloody Civil War ensued between the Reds and the Whites, starting in 1917 and ending in 1923 with the Reds' victory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_3">
+			<Text>The Era of Lenin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_3">
+			<Text>An intensive restructuring of the economy, industry and politics of the country began in the early days of Soviet power in 1917. A large part of this was done according to the Bolshevik Initial Decrees, government documents signed by Vladimir Lenin. One of the most prominent breakthroughs was the GOELRO plan, which envisioned a major restructuring of the Soviet economy based on total electrification of the country. The plan became the prototype for subsequent Five-Year Plans and was fulfilled by 1931. Under Lenin, the state made explicit commitments to promote the equality of men and women. Many early Russian feminists and ordinary Russian working women actively participated in the Revolution, and many more were affected by the events of that period and the new policies. Beginning in October 1918, Lenin's government liberalized divorce and abortion laws, decriminalized homosexuality, permitted cohabitation, and ushered in a host of reforms. From its creation, the government in the Soviet Union was based on the one-party rule of the Communist Party, or Bolsheviks. The stated purpose was to prevent the return of capitalist exploitation. On 1 February 1924, the USSR was recognized by the United Kingdom. The same year, a Soviet Constitution was approved, legitimizing the December 1922 union.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_4">
+			<Text>The Rise of Stalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_4">
+			<Text>On 3 April 1922, Stalin was named the General Secretary of the Communist Party of the Soviet Union. By gradually consolidating his influence and isolating and outmanoeuvring his rivals within the party, Stalin became the undisputed leader of the country. In 1928, Stalin introduced the first five-year plan for building a socialist economy. Famines ensued as a result, causing deaths estimated at three to seven million. Social upheaval continued in the mid-1930s. Despite the turmoil of the mid-to-late 1930s, the country developed a robust industrial economy in the years preceding World War II. In December 1936, Stalin unveiled a new constitution that was praised by supporters around the world as the most democratic constitution imaginable. Stalin's Great Purge resulted in the detainment or execution of many who had participated in the October Revolution with Lenin. According to declassified Soviet archives, the NKVD arrested more than one and a half million people in 1937 and 1938. In 1939, after attempts to form a military alliance with Britain and France against Germany failed, the Soviet Union made a dramatic shift towards Nazi Germany. The two countries concluded the Molotov–Ribbentrop Pact and the German–Soviet Commercial Agreement in August 1939.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_5">
+			<Text>Born in War, Forged in War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_5">
+			<Text>Germany broke the Molotov–Ribbentrop Pact and invaded the Soviet Union on 22 June 1941 starting what was known in the USSR as the Great Patriotic War. The Red Army stopped the seemingly invincible German Army at the Battle of Moscow. The Battle of Stalingrad, which lasted from late 1942 to early 1943, dealt a severe blow to Germany from which they never fully recovered and became a turning point in the war. The USSR suffered greatly in the war, losing around 27 million people. Once denied diplomatic recognition by the Western world, the USSR had official relations with practically every country by the late 1940s. They became one of the five permanent members of the United Nations Security Council at its 1945 founding. Fearing its ambitions, the Soviet Union's wartime allies, the United Kingdom and the United States, became its enemies. In the ensuing Cold War, the two sides clashed indirectly in proxy wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_6">
+			<Text>Nikita and Space</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_6">
+			<Text>Stalin died on 5 March 1953. Without a mutually agreeable successor, the highest Communist Party officials initially opted to rule the Soviet Union jointly through a troika headed by Georgy Malenkov. This did not last, however, and Nikita Khrushchev eventually won the ensuing power struggle by the mid-1950s. In 1956, he denounced Joseph Stalin and proceeded to ease controls over the party and society. Moscow considered Eastern Europe to be a critically vital buffer zone for the forward defence of its western borders, in case of another major invasion such as the German invasion of 1941. For this reason, the USSR sought to cement its control of the region by transforming the Eastern European countries into satellite states. During this period of the late 1950s and early 1960s, the USSR continued to realize scientific and technological exploits in the Space Race, rivaling the United States. Khrushchev initiated "The Thaw", a complex shift in political, cultural and economic life in the country, opening up the nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_7">
+			<Text>Brezhnev and the Era of Stagnation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_7">
+			<Text>Following the ousting of Khrushchev, another period of collective leadership ensued, consisting of Leonid Brezhnev as General Secretary, Alexei Kosygin as Premier and Nikolai Podgorny as Chairman of the Presidium, lasting until Brezhnev established himself in the early 1970s as the preeminent Soviet leader. In 1968, the Soviet Union and Warsaw Pact allies invaded Czechoslovakia to halt the Prague Spring reforms. Brezhnev presided throughout détente with the West that resulted in treaties on armament control such as SALT I and SALT II. In October 1977, the third Soviet Constitution was unanimously adopted. The prevailing mood of the Soviet leadership at the time of Brezhnev's death in 1982 was one of aversion to change. The long period of Brezhnev's rule had come to be dubbed one of standstill, with an ageing and ossified top political leadership. This period is also known as the Era of Stagnation, a period of adverse economic, political, and social effects in the country, which began during the rule of Brezhnev and continued under his successors Yuri Andropov and Konstantin Chernenko.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_8">
+			<Text>Gorbachev and Glasnost and Perestroika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_8">
+			<Text>Brezhnev's next two successors, transitional figures with deep roots in his tradition, did not last long. Yuri Andropov was 68 years old and Konstantin Chernenko 72 when they assumed power; both died in less than two years. In an attempt to avoid a third short-lived leader, in 1985, the Soviets turned to the next generation and selected Mikhail Gorbachev. He made significant changes in the economy and party leadership, called perestroika. His policy of glasnost freed public access to information after decades of heavy government censorship. Gorbachev also moved to end the Cold War. In 1989, Gorbachev refused to interfere in the internal affairs of the Soviet satellite states, which paved the way for the Revolutions of 1989. At the same time, the Soviet republics started legal moves towards potentially declaring sovereignty over their territories, citing the freedom to secede in Article 72 of the USSR constitution. On 7 April 1990, a law was passed allowing a republic to secede if more than two-thirds of its residents voted for it in a referendum. Many held their first free elections in the Soviet era for their own national legislatures in 1990. Many of these legislatures proceeded to produce legislation contradicting the Union laws in what was known as the "War of Laws".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_9">
+			<Text>The Collapse of the Soviet Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_9">
+			<Text>A referendum for the preservation of the USSR was held on 17 March 1991 in nine republics, with the majority of the population in those republics voting for preservation of the Union. The referendum gave Gorbachev a minor boost. In the summer of 1991, the New Union Treaty, which would have turned the country into a much looser Union, was agreed upon by eight republics. The signing of the treaty, however, was interrupted by the August Coup by hardline members of the government and the KGB who sought to reverse Gorbachev's reforms and reassert the central government's control over the republics. After the coup collapsed, Boris Yeltsin was seen as a hero for his decisive actions, while Gorbachev's power was effectively ended. Gorbachev resigned as general secretary in late August, and soon afterwards, the party's activities were indefinitely suspended, effectively ending its rule. On 8 December 1991, the presidents of Russia, Ukraine and Belarus signed the Belavezha Accords, which declared the Soviet Union dissolved and established the Commonwealth of Independent States. Following the dissolution, Russia was internationally recognized as its legal successor on the international stage. To that end, Russia voluntarily accepted all Soviet foreign debt and claimed Soviet overseas properties as its own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_SOVIETS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_SOVIETS_FACTOID_TEXT">
+			<Text>In 1961, Yuri Gagarin became the first human to travel to space, but he had to pee in his spacesuit because there was no way to relieve himself during the flight.[NEWLINE][NEWLINE]The Soviet Union had a secret program called "The Dead Hand" that would automatically launch nuclear missiles if the country was hit with a devastating attack.[NEWLINE][NEWLINE]The Soviet Union's first leader, Vladimir Lenin, had a passion for chess and would often play against other political leaders.</Text>
+		</Row>
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DESC">
+			<Text>Nikita Khrushchev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_LIVED">
+			<Text>1894 - 1971</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_NAME">
+			<Text>Nikita Khrushchev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_SUBTITLE">
+			<Text>Leader of the Soviet Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TITLES_1">
+			<Text>First Secretary of the Communist Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TITLES_2">
+			<Text>Chairman of the Council of Ministers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_1">
+			<Text>Nikita Khrushchev, full name Nikita Sergeyevich Khrushchev, was a Soviet politician who the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and as chairman of the country's Council of Ministers from 1958 to 1964. During his rule, Khrushchev stunned the communist world with his denunciation of Stalin's crimes and began de-Stalinization. He sponsored the early Soviet space program, and enactment of relatively liberal reforms in domestic policy. Despite some scares, such as the Cuban Missile Crisis, he conducted successful negotiations with the United States to reduce Cold War tensions before being stripped of power in 1964 in a bloodless political coup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_2">
+			<Text>Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_2">
+			<Text>Khrushchev was born on 15 April 1894, in Kalinovka, a village in what is now Russia's Kursk Oblast, near the present Ukrainian border. His parents, Sergei Khrushchev and Xeniya Khrushcheva, were poor peasants of Russian origin, and had a daughter two years Nikita's junior, Irina. Kalinovka was a peasant village; Nikita worked as a herdsboy from an early age. He was schooled for a total of four years. In 1908, Sergei Khrushchev moved to the Donbas city of Yuzovka, and fourteen-year-old Nikita followed later that year. After working briefly in other fields, Khrushchev's parents found Nikita a place as a metal fitter's apprentice. He collected money for the families of the victims of the Lena Goldfields massacre, and was hired to mend underground equipment by a mine in nearby Ruchenkovo, where his father was the union organizer, and he helped distribute copies and organize public readings of Pravda. When World War I broke out in 1914, Khrushchev was exempt from conscription because he was a skilled metal worker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_3">
+			<Text>The Rise of the Red Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_3">
+			<Text>After the abdication of Tsar Nicholas II in 1917, Khrushchev was elected to the soviet in Rutchenkovo, and in May he became its chairman. He did not join the Bolsheviks until 1918. In his memoirs, Khrushchev indicated that he waited longer than what was expected of him because there were many groups, and it was difficult to keep them all straight. In March 1918, the Germans occupied the Donbas and Khrushchev fled to Kalinovka. In late 1918 or early 1919, he was mobilized into the Red Army as a political commissar. Beginning as commissar to a construction platoon, Khrushchev rose to become commissar to a construction battalion and was sent from the front for a two-month political course. The wars had caused widespread devastation and famine, and one of the victims of the hunger and disease was Khrushchev's wife, Yefrosinia, who died of typhus in Kalinovka while Khrushchev was in the army. Throughout the early 1920s, he was assigned to a number of party positions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_4">
+			<Text>Pravda and Patronage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_4">
+			<Text>1925, Lazar Kaganovich became Party head in Ukraine and Khrushchev fell under his patronage and was rapidly promoted. He was appointed second in command of Stalin's party apparatus in late 1926. Within nine months his superior, Konstantin Moiseyenko, was ousted, which, according to Taubman, was due to Khrushchev's instigation. Kaganovich transferred Khrushchev to Kharkov, then the capital of Ukraine, as head of the Organizational Department of the Ukrainian Party's Central Committee. Stalin's office records show meetings at which Khrushchev was present as early as 1932. The two increasingly built a good relationship. Khrushchev greatly admired the dictator and treasured informal meetings with him and invitations to Stalin's dacha, while Stalin felt warm affection for his young subordinate. Khrushchev assisted in the purge of many friends and colleagues in Moscow oblast. Khrushchev had no reason to think himself immune from the purges, and in 1937, confessed his own 1923 dalliance with Trotskyism to Kaganovich, after initially advising Khrushchev to keep it quiet, suggested that Khrushchev tell his tale to the Moscow party conference. Khrushchev did so, to applause, and was immediately reelected to his post. In late 1937, Stalin appointed Khrushchev as head of the Communist Party in Ukraine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_5">
+			<Text>World War II </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_5">
+			<Text>When Soviet troops, pursuant to the Molotov–Ribbentrop Pact, invaded the eastern portion of Poland on 17 September 1939, Khrushchev accompanied the troops at Stalin's direction. When Nazi Germany invaded the USSR, in June 1941, Khrushchev was still at his post in Kyiv. Stalin appointed him a political commissar, and Khrushchev served on a number of fronts as an intermediary between the local military commanders and the political rulers in Moscow. Stalin used Khrushchev to keep commanders on a tight leash, while the commanders sought to have him influence Stalin. In 1942, Khrushchev was on the Southwest Front, and he and Timoshenko proposed a massive counteroffensive in the Kharkov area. Stalin approved only part of the plan, but 640,000 Red Army soldiers would still become involved in the offensive. The Germans, however, had deduced that the Soviets were likely to attack at Kharkov, and set a trap. While Stalin hinted at arresting and executing Khrushchev, he allowed the commissar to return to the front by sending him to Stalingrad. Khrushchev reached the Stalingrad Front in August 1942, soon after the start of the battle for the city. His role in the Stalingrad defense was not major General Vasily Chuikov, who led the city's defense, mentions Khrushchev only briefly in a memoir published while Khrushchev was premier, but to the end of his life, he was proud of his role. Soon after Stalingrad, Khrushchev met with personal tragedy, as his son Leonid, a fighter pilot, was apparently shot down and killed in action on 11 March 1943.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_6">
+			<Text>The Death of Stalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_6">
+			<Text>After rebuilding a recovering Ukraine after the end of the war, Khrushchev again served as head of the Party in Moscow city and province. In 1950, Khrushchev began a large-scale housing program for Moscow. Five- or six-story apartment buildings became ubiquitous throughout the Soviet Union; many remain in use today. In his new positions, Khrushchev continued his kolkhoz consolidation scheme, which decreased the number of collective farms in Moscow province by about 70%. This resulted in farms that were too large for one chairman to manage effectively. On 1 March 1953, Stalin suffered a massive stroke. As terrified doctors attempted treatment, Khrushchev and his colleagues engaged in an intense discussion as to the new government. On 5 March, Stalin died. On 6 March 1953, Stalin's death was announced, as was the new leadership. Malenkov was the new Chairman of the Council of Ministers, with Beria, Kaganovich, Bulganin, and former Foreign Minister Vyacheslav Molotov as first vice-chairmen. Those members of the Presidium of the Central Committee who had been recently promoted by Stalin were demoted. After Stalin's death, Beria launched a number of reforms. Khrushchev allied with Malenkov to block many of Beria's proposals, while the two slowly picked up support from other Presidium members. After arresting Beria, the power struggle continued. Khrushchev presented himself as a down-to-earth activist prepared to take up any challenge, contrasting with Malenkov who, though sophisticated, came across as colourless. The post-Stalin battle for political control reshaped foreign policy. There was more realism and less ideological abstraction when confronted by European and Middle Eastern situations. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_7">
+			<Text>Power and the Secret Speech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_7">
+			<Text>After the demotion of Malenkov, Khrushchev and Molotov initially worked together well. By the end of 1955, thousands of political prisoners had returned home and told their experiences of the Gulag labor camps. Continuing investigation into the abuses brought home the full breadth of Stalin's crimes to his successors. Khrushchev believed that once the stain of Stalinism was removed, the Party would inspire loyalty among the people. In his opening words in his initial address of the 20th Party Congress, Khrushchev denigrated Stalin by asking delegates to rise in honour of the Communist leaders who had died since the last congress, whom he named, equating Stalin with Klement Gottwald and the little known Kyuichi Tokuda. In the early morning hours of 25 February, Khrushchev delivered what became known as the "Secret Speech" to a closed session of the Congress limited to Soviet delegates. In four hours, he demolished Stalin's reputation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_8">
+			<Text>Consolidation and Freedom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_8">
+			<Text>After assuming power, Khrushchev allowed a modest amount of freedom in the arts. Khrushchev believed that the USSR could match the West's living standards and was not afraid to allow Soviet citizens to see Western achievements, as opposed to Stalin. Under Khrushchev, the special tribunals operated by security agencies were abolished. Khrushchev was an expert on agricultural policies and sensed an urgent need to reform the backward, inefficient system with ideas that worked in the United States, He looked especially at collectivism, state farms, liquidation of machine-tractor stations, planning decentralization, economic incentives, increased labor and capital investment, new crops, and new production programs. Khrushchev became a hyper-enthusiastic crusader to grow corn. Khrushchev sought to abolish the Machine-Tractor Stations which not only owned most large agricultural machines such as combines and tractors but also provided services such as plowing, and transfer their equipment and functions to the kolkhozes and sovkhozes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_9">
+			<Text>Education, Religion and the Feelings Abroad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_9">
+			<Text>While visiting the United States in 1959, Khrushchev was greatly impressed by the agricultural education program at Iowa State University and sought to imitate it in the Soviet Union. Khrushchev founded several academic towns, such as Akademgorodok. Khrushchev also proposed to restructure Soviet high schools. While the vocational proposal would not survive Khrushchev's downfall, a longer-lasting change was a related establishment of specialized high schools for gifted students or those wishing to study a specific subject. The anti-religious campaign of the Khrushchev era began in 1959, coinciding with the 21st Party Congress in the same year. It was carried out by mass closures of churches, monasteries, and convents, as well as of the still-existing seminaries. The campaign also included a restriction of parental rights for teaching religion to their children, a ban on the presence of children at church services, and a ban on the administration of the Eucharist to children over the age of four.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_10">
+			<Text>Relations with the Eagle and Reaching to the Stars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_10">
+			<Text>Khrushchev sought to find a lasting solution to the problem of a divided Germany and of the enclave of West Berlin deep within East German territory. He chose Austria as a way to quickly come to agreement with NATO. It became a small, neutralized nation economically tied to the West but diplomatically neutral and no threat. When Khrushchev took control, the outside world still knew little of him, and initially was not impressed by him. Khrushchev sought to sharply reduce levels of conventional weapons and to defend the Soviet Union with missiles. He believed that without this transition, the huge Soviet military would continue to eat up resources, making Khrushchev's goals of improving Soviet life difficult to achieve. The Soviet space program, which Khrushchev firmly supported, appeared to confirm his claims when the Soviets launched Sputnik 1 into orbit, a feat that astonished the world. When it became clear that the launch was real, and Sputnik 1 was in orbit, Western governments concluded that the Soviet ICBM program was further along than it actually was. During Vice President Nixon's visit to the Soviet Union in 1959 he and Khrushchev took part in what later became known as the Kitchen Debate. Nixon and Khrushchev had an impassioned argument in a model kitchen at the American National Exhibition in Moscow, with each defending the economic system of his country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_11">
+			<Text>A Premier in the Capitalist Heartland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_11">
+			<Text>Nixon invited Khrushchev to visit the United States, and he agreed. He made his first visit to the United States, arriving in Washington, on 15 September 1959, and spending thirteen days in the country. During luncheon at the Twentieth Century-Fox Studio in Los Angeles Khrushchev engaged in an improvised yet jovial debate with his host Spyros Skouras over the respective merits of capitalism and communism. Khrushchev was also to visit Disneyland, but the visit was canceled for security reasons, much to his disgruntlement. He did, however, visit Eleanor Roosevelt at her home. This visit resulted in an informal agreement that there would be no firm deadline over Berlin, but that there would be a four-power summit to try to resolve the issue. After the U-2 incident, Khrushchev was undecided what to do at the summit even as he boarded his flight to Paris. He finally decided, in consultation with his advisers on the plane and Presidium members in Moscow, to demand an apology from Eisenhower and a promise that there would be no further U-2 flights in Soviet airspace. Khrushchev made his second and final visit to the United States in September 1960. He had no invitation but had appointed himself as head of the USSR's UN delegation. Khrushchev achieved a propaganda victory in April 1961 with the first manned spaceflight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_12">
+			<Text>The Cuban Missile Crisis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_12">
+			<Text>Superpower tensions culminated in the Cuban Missile Crisis, or, as it was known in the USSR, the Caribbean crisis of October 1962, as the Soviet Union sought to install medium-range nuclear missiles in Cuba, about 140 km from the U.S. coast. Cuban Prime Minister Fidel Castro was reluctant to accept the missiles, and, once he was persuaded, warned Khrushchev against transporting the missiles in secret. On 16 October, Kennedy was informed that U-2 flights over Cuba had discovered what were most likely medium-range missile sites, and though he and his advisors considered approaching Khrushchev through diplomatic channels, they could come up with no way of doing this that would not appear weak. As the crisis unfolded, tensions were high in the U.S.; less so in the Soviet Union, where Khrushchev made several public appearances and went to the Bolshoi Theatre to hear American opera singer Jerome Hines, who was then performing in Moscow. Khrushchev agreed to withdraw the missiles in exchange for a U.S. promise not to invade Cuba and a secret promise that the U.S. would withdraw missiles from Turkey, near the Soviet heartland. As the last term was not publicly announced at the request of the U.S. and was not known until just before Khrushchev's death in 1971, the resolution was seen as a great defeat for the Soviets and contributed to Khrushchev's fall less than two years later. After the crisis, superpower relations improved, as Kennedy gave a conciliatory speech at American University on 10 June 1963, recognizing the Soviet people's suffering during World War II, and paying tribute to their achievements. Khrushchev called the speech the best by a U.S. president since Franklin D. Roosevelt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_13">
+			<Text>Who Will Bury Who</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_13">
+			<Text>The Secret Speech, combined with the death of the Polish communist leader Boleslaw Bierut, who suffered a heart attack while reading the Speech, sparked considerable liberalization in Poland and Hungary. A period of at least partial liberalization, known as the Polish October, followed, after a change in leadership. The Polish settlement emboldened the Hungarians, who decided that Moscow could be defied. A mass demonstration in Budapest on 23 October turned into a popular uprising. In response to the uprising, Hungarian Party leaders installed reformist Premier Imre Nagy. On 30 October Nagy announced multiparty elections, and the next morning that Hungary would leave the Warsaw Pact. On November 4, Soviet troops crushed the Hungarian uprising, with a death toll of 4,000 Hungarians and several hundred Soviet troops. Nagy was arrested, and was later executed. Despite the international outrage over the intervention, Khrushchev defended his actions for the rest of his life. Damage to Soviet foreign relations was severe. In the aftermath of these crises, Khrushchev made the statement for which he became well-remembered, "We will bury you". While many in the West took this statement as a literal threat, Khrushchev made the statement in a speech on peaceful coexistence with the West. When questioned about the statement during his 1959 U.S. visit, Khrushchev stated that he was not referring to a literal burial, but that, through inexorable historical development, communism would replace capitalism and "bury" it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_14">
+			<Text>A Bloodless non-Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_14">
+			<Text>Beginning in March 1964, Supreme Soviet presidium chairman and nominal head of state Leonid Brezhnev began plotting Khrushchev's removal with his colleagues. While Brezhnev considered having Khrushchev arrested as he returned from a trip to Scandinavia in June, he instead spent time persuading members of the Central Committee to support the ousting of Khrushchev. The conspirators, led by Brezhnev, First Deputy Premier Alexander Shelepin, and KGB chairman Vladimir Semichastny, struck in October 1964, while Khrushchev was on vacation at Pitsunda, Abkhaz ASSR with his close ally Anastas Mikoyan. On 14 October 1964, the Presidium and the Central Committee each voted to accept Khrushchev's "voluntary" request to retire from his offices for reasons of "advanced age and ill health." Brezhnev was elected First Secretary, while Alexei Kosygin succeeded Khrushchev as premier. There were no show trials, no ritual attacks, no public confessions, and no executions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_15">
+			<Text>Life In Retirement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_15">
+			<Text>Khrushchev was granted a pension of 500 rubles per month and was given a house, a dacha and a car. Following his removal, he fell into deep depression. He received few visitors, especially since his security guards kept track of all guests and reported their comings and goings. His pension was reduced to 400 rubles per month, though his retirement remained comfortable by Soviet standards. Khrushchev was made a non-person to such an extent that the thirty-volume Great Soviet Encyclopedia omitted his name from the list of prominent political commissars during the Great Patriotic War.  As the new rulers made known their conservatism in artistic matters, Khrushchev came to be more favourably viewed by artists and writers, some of whom visited him. One visitor whom Khrushchev regretted not seeing was former U.S. Vice President Nixon, then in his "wilderness years" before his election to the presidency, who went to Khrushchev's Moscow apartment while the former premier was at his dacha. Beginning in 1966, Khrushchev began his memoirs. He dictated them into a tape recorder and recorded indoors, after attempts failed to record outdoors due to background noise, knowing that every word would be heard by the KGB. However, the security agency made no attempt to interfere until 1968, when Khrushchev was ordered to hand over his tapes, which he refused to do. Khrushchev died of a heart attack in a hospital near his home in Moscow on 11 September 1971, at the age of 77. He was denied a state funeral with interment in the Kremlin Wall and was instead buried in the Novodevichy Cemetery in Moscow. Pravda ran a one-sentence announcement of the former premier's death; Western newspapers contained considerable coverage. Many of Khrushchev's innovations were reversed after his fall. The requirement that one-third of officials be replaced at each election was overturned. Some of Khrushchev's agricultural projects were also easily overturned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FACTOID_HEADING">
+			<Text>Khrushchev Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FACTOID_TEXT">
+			<Text>Khrushchev once took off his shoe and banged it on the desk during a United Nations General Assembly session in 1960 to protest against a speech made by the Philippine delegate. This incident became known as the "shoe-banging incident."[NEWLINE][NEWLINE]During a visit to the United States in 1959, Khrushchev visited an Iowa farm where he got into a heated argument with the farm owner about the merits of communism versus capitalism.[NEWLINE][NEWLINE]Khrushchev was known for his sense of humor and often used it to diffuse tense situations. During a meeting with President Kennedy in Vienna in 1961, Khrushchev joked that he would send Kennedy a hare from Ukraine so that he could hunt it.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_MOSCOW">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_LENINGRAD">
+			<Text>Leningrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_GORKY">
+			<Text>Gorky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KHARKIV">
+			<Text>Kharkiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_TASHKENT">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_NOVOSIBIRSK">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KUYBYSHEV">
+			<Text>Kuybyshev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_VILNIUS">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_SVERDLOVSK">
+			<Text>Sverdlovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_STALINO">
+			<Text>Donetsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_TBLISI">
+			<Text>Tblisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_VLADIVOSTOK">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_CHELYABINSK">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ALMA_ATA">
+			<Text>Alma-Ata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ODESSA">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KAZAN">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_DNEPROPETROVSK">
+			<Text>Dnepropetrovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_BAKU">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_PERM">
+			<Text>Perm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ROSTOV_ON_DON">
+			<Text>Rostov-on-Don</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_YEREVAN">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_RIGA">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_MINSK">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_STALINGRAD">
+			<Text>Volgagrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_OMSK">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_FRUNZE">
+			<Text>Frunze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_CHISINAU">
+			<Text>Chisinau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_BAIKONUR">
+			<Text>Baikonur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_STALINABAD">
+			<Text>Dushanbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ASHGABAT">
+			<Text>Ashgabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_BUKHARA">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_TALINN">
+			<Text>Talinn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_UFA">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KRASNOYARSK_26">
+			<Text>Krasnoyarsk-26</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_SUKHUMI">
+			<Text>Sukhumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KHIVA">
+			<Text>Khiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KYZYL">
+			<Text>Kyzyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_YALTA">
+			<Text>Yalta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_SEVASTOPOL">
+			<Text>Sevastopol</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--=============================================================-->
+		<!-- Unique Unit - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--=============================================================-->
+		<!-- Unique Unit - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21">
+			<Text>米格-21</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21_HELP">
+			<Text>蘇維埃社會主義共和國聯盟(赫魯曉夫)的特殊單位，替代噴氣式戰鬥機。戰鬥力較弱，但每擁有一個同盟[ICON_CITY_STATE]城邦都能提高5%[ICON_STRENGTH]戰鬥力（最高50%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21_STRATEGY">
+			<Text>米格-21是蘇維埃社會主義共和國聯盟(赫魯曉夫)的特色航空單位。雖然比它所取代的噴氣式戰鬥機要弱，但每擁有一個同盟[ICON_CITY_STATE]城邦都能提高米格-21的[ICON_STRENGTH]戰鬥力。讓它迅速成為天空中一道可怕的風景吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SOVIET_MIG_21_PEDIA">
+			<Text>米格-21是一種超音速噴氣式戰鬥機，由蘇聯米高揚-古列維奇設計局在冷戰初期時設計。米格-21在西方被稱為“魚窩”，它很快成為蘇聯及其盟國空軍的主力，被大約60個國家使用，並在一些空軍服役至今。它是航空史上生產最多的超音速噴氣式飛機，也是朝鮮戰爭以來生產最多的作戰飛機。它能夠以大約兩倍於音速的速度飛行，有大約32個變種，並參與了1971年的印巴戰爭、越南戰爭、贖罪日戰爭、敘利亞內戰和兩伊戰爭。在美國冷戰期間能夠進入鐵幕統治的領空，1964年，一架蘇聯的米格-21在東德上空攔截並擊落了美國空軍的RB-66“破壞者”轟炸機。</Text>
+		</Row>
+		<!--Unit Promos-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH">
+			<Text>Air Force of the Internationale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_1_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從1個盟友處獲得 [COLOR_POSITIVE_TEXT]+5%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_2_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從2個盟友處獲得 [COLOR_POSITIVE_TEXT]+10%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_3_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從3個盟友處獲得 [COLOR_POSITIVE_TEXT]+15%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_4_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從4個盟友處獲得 [COLOR_POSITIVE_TEXT]+20%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_5_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從5個盟友處獲得 [COLOR_POSITIVE_TEXT]+25%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_6_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從6個盟友處獲得 [COLOR_POSITIVE_TEXT]+30%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_7_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從7個盟友處獲得 [COLOR_POSITIVE_TEXT]+35%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_8_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從8個盟友處獲得 [COLOR_POSITIVE_TEXT]+40%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_9_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從9個盟友處獲得 [COLOR_POSITIVE_TEXT]+45%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MIG_STRENGTH_10_HELP">
+			<Text>每與一個城邦結盟則+5%[ICON_STRENGTH]戰鬥力[NEWLINE][NEWLINE]目前從10個盟友處獲得 [COLOR_POSITIVE_TEXT]+50%[ENDCOLOR][ICON_STRENGTH]戰鬥力！</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB">
+			<Text>修正主義</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB_HELP">
+			<Text>取代研發實驗室。城市3地塊範圍內的每個軍事單位提供1[ICON_RESEARCH]科學。飛船部件[ICON_PRODUCTION]產能+20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB_STRATEGY">
+			<Text>設計局是蘇維埃社會主義共和國聯盟(赫魯曉夫)特有的後期科學建築，取代了研發實驗室。除了所有常規好處外，設計局還為城市三張牌內的每個軍事單位提供額外的[ICON_RESEARCH]科學，使你的軍事發展能夠推動你的科學研究。在建造飛船部件時，設計局還提供額外的[ICON_PRODUCTION]產能，幫助推動科學勝利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SOVIET_OKB_PEDIA">
+			<Text>設計局（OKB），即Opytnoye Konstruktorskoye Byuro，意思是實驗和設計局，是蘇聯的設計機構，側重於先進技術的原型設計，通常用於軍事用途。各局都有編號，而且通常是以其首席設計師的名字來半官方地識別。它們是小型組織，由國家管理，設計和建造原型。許多這樣的OKB開始於二戰後期或冷戰初期。被蘇聯接受的設計隨後被分配到工廠，負責大規模生產的方向。其中幾個OKB後來成為俄羅斯的私營製造商，如RSC Energia，其前身是OKB-1 Korolev。正是這個OKB負責了蘇聯太空計劃的主要部分，包括人造衛星1號。</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Ability  - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_TRAIT_MC_VIRGIN_LANDS_COSMOS_SHORT">
+			<Text>修正主義</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_VIRGIN_LANDS_COSMOS">
+			<Text>如果新城市周圍有1-2個相連的空地，則在空地上自動生成[ICON_FOOD]農場。如果首先研究出可解鎖軍事單位的科技，則可獲得大量[ICON_RESEARCH]科學獎勵。</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Mod Support - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_SOVIETS_INFLUENTIAL_ON_AI_1">
+			<Text>我們的人民現在正在觀看你們的芭蕾舞，慶祝蘇聯的宇航發展！我擔心世界上其他國家也會屈服於你們的文化影響。</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Misc Civ Text - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_SOVIETS">
+			<Text>蘇維埃社會主義共和國聯盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SOVIETS_DESC">
+			<Text>蘇維埃社會主義共和國聯盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SOVIETS_SHORT_DESC">
+			<Text>蘇維埃社會主義共和國聯盟</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_MC_SOVIETS_ADJECTIVE">
+			<Text>蘇維埃社會主義共和國聯盟</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_SOVIETS_TEXT">
+			<Text>迅速埋葬你的對手，蘇聯共產黨第一書記尼基塔·謝爾蓋耶維奇·赫魯曉夫！自從你從貧窮的農村崛起以來，你一直努力創新和加強強大的蘇維埃聯盟！你的政治改革和農業革命幫助強大的蘇維埃在麵對帝國主義時實現了繁榮！您的政治改革和農業革命幫助強大的蘇維埃在帝國主義的反對下實現了繁榮。你麵對外國危機，如U2事件和加勒比海導彈危機。你還訪問了美國，考察西方國家開展經濟的方式，試圖看看蘇聯是否可以取其精華，因為你認為沒有什麼不可實現。您引領了太空競賽的步伐，發射了諸如斯普特尼克1號這樣的技術和工程奇跡，為蘇聯帶來了巨大的成功。但最重要的是，你相信蘇聯的工人，相信他們有一天可以像西方同胞一樣過上舒適的物質生活，開放了蘇聯。[NEWLINE][NEWLINE]赫魯曉夫總書記，您的祖國已經落入了寡頭和帝國主義的手中。你必須再次為蘇聯的工人而戰，如果你要跟上現代世界的步伐，就必須進行創新。如果你要帶領你的人民走向輝煌，你必須吸取你第一次擔任總書記時的教訓。你能帶領你的人民走向繁榮嗎？你會建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FIRSTGREETING_1">
+			<Text>同誌！歡迎來到光榮的蘇聯——地球上最強大的國家，她的成就甚至超越了地球！你是來欣賞我們的玉米田的嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FIRSTGREETING_2">
+			<Text>有人說蘇聯代表團的微笑是真誠的——它是發自內心的，不是虛偽的。我們希望和平與安寧地生活，你同意嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DEFEATED_1">
+			<Text>我的雙手浸滿了鮮血，這是我靈魂中最可怕的事情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DEFEATED_2">
+			<Text>一次已經足夠了！再次毀滅一個國家有什麼好處呢？我們不是嗜血的民族。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_ATTACKED_1">
+			<Text>如果你開始在我腳下散布謠言，我就會在你腳下扔下炸彈...準備戰爭吧!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DOW_1">
+			<Text>不管你喜不喜歡，曆史站在我們這邊，蘇聯會埋葬你們！</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_0">
+			<Text>弗拉基米爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_1">
+			<Text>鮑裏斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_2">
+			<Text>尤裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_3">
+			<Text>米沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_4">
+			<Text>娜德日達</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_5">
+			<Text>阿爾卡迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_6">
+			<Text>瓦倫蒂娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_7">
+			<Text>米哈伊爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SOVIETS_8">
+			<Text>瑪麗昂</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--=============================================================-->
+		<!-- Civilopedias  - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TITLE">
+			<Text>蘇聯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_1">
+			<Text>總覽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_1">
+			<Text>蘇聯，正式名稱為蘇維埃社會主義共和國聯盟，是一個橫跨歐洲和亞洲的社會主義國家，在1922年至1991年期間存在。它的政府和經濟直到最後幾年都是高度集中的。1990年之前，這個國家是一個由蘇聯共產黨管理的一黨製國家，首都是莫斯科。在解體之前，蘇聯在二戰後的四十年裏一直保持著與美國並列的世界超級大國的地位。蘇聯的麵積超過2240萬平方公裏，是當時最大的國家，幾乎占地球陸地麵積的六分之一。它有五個氣候區：凍土、針葉林、草原、沙漠和山區。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_2">
+			<Text>革命初始</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_2">
+			<Text>為了應對第一次世界大戰中帝國俄國經濟和士氣的戰時衰敗，彼得格勒的自發民眾起義最終導致了二月革命，並在1917年3月推翻了尼古拉二世和帝國政府。沙皇專製製度被俄羅斯臨時政府所取代，後者打算進行俄羅斯製憲會議的選舉，並繼續在第一次世界大戰中站在協約國一邊作戰。由弗拉基米爾-列寧領導的布爾什維克，在蘇維埃和街頭推動社會主義革命。1917年11月7日，紅軍衝進了彼得格勒的冬宮，結束了臨時政府的統治，將所有政治權力交給了蘇維埃。這就是偉大的十月社會主義革命。12月，布爾什維克與中央政權簽署了停戰協議，但到1918年2月，戰鬥又開始了。3月，蘇維埃結束了對戰爭的參與，簽署了《布列斯特-利托夫斯克條約》。紅軍和白軍之間隨後發生了一場漫長而血腥的內戰，從1917年開始，到1923年以紅軍的勝利結束。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_3">
+			<Text>列寧時代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_3">
+			<Text>在1917年蘇維埃政權建立初期，就開始了對國家經濟、工業和政治的密集重組。其中很大一部分是根據布爾什維克初步法令，即由弗拉基米爾·列寧簽署的政府文件進行的。最突出的突破之一是GOELRO計劃，該計劃設想在國家全麵電氣化的基礎上對蘇聯經濟進行重大重組。該計劃成為後來的五年計劃的原型，並在1931年實現了。在列寧的領導下，國家明確承諾要促進男女平等。許多早期的俄羅斯女權主義者和普通的俄羅斯勞動婦女積極參加了革命，更多的人受到了這一時期的事件和新政策的影響。從1918年10月開始，列寧政府放寬了離婚和墮胎法，取消了同性戀的刑事責任，允許同居，並迎來了一係列的改革。蘇聯政府從成立之初就以共產黨（即布爾什維克）的一黨統治為基礎。宣稱的目的是為了防止資本主義剝削的回歸。1924年2月1日，蘇聯得到了英國的承認。同年，蘇維埃憲法獲得批準，使1922年12月的聯盟合法化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_4">
+			<Text>斯大林崛起</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_4">
+			<Text>1922年4月3日，斯大林被任命為蘇聯共產黨總書記。通過逐步鞏固自己的影響力，分化並戰勝黨內的競爭對手，斯大林成為蘇聯無可爭議的領導人。1928年，斯大林推出了第一個建設社會主義經濟的五年計劃。但饑荒隨之而來，造成的死亡人數估計為300萬至700萬。社會動蕩在1930年代中期繼續。盡管如此，但在第二次世界大戰之前的幾年裏，該國發展了強勁的工業經濟。1936年12月，斯大林公布了一部新憲法，該憲法被世界各地的支持者稱讚為可以想象的最民主的憲法。斯大林的大清洗導致許多曾與列寧一起參加過十月革命的人被拘留或處決。根據解密的蘇聯檔案，1937年至1938年間，內務委員會逮捕了一百五十多萬人。1939年，在試圖與英國和法國結成對抗德國的軍事聯盟失敗後，蘇聯對納粹德國做出了戲劇性的轉變。兩國於1939年8月締結了《莫洛托夫-裏賓特洛甫條約》和《德國-蘇聯商業協定》。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_5">
+			<Text>衛國戰爭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_5">
+			<Text>1941年6月22日德國撕毀《莫洛托夫-裏賓特洛甫條約》入侵蘇聯，蘇德戰爭爆發。紅軍在莫斯科戰役中阻止了看似不可戰勝的德國軍隊。斯大林格勒戰役從1942年底持續到1943年初，對德國造成了嚴重打擊，並成為戰爭的轉折點。蘇聯在戰爭中遭受了巨大損失，大約損失了2700萬人。蘇聯曾一度被西方世界拒絕給予外交承認，但到20世紀40年代末，蘇聯幾乎與每個國家都有正式關係。1945年聯合國安理會成立時，他們成為五個常任理事國之一。由於擔心其野心，蘇聯的戰時盟友英國和美國轉接著成為其敵人。在隨後的冷戰中，雙方在大大小小的代理戰爭中發生了無數間接衝突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_6">
+			<Text>赫魯曉夫和太空競賽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_6">
+			<Text>1953年3月5日，斯大林去世。由於沒有一個雙方都同意的繼任者，共產黨的最高官員最初選擇通過以格奧爾基·馬倫科夫為首的三駕馬車共同統治蘇聯。然而，這並沒有持續下去，尼基塔·赫魯曉夫最終贏得了隨後的權力鬥爭。1956年，他譴責了約瑟夫·斯大林，並著手放鬆對黨和社會的控製。莫斯科認為東歐各國是一個至關重要的緩衝區，可以在發生像1941年德國入侵那樣的另一次重大入侵時，對其西部邊界進行前沿防禦。出於這個原因，蘇聯試圖通過將東歐國家轉變為衛星國來鞏固其對該地區的控製。在20世紀50年代末和60年代初這一時期，蘇聯繼續在太空競賽中實現科學和技術探索，與美國相抗衡。赫魯曉夫發起了“解凍”外交，這是該國政治、文化和經濟生活的一個複雜轉變，蘇聯隨之有限開放。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_7">
+			<Text>勃列日涅夫中衰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_7">
+			<Text>赫魯曉夫下台後，隨之而來的是另一個集體領導時期，由列昂尼德·勃列日涅夫擔任總書記，阿列克謝·柯西金擔任總理，尼古拉·波德戈爾尼擔任主席團主席，一直持續到1970年代初勃列日涅夫確立自己作為唯一蘇聯領導人的地位。1968年，蘇聯和華沙條約組織的盟國入侵捷克斯洛伐克，以阻止布拉格之春事件。勃列日涅夫主持了與西方國家的緩和關係，達成了諸如《第一階段戰略武器會談》和《第二階段戰略武器會談》等軍備控製條約。1977年10月，第三部蘇聯憲法被一致通過。1982年勃列日涅夫去世時，蘇聯領導層的普遍厭惡變革。勃列日涅夫統治的漫長時期被稱為停滯期，中央最高政治領導層老齡化和僵化。這一時期國家的經濟、政治和社會產生了不利影響，始於勃列日涅夫統治時期，並在其繼任者尤裏·安德羅波夫和康斯坦丁·契爾年科的領導下持續進行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_8">
+			<Text>戈爾巴喬夫的大舉改革</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_8">
+			<Text>勃列日涅夫的後兩位繼任者是與他的傳統有深厚淵源的過渡性人物，他們都沒有堅持多久。尤裏·安德羅波夫上台時已經68歲，康斯坦丁·契爾年科則已72歲高齡。但兩人都在不到兩年的時間內去世。為了避免出現第三個短命的領導人，1985年，蘇聯中央轉向下一代，選擇了戈爾巴喬夫繼位。他對經濟和黨的領導進行了重大改革，稱為蘇聯開放。他的“開放政策”使公眾在經曆了幾十年的嚴格的政府審查後可以自由獲得信息。戈爾巴喬夫還采取行動，結束了冷戰。1989年，戈爾巴喬夫拒絕乾涉蘇聯衛星國的內部事務，這為1989年的東歐劇變鋪平了道路。同時，蘇聯各共和國以蘇聯憲法第72條規定的分離自由為由，開始了可能對其領土宣布主權的法律行動。1990年4月7日，一項法律獲得通過，如果一個共和國有三分之二以上的居民在全民公決中投票支持它，它就可以脫離。許多國家在1990年舉行了蘇聯時代的第一次自由選舉，選出了自己的國家立法機構。其中許多立法機構開始製定與聯盟法律相抵觸的立法，這就是所謂的“法律戰爭”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_HEADING_9">
+			<Text>蘇聯解體</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SOVIETS_TEXT_9">
+			<Text>1991年3月17日，九個共和國舉行了保留蘇聯的公民投票，這些共和國的大多數人投票讚成保留聯盟。這次公投給戈爾巴喬夫帶來了小小的鼓舞。1991年夏天，八個共和國就《新聯盟條約》達成一致，該條約將使國家變成一個更加鬆散的聯盟。然而，該條約的簽署被政府和克格勃的強硬派成員的八月政變打斷了，他們試圖推翻戈爾巴喬夫的改革，重新確立中央政府對各共和國的控製。政變失敗後，鮑裏斯	葉利欽因其果斷的行動被視為英雄，而戈爾巴喬夫的權力則被有效終結。戈爾巴喬夫在8月底辭去了總書記的職務，不久之後，蘇聯共產黨的活動被無限期中止，結束了其長達74年的統治。1991年12月8日，俄羅斯、烏克蘭和白俄羅斯的總統簽署了《貝拉維茲協議》，宣布蘇聯解體並建立了獨立國家聯合體。解體後，俄羅斯被國際社會承認為其在國際舞台上的合法繼承者。為此，俄羅斯自願接受所有蘇聯的外債，並將蘇聯的海外財產作為自己的財產。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_SOVIETS_FACTOID_HEADING">
+			<Text>逸聞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_SOVIETS_FACTOID_TEXT">
+			<Text>1961年，尤裏·加加林成為第一個進入太空的人類，但他不得不在宇航服裏撒尿，因為在飛行過程中沒有辦法解手。[NEWLINE][NEWLINE]蘇聯有一個名為“死手”的秘密計劃，如果國家受到毀滅性的攻擊，會自動發射核導彈。[NEWLINE][NEWLINE]蘇聯的第一位領導人弗拉基米爾·列寧熱愛國際象棋，經常與其他政治領導人下棋。</Text>
+		</Row>
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_DESC">
+			<Text>赫魯曉夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_LIVED">
+			<Text>1894-1971</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_NAME">
+			<Text>尼基塔·謝爾蓋耶維奇·赫魯曉夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_SUBTITLE">
+			<Text>蘇聯領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TITLES_1">
+			<Text>第2任蘇聯共產黨總書記</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_1">
+			<Text>總覽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_1">
+			<Text>尼基塔·赫魯曉夫，全名尼基塔·謝爾蓋耶維奇·赫魯曉夫，是一名蘇聯政治家，1953年至1964年擔任蘇聯共產黨第一書記，1958年至1964年擔任該國部長會議主席。在他執政期間，赫魯曉夫譴責斯大林的罪行，並開始去斯大林化，震驚了整個共產主義世界。他讚助了早期的蘇聯太空計劃，並在國內政策中頒布了相對自由的改革。盡管有一些恐慌，如古巴導彈危機，但他與美國進行了成功的談判，以減少冷戰的緊張局勢，最終在1964年的一次不流血的政治政變中被剝奪了權力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_2">
+			<Text>早年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_2">
+			<Text>赫魯曉夫於1894年4月15日出生在卡裏諾夫卡，這是現在俄羅斯庫爾斯克州的一個村莊，靠近現在的烏克蘭邊境。他的父母謝爾蓋·赫魯曉夫和謝尼婭·赫魯曉娃是俄羅斯族的貧困農民，他們有一個比尼基塔小兩歲的女兒伊琳娜。卡裏諾夫卡是一個農村；而尼基塔從小就做牧童。他總共接受了四年的學校教育。1908年，謝爾蓋·赫魯曉夫搬到了頓巴斯的尤佐夫卡市，同年晚些時候，14歲的尼基塔也跟了過來。在其他領域短暫工作後，赫魯曉夫的父母為尼基塔找到了一個金屬裝配工學徒的位置。他為勒拿河金礦大屠殺的受害者家屬籌集資金，並被附近的魯琴科沃的一個礦場雇用來修理地下設備，他的父親是那裏的工會組織者，他還幫助分發《真理報》的副本並組織公開朗讀。1914年第一次世界大戰爆發時，赫魯曉夫因為是一名熟練的金屬工人而被免於征兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_3">
+			<Text>參加紅軍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_3">
+			<Text>1917年沙皇尼古拉二世退位後，赫魯曉夫被選入魯欽科沃的蘇維埃大會，5月他成為當地蘇維埃主席。他直到1918年才加入布爾什維克黨。赫魯曉夫在回憶錄中表示，他等待的時間超過了人們對他的期望，因為當時有很多團體，很難把它們都弄清楚。1918年3月，德國人占領了頓巴斯，赫魯曉夫逃到了卡裏諾夫卡。1918年底或1919年初，他被動員進入紅軍，擔任政委。從一個建築排的政委開始，赫魯曉夫晉升為一個建築營的政委，並被從前線派去參加為期兩個月的政治課程。戰爭造成了廣泛的破壞和饑荒，饑餓和疾病的受害者之一是赫魯曉夫的妻子葉夫羅西尼婭，她在赫魯曉夫參軍期間死於加裏諾夫卡的傷寒症。在1920年代初，赫魯曉夫被分配到了一些黨內職務。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_4">
+			<Text>《真理報》時代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_4">
+			<Text>1925年，拉紮爾·卡岡諾維奇成為烏克蘭黨委書記，赫魯曉夫在他的庇護下，迅速得到了提升。1926年底，他被任命為烏克蘭黨內機構的二把手。在九個月內，他的上司康斯坦丁·莫伊謝延科被趕下台，據陶布曼說，這是由於赫魯曉夫的唆使。卡岡諾維奇將赫魯曉夫調到哈爾科夫，當時是烏克蘭的首都，擔任烏克蘭黨中央委員會組織部部長。斯大林的辦公室記錄顯示，早在1932年就有赫魯曉夫出席的會議。兩人日益建立起良好的關係。赫魯曉夫非常欽佩這位獨裁者，並珍視與他的非正式會晤和對斯大林別墅的邀請，而斯大林則對他的年輕下屬充滿了熱情。赫魯曉夫協助清洗了莫斯科州的許多朋友和同事。赫魯曉夫沒有理由認為自己不受清洗影響，1937年，他向卡岡諾維奇坦白了自己1923年與托洛茨基主義的曖昧關係，卡岡諾維奇最初建議赫魯曉夫保持沉默，並建議赫魯曉夫向莫斯科黨的會議講述他的故事。赫魯曉夫這樣做了，贏得了熱烈的掌聲，並立即被重新選舉上任。1937年底，斯大林任命赫魯曉夫為烏克蘭共產黨的領導人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_5">
+			<Text>衛國戰爭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_5">
+			<Text>當蘇聯軍隊根據《莫洛托夫-裏賓特洛甫條約》於1939年9月17日入侵波蘭東部地區時，赫魯曉夫在斯大林的指示下隨軍出征。1941年6月，當納粹德國入侵蘇聯時，赫魯曉夫仍在基輔的崗位上。斯大林任命他為政委，赫魯曉夫作為當地軍事指揮官和莫斯科政治統治者之間的中間人，在一些戰線上服務。斯大林利用赫魯曉夫對指揮官們嚴加管束，而指揮官們則試圖讓他影響斯大林。1942年，赫魯曉夫在西南戰線，他和鐵木辛哥提議在哈爾科夫地區進行大規模反攻。斯大林隻批準了該計劃的一部分，但64萬名紅軍士兵仍將參與到攻勢中。然而，德國人已經推斷出蘇聯人可能會在哈爾科夫發動進攻，並設置了一個陷阱。雖然斯大林暗示要逮捕和處決赫魯曉夫，但他允許這位政委返回前線，把他派到斯大林格勒。赫魯曉夫於1942年8月到達斯大林格勒前線，在該城市的戰鬥開始後不久。他在斯大林格勒保衛戰中的作用並不主要，領導城市保衛戰的瓦西裏·丘伊科夫將軍隻是在赫魯曉夫擔任總書記期間出版的回憶錄中簡短地提到了他，但直到他生命的最後一刻，他還為自己的角色感到自豪。斯大林格勒戰役結束後不久，赫魯曉夫遭遇了個人悲劇，他的兒子戰鬥機飛行員列奧尼德在1943年3月11日被德軍擊落並陣亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_6">
+			<Text>斯大林之死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_6">
+			<Text>戰爭結束後，在重建烏克蘭時，赫魯曉夫再次擔任莫斯科市和省的黨委書記。1950年，赫魯曉夫開始為莫斯科實施大規模的住房計劃。五層或六層的公寓樓在整個蘇聯變得無處不在，許多至今仍在使用。在新的崗位上，赫魯曉夫繼續他的鄉鎮合並計劃，將莫斯科省的集體農莊數量減少了約70%。這導致農場太大，一個主席無法有效管理。1953年3月1日，斯大林患了嚴重中風。在驚恐的醫生嚐試治療時，赫魯曉夫和他的同事們就新政府的問題進行了激烈的討論。3月5日，斯大林去世。1953年3月6日，斯大林的死亡被宣布，新的領導層也被宣布。馬連科夫是部長會議的新主席，貝利亞、卡加諾維奇、布爾加寧和前外交部長維亞切斯拉夫·莫洛托夫為第一副主席。那些最近被斯大林提拔的中央委員會主席團成員被降職。斯大林去世後，貝利亞發起了一係列改革。赫魯曉夫與馬林科夫結盟，阻止了貝利亞的許多提議，而這兩人則慢慢獲得了其他主席團成員的支持。逮捕貝利亞後，權力鬥爭繼續進行。赫魯曉夫把自己表現為一個腳踏實地的活動家，準備接受任何挑戰，與馬倫科夫形成鮮明對比，後者雖然老練，但顯得毫無色彩。斯大林之後的政治控製之爭重塑了外交政策。在麵對歐洲和中東局勢時，有了更多的現實主義，減少了意識形態的抽象性。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_7">
+			<Text>秘密報告</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_7">
+			<Text>馬連科夫被降職後，赫魯曉夫和莫洛托夫最初合作得很好。到1955年底，數以千計的政治犯回到家中，講述他們在古拉格勞改營的經曆。對虐待行為的持續調查讓斯大林的繼任者看到了斯大林罪行的全部範圍。赫魯曉夫相信，一旦斯大林主義的汙點被清除，黨就會激發人民的忠誠。赫魯曉夫在黨的第二十次代表大會的開幕詞中詆毀了斯大林，他要求代表們起立紀念自上次大會以來去世的共產黨領導人，他點名批評了這些人，將斯大林與克萊門特·戈特瓦爾德和鮮為人知的德田球一等同起來。2月25日淩晨，赫魯曉夫在僅限於蘇聯代表參加的大會閉門會議上發表了被稱為“秘密報告”的講話。在四個小時內，他徹底摧毀了斯大林的聲譽。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_8">
+			<Text>鞏固與自由</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_8">
+			<Text>掌權後，赫魯曉夫允許在藝術方麵有適度的自由。赫魯曉夫認為，蘇聯可以與西方國家的生活水平相媲美，並且不害怕讓蘇聯公民看到西方的成就，這與斯大林時期的政策形成鮮明對比。在赫魯曉夫領導下，安全機構運作的特別法庭被廢除了。赫魯曉夫是農業政策方麵的專家，他感覺到迫切需要用在美國行之有效的理念來改革落後、低效的係統，他特別關注集體主義、國有農場、清算機器拖拉機站、規劃權力下放、經濟激勵、增加勞動和資本投資、新作物和新生產計劃。赫魯曉夫成為種植玉米的超級熱情的討伐者。赫魯曉夫試圖廢除機器拖拉機站，這些機器拖拉機站不僅擁有大多數大型農業機械，如聯合收割機和拖拉機，而且還提供犁地等服務，並將其設備和職能移交給鄉鎮政府和蘇維埃政府。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_9">
+			<Text>文教建設</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_9">
+			<Text>1959年赫魯曉夫訪問美國時，愛荷華州立大學的農業教育項目給他留下了深刻印象，並試圖在蘇聯進行模仿。赫魯曉夫建立了幾個學術鎮，如Akademgorodok。赫魯曉夫還提議改組蘇聯的高中。雖然職業化的建議沒能在赫魯曉夫下台後繼續存在，但一個更持久的變化是為有天賦的學生或希望學習特定學科的學生建立了相關的專業高中。赫魯曉夫時代的反宗教運動始於1959年，與同年的黨的第二十一次代表大會相吻合。它通過大規模關閉教堂、寺院和修道院以及仍然存在的神學院來進行。這場運動還包括限製父母對子女進行宗教教育的權利，禁止兒童參加教堂儀式，以及禁止對四歲以上兒童進行聖餐儀式。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_10">
+			<Text>對美政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_10">
+			<Text>赫魯曉夫試圖為分裂的德國和深入東德境內的西柏林飛地問題找到一個持久的解決方案。他選擇了奧地利作為迅速與北約達成協議的方式。它成為一個在經濟上與西方聯係在一起的中立小國，事實上它在外交上是中立的，沒有威脅。當赫魯曉夫掌權時，外部世界對他仍然知之甚少，最初對他的印象並不深刻。赫魯曉夫試圖大幅降低常規武器的水平，用導彈來保衛蘇聯。他認為，如果沒有這種轉變，龐大的蘇聯軍隊將繼續吞噬資源，使赫魯曉夫改善蘇聯生活的目標難以實現。赫魯曉夫堅決支持的蘇聯太空計劃似乎證實了他的說法，當時蘇聯將斯普特尼克1號送入軌道，這一壯舉令世界震驚。當發現發射是真實的，並且斯普特尼克1號進入軌道時，西方政府得出結論，蘇聯的洲際彈道導彈計劃比實際情況更進一步。1959年尼克鬆副總統訪問蘇聯期間，他和赫魯曉夫參加了後來被稱為廚房辯論的活動。尼克鬆和赫魯曉夫在莫斯科美國國家展覽館的一個廚房模型中進行了慷慨激昂的辯論，各自為自己國家的經濟體係辯護。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_11">
+			<Text>總書記在美國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_11">
+			<Text>尼克鬆邀請赫魯曉夫訪問美國並得到同意。赫魯曉夫曆史上首次訪問美國，於1959年9月15日抵達華盛頓，並在該國逗留了13天。在洛杉磯二十世紀福克斯演播室的午餐會上，赫魯曉夫與主持人斯皮羅斯·斯庫拉斯就資本主義和共產主義各自的優點進行了一場即興的但卻很有趣的辯論。赫魯曉夫還打算參觀迪斯尼樂園，但由於安全原因，這次訪問被取消了，這讓他很不高興。然而，他確實在埃莉諾·羅斯福的家中拜訪了她。這次訪問的結果是達成了一項非正式的協議，即在柏林問題上沒有確定的最後期限，但將舉行一次四國峰會，試圖解決這一問題。在U-2事件發生後，赫魯曉夫甚至在登上飛往巴黎的飛機時，都沒有決定在峰會上做什麼。經與飛機上的顧問和莫斯科的主席團成員協商，他最終決定要求艾森豪威爾道歉，並承諾不再有U-2飛機在蘇聯領空飛行。赫魯曉夫於1960年9月對美國進行了第二次也是最後一次訪問。他沒有收到邀請，但他任命自己為蘇聯的聯合國代表團團長。1961年4月，赫魯曉夫通過首次載人航天飛行取得了宣傳上的勝利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_12">
+			<Text>古巴導彈危機</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_12">
+			<Text>超級大國間的緊張關係在古巴導彈危機中達到頂峰，因為蘇聯在試圖距離美國海岸約140公裏的古巴安裝中程核導彈。古巴總理菲德爾-卡斯特羅不願意接受這些導彈，一旦他被說服，就警告赫魯曉夫不要秘密運輸這些導彈。10月16日，肯尼迪被告知，U-2飛機在古巴上空發現了很可能是中程導彈的地點，盡管他和他的顧問們考慮通過外交渠道與赫魯曉夫接觸，但他們想不出任何不會顯得軟弱的方法來這樣做。隨著危機的發展，美國的局勢高度緊張；在蘇聯則不那麼緊張，赫魯曉夫多次公開露麵，並前往大劇院聽取當時正在莫斯科演出的美國歌劇歌手傑羅姆-海因斯的演唱。赫魯曉夫同意撤回導彈，以換取美國承諾不入侵古巴，並秘密承諾美國將從靠近蘇聯心髒地帶的土耳其撤回導彈。由於最後期限是應美國的要求沒有公開宣布的，而且直到1971年赫魯曉夫去世前才被人知道，該決議被視為蘇聯的一次巨大失敗，並促使赫魯曉夫在不到兩年後下台。危機過後，超級大國關係有所改善，肯尼迪於1963年6月10日在美國大學發表了和解性演講，承認蘇聯人民在二戰期間的痛苦，並對他們的成就表示敬意。赫魯曉夫稱這次演講是自富蘭克林·羅斯福以來美國總統的最佳演講。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_13">
+			<Text>誰將為誰送葬？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_13">
+			<Text>秘密報告事件，再加上波蘭共產黨領導人波列斯拉夫·比魯特在閱讀演講時心髒病發作而去世，在波蘭和匈牙利引發了相當大的自由化。在領導層更換之後，出現了一個至少是部分自由化的時期，被稱為波蘭十月。波蘭的解決使匈牙利人膽戰心驚，他們決定可以藐視莫斯科。10月23日在布達佩斯舉行的大規模示威變成了一場民眾起義。作為對起義的回應，匈牙利共產黨的領導人任命了改革派總理納吉。10月30日，納吉宣布了多黨選舉，並在第二天早上宣布匈牙利將退出華沙條約組織。11月4日，蘇聯軍隊粉碎了匈牙利起義，有4000名匈牙利人和數百名蘇聯軍隊死亡。納吉被逮捕，後來被處決。盡管國際社會對這次乾預感到憤怒，赫魯曉夫在他的餘生中一直在為他的行動辯護。蘇聯的對外關係受到了嚴重的損害。在這些危機發生後，赫魯曉夫發表了他被人們牢牢記住的聲明：“我們將埋葬你”。雖然西方的許多人認為這句話是字麵上的威脅，但赫魯曉夫是在一次關於與西方和平共處的講話中說的。在1959年訪問美國期間，當被問及這句話時，赫魯曉夫說，他指的不是字麵上的埋葬，而是通過不可阻擋的曆史發展，共產主義將取代資本主義並“埋葬”它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_14">
+			<Text>和平政變</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_14">
+			<Text>從1964年3月開始，最高蘇維埃主席團主席和名義上的國家元首列昂尼德·勃列日涅夫開始與他的同事們一起策劃解除赫魯曉夫的職務。雖然勃列日涅夫在6月從斯堪的納維亞旅行歸來時考慮逮捕赫魯曉夫，但他反而花時間說服中央委員會成員支持推翻赫魯曉夫。以勃列日涅夫、第一副總理亞曆山大·謝列平和克格勃主席弗拉基米爾·謝米查斯尼為首的陰謀家於1964年10月發動襲擊，當時赫魯曉夫正與他的親密盟友阿納斯塔斯·米高揚在阿布哈茲自治區的皮鬆達度假。1964年10月14日，主席團和中央委員會分別投票接受了赫魯曉夫以“年老體衰”為由“自願”退休的請求。勃列日涅夫當選為第一書記，而阿列克謝·柯西金接替赫魯曉夫擔任總理。沒有作秀的審判，也沒有儀式性的攻擊，沒有公開的懺悔，更沒有處決，政權就此和平移交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_HEADING_15">
+			<Text>退休生涯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_TEXT_15">
+			<Text>赫魯曉夫獲得了每月500盧布的養老金，並得到了一棟房子、一個大莊園和一輛汽車。被免職後，他陷入了深深的憂鬱之中。他很少接待來訪者，特別是由於他的警衛人員掌握了所有客人的情況並報告了他們的來往。他的養老金被減少到每月400盧布，盡管按照蘇聯的標準，他的退休生活仍然很舒適。赫魯曉夫被打成了非人，以至於三十卷的《蘇聯大百科全書》在偉大的衛國戰爭期間的著名政治委員名單中漏掉了他的名字。 由於新的統治者在藝術問題上的保守主義是眾所周知的，赫魯曉夫開始被藝術家和作家所看好，其中一些人拜訪了他。赫魯曉夫感到遺憾的一位訪客是美國前副總統尼克鬆，當時他正處於當選總統前的“荒蕪歲月”，當前總理在他的別墅時，他去了赫魯曉夫的莫斯科公寓。從1966年開始，赫魯曉夫開始了他的回憶錄。他把回憶錄口述到錄音機裏，並在室內錄製，因為他知道每一個字都會被克格勃聽到，而在室外錄製的嚐試因背景噪音而失敗。然而，安全機構沒有試圖乾涉，直到1968年，赫魯曉夫被命令交出他的錄音帶，他拒絕這樣做。1971年9月11日，赫魯曉夫因心髒病發作在莫斯科家中附近的一家醫院去世，享年77歲。 他被剝奪了在克裏姆林宮牆內安葬的國葬，而是被埋葬在莫斯科的新傑維奇公墓。《真理報》對這位前總書記的去世作了一句話的報道；西方報紙也作了大量報道。赫魯曉夫的許多創新在他下台後被推翻了。在每次選舉中更換三分之一官員的要求被推翻了、赫魯曉夫的一些農業項目也被輕易推翻了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FACTOID_HEADING">
+			<Text>逸聞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_KHRUSHCHEV_FACTOID_TEXT">
+			<Text>赫魯曉夫曾在1960年的聯合國大會會議上脫下鞋子敲打桌子，以抗議菲律賓代表的發言。這一事件被稱為“敲鞋事件”。[NEWLINE][NEWLINE]1959年訪問美國期間，赫魯曉夫參觀了愛荷華州的一個農場，在那裏他與農場主就共產主義與資本主義的優點發生了激烈的爭論。[NEWLINE][NEWLINE]赫魯曉夫以其幽默感而聞名，並經常用它來化解緊張的局勢。1961年在維也納與肯尼迪總統會晤時，赫魯曉夫開玩笑說，他將給肯尼迪送去一隻來自烏克蘭的野兔，以便他能夠獵取它。</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_MOSCOW">
+			<Text>莫斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_LENINGRAD">
+			<Text>列寧格勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KIEV">
+			<Text>基輔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_GORKY">
+			<Text>高爾基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KHARKIV">
+			<Text>哈爾科夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_TASHKENT">
+			<Text>塔什乾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_NOVOSIBIRSK">
+			<Text>新西伯利亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KUYBYSHEV">
+			<Text>庫伊比舍夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_VILNIUS">
+			<Text>維爾紐斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_SVERDLOVSK">
+			<Text>斯維爾德洛夫斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_STALINO">
+			<Text>頓涅茨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_TBLISI">
+			<Text>第比利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_VLADIVOSTOK">
+			<Text>弗拉迪沃斯托克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_CHELYABINSK">
+			<Text>車裏亞賓斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ALMA_ATA">
+			<Text>阿拉木圖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ODESSA">
+			<Text>敖德薩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KAZAN">
+			<Text>喀山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_DNEPROPETROVSK">
+			<Text>第聶伯羅彼得洛夫斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_BAKU">
+			<Text>巴庫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_PERM">
+			<Text>佩爾姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ROSTOV_ON_DON">
+			<Text>頓河羅斯托夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_YEREVAN">
+			<Text>埃裏溫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_RIGA">
+			<Text>裏加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_MINSK">
+			<Text>明斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_STALINGRAD">
+			<Text>伏爾加格勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_OMSK">
+			<Text>鄂木斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_FRUNZE">
+			<Text>伏龍芝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_CHISINAU">
+			<Text>奇斯瑙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_BAIKONUR">
+			<Text>拜科努爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_STALINABAD">
+			<Text>杜尚別</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_ASHGABAT">
+			<Text>阿什哈巴德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_BUKHARA">
+			<Text>布哈拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_TALINN">
+			<Text>塔林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_UFA">
+			<Text>烏法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KRASNOYARSK_26">
+			<Text>克拉斯諾亞爾斯克-26</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_SUKHUMI">
+			<Text>蘇呼米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KHIVA">
+			<Text>希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_KYZYL">
+			<Text>克孜勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_YALTA">
+			<Text>雅爾塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SOVIETS_SEVASTOPOL">
+			<Text>塞瓦斯托波爾</Text>
+		</Row>
+		</Language_zh_Hant_HK>
+</GameData>
