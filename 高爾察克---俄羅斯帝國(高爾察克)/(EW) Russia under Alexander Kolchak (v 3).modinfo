@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="048d5169-4126-4b91-bea9-360af6215d87" version="3">
+  <Properties>
+    <Name>(EW) Russia under Alexander Kolchak</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>[COLOR_POSITIVE_TEXT]Adds the Russian State under Kolchak to Civ 5![ENDCOLOR]</Teaser>
+    <Description>CREDITS:[NEWLINE]
+ExplosiveWatermelon - Code, Art, Design[NEWLINE]
+TPangolin - Art[NEWLINE]
+Sergei Prokofiev - Music[NEWLINE]
+Dmitri Shostakovich - Music[NEWLINE]</Description>
+    <Authors>ExplosiveWatermelon</Authors>
+    <SpecialThanks>TPangolin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="92F4C0B67CADDC36B5C2B0A591147375" import="1">Art/kolchakAlpha_24.dds</File>
+    <File md5="C3CCFD4411CCE332BDCA04892758656E" import="1">Art/kolchakAlpha_32.dds</File>
+    <File md5="77D89B62F427550AB55EF67054398DB1" import="1">Art/kolchakAlpha_48.dds</File>
+    <File md5="24B1FBCFD1FC85C92D96277A8C30D54E" import="1">Art/kolchakAlpha_64.dds</File>
+    <File md5="1405D7E44049C91FA0A6514B14760608" import="1">Art/kolchakAtlas_128.dds</File>
+    <File md5="FF0434DA2E6DE70AB671A020DF2B7671" import="1">Art/kolchakAtlas_256.dds</File>
+    <File md5="4FBB1F7E9A9DFCBFDE44573722F53219" import="1">Art/kolchakAtlas_32.dds</File>
+    <File md5="2D46449AC58284DE844D5440B235E104" import="1">Art/kolchakAtlas_45.dds</File>
+    <File md5="641A121F589681E8AAF1F0E7656BD695" import="1">Art/kolchakAtlas_64.dds</File>
+    <File md5="C86A9BC191CB7BD9146ADCAAD1A0AF13" import="1">Art/kolchakAtlas_80.dds</File>
+    <File md5="B0E47A322621EB9F9F2E827B18DE1C0E" import="1">Art/kolchakMap_Small.dds</File>
+    <File md5="26E70E8802418D129C2C427CD57AEEE1" import="1">Art/kolchakPlate_128.dds</File>
+    <File md5="F579BA1B729EA0ECE0DECF1CF583AA2A" import="1">Art/kolchakPlate_256.dds</File>
+    <File md5="23DAFB44101BAFCC536E4ABF286CAA6D" import="1">Art/kolchakPlate_32.dds</File>
+    <File md5="06EBCB30F024A6AE77F2F26C8DC38295" import="1">Art/kolchakPlate_45.dds</File>
+    <File md5="1846F1B48EAA3F30AA8D85598A2F310C" import="1">Art/kolchakPlate_64.dds</File>
+    <File md5="5E21650B60C9CA1FA83E0A9B6B2BBE84" import="1">Art/kolchakPlate_80.dds</File>
+    <File md5="5F183FAC819F8744BC8587472DA900C9" import="1">Art/kolchak_DoM.dds</File>
+    <File md5="CA8CBEE356DCD4DF4A92E77838E903E3" import="1">Art/Kolchak_LS.dds</File>
+    <File md5="B676433154F22C685AB1F1AF71BACEE5" import="1">Art/Kolchak_LS.xml</File>
+    <File md5="BED96BDB28677F07CF8590602D7DBD51" import="1">Art/markovtsyAlpha.dds</File>
+    <File md5="8DB19329818CDAD17FDA9D836CDB98B0" import="1">Art/Music/PARG_Peace.mp3</File>
+    <File md5="B422A7D332F18DA42C909A5E36CC89F8" import="1">Art/Music/PARG_War.mp3</File>
+    <File md5="A6BC5F3320A84406CEC389E4CDE5476A" import="0">Core/EW_Kolchak_ArtDefs.sql</File>
+    <File md5="3E7CFDE327A05E70D9E3FCF32F40923A" import="0">Core/EW_Kolchak_Core.sql</File>
+    <File md5="0DE0CFAA9C29927BEE3C4EAAFAE2FE2D" import="0">Core/EW_Kolchak_GameText.xml</File>
+    <File md5="DDB3B8C7C18028379B0E56D8D934E387" import="0">Core/EW_Kolchak_ModSupport.sql</File>
+    <File md5="B3512005264A553FB27D5F3409649213" import="0">Lua/EW_Kolchak_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/EW_Kolchak_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EW_Kolchak_ArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EW_Kolchak_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EW_Kolchak_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/EW_Kolchak_Functions.lua">
+      <Name>Kolchak Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

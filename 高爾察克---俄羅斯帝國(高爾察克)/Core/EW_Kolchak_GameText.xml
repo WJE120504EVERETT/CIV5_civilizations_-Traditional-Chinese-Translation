@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2021 4:28:14 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK">
+			<Text>Alexander Kolchak</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_LEADER_ALEXANDER"/>
+			<Set Text="Alexander the Great"/>
+		</Update>
+		<Row Tag="TXT_KEY_TRAIT_EW_KOLCHAK">
+			<Text>Adopting Social Policies and Ideology Tenets grants Great General points for every Ally who has already adopted the policy. When a Great General is born, earn a burst of [ICON_PRODUCTION] Unit Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EW_KOLCHAK_SHORT">
+			<Text>The White Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_PEDIA">
+			<Text>Admiral Alexander Kolchak was the Supreme Ruler of Russia during the Russian Civil War. Under his command, the White Terror was instituted and imperialist resistance continued against Soviet forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_LIVED">
+			<Text>1874 - 1920 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_SUBTITLE">
+			<Text>Leader of Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TITLES_1">
+			<Text>Supreme Ruler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_NAME">
+			<Text>Alexander Vasilyevich Kolchak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_1">
+    <Text>History</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_1">
+    <Text>Alexander Kolchak was an adventurous polar explorer, a war hero of the Russian Empire, the youngest admiral, and most famously, the leader of the anti-Bolshevik, White Army. After several years of resistance, he was ultimately defeated in Irkutsk in 1920 and executed. But now, more than a century after his death, the once-mighty Soviet regime has long since become a relic of history, yet evaluations of Alexander Kolchak remain divided. Was he a national hero defending Russia from the Red Army, or a traitor who sought aid from Anglo-Japan to prolong his survival? Was he an idealist who returned to fight for his country, or an opportunist risking everything for personal gain? A rare military genius or a political novice? One way or another, it seems that time will still be needed to uncover the true answers to these questions about him.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_2">
+    <Text>Early Years</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_2">
+    <Text>Alexander Vasilyevich Kolchak was born on November 16, 1874, into a military family in Saint Petersburg. His father, Vasily, was a general in the Imperial Russian Navy, and this background provided Kolchak with a rigorous military education from a young age, fostering a strong interest in a naval career. In 1894, Kolchak entered the Naval Academy in Saint Petersburg, graduating with excellent honors. He then joined the Baltic Fleet, beginning his career as a naval officer. Young Kolchak demonstrated exceptional discipline and tactical acumen, quickly rising through the ranks. During the Russo-Japanese War, he served in the Pacific Fleet, participating in the defense of Port Arthur and earning the Order of St. George for his bravery. After the war, Kolchak continued his service in the navy, gradually ascending to command positions. He developed a keen interest in modern naval tactics and technology, actively promoting the modernization of the navy.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_3">
+    <Text>Polar Exploration</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_3">
+    <Text>In the early 1900s, Alexander Kolchak became a key member of the Russian polar exploration team, dedicated to the exploration and study of the Arctic region. Between 1900 and 1903, he participated in the famous "Turemens" Arctic expedition, focusing on mapping polar sea routes and surveying new territories. In harsh environments, Kolchak exhibited remarkable endurance and leadership, earning him the nickname "Polar Wolf."[NEWLINE][NEWLINE]After the Russo-Japanese War, in 1906, he led an expedition to the Arctic Ocean to further explore the Kara Sea and the glaciers and islands near Novaya Zemlya. This expedition not only provided the Russian Navy with crucial navigational data but also established Kolchak as one of the renowned polar explorers of his time. His expedition reports became important references for the development of Russian northern sea routes and had pioneering implications for future polar geographical and climatic research. Kolchak's contributions to polar exploration earned him significant recognition in the scientific community. However, he did not limit himself to academic pursuits; instead, he brought his spirit of exploration back to the military, continuing his dedication to the construction and combat readiness of the navy.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_4">
+    <Text>World War I</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_4">
+    <Text>With the outbreak of World War I in 1914, Alexander Kolchak quickly dedicated himself to the defense of the Russian Empire. He was appointed Chief of Staff of the Black Sea Fleet, responsible for coordinating the fleet’s operational plans and defensive strategies. In this unprecedented and brutal war, Kolchak demonstrated outstanding military talent and fearless leadership. He led the Black Sea Fleet in multiple operations against the Ottoman Empire’s naval forces, effectively cutting off enemy supply lines in the Black Sea and successfully destroying numerous ports and naval installations.[NEWLINE][NEWLINE]In 1916, Kolchak was promoted to Admiral, becoming the youngest commander in the history of the Black Sea Fleet. He actively pursued fleet modernization, introducing new warships and advanced torpedo technologies, ensuring that the Black Sea Fleet maintained a strategic advantage over the Ottoman Empire in the later stages of the war. Under his command, the Russian Navy achieved significant victories in the Black Sea theater, safeguarding Russia’s southern borders.[NEWLINE][NEWLINE]However, as the war dragged on, internal discontent in Russia grew. After the February Revolution in 1917, Kolchak openly expressed his unease and opposition to the revolution. He was disillusioned by the military weakness of the Provisional Government and opposed peace negotiations with Germany, advocating for continued war to preserve the integrity of the empire. As the Bolsheviks seized power during the October Revolution, Kolchak’s resolve hardened, believing that the new regime posed a severe threat to Russia’s stability and sovereignty.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_5">
+    <Text>Formation of the White Front</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_5">
+    <Text>Following the October Revolution, the Bolsheviks quickly consolidated power in key areas such as Petrograd and Moscow. However, anti-Bolshevik forces began to gather across Russia’s vast expanse. In this context, Alexander Kolchak emerged as one of the key leaders of the "White Army." In 1918, he fled to Siberia and took part in anti-Bolshevik military activities in Omsk. In November 1918, Kolchak was proclaimed Supreme Ruler of anti-Bolshevik forces in Omsk and declared the establishment of the Provisional All-Russian Government, styling himself as the "Supreme Leader of Russia." The White Army rapidly expanded, controlling most of Siberia and the Far East. Kolchak established a military dictatorship aimed at restoring order and combating Bolshevik forces. With support from Western nations, including Britain and Japan, Kolchak reorganized the White Army and launched a series of offensives, attempting to advance from the east and reclaim Moscow.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_6">
+    <Text>Retreat and Collapse</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_6">
+    <Text>In the spring of 1919, Alexander Kolchak led the White Army in a series of offensives across Siberia and the Ural region, advancing as far west as Kazan and the Volga River basin, threatening the Bolshevik heartland. However, the White Army’s success was short-lived. Under relentless pressure from the expanding and increasingly organized Red Army, Kolchak’s forces gradually found themselves on the defensive.[NEWLINE][NEWLINE]Internal divisions and resource shortages became the White Army’s greatest vulnerabilities. Kolchak’s military dictatorship maintained order during wartime but exacerbated conflicts between regional warlords and political factions. This eventually led to internal strife between Kolchak and Anton Denikin, another White Army leader. Peasant discontent over harsh conscription policies and severe governance led to frequent uprisings, disrupting supply lines and destabilizing the White Army’s rear. Meanwhile, Bolshevik propaganda painted Kolchak as a remnant of Tsarist oppression, rallying the masses against the White forces.[NEWLINE][NEWLINE]In the autumn of 1919, the Red Army launched a full-scale counteroffensive, gradually reclaiming lost territory along the Eastern Front. Kolchak’s forces suffered a decisive defeat in the Ural Mountains, prompting a large-scale strategic retreat. The harsh winter and difficult terrain sapped morale, while supply lines shrank. By the end of 1919, Kolchak’s influence had been reduced to Siberia’s interior, and his control over the region rapidly diminished.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_7">
+    <Text>The Admiral’s Fate</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_7">
+    <Text>In January 1920, with the fall of Omsk, Alexander Kolchak retreated to Irkutsk, carrying gold reserves valued at billions of dollars (equivalent to over 100 billion dollars today). However, much of this wealth was lost in the chaos of war and remains unaccounted for. By the time Kolchak arrived in Irkutsk, the political landscape had shifted dramatically, with local uprisings and Bolshevik forces gaining dominance. Kolchak attempted to continue his retreat toward Mongolia, but en route, he was detained by the Czechoslovak Legion, a former ally of the White Army. As the tides of war shifted, the Legion negotiated with the Bolsheviks and handed Kolchak over to the Left Socialist Revolutionaries in Irkutsk, a faction aligned with the Mensheviks.[NEWLINE][NEWLINE]In February 1920, Kolchak faced a brief and expedited trial under Bolshevik control, accused of being an “enemy of the people” and a counter-revolutionary leader. Given little opportunity for defense, Kolchak was executed by firing squad on February 7th, his body cast into the frozen Angara River.</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_8">
+    <Text>Judgment of History</Text>
+</Row>
+<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_8">
+    <Text>Alexander Kolchak remains one of the most controversial figures in Russian history. To his supporters, he is a national hero who sought to preserve the unity of the motherland; to his critics, he represents a counter-revolutionary dictator and a relic of Tsarist oppression. As a naval commander and polar explorer, Kolchak demonstrated exceptional military acumen and fearless adventurous spirit. His contributions to the Black Sea Fleet cemented his place in Russian naval history, while his Arctic expeditions left valuable legacies in the fields of geography and navigation.[NEWLINE][NEWLINE]Although Kolchak’s anti-Bolshevik campaign achieved initial success in Siberia, he ultimately failed to establish effective control over the entire nation. Internal divisions within the White Army, economic mismanagement, and repression of the peasantry contributed to his downfall. During the Soviet era, Kolchak was officially denounced as a counter-revolutionary, and his legacy was largely condemned by state historians. However, after the dissolution of the Soviet Union, Russian society began to reassess the history of the Civil War, leading to a more nuanced and diverse view of Kolchak’s role. Regardless of one’s perspective, Kolchak remains an indelible part of Russia’s past, his name immortalized in monuments, films, and literary works.</Text>
+</Row>
+		<!--Diplo-->
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_DEFEATED">
+			<Text>It was treachery, not the monarchy, that led Russia to fall. If I also fall, would you tell my wife that I bless our son?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_FIRSTGREETING_1">
+			<Text>Greetings, I am Admiral Alexander Kolchak. That is all you need to know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_FIRSTGREETING_2">
+			<Text>The gates of hell are inviting, fellow leader. Welcome to the true man's Russia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_DOW_GENERIC">
+			<Text>Consider this the end of any agreement we've had with each other. This is war.</Text>
+		</Row>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA">
+			<Text>Russian State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SHORT">
+			<Text>Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_ADJ">
+			<Text>Russian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_DOM">
+    <Text>Salute to you, fearless Alexander Kolchak! Once an admiral of the empire, you led your fleet across the icy northern seas, fighting for the glory of the empire. In times of darkness and chaos, you stood tall, vowing to protect Russia from division and collapse. Amidst the storms of revolution and civil war, you bravely took the lead in the fight against the Bolsheviks, becoming the leader of the White Army, commanding the forces of the east, and striving to rebuild a nation of unity and order.[NEWLINE][NEWLINE]Yet fate is merciless, and the fires of war consumed all that you had painstakingly built. But your courage and loyalty shine brightly in history, inspiring future generations to move forward. O great Admiral, your people yearn for guidance in turmoil, and seek unity in division. Can you once again lead them to glory? Can you forge a civilization that stands the test of time?</Text>
+</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_1">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_2">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_3">
+			<Text>Perm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_4">
+			<Text>Irkutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_5">
+			<Text>Sterlitamak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_6">
+			<Text>Pavlodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_7">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_8">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_9">
+			<Text>Kustanay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_10">
+			<Text>Sarapul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_11">
+			<Text>Chita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_12">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_13">
+			<Text>Votkinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_14">
+			<Text>Izhevsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_15">
+			<Text>Kharkiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_16">
+			<Text>Buzuluk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_17">
+			<Text>Belebey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_18">
+			<Text>Verkneudinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_19">
+			<Text>Birsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_20">
+			<Text>Bugulma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_21">
+			<Text>Nikolayevsk-on-Amur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_22">
+			<Text>Kungur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_23">
+			<Text>Buguruslan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_24">
+			<Text>Bogdat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_25">
+			<Text>Homyaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_26">
+			<Text>Romanovka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_27">
+			<Text>Novonikolayevsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_28">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_29">
+			<Text>Yakutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_30">
+			<Text>Ussuriysk</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_1">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_2">
+			<Text>Pyotr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_3">
+			<Text>Anton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_4">
+			<Text>Anastasia</Text>
+			<Gender>female</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_5">
+			<Text>Nicholas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_6">
+			<Text>Anna</Text>
+			<Gender>female</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_7">
+			<Text>Elizaveta</Text>
+			<Gender>female</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_8">
+			<Text>Lavrenty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_9">
+			<Text>Dmitry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_10">
+			<Text>Oleg</Text>
+		</Row>
+		<!--Unit-->
+		<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY">
+			<Text>Markovite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY_HELP">
+			<Text>Replaces the Great War Infantry. Specialized for frigid blocks, but weaker attacking cities. Easier for Promotion than usual, and damages adjacent enemies upon earning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY_STRATEGY">
+			<Text>Markovite is frigid specialist infantry, best used in battle instead of attacking cities. Not only do they level up quickly, but their level ups deal damage!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY_PEDIA">
+			<Text>The Markovites were a faction of the White Guards during the Russian Civil War, named after General Sergey Markov, one of the prominent commanders of the anti-Bolshevik Volunteer Army. Known for their discipline, military effectiveness, and staunch monarchist views, the Markovites formed one of the elite divisions of the White forces. Their distinctive black-and-orange shoulder patches became a symbol of resilience and loyalty to the Tsarist cause. Despite their reputation for bravery, the Markovites were often criticized for harsh reprisals and brutal tactics during the conflict. After Markov’s death in 1918, the group continued to fight under his name, embodying the spirit of defiance against the Bolsheviks until the collapse of the White movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EW_MARKOVTSY">
+			<Text>Volunteering Spirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EW_MARKOVTSY_HELP">
+			<Text>Damages adjacent enemies upon earning a Promotion.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL">
+			<Text>Vokzal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL_HELP">
+			<Text>Replaces the Hotel. +2 [ICON_GOLD] Gold and +1 extra for each civilization to fight with during [ICON_WAR] War. Gold-generating Buildings grant equal amounts of [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL_STRATEGY">
+			<Text>The Vokzal finds its best use when you are at war and greater use if you're fighting many. Not only does it generate more gold per war, but the gold generated from buildings, including the Vokzal itself, is turned into Culture!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL_PEDIA">
+			<Text>A vokzal is a railway station in Russia, and along the Trans-Siberian Railroad, these stations serve as vital hubs connecting remote regions of the country. The term vokzal originates from the Russian adoption of the English "Vauxhall," a famous station in London, symbolizing the gateway to travel and commerce. Each major vokzal along the Trans-Siberian route, such as those in Moscow, Yekaterinburg, and Vladivostok, reflects the architectural and cultural character of the region it serves. These stations are more than just transit points; they are bustling centers of local life, commerce, and history, often adorned with Soviet-era grandeur or Tsarist elegance. As the lifeline of Siberia and the Russian Far East, vokzals play a crucial role in facilitating the movement of people and goods across the vast expanse of the world's longest railway.</Text>
+		</Row>
+	</Language_en_US>  
+	<Language_zh_Hant_HK>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK">
+			<Text>高爾察克</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_LEADER_ALEXANDER"></Where>
+			<Set Text="亞曆山大"></Set>
+		</Update>
+		<Row Tag="TXT_KEY_TRAIT_EW_KOLCHAK">
+    <Text>每當采取社會政策和意識形態時，如果已有盟友采取相同政策，則獲得相應的陸軍統帥點數。當陸軍統帥誕生時，立即獲得一次單位[ICON_PRODUCTION]產能加成。</Text>
+</Row>
+<Row Tag="TXT_KEY_TRAIT_EW_KOLCHAK_SHORT">
+    <Text>白軍戰線</Text>
+</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_LIVED">
+			<Text>1874-1920</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_SUBTITLE">
+			<Text>俄國領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TITLES_1">
+			<Text>最高領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_NAME">
+			<Text>亞曆山大·瓦西裏耶維奇·高爾察克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_1">
+			<Text>高爾察克是探索極地的冒險者，是俄羅斯帝國的戰鬥英雄、是最年輕的海軍統帥、當然最著名的還是作為反布爾什維克的白軍領袖。在數年的抵抗後，他最終於1920年兵敗伊爾庫茨克並被處死。如今，他的死亡已過百年，曾經不可一世的蘇維埃政權也早已成為曆史的塵埃，但對高爾察克的評價仍然是莫衷一是。他是從紅軍手中維護俄國的民族英雄，還是為苟延殘喘不惜投靠英日的叛徒？是毅然回國參戰的理想主義者，還是刀口舔血的投機分子？是罕見的軍事天才，還是政治上的巨嬰？無論如何，關於他這些問題仍然需要更多的時間才能水落石出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_2">
+			<Text>早年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_2">
+			<Text>亞曆山大·瓦西裏耶維奇·高爾察克於1874年11月16日出生在聖彼得堡的一個軍人家庭。他的父親瓦西裏是俄羅斯帝國海軍的將軍，這一背景使高爾察克從小便接受了嚴格的軍事教育，並對海軍生涯產生了濃厚興趣。1894年，高爾察克進入聖彼得堡海軍學院學習，並以優異的成績畢業。隨後，他加入了波羅的海艦隊，開始了自己的海軍軍官生涯。年輕的高爾察克表現出卓越的紀律性和戰術思維，很快在軍隊中嶄露頭角。日俄戰爭期間，他在太平洋艦隊服役，參與了旅順港的防禦戰，並因英勇表現獲得了聖喬治勳章。戰爭結束後，高爾察克繼續在海軍中服役，逐漸晉升至指揮官職位。他對新式海軍戰術和技術充滿興趣，並積極推動海軍現代化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_3">
+			<Text>極地探險</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_3">
+			<Text>1900年代初期，亞曆山大·高爾察克成為俄羅斯極地探險隊的重要成員，致力於北極地區的探索與研究。1900年至1903年間，他參與了著名的“圖雷姆斯”號北極探險，致力於繪製極地航線圖並考察新領土。在惡劣的環境下，高爾察克展現了卓越的耐力和領導力，被譽為“極地之狼”。[NEWLINE][NEWLINE]日俄戰爭後的1906年，他率領一支探險隊前往北冰洋，進一步探測喀拉海和新地島附近的冰川與島嶼。這次探險不僅為俄羅斯海軍提供了重要的航海資料，也使高爾察克成為當時著名的極地探險家之一。他的探險報告成為俄羅斯北方航線開發的重要參考，對未來的極地地理和氣候研究有著開創性的作用。高爾察克對極地的貢獻使他在科學界贏得了聲望。然而，他並未止步於學術領域，而是將探險精神帶回軍隊，繼續投身於海軍的建設與作戰中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_4">
+			<Text>一戰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_4">
+			<Text>隨著第一次世界大戰在1914年爆發，亞曆山大·高爾察克迅速投身到保衛俄羅斯帝國的戰鬥中。他被任命為黑海艦隊的參謀長，負責協調艦隊的作戰計劃和防禦策略。在這場史無前例的殘酷戰爭中，高爾察克展現了卓越的軍事才能和無畏的指揮風範。他指揮黑海艦隊多次打擊奧斯曼帝國的海上力量，有效切斷了敵方在黑海地區的補給線，並成功摧毀了諸多港口和海軍設施。[NEWLINE][NEWLINE]1916年，高爾察克晉升為海軍上將，成為曆史上最年輕黑海艦隊總司令。他積極推動艦隊現代化，引入新式戰艦和先進的魚雷技術，使黑海艦隊在戰爭後期保持了對奧斯曼帝國的戰略優勢。在他的指揮下，俄羅斯海軍在黑海戰場取得了諸多勝利，確保了俄羅斯南部邊境的安全。[NEWLINE][NEWLINE]然而，隨著戰事的持續，俄國內部的不滿情緒愈發高漲。1917年二月革命爆發後，高爾察克公開表達了對革命的不安和反對態度。他對俄國臨時政府在軍事上的軟弱感到失望，反對與德國媾和，主張繼續對德作戰以確保帝國的完整。隨著布爾什維克在十月革命中奪取政權，高爾察克的立場變得更加堅定，他認為新政權對俄羅斯的穩定與主權構成了嚴重威脅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_5">
+			<Text>成立白軍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_5">
+			<Text>十月革命後，布爾什維克迅速掌握了彼得格勒和莫斯科等核心地區的政權，然而，俄羅斯廣袤的疆域上反布爾什維克勢力逐漸集結。在這種背景下，亞曆山大·高爾察克成為“白軍”的關鍵領導人之一。他於1918年流亡到西伯利亞，在鄂木斯克參與反布爾什維克的軍事活動。1918年11月，高爾察克在鄂木斯克被推舉為俄羅斯反布爾什維克勢力的最高統帥，並宣布成立俄羅斯國臨時政府，自封為“俄羅斯國最高領袖”。白軍迅速擴展，控製了西伯利亞和遠東地區的大部分領土。高爾察克建立了軍事獨裁體製，以恢複秩序和打擊布爾什維克勢力。在西方各國，包括英國、日本的支持下，高爾察克對白軍進行了全麵整編，並發動了一係列攻勢，試圖從東部推進，重新奪回莫斯科。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_6">
+			<Text>節節敗退</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_6">
+			<Text>1919年春天，亞曆山大·高爾察克領導的白軍在西伯利亞和烏拉爾地區發起了一係列攻勢，一度向西挺進至喀山和伏爾加河流域，迫近布爾什維克的核心地帶。然而，白軍的勝利並未持續太久。在紅軍不斷壯大和反攻的壓力下，高爾察克的軍隊逐漸陷入被動。[NEWLINE][NEWLINE]白軍的內部矛盾和資源匱乏成為其最大弱點。高爾察克的軍事獨裁政策雖然在戰時保持了秩序，但也激化了地方軍閥和政治派別之間的矛盾，最終導致了高爾察克和同為白軍成員的鄧尼金之間爆發內訌。農民對白軍的強征政策和嚴酷統治感到不滿，頻繁爆發的農民起義削弱了白軍的補給線和後方穩定。同時，布爾什維克積極發動宣傳攻勢，將高爾察克描繪成沙俄殘餘勢力的代表，進一步動員群眾對抗白軍。[NEWLINE][NEWLINE]1919年秋，紅軍發起全麵反攻，在東線戰場上逐步收複失地。高爾察克的部隊在烏拉爾山區被擊潰，被迫開始大規模的戰略撤退。嚴寒和惡劣的自然環境使白軍士氣低落，隊伍渙散，補給線不斷縮短。到1919年底，高爾察克的勢力已退守到西伯利亞腹地，控製範圍迅速萎縮。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_7">
+			<Text>上將末路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_7">
+			<Text>1920年1月，隨著鄂木斯克的陷落，亞曆山大·高爾察克攜帶著價值數十億美元（相當於今天的1000億美元）的金銀資源撤退至伊爾庫茨克，但這些金銀在戰亂中遺失，至今未能找到。然而在高爾察克敗局已定後，當地的政治形勢已發生劇變，地方起義和布爾什維克勢力已逐漸占據主導地位。高爾察克試圖向外蒙古方向繼續撤退，但在途中遭到捷克斯洛伐克軍團的扣押。這支軍團曾是白軍的重要盟友，但在局勢逆轉之時，他們選擇與布爾什維克達成協議，將高爾察克移交給伊爾庫茨克的左派社會革命黨人，即孟什維克。[NEWLINE][NEWLINE]1920年2月，高爾察克在布爾什維克控製下接受了簡短而迅速的審判，被指控為“人民公敵”和反革命領袖。布爾什維克沒有給予高爾察克太多辯護的機會，他在2月7日被槍決於安加拉河畔，屍體被投入冰封的河水之中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_HEADING_8">
+			<Text>曆史評價</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_KOLCHAK_TEXT_8">
+			<Text>亞曆山大·高爾察克在俄羅斯曆史上的評價極具爭議。他被支持者視為保衛祖國統一的民族英雄，也被批評者稱為反革命獨裁者和沙俄殘餘勢力的代表。作為一名海軍將領和極地探險家，高爾察克展現了卓越的軍事才能和無畏的冒險精神。他在黑海艦隊的貢獻使他成為俄國海軍史上的重要人物，而他的極地探險成就也為地理學和航海領域留下了寶貴的財富。[NEWLINE][NEWLINE]高爾察克的反布爾什維克鬥爭雖然一度在西伯利亞取得勝利，但他未能實現對全國的有效統治。白軍的內部分裂、經濟政策的失敗以及對農民階層的壓迫，最終導致了他的失敗。在蘇聯時期，高爾察克被定性為反革命分子，官方曆史對他持否定態度。然而，隨著蘇聯解體後俄羅斯社會對內戰曆史的重新審視，高爾察克的形象逐漸得到了更為客觀和多元的評價。無論評價如何，高爾察克已成為俄國曆史中不可忽視的一部分，他的名字至今仍在紀念碑、電影和文學作品中存在。</Text>
+		</Row>
+		<!--Diplo-->
+		<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_DEFEATED">
+    <Text>使俄國陷入崩潰的，是背叛而非君主製。如果我也倒下，請告訴我的妻子，我在天國祝福我們的兒子。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_FIRSTGREETING_1">
+    <Text>問候，我是亞曆山大·瓦西裏耶維奇·高爾察克上將。這就是你需要知道的一切。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_FIRSTGREETING_2">
+    <Text>偉大的領袖！地獄之門向您敞開。歡迎來到真正屬於男人的俄國。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_EW_KOLCHAK_DOW_GENERIC">
+    <Text>就把這看作是我們之間所有協議的終結吧！這是戰爭。</Text>
+</Row>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA">
+			<Text>俄羅斯帝國(高爾察克)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SHORT">
+			<Text>俄羅斯帝國(高爾察克)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_ADJ">
+			<Text>俄羅斯帝國(高爾察克)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_DOM">
+			<Text>向您致敬，堅定而無畏的亞曆山大·瓦西裏耶維奇·高爾察克！您曾是帝國的海軍上將，率領艦隊馳騁冰冷的北方海域，為帝國的榮耀而戰。您在黑暗與混亂中挺身而出，誓言守護俄羅斯免於分裂與崩潰。麵對革命與內戰的狂風暴雨，您勇敢地站在反布爾什維克的最前線，成為白軍的領袖，統率東方的力量，試圖重建一個統一與秩序的國家。[NEWLINE][NEWLINE]然而，命運無情，戰火吞噬了您苦心經營的一切。但您的英勇與忠誠在曆史中熠熠生輝，激勵著後人不斷前行。偉大的海軍上將啊，您的人民在動蕩中期盼指引，在分裂中渴望統一。您能再次帶領他們走向輝煌嗎？您能建立起一個經受得住時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_1">
+    <Text>鄂木斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_2">
+    <Text>烏法</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_3">
+    <Text>彼爾姆</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_4">
+    <Text>伊爾庫茨克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_5">
+    <Text>斯捷爾利塔馬克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_6">
+    <Text>帕夫洛達爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_7">
+    <Text>哈巴羅夫斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_8">
+    <Text>切利亞賓斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_9">
+    <Text>庫斯塔奈</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_10">
+    <Text>薩拉普爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_11">
+    <Text>赤塔</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_12">
+    <Text>符拉迪沃斯托克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_13">
+    <Text>沃特金斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_14">
+    <Text>伊熱夫斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_15">
+    <Text>哈爾科夫</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_16">
+    <Text>布祖盧克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_17">
+    <Text>貝列別伊</Text>
+</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_18">
+    <Text>上烏金斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_19">
+    <Text>比爾斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_20">
+    <Text>布古利馬</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_21">
+    <Text>尼古拉耶夫斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_22">
+    <Text>昆古爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_23">
+    <Text>布古魯斯蘭</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_24">
+    <Text>博格達特</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_25">
+    <Text>霍米亞基</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_26">
+    <Text>羅曼諾夫卡</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_27">
+    <Text>新尼古拉耶夫斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_28">
+    <Text>克拉斯諾亞爾斯克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_29">
+    <Text>雅庫茨克</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_CITY_30">
+    <Text>烏蘇裏斯克</Text>
+</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_1">
+    <Text>米哈伊爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_2">
+    <Text>彼得</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_3">
+    <Text>安東</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_4">
+    <Text>阿納斯塔西婭</Text>
+    <Gender>female</Gender>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_5">
+    <Text>尼古拉</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_6">
+    <Text>安娜</Text>
+    <Gender>female</Gender>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_7">
+    <Text>伊麗莎維塔</Text>
+    <Gender>female</Gender>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_8">
+    <Text>拉夫連季</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_9">
+    <Text>德米特裏</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILIZATION_EW_RUSSIA_SPY_10">
+    <Text>奧列格</Text>
+</Row>
+		<!--Unit-->
+		<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY">
+			<Text>馬爾科夫軍團</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY_HELP">
+    <Text>取代早期近代步兵。擅長在嚴寒地區作戰，但攻擊城市時較弱。比通常單位更容易獲得晉升，並在晉升時對相鄰敵人造成傷害。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY_STRATEGY">
+    <Text>馬爾科夫軍團是嚴寒地區的專業步兵，適合用於戰鬥而非攻城。他們不僅升級迅速，每次升級還會對周圍敵人造成傷害！</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_EW_MARKOVTSY_PEDIA">
+    <Text>馬爾科夫軍團是俄國內戰期間白軍的一支部隊，以反布爾什維克誌願軍的著名指揮官謝爾蓋·馬爾科夫將軍命名。馬爾科夫軍團以其嚴明的紀律、卓越的軍事能力和堅定的君主主義立場著稱，是白軍中精銳部隊之一。他們獨特的黑橙相間肩章成為了忠於沙皇事業的象征。盡管馬爾科夫軍團因其勇敢聞名，但他們在戰爭期間的嚴厲報複和殘酷戰術也飽受批評。1918年馬爾科夫將軍去世後，該部隊繼續以他的名字作戰，體現了對白軍事業的堅定不移，直至白軍運動的全麵崩潰。</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_EW_MARKOVTSY">
+    <Text>誌願精神</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_EW_MARKOVTSY_HELP">
+    <Text>在晉升時對相鄰敵人造成傷害。</Text>
+</Row>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL">
+    <Text>白俄車站</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL_HELP">
+    <Text>取代酒店。提供+2[ICON_GOLD]金幣，並在與每個文明交戰期間額外獲得+1[ICON_GOLD]金幣。所有產生金幣的建築同等提供[ICON_CULTURE]文化。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL_STRATEGY">
+    <Text>白俄車站在戰爭期間最為有用，尤其是與多個文明交戰時效果更佳。它不僅在戰爭期間產生額外金幣，而且包括火車站本身在內的所有金幣建築都會將金幣轉化為文化！</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_EW_VOKZAL_PEDIA">
+    <Text>火車站 (Vokzal) 是俄羅斯的鐵路車站，沿著西伯利亞大鐵路，這些車站作為重要的樞紐連接著該國的偏遠地區。術語“Vokzal”來源於俄語對英文“Vauxhall”的借用，最初指倫敦著名的車站，象征著通往旅行和貿易的門戶。沿著西伯利亞鐵路的每個主要火車站，如莫斯科、葉卡捷琳堡和符拉迪沃斯托克的車站，都反映了其所服務地區的建築和文化特色。這些車站不僅是交通中轉點，更是當地生活、商業和曆史的繁華中心，常常裝飾著蘇聯時期的宏偉風格或沙皇時代的優雅風貌。作為西伯利亞和俄羅斯遠東地區的生命線，火車站在促進世界最長鐵路沿線的人員和貨物流動方麵發揮著關鍵作用。</Text>
+</Row>
+	</Language_zh_Hant_HK>
+</GameData>
