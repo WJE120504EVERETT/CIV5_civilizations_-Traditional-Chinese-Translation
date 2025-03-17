@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9f9c8729-20f2-4f62-a258-fa96608b458c" version="1">
+  <Properties>
+    <Name>TopHat's Aztec (Tlacaelel)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Aztec Empire, led by Tlacaelel, to the game as a custom civilization. Requires Brave New World.</Teaser>
+    <Description>Adds the Aztec Empire, led by Tlacaelel, to the game as a custom civilization. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>Urdnot, Zharques, Alga, TarcisioCM</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="017A3F19866FEB70EC82D9128EBB3A36" import="1">Art/Map_Tlacaelel.dds</File>
+    <File md5="C9A571E7DD67317063AB77DE25AFCB28" import="1">Art/sv_eagle_warrior.dds</File>
+    <File md5="766061E017D3A6B2806ED12A6F72D97A" import="1">Art/THP_AztecAlpha128.dds</File>
+    <File md5="C3607A37E7E1863E615AECFCC6AE2122" import="1">Art/THP_AztecAlpha16.dds</File>
+    <File md5="0401D3AD96A9BEF8D06118035B95F9CB" import="1">Art/THP_AztecAlpha24.dds</File>
+    <File md5="0E50BA7D2D5E87FCC4E3ABA71D0A963E" import="1">Art/THP_AztecAlpha32.dds</File>
+    <File md5="97992EDADB1F48154EEAD627D84324EF" import="1">Art/THP_AztecAlpha48.dds</File>
+    <File md5="9A3A72062476CDACBF1064400D7B3405" import="1">Art/THP_AztecAlpha64.dds</File>
+    <File md5="341303A44410D547ADD4021E8D58C728" import="1">Art/THP_AztecAtlas128.dds</File>
+    <File md5="B8BC756DDC28AEE569F4D87ED5AB004E" import="1">Art/THP_AztecAtlas256.dds</File>
+    <File md5="7FD864A33A6E0A6CE8D2694B00E3D96A" import="1">Art/THP_AztecAtlas32.dds</File>
+    <File md5="1EB3E4D1D541804912964F81EB10305E" import="1">Art/THP_AztecAtlas45.dds</File>
+    <File md5="5BDDC2E3D9FA595F503C32697A551995" import="1">Art/THP_AztecAtlas64.dds</File>
+    <File md5="AE8F8E503DB5C9BEAFA045744C4F0438" import="1">Art/THP_AztecAtlas80.dds</File>
+    <File md5="E800CB893C5E18E5B8C4C4776C9486DC" import="1">Art/Tlacaelel_DOM.dds</File>
+    <File md5="F6E1153DFBB44DDED49637579248A9E7" import="1">Art/Tlacaelel_scene.dds</File>
+    <File md5="5EDC09DA4ED74B338DF1A4A213C20531" import="1">Art/UnitModel/Pikeman_Aztec.blend</File>
+    <File md5="3EE647487CF8A0B2A76ACA7AE07E1958" import="1">Art/UnitModel/Pikeman_Aztec.dds</File>
+    <File md5="7856500391862A8372F79B871C6790F1" import="1">Art/UnitModel/Pikeman_Aztec.fxsxml</File>
+    <File md5="22C12B0DA33CB1566F9AD8ECE5041E68" import="1">Art/UnitModel/Pikeman_Aztec.gr2</File>
+    <File md5="264DB95B51EE95A4E2D6DEECCCF3FC4E" import="1">Art/UnitModel/Pikeman_Aztec_gloss.dds</File>
+    <File md5="C27236AF33E996CAD1F15A82D443A401" import="1">Art/Unit_EagleWarrior_Flag_32.dds</File>
+    <File md5="9ACDB0787D1FECAA3838D8DBA05E2FE8" import="1">Audio/Aztec_Peace.mp3</File>
+    <File md5="DDBBEF60F73683D16AB8441C80FA1ED7" import="1">Audio/Aztec_War.mp3</File>
+    <File md5="49226AB16B6BA5FE726B553E1E9D334A" import="0">Core/DiploText.xml</File>
+    <File md5="7F22653D9FF89A2ECE2A60EF248B8CE8" import="0">Core/GameText.xml</File>
+    <File md5="03FFE2A238009252842A9D42749B507F" import="1">Core/Leaderhead_Tlacaelel.xml</File>
+    <File md5="082CE6A48BFAFE7AA0BDB38DF237021D" import="0">Core/ModSupport_Tlacaelel.sql</File>
+    <File md5="B251D63011954EF2F48F319BCBF0646C" import="0">Core/Tlacaelel_ArtDef.sql</File>
+    <File md5="21CA58EDF6908C73F038916CA9203AA1" import="0">Core/Tlacaelel_GameDef.sql</File>
+    <File md5="FD21AA1BB9140071EAF289ED8A12E2A7" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="D2D0CDBE39EDF8FA99082308E5D39421" import="1">Lua/PlotIterators.lua</File>
+    <File md5="B51D070E3A19D229A7FDCEC0CC1E9B3A" import="0">Lua/Tlacaelel_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Tlacaelel.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tlacaelel_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tlacaelel_ArtDef.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Tlacaelel_Functions.lua">
+      <Name>TophatTlacaelelFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

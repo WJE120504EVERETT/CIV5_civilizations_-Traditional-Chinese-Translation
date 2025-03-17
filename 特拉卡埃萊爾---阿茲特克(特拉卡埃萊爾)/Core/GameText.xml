@@ -1,0 +1,409 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <!--N/A (reuses vanilla city list)-->
+        <!--Tlacaelel was literally a contemporary of Montezuma I so i think i can get away with this :b -->
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_0">
+            <Text>Tenoch</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_1">
+            <Text>Axayacatl</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_2">
+            <Text>Quetzalxochitl</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_3">
+            <Text>Coaxoch</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_4">
+            <Text>Cuauhtototzin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_5">
+            <Text>Chalchiuhnenetzin</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_6">
+            <Text>Acamapichtli</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_7">
+            <Text>Tezozomoc</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_8">
+            <Text>Moquihuix</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_9">
+            <Text>Atotoztli</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL">
+            <Text>Tlacaelel</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_AZTEC_ADJECTIVE">
+            <Text>Aztec</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_AZTEC_DESC">
+            <Text>Aztec Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_AZTEC_SHORT_DESC">
+            <Text>The Aztec</Text>
+            <Plurality>2</Plurality>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_NAME">
+            <Text>Tlacaelel</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_SUBTITLE">
+            <Text>Leader of the Aztec</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TITLES_1">
+            <Text>Tlacochcalcatl of Tenochtitlan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TITLES_2">
+            <Text>Cihuacoatl</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_LIVED">
+            <Text>1397 - 1487 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_1">
+            <Text>Overview</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_1">
+            <Text>Tlacaelel was the creator of the the Aztec Triple Alliance and the Aztec Empire. He was the son of Emperor Huitzilihuitl and Queen Cacamacihuatl, nephew of Emperor Itzcoatl, father of poet Macuilxochitzin, and brother of Emperors Chimalpopoca and Moctezuma I. Tlacaelel was born in 1397.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_2">
+            <Text>Family Politics</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_2">
+            <Text>After emperor Huitzilihuitl's death, Tlacaelel’s brother Chimalpopoca was ruler for ten years until his assassination. During his reign, Tlacaelel and his brother led an opposition group of young nobles.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_3">
+            <Text>Reign of Itzcoatl</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_3">
+            <Text>During the reign of his uncle Itzcoatl, Tlacaelel was given the office of Tlacochcalcatl, but during the war against the Tepanecs in the late 1420s, he was promoted to first adviser to the ruler, a position called Cihuacoatl in Nahuatl, that is roughly equivalent to a position of prime minister. Tlacaelel held this office during the reigns of four consecutive Tlatoque, until his death in 1487.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_4">
+            <Text>The Chosen People</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_4">
+            <Text>Tlacaelel recast or strengthened the concept of the Aztecs as a chosen people, elevated the tribal god and hero Huitzilopochtli to top of the pantheon of gods, and increased militarism. In tandem with this, Tlacaelel is said to have increased the level and prevalence of human sacrifice.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_5">
+            <Text>Flower Wars</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_5">
+            <Text>After the famine ravaged through Aztec agricultural resources, a series of conflicts, known as the Flower War, involved the Triple Alliance, and the city-states of Huejotzingo, Tlaxcala, Cholula, in the Tlaxcala-Pueblan Valley of Central Mexico. Believing the famine to have occurred due to their gods' anger, Moctezuma supported the order for an increase of human sacrifices to please them. Flower wars involved fewer soldiers than typical Aztec wars did. These characteristics allowed the Aztecs to engage in flower wars during any time of the year. In contrast, the Aztecs could fight larger wars of conquest only from late autumn to early spring, because Aztec citizens were needed for farming purposes during the rest of the year.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_6">
+            <Text>Erasing the Past</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_6">
+            <Text>To strengthen the Aztec nobility, he helped create and enforce sumptuary laws, prohibiting commoners from wearing certain adornments such as lip plugs, gold armbands, and cotton cloaks. He also instigated a policy of burning the books of conquered peoples with the aim of erasing all memories of a pre-Aztec past.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_7">
+            <Text>Death</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_7">
+            <Text>When he dedicated the seventh reconstruction of the Templo Mayor in Tenochtitlan, Tlacaelel had brought his nation to the height of its power. The dedication took place in 1484 and was celebrated with the sacrifice of many war captives. Tlacaelel died in 1487.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_AZTEC_TEXT">
+            <Text>Blessings of Huitzilopochtli be upon you, Tlacaelel, Cihuacoatl of Tenochtitlan and architect of the Triple Alliance. son of Emperor Huitzilihuitl and Queen Cacamacihuatl, nephew of Emperor Itzcoatl, and brother to Montezuma I, you served in the Aztec military until you were promoted to the position of Cihuacoatl, which you held for the reign of four successive emperors. You were the one to cast the Aztecs as the chosen people, you elevated Huitzilopochtli to the highest echelon of the gods, and you increased militarism and human sacrifice in the empire, beginning the concept of flower wars. These flower wars helped expand the power of the Aztec Empire. It was, however, your most important achievement, the formation of the Triple Alliance along with your brother Montezuma that allowed you to accomplish this. [NEWLINE][NEWLINE]Deft Tlacaelel, your reformative spirit and deft political navigation is needed once more. You have now been called to rule in your own right, a prospect which will require all your skill and political dexterity to accomplish. You must once again face the prospect of forging an empire, of hardening the Aztec people for war. Will you reform the Aztec Triple Alliance once more? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_AZTEC_SHORT">
+            <Text>Flower Wars</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_MONTEZUMA_SHORT">
+            <Text>Laws of the Huey Tlatoani</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_MONTEZUMA">
+            <Text>When a [ICON_GREAT_PEOPLE] Great Person is born in a city, that city gains a permanent [ICON_PEACE] Faith boost if it is a cultural Great Person, and a permanent [ICON_PRODUCTION] Production boost if not.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_JAGUAR_WARRIOR">
+            <Text>Jaguar Warrior</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR">
+            <Text>Eagle Warrior</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR_HELP">
+            <Text>Medieval Era front-line unit. Only Tlacaelel's Aztec may build it. Stronger when beginning its turn near a unit with less than half of its health remaining.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR_STRATEGY">
+            <Text>The Eagle Warrior is a useful unit for decisively taking out enemy units. Use their strength when near a weakened foe to earn a lot of kills with your Eagle Warriors, thus allowing you to trigger Tlacaelel's unique trait as much as possible.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR_TEXT">
+            <Text>Eagle warriors, also known as eagle knights or their Nahuatl cuauhtli were a special class of infantry soldier in the Aztec army and one of the two leading military special forces orders in Aztec society, the other being the Jaguar warriors. These military orders were made up of the bravest soldiers of noble birth and those who had taken the greatest number of prisoners in battle. The life of Aztec warriors was one of constant battle, as the primary purpose for this continual warfare was to take prisoners to be sacrificed to their gods. The eagles were soldiers of the Sun, for the eagle was the symbol of the Sun. Eagle warriors dressed like eagles, adorning themselves with eagle feathers, and wearing headgear with an eagle head on it. Eagle and jaguar warriors were two of the only types of warriors who were recognized as having a full-time professional capacity. The warriors used a number of weapons, including an atlatl, spears and daggers. The Aztec blades were made by setting obsidian within wood. The Eagle Warrior Temple is located in Malinalco, Mexico. The temple sits upon a hill and is completely carved out of bedrock. The Temple was situated next to the ruler's palace, serving as a headquarters for the Eagle Warriors and a place to plan combat strategies.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI">
+            <Text>Teocalli</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI_HELP">
+            <Text>Unique replacement for the Temple. Only Tlacaelel's Aztec may build it. In addition to the normal Temple benefits, the Teocalli grants newly trained units in its city 3 XP for every Social Policy branch opened or completed.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI_STRATEGY">
+            <Text>The Teocalli allows you to get more experience for your newly trained units, ensuring that they are as competent as killing as possible. This creates a tight loop with Tlacaelel's unique trait - the more kills you achieve, the more culture you get, which will allow you to collect Social Policies and strengthen the Teocalli.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI_TEXT">
+            <Text>Teocalli, meaning literally god-house in the Aztec language Nahuatl, was a terraced pyramid surmounted by a temple. Important religious rituals took place in the temple at the top of the pyramid. The most famous of the Teocalli was Huey Teocalli, or the Great god-house, which was was located next to what is now Mexico City's main square. It was a double pyramid with two temples on top. One was dedicated to Huitzilopochtli, the other Tlaloc. The Aztecs would often adopt gods from different cultures and allow them to be worshiped as part of their pantheon.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_EAGLE_BASE">
+            <Text>Cuauhtli Strength</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_EAGLE_BASE_HELP">
+            <Text>Stronger if beginning its turn near a weakened enemy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_EAGLE_STRENGTH_HELP">
+            <Text>Has +20% Combat Strength, due to starting its turn near a weakened enemy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_AZTEC_GREAT_PERSON">
+            <Text>Cuauhchique</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_AZTEC_GREAT_PERSON_HELP">
+            <Text>This Great Person, born to Montezuma, has given a permanent yield bonus to its city of origin.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_AZTEC_XP">
+            <Text>Teocalli XP Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MONTY_FAITH">
+            <Text>Montezuma Faith Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MONTY_PROD">
+            <Text>Montezuma Prod Dummy</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_AZTEC_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now drinking your xocolatl and eating your tacos. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_AZTEC_NAME">
+            <Text>TopHat's Aztec (Tlacaelel)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_AZTEC_ID">
+            <Text>9f9c8729-20f2-4f62-a258-fa96608b458c</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_AZTEC_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_VICTORY_HEADER">
+            <Text>The Eagle Has Landed</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Tlacaelel's Aztec.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_SPECIAL_HEADER">
+            <Text>Flower Power</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_SPECIAL_TEXT">
+            <Text>As Tlacaelel's Aztecs, gain the maximum XP bonus (30 XP) from training a unit in a city with a Teocalli.</Text>
+        </Row>
+    </Language_en_US>
+    <Language_zh_Hant_HK>
+        <!--Cities-->
+        <!--N/A (reuses vanilla city list)-->
+        <!--Tlacaelel was literally a contemporary of Montezuma I so i think i can get away with this :b -->
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_0">
+            <Text>特諾奇</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_1">
+            <Text>阿沙亞卡特爾</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_2">
+            <Text>克察爾赫齊特爾</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_3">
+            <Text>科阿赫齊</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_4">
+            <Text>誇烏托托欽</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_5">
+            <Text>查爾丘內內欽</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_6">
+            <Text>阿卡馬皮齊特利</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_7">
+            <Text>特佐佐莫克</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_8">
+            <Text>莫奎維斯</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_AZTEC_9">
+            <Text>阿托托茲特利</Text>
+            <Gender>feminine</Gender>
+        </Row>
+
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL">
+            <Text>特拉卡埃萊爾</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_AZTEC_ADJECTIVE">
+            <Text>阿茲特克(特拉卡埃萊爾)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_AZTEC_DESC">
+            <Text>阿茲特克(特拉卡埃萊爾)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_AZTEC_SHORT_DESC">
+            <Text>阿茲特克(特拉卡埃萊爾)</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_NAME">
+            <Text>特拉卡埃萊爾</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_SUBTITLE">
+            <Text>阿茲特克領袖</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TITLES_1">
+            <Text>第1任西瓦克瓦特爾</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_LIVED">
+            <Text>1397-1487</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_1">
+            <Text>總覽</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_1">
+            <Text>特拉卡埃萊爾，生於1397年，是阿茲特克三國聯盟和阿茲特克帝國的鑄造者。他是維齊利維特爾皇帝和卡卡馬西瓦特爾皇後的兒子，伊斯科阿特爾皇帝的侄子，以及奇馬爾波波卡和蒙特祖瑪兩位皇帝的兄弟。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_2">
+            <Text>家族政治</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_2">
+            <Text>在維齊利維特爾皇帝死後，特拉卡埃萊爾的哥哥奇馬爾波波卡統治了10年，直到他被暗殺。在他的統治期間，特拉卡埃萊爾和他的兄弟們領導著一群年輕的貴族進行反對。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_3">
+            <Text>伊斯科阿特爾時期</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_3">
+            <Text>在他的叔叔伊斯科阿特爾統治期間，特拉卡埃萊爾被授予特拉科奇卡卡特爾的職務，但在1420年代末對特帕內克人的戰爭中，他被提升為統治者的第一顧問，這個職位在納瓦特爾語中稱為西瓦克瓦特爾，大致相當於首相的職位。他在連續四個國王的統治期間都擔任這一職務，直到90歲時去世為止。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_4">
+            <Text>天選之子</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_4">
+            <Text>特拉卡埃萊爾重新塑造或加強了阿茲特克人作為被選中的民族的概念，將部落之神和英雄惠特齊羅波奇特利提升到萬神殿的頂端，並加強了軍國主義。與此同時，據說特拉卡埃萊爾還提高了人祭的水平和普遍性。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_5">
+            <Text>鮮花戰爭</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_5">
+            <Text>在饑荒蹂躪了阿茲特克人的農業資源之後，一係列的衝突，即所謂的鮮花戰爭，涉及到三國聯盟，以及墨西哥中部的特拉斯卡拉-普埃布蘭山穀的一係列城邦。莫克特蘇馬認為饑荒的發生是由於他們的神靈的憤怒，因此支持增加人祭以取悅他們的命令。與典型的阿茲特克人戰爭相比，鮮花戰爭涉及的士兵更少。這些特點使阿茲特克人可以在一年中的任何時候進行鮮花戰爭。相反，阿茲特克人隻能在深秋到初春時節進行較大規模的征服戰爭，因為在一年的其他時間裏，阿茲特克人的公民需要用於農業生產。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_6">
+            <Text>同化政策</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_6">
+            <Text>為了加強阿茲特克的貴族地位，他幫助製定並實施了財稅法，禁止平民佩戴某些裝飾品，如唇塞、金臂章和棉質鬥篷。他還頒布了一項政策，焚燒被征服民族的書籍，目的是消除對前阿茲特克時代的所有記憶。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_HEADING_7">
+            <Text>逝世</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_PEDIA_TEXT_7">
+            <Text>當他為特諾奇蒂特蘭的大神廟第七次重建獻禮時，特拉卡埃萊爾將他的國家帶到了權力的頂峰。獻祭儀式於1484年舉行，並以許多戰爭俘虜的犧牲作為慶祝。特拉凱萊爾於1487年去世。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_AZTEC_TEXT">
+            <Text>祝福你，特拉卡埃萊爾，特諾奇蒂特蘭的西瓦克瓦特爾和三國聯盟的設計師。你是蒙特祖瑪的兄弟，在阿茲特克軍隊中任職，直到你被提升到大丞相的位置，你在連續四個皇帝的統治期間都擔任這個職位。你是將阿茲特克人視為天選之民的人，你將維齊洛波奇特利提升為最高級別的神，你在帝國中增加了軍國主義和人的犧牲，開始了鮮花戰爭的概念。這些鮮花戰爭有助於擴大阿茲特克帝國的權力。然而，是你最重要的成就，即與你的兄弟蒙特祖瑪一起組成三國聯盟，使你得以實現這一目標。[NEWLINE][NEWLINE]聰明的特拉卡埃萊爾，我們再次需要你的改革精神和巧妙的政治導航。你現在被要求以你自己的權利進行統治，這需要你所有的技能和政治靈活性來完成的前景。你必須再次麵對建立一個帝國的前景，使阿茲特克人適應戰爭。你會再次改革阿茲特克三國聯盟嗎？你能建立一個經得起時間考驗的文明嗎？</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_AZTEC_SHORT">
+            <Text>血染鮮花</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_MONTEZUMA_SHORT">
+            <Text>神君聖法</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_MONTEZUMA">
+            <Text>當[ICON_GREAT_PEOPLE]偉人在一個城市出現時，如果是文化偉人，該城市會獲得永久的[ICON_PEACE]信仰加成，如果不是，則獲得永久的[ICON_PRODUCTION]產能加成。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_JAGUAR_WARRIOR">
+            <Text>美洲虎戰士</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR">
+            <Text>雄鷹戰士</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR_HELP">
+            <Text>中古時代的前線單位。隻有特拉卡埃萊爾的阿茲特克人可以建造它。若它鄰近的單位HP小於一半，則增加[ICON_STRENGTH]戰鬥力。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR_STRATEGY">
+            <Text>雄鷹戰士是一個有用的單位，擅長果斷地消滅敵人。在靠近被削弱的敵人時，利用他們的力量大量殺戮，從而讓你盡可能多地觸發特拉卡埃萊爾的獨特特性。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_EAGLE_WARRIOR_TEXT">
+            <Text>鷹戰士，在納瓦特爾語中也被稱為cuauhtli，是阿茲特克軍隊中一個傑出的步兵階層。他們是阿茲特克社會中兩個主要的軍事特種部隊之一，與美洲獅戰士並列。這些軍團由最勇敢的貴族出身的士兵和那些在戰鬥中俘虜最多的人組成。阿茲特克戰士的生活圍繞著不斷的戰爭而展開，主要目的是抓捕俘虜以獻給他們的神靈。作為太陽的象征，鷹戰士代表太陽的士兵。鷹戰士打扮成鷹的樣子，用鷹的羽毛裝飾，戴著以鷹頭為特色的頭飾。鷹戰士和美洲豹戰士是少數被公認為全職的專業人員之一。他們使用各種武器，如阿特拉特、長矛和匕首，其中阿茲特克人的刀片是將黑曜石嵌入木材製成的。鷹戰士神廟位於墨西哥的馬裏納科，在一座山頂上，完全由基岩雕刻而成。該寺廟與統治者的宮殿相鄰，作為鷹戰士的總部和戰鬥的戰略規劃中心發揮作用。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI">
+            <Text>阿茲特克神廟</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI_HELP">
+            <Text>替代神廟。隻有特拉卡埃萊爾可以建造它。除了正常的神廟加成外，每開設或完成一個社會政策分支，阿茲特克神廟都會給予其城市中新訓練的單位3點XP。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI_STRATEGY">
+            <Text>Teocalli允許你為你新訓練的部隊獲得更多的經驗，確保他們盡可能的有能力殺人。這與特拉凱萊爾的獨特特性形成了一個緊密的循環——你實現的殺戮越多，你得到的[ICON_CULTURE]文化就越多，這將使你能夠收集社會政策並加強阿茲特克神廟。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_TEOCALLI_TEXT">
+            <Text>Teocalli在納瓦特語中的意思是“神屋”，是一座梯形金字塔，上麵有一座神廟。重要的宗教儀式在金字塔頂端的神廟中舉行。Teocalli中最著名的是大神殿，位於現在墨西哥城主廣場的旁邊。它是一個雙金字塔，上麵有兩個神廟。一座供奉的是維齊洛波特奇利，另一座是特拉洛克。阿茲特克人經常采用不同文化中的神，並允許他們作為其萬神殿的一部分進行崇拜。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_EAGLE_BASE">
+            <Text>雄鷹之力</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_EAGLE_BASE_HELP">
+            <Text>如果在回合開始時靠近虛弱的敵人則更強大</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_EAGLE_STRENGTH_HELP">
+            <Text>由於在回合開始時靠近虛弱的敵人，戰鬥強度增加20%</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_AZTEC_GREAT_PERSON">
+            <Text>庫瓦奇克</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_AZTEC_GREAT_PERSON_HELP">
+            <Text>這位偉人出生於蒙特祖瑪，為其起源城市提供了永久的產出加成。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_AZTEC_XP">
+            <Text>特奧卡利--經驗值</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MONTY_FAITH">
+            <Text>蒙特祖瑪--信仰</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MONTY_PROD">
+            <Text>蒙特祖瑪--生產力</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_AZTEC_INFLUENTIAL_ON_AI_1">
+            <Text>我們的人民現在正在喝你們的可可飲料，吃你們的玉米餅。我擔心世界其他地方也會屈服於你們文化的影響。</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_AZTEC_NAME">
+            <Text>TopHat's Aztec (Tlacaelel)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_AZTEC_ID">
+            <Text>9f9c8729-20f2-4f62-a258-fa96608b458c</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_AZTEC_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_VICTORY_HEADER">
+            <Text>The Eagle Has Landed</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Tlacaelel's Aztec.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_SPECIAL_HEADER">
+            <Text>Flower Power</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_AZTEC_SPECIAL_TEXT">
+            <Text>As Tlacaelel's Aztecs, gain the maximum XP bonus (30 XP) from training a unit in a city with a Teocalli.</Text>
+        </Row>
+    </Language_zh_Hant_HK>
+</GameData>

@@ -1,0 +1,156 @@
+<GameData>
+    <Language_en_US>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_FIRSTGREETING_1">
+            <Text>I don't recognize your face. Are you a foreign diplomat, or are you here to end your days on my altar?</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DEFEATED_1">
+            <Text>And now it ends. I look forward to meeting Huitzilopochtli for myself.</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_ATTACKED_GENERIC_1">
+            <Text>Ah, is it time for war already? I'll marshal the troops, then.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DEC_FRIENDSHIP_1">
+            <Text>A public Declaration of Friendship would be in our mutual interest, I believe.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DENOUNCE_1">
+            <Text>Your wretched empire is known for naught but blasphemy. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DOW_GENERIC_1">
+            <Text>The altars are dry. My flower wars must begin again.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_EXPANSION_SERIOUS_WARNING_1">
+            <Text>You've claimed quite a lot of land! It all looks very tempting to capture.</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_AT_WAR_HOSTILE_1">
+            <Text>What did you need? I was in the middle of a ritual.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_POLITE_HELLO_1">
+            <Text>A pleasure to see you! Let us celebrate this occasion with a sacrifice.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_NEUTRAL_HELLO_1">
+            <Text>Welcome back to the mighty halls of the Aztec empire!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_HOSTILE_HELLO_1">
+            <Text>Bold of you to come before my altar. Surely know what happens to people like you in this room?</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>Those are some fine-looking soldiers you've trained! Huitzilopochtli would be quite pleased to have their blood.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_LETS_HEAR_IT_1">
+            <Text>Tell me, then.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_LOSEWAR_1">
+            <Text>I will not mourn what I have lost; the men who died under my command enjoyed an honorable death, and are now with Huitzilopochtli.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_LUXURY_TRADE_1">
+            <Text>Your luxuries intrigue me. Let us trade, carefully and precisely, such that our riches go only to those who deserve them.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_NO_PEACE_1">
+            <Text>This is no mere flower war; I cannot rest until you are annihilated.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_OPEN_BORDERS_EXCHANGE">
+            <Text>What say you to an Open Borders agreement? My men are interested in learning how their allies live.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_REPEAT_NO_1">
+            <Text>You shall not change my mind.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_RESPONSE_REQUEST_1">
+            <Text>Normally I turn to Huitzilopochtli to help me in times of crisis, but the situation has deteriorated enough that I must request earthly aid as well.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>Such disrespect! I would be pleased to see your head on my skull rack.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_TOO_SOON_NO_PEACE_1">
+            <Text>The gods are not yet satisfied.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_WINWAR_1">
+            <Text>This war has been a great success; much blood has been shed in Huitzilopochtli's name. I hope you have found it equally fruitful.</Text>
+        </Row>
+    </Language_en_US>
+	<Language_zh_Hant_HK>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_FIRSTGREETING_1">
+            <Text>我不認識你的臉！你是外國外交官，還是來我的祭壇結束生命的？</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DEFEATED_1">
+            <Text>現在一切結束了,我期待親自去見胡伊茨洛波奇特利...</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_ATTACKED_GENERIC_1">
+            <Text>啊，戰爭已經開始了？那我就召集軍隊吧。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DEC_FRIENDSHIP_1">
+            <Text>我相信，公開宣布結盟對我們雙方都有利。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DENOUNCE_1">
+            <Text>你們那可悲的帝國除了褻瀆神明外一無是處。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們已經公開譴責我們！注意：你並未處於戰爭狀態。[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_DOW_GENERIC_1">
+            <Text>祭壇已經乾涸。我的花之戰爭必須再次開始。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_EXPANSION_SERIOUS_WARNING_1">
+            <Text>你已經占領了相當多的土地！它們看起來都十分誘人，值得去奪取。</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_AT_WAR_HOSTILE_1">
+            <Text>你有什麼事？我正在舉行儀式。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_POLITE_HELLO_1">
+            <Text>很高興見到你！讓我們用一場獻祭來慶祝這個場合吧。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_NEUTRAL_HELLO_1">
+            <Text>歡迎回到阿茲特克帝國宏偉的大廳！</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_GREETING_HOSTILE_HELLO_1">
+            <Text>你膽子很大，敢來到我的祭壇前。你肯定知道像你這樣的人在這個房間裏會發生什麼吧？</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>你訓練的士兵看起來相當不錯！胡伊茨洛波奇特利會很樂意看到他們的鮮血。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_LETS_HEAR_IT_1">
+            <Text>說吧。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_LOSEWAR_1">
+            <Text>我不會為失去的東西而悲傷；在我指揮下死去的人享受了光榮的死亡，現在他們與胡伊茨洛波奇特利同在。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_LUXURY_TRADE_1">
+            <Text>你的奢侈品引起了我的興趣。讓我們謹慎而精確地進行貿易，確保我們的財富隻流向那些值得擁有它們的人。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_NO_PEACE_1">
+            <Text>這並非普通的花之戰爭；我不會停手，直到你被徹底消滅。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_OPEN_BORDERS_EXCHANGE">
+            <Text>你認為開放邊界協議如何？我的人對了解盟友的生活方式很感興趣。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_REPEAT_NO_1">
+            <Text>你無法改變我的主意。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_RESPONSE_REQUEST_1">
+            <Text>通常我在危機時刻會向胡伊茨洛波奇特利求助，但局勢已經惡化到我必須請求世俗援助的地步。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>如此不敬！我很樂意看到你的頭顱掛在我的骷髏架上。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_TOO_SOON_NO_PEACE_1">
+            <Text>神明還未滿足。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_TLACAELEL_WINWAR_1">
+            <Text>這場戰爭取得了巨大成功；以胡伊茨洛波奇特利的名義流了許多血。我希望你也能從中受益。</Text>
+        </Row>
+    </Language_zh_Hant_HK>
+</GameData>
