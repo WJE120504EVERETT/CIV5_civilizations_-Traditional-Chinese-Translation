@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/26/2021 8:24:39 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Almohads -->
+		<Row Tag="TXT_KEY_CIV_DJ_ALMOHADS_DESC">
+			<Text>Almohad Caliphate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_ALMOHADS_SHORT_DESC">
+			<Text>Morocco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_ALMOHADS_ADJECTIVE">
+			<Text>Moroccan</Text>
+		</Row>
+		<!-- City List -->
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_0">
+			<Text>Tinaml</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_1">
+			<Text>Marakish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_2">
+			<Text>Fas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_3">
+			<Text>Qartabah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_4">
+			<Text>Ishbaylyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_5">
+			<Text>Balansiyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_6">
+			<Text>Al Jazair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_7">
+			<Text>Gharnatah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_8">
+			<Text>Tunis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_9">
+			<Text>Al Qirwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_10">
+			<Text>Tarabils Al Gharab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_11">
+			<Text>Tanjah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_12">
+			<Text>Tarudant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_13">
+			<Text>Al Maryah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_14">
+			<Text>Bajah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_15">
+			<Text>Bi Jayah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_16">
+			<Text>Wahran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_17">
+			<Text>Talmasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_18">
+			<Text>Maliqah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_19">
+			<Text>Sajlmasah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_20">
+			<Text>Aqa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_21">
+			<Text>Damnat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_22">
+			<Text>Al Ashbunah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_23">
+			<Text>Al Qanat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_24">
+			<Text>Malilyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_25">
+			<Text>Jabal Tariq</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_0">
+			<Text>Idris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_1">
+			<Text>Abd al-Rahman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_2">
+			<Text>Qasim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_3">
+			<Text>Suhhaim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_4">
+			<Text>Hayyuj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_5">
+			<Text>Kusayla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_6">
+			<Text>Abd al-Rashim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_7">
+			<Text>Loubna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_8">
+			<Text>Shanaz</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_9">
+			<Text>Chaymaa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Abd al-Mu'min -->
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN">
+			<Text>Abd al-Mu'min</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_NAME">
+			<Text>Abd al-Mu'min ibn Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_LIVED">
+			<Text>c. 1094 - 1163 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_SUBTITLE">
+			<Text>Leader of Morocco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TITLES_1">
+			<Text>Almohad Caliph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_1">
+			<Text>Abd al-Mu'min, in full Abd al-Mu'min ibn Ali, was the first Caliph of the Almohad dynasty. Although the Almohad movement itself was founded by Ibn Tumart, Abd al-Mu’min was the founder of the ruling dynasty and creator of the Almohad empire. As a leader of the Almohad movement he became the first Caliph of the Almohad Empire after the death of the movement's founder, Ibn Tumart, and ruled until his death in 1163. Abd al-Mu'min put his predecessor's doctrine of Almohadism into practice, defeated the old Moroccan dynasty, Almoravids, and extended his rule across Andalusia and as far as Tunis in Northern Africa, thus bringing the Maghreb Muslim under one creed and one government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_2">
+			<Text>Abd al-Mu'min came from a humble family: his father had been a potter. He seems to have been well instructed in the Muslim faith and must have had a good knowledge of Arabic, for he wished to continue his studies at one of the centres of Muslim learning in the East. A chance meeting with Ibn Tumart, a Berber religious reformer, made him abandon this idea and begin his brilliant career.[NEWLINE][NEWLINE]Around 1117, Ibn Tumart, the founder of the Almohad movement, was returning from a long stay in the East. He landed at Mahdiyah in Tunisia and began a journey to southern Morocco, his native country. Wherever he stopped along the way, he proclaimed a twofold message: strict adherence to the doctrine of the oneness of God (hence the name Almohads or al-Muwahhidun, Unitarians) and scrupulous observance of Islamic law. Abd al-Mu'min heard Ibn Tumart preach at Mellala, near Bejaia, Algeria. He was an attentive listener and from that time attached himself to the man who had revealed to him the true doctrine.[NEWLINE][NEWLINE]Abd al-Mu'min does not seem to have played any special role among Ibn Tumart's disciples during the slow journey that took them to Marrakech. But when his master declared his opposition to the ruling Almoravid regime, proclaimed himself the Mahdi ("divinely guided one"), and took refuge in the remote High Atlas region, Abd al-Mu'min went with him. Ibn Tumart won a following in the mountains and founded a small Almohad state there, centred on the village of Tinmel. When al-Bashir, the reformer's second in command, was killed in an attack on Marrakech, Abd al-Mu'min took his place and became Ibn Tumart's designated successor.Mahdi Ibn Tumart died in 1130. His death was kept secret at first to allow Abd al-Mu'min - a stranger to the High Atlas - time to win support from the Almohad leaders. When he was proclaimed leader of the Almohads, he assumed the prestigious title of Caliph.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_3">
+			<Text>Conquest of the Almoravids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_3">
+			<Text>His first task was to carry on the struggle against the Almoravids. Learning from the failure at Marrakech, he realized that he must conquer Morocco from the mountains. On the plains, the Christian knights who served the Almoravids could easily repulse the Almohads' Berber infantry. He spent the next 15 years winning control of the High Atlas, Middle Atlas, and Rif regions, finally moving into his native country, north of Tlemcen.[NEWLINE][NEWLINE]Near that town, the Almoravids, having suffered the loss of Reverter, the leader of their Catalan mercenaries, were defeated by Abd al-Mu'min in open battle in 1145. The Almohad forces then moved west, subjugating Morocco's Atlantic coastal plain. They then laid siege to Marrakech and took it by storm in 1147, massacring the Almoravid inhabitants.[NEWLINE][NEWLINE]Arab historians have left a description of the man who had now become master of Northwest Africa. He was a sturdy Berber of medium height, with dark hair and regular features. A good soldier, with great courage and endurance, he was at the same time learned in Islam and a gifted orator. Although he had personal charm and could, when necessary, show patience and moderation, he was at times as harsh as his master, Ibn Tumart. When a revolt broke out in the Atlantic plain area following the capture of Marrakech, he conducted a methodical purge there in which more than 30,000 people were executed. Abd al-Mu'min left neither memoirs nor a political testament; his ideas must be deduced from his actions. His newfound power and his very success raised problems that demanded immediate solutions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_4">
+			<Text>The Beginnings of a New Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_4">
+			<Text>The capture of Marrakech posed the moral question of whether to abandon this city founded by the Almoravid heretics, whom he had exterminated without pity. He contented himself with destruction of their palace and mosques and retained Marrakech as the capital of his new empire.[NEWLINE][NEWLINE]Soon he had to choose between two imperial policies: to complete the conquest of North Africa or to concentrate his energies on Spain, where the Christians were threatening the former Almoravid domains. Showing good judgment as well as feeling for his native country, he gave priority to North Africa.[NEWLINE][NEWLINE]In 1151 he subjugated the area around Constantine and on his way home fought a battle near Setif against a powerful coalition of Arab tribes that had been wandering over the Berber country for a century, gradually destroying its simple, pastoral, and sedentary way of life. Abd al-Mu'min was victorious, but instead of punishing these people who had showed themselves to be the worst enemies of the Berbers and the Almohad government, he came to rely on them to strengthen his dynasty against internal opposition from the family of Ibn Tumart. He also wished to use the Arab cavalry in his holy war against the Christians in Spain.[NEWLINE][NEWLINE]In 1158-59 Abd al-Mu'min conquered Tunisia and Tripolitania. This marked the zenith of Berber power in Islam: a Berber caliph reigned over all of North Africa west of Egypt, and his authority was acknowledged by most of Muslim Spain as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_5">
+			<Text>Abd al-Mu'min's Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_5">
+			<Text>Even while he was pursuing his conquest, Abd al-Mu'min had established a central government for his empire. To the traditional clan organization of the Masmudah and other Berber peoples supporting the Almohads he added an organization to promote the spread of Almohad doctrine and a central administration (the makhzan) modeled on those of Muslim Spain, which was staffed largely by Spanish Muslims. A government land registry was improvised to assure the dynasty regular revenue. Abd al-Mu'min fully accepted the responsibilities of an art patron, but remembering the puritanical austerity of Ibn Tumart, he sometimes imposed on the mosques built for him by Andalusian artisans a plainness that became more precious than the prevailing elaborate ornamentation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_6">
+			<Text>Death and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_6">
+			<Text>Abd al-Mu'min died in 1163. His work, faithfully carried on by his successors Abu Yaqub Yusuf (reigned 1163-84) and Abu Yusuf Yaqub al-Mansur (1184-99), was maintained for more than half a century. Disturbances caused by the rebellious Arab tribes impoverished the country without endangering the dynasty. After their defeat by the Spanish Christians at Las Navas de Tolosa in 1212, however, the Almohads began to decline, and their empire soon disintegrated.[NEWLINE][NEWLINE]Though in the long run Abd al-Mu'min's successors proved unable to perpetuate his achievements, he himself had written one of the most glorious chapters in the history of the Muslim West.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_DJ_ABD_ALMUMIN_TEXT">
+			<Text>Peace be with you, Abd al-Mu'min ibn Ali, caliph of the majestic Almohad empire. Born into obscurity at the twilight of the 11th century, you would maneuver your way to glory under the tutelage of Muhammed ibn Tumart, mahdi of the Unitarian movement. Under his banner, you would unite the disparate Berber tribes of the Atlas mountains and weld them into a new empire, the Almohad caliphate. This new empire would go on to blot out the crumbling Almoravids and capture their capital of Marrakech. Under your hand the empire extended from Tunis in the east to al-Andalus in the west, marking a golden age of Moroccan history.[NEWLINE][NEWLINE]Most pious caliph, infidels and blasphemers have trampled over the Almohad way of life, and their excesses cry out to be punished. Will you once more gather an empire of true belivers, and scatter their ill-gotten gains? Will you create a civilization to stand the test of time?</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_FIRSTGREETING_1">
+			<Text>as-Salamu Alaykum. I greet you as Abd al-Mu'min ibn Ali, a believer and humble servant of Allah. What tidings do you bring?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DEFEATED_1">
+			<Text>Heretic! My empire may fall this day, but I shall be avenged by Allah in heaven!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DOW_GENERIC_1">
+			<Text>It is my holy duty to blot out blasphemers like you from the face of the earth!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_ATTACKED_HOSTILE">
+			<Text>It would seem that Allah did not grant you the gift of wisdom. Otherwise, you would not make enemies of us this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DEC_FRIENDSHIP_1">
+			<Text>I recognize the light of Allah shining forth from your countenance. Would you do me the honor of signing a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DENOUNCE_1">
+			<Text>I tell you truly: your blasphemies have not gone unnoticed, and now the world will know of it, as well.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DENOUNCE_FRIEND_1">
+			<Text>It is time the world knows you for what I have seen you to be: a serpent, whose forked tongue utters a constant stream of lies.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Begone, foul heretic, and spread your lies no more!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALMOHADS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now wearing djellaba and buying books at your mosques! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALMOHADS_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are wearing our djellaba and buying books at our mosques. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<!-- Unitarian Reforms -->
+		<Row Tag="TXT_KEY_TRAIT_DJ_UNITARIAN_REFORMS">
+			<Text>Great Generals spawn Missionaries when earned, and increase religious pressure while occupying a city of your main religion. [ICON_GOLDEN_AGE] Golden Ages are 75% longer while all owned cities follow your main religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJ_UNITARIAN_REFORMS_SHORT">
+			<Text>Unitarian Reforms</Text>
+		</Row>
+		<!-- Mutatawwi'a -->
+		<Row Tag="TXT_KEY_UNIT_DJ_MUTATAWWIA_DESC">
+			<Text>Mutatawwi'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNITS_DJ_MUTATAWWIA_TEXT">
+			<Text>Mutatawwi'a are religious troops who, inspired by their faith, have volunteered to fight. Untrained, reckless and fanatical, these troops are poorly equipped with hand weapons such as cudgels. These wild warriors are more of a mob than a disciplined unit, eager to get into hand to hand combat with their enemy no matter the odds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_MUTATAWWIA_STRATEGY">
+    <Text>A powerful medieval melee unit, replacing the Longswordsman. It unlocks earlier than the Longswordsman but has slightly weaker combat strength. It can gain [ICON_GOLDEN_AGE] Golden Age points when defeating an enemy unit. If the defeated unit is not a Barbarian, the Mutatawwi'a will also fully heal. Be cautious not to leave the Mutatawwi'a on enemy territory!</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_DJ_MUTATAWWIA_HELP">
+    <Text>Abd al-Mu'min's unique unit, replacing the Longswordsman. It unlocks with Theology but has weaker combat strength. It can gain [ICON_GOLDEN_AGE] Golden Age points when defeating an enemy unit and fully heals (if the defeated unit is not a Barbarian). However, the Mutatawwi'a loses HP when staying within enemy territory.</Text>
+</Row>
+		<!-- Zawiya -->
+		<Row Tag="TXT_KEY_BUILDING_DJ_ZAWIYA_DESC">
+			<Text>Zawiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DJ_ZAWIYA_TEXT">
+			<Text>A Zawiya is an Islamic religious school or monastery. The term is Maghrebi and West African, roughly corresponding to the Eastern term madrasa. A zawiya often contains a pool, and sometimes a fountain. In precolonial times, these were the primary sources for education in the area, and taught basic literacy to a large proportion of children even in quite remote mountainous areas - leading to the generally accepted speculation that literacy rates in Algeria at the time of the French conquest in 1830 were higher than those of European France. The term zawiya can also refer to a lodge for Islamic mystics, or Sufis, akin to the term Tekke/Tekyeh in Iran, Turkey and the former Ottoman areas, as well as khanqah or dargah used in various parts of Asia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_ZAWIYA_STRATEGY">
+			<Text>In addition to the effects of the Caravansary it replaces, the Zawiya, the Almohad unique building, provides a small amount of [ICON_PEACE] Faith, and removes foreign religions from its city when a Great General is expended within its limits. Lastly, the Zawiya's bonuses to [ICON_GOLD] Gold and [ICON_INTERNATIONAL_TRADE] Trade Route are doubled during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_ZAWIYA_HELP">
+			<Text>Unique Caravansary replacement that only the Almohads may build. Removes Heresy when a Great General is expended nearby, and provides doubled bonuses during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<!-- MOD SUPPORT -->
+		<!-- Additional Achievements -->
+		<Row Tag="TXT_KEY_MOD_DJ_ALMOHADS_NAME">
+			<Text>DuskJockey's Almohads (Abd al-Mu'min)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_DJ_ALMOHADS_ID_STEAM">
+			<Text>0f20380b-02e0-4e75-bec4-ea4fa86b4c78</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_DJ_ALMOHADS_AUTHORS">
+			<Text>DuskJockey, Merrick, COF, Arilasqueto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALMOHADS_VICTORY_HEADER">
+			<Text>Almohad It All</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALMOHADS_VICTORY_TEXT">
+			<Text>Win the game on any difficulty setting as Abd al-Mu'min's Almohads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALMOHADS_SPECIAL_HEADER">
+			<Text>Reconquista Who?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALMOHADS_SPECIAL_TEXT">
+			<Text>As Abd al-Mu'min's Almohads, recapture a founded city previously captured by a Spain.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+        <!-- Almohads -->
+        <Row Tag="TXT_KEY_CIV_DJ_ALMOHADS_DESC">
+            <Text>穆瓦希德哈裏發國</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_DJ_ALMOHADS_SHORT_DESC">
+            <Text>穆瓦希德哈裏發國</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_DJ_ALMOHADS_ADJECTIVE">
+            <Text>穆瓦希德哈裏發國</Text>
+        </Row>
+        <!-- City List -->
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_0">
+    <Text>蒂納姆爾</Text> <!-- Tīnaml -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_1">
+    <Text>馬拉喀什</Text> <!-- Marākish -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_2">
+    <Text>非斯</Text> <!-- Fās -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_3">
+    <Text>科爾多瓦</Text> <!-- Qarṯabah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_4">
+    <Text>伊什拜利亞</Text> <!-- Ishbaylyah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_5">
+    <Text>巴蘭西亞</Text> <!-- Balansiyah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_6">
+    <Text>阿爾及爾</Text> <!-- Al Jazā’ir -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_7">
+    <Text>格拉納達</Text> <!-- Gharnāṯah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_8">
+    <Text>突尼斯</Text> <!-- Tūnis -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_9">
+    <Text>基爾萬</Text> <!-- Al Qīrwān -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_10">
+    <Text>特拉比爾斯·阿爾·加拉布</Text> <!-- Ṯarābils Al Gharab -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_11">
+    <Text>坦賈</Text> <!-- Ṯanjah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_12">
+    <Text>塔魯丹特</Text> <!-- Tārūdānt -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_13">
+    <Text>阿爾·瑪利亞</Text> <!-- Al Maryah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_14">
+    <Text>巴哈</Text> <!-- Bājah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_15">
+    <Text>比哈亞</Text> <!-- Bi Jāyah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_16">
+    <Text>瓦赫蘭</Text> <!-- Wahrān -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_17">
+    <Text>塔爾馬桑</Text> <!-- Talmasān -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_18">
+    <Text>馬利卡</Text> <!-- Māliqah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_19">
+    <Text>薩基爾馬薩</Text> <!-- Sajlmāsah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_20">
+    <Text>阿卡</Text> <!-- Aqā -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_21">
+    <Text>達姆納特</Text> <!-- Damnāt -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_22">
+    <Text>阿什布納</Text> <!-- Al Ashbūnah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_23">
+    <Text>阿爾卡納特</Text> <!-- Al Qanat -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_24">
+    <Text>梅利利亞</Text> <!-- Malīlyah -->
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_DJ_ALMOHADS_25">
+    <Text>直布羅陀</Text> <!-- Jabal Ṯāriq -->
+</Row>
+<!-- Spy Names -->
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_0">
+    <Text>伊德裏斯</Text> <!-- Idris -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_1">
+    <Text>阿卜杜拉赫曼</Text> <!-- Abd al-Rahman -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_2">
+    <Text>卡西姆</Text> <!-- Qasim -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_3">
+    <Text>蘇海姆</Text> <!-- Suhhaim -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_4">
+    <Text>哈尤吉</Text> <!-- Hayyuj -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_5">
+    <Text>庫賽拉</Text> <!-- Kusayla -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_6">
+    <Text>阿卜杜拉希姆</Text> <!-- Abd al-Rashim -->
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_7">
+    <Text>盧卜娜</Text> <!-- Loubna -->
+    <Gender>feminine</Gender>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_8">
+    <Text>莎娜茲</Text> <!-- Shanaz -->
+    <Gender>feminine</Gender>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_FB_ALMOHAD_9">
+    <Text>查伊瑪</Text> <!-- Chaymaa -->
+    <Gender>feminine</Gender>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN">
+    <Text>阿卜杜穆明</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_NAME">
+    <Text>阿卜杜穆明·伊本·阿裏</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_LIVED">
+    <Text>約1094-1163</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_SUBTITLE">
+    <Text>摩洛哥領袖</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TITLES_1">
+    <Text>穆瓦希德哈裏發</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_1">
+    <Text>阿卜杜穆明，全名阿卜杜穆明·伊本·阿裏，是穆瓦希德王朝的第一位哈裏發。雖然穆瓦希德運動本身是由伊本·圖馬特創立的，但阿卜杜穆明是統治王朝的建立者和穆瓦希德帝國的創建者。作為穆瓦希德運動的領導者，他在運動創始人伊本·圖馬特去世後成為穆瓦希德帝國的第一位哈裏發，並一直統治到1163年去世。阿卜杜穆明將其前任的穆瓦希德主義教義付諸實踐，擊敗了舊的摩洛哥王朝——穆拉比特王朝，並將他的統治擴展到安達盧西亞，甚至遠至北非的突尼斯，從而將馬格裏布的穆斯林統一在一個信仰和一個政府之下。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_2">
+    <Text>早年生活</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_2">
+    <Text>阿卜杜穆明出身低微：他的父親是一名陶工。他似乎在穆斯林信仰方麵受過良好的教育，並且一定具備良好的阿拉伯語知識，因為他希望在東方的某個穆斯林學術中心繼續深造。與柏柏爾宗教改革者伊本·圖馬特的一次偶然相遇，使他放棄了這個想法，開始了他輝煌的事業。[NEWLINE][NEWLINE]大約在1117年，穆瓦希德運動的創始人伊本·圖馬特在東方長期逗留後返回。他在突尼斯的馬赫迪耶登陸，開始了前往他祖國摩洛哥南部的旅程。無論他在途中停留在哪裏，他都宣揚著雙重信息：嚴格遵守真主唯一性的教義（因此得名穆瓦希德，即“統一者”）和嚴格遵守伊斯蘭教法。阿卜杜穆明在阿爾及利亞的貝賈亞附近的梅拉拉聽到了伊本·圖馬特的宣講。他是一個專心的聽眾，從那時起就追隨這位向他揭示真理教義的人。[NEWLINE][NEWLINE]在他們緩慢前往馬拉喀什的旅途中，阿卜杜穆明似乎並未在伊本·圖馬特的弟子中扮演任何特殊角色。但當他的師父宣布反對統治的穆拉比特政權，自稱為馬赫迪（“被神引導的人”），並在偏遠的高阿特拉斯地區避難時，阿卜杜穆明隨他一同前往。伊本·圖馬特在山中贏得了一批追隨者，並在以蒂內梅勒村為中心的地方建立了一個小的穆瓦希德國家。當改革者的二號人物阿爾·巴希爾在一次對馬拉喀什的攻擊中被殺後，阿卜杜穆明接替了他的位置，成為伊本·圖馬特指定的繼承人。馬赫迪於1130年去世。他的死訊最初被保密，以便讓對於阿特拉斯地區來說不受重視的阿卜杜穆明有時間贏得穆瓦希德領導者的支持。當他被宣布為穆瓦希德的領導者時，他獲得了崇高的哈裏發頭銜。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_3">
+    <Text>征服穆拉比特王朝</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_3">
+    <Text>阿卜杜穆明的首要任務是繼續與穆拉比特王朝的鬥爭。在吸取了在馬拉喀什失敗的教訓後，他意識到必須從山區征服摩洛哥。在平原上，服務於穆拉比特王朝的基督徒騎士可以輕易擊退穆瓦希德的柏柏爾步兵。穆瓦希德軍隊花了接下來的15年時間控製了高阿特拉斯山脈、中阿特拉斯山脈和裏夫地區，最終進入了他的故鄉，特萊姆森以北。[NEWLINE][NEWLINE]在那座城鎮附近，穆拉比特人在失去了他們的加泰羅尼亞雇傭軍領袖雷維特爾後，於1145年在一次公開戰鬥中被阿卜杜穆明擊敗。穆瓦希德軍隊隨後向西推進，征服了摩洛哥的大西洋沿岸平原。他們隨後包圍了馬拉喀什，並於1147年的強攻後正式占領，同時對穆拉比特居民進行了大屠殺。[NEWLINE][NEWLINE]阿拉伯曆史學家留下了對這位已成為西北非洲主人的人的描述。他是一位結實的柏柏爾人，中等身材，黑發，五官端正。作為一名優秀的士兵，他勇敢而有毅力，同時精通伊斯蘭教，還是一位天才的演說家。雖然他具有個人魅力，並且在必要時能表現出耐心和克製，但有時他像他的師父伊本·圖馬特一樣嚴厲。當在占領馬拉喀什後，大西洋平原地區爆發起義時，他在那裏進行了有計劃的清洗，處決了三萬多人。阿卜杜穆明既沒有留下回憶錄，也沒有政治遺囑；他的思想必須從他的行動中推斷。他新獲得的權力和成功帶來了需要立即解決的問題。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_5">
+    <Text>阿卜杜穆明的政府</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_5">
+    <Text>即使在征服過程中，阿卜杜穆明也為他的帝國建立了一個中央政府。對於支持穆瓦希德的馬斯穆達和其他柏柏爾民族的傳統氏族組織，他增加了一個促進穆瓦希德教義傳播的組織以及一個模仿安達盧西亞人的中央行政機構（馬赫讚），該機構主要由西班牙穆斯林擔任。為了確保王朝的常規收入，政府還臨時建立了一個土地登記冊。阿卜杜穆明完全承擔了藝術讚助人的責任，但他記得伊本·圖馬特的清教式簡樸，有時對安達盧西亞工匠為他建造的清真寺施加了一種比當時盛行的繁複裝飾更為樸素的風格。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_HEADING_6">
+    <Text>死亡與遺產</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ABD_ALMUMIN_TEXT_6">
+    <Text>阿卜杜穆明於1163年去世。他的工作由繼任者阿布·雅各布·優素福（在位1163-1184年）和阿布·優素福·雅各布·曼蘇爾（1184-1199年）忠實地延續了超過半個世紀。由叛亂的阿拉伯部落引起的動蕩使國家貧困，但並未危及王朝。然而，在1212年穆瓦希德在拉斯納瓦斯德托洛薩戰役中被西班牙基督徒擊敗後，穆瓦希德開始衰落，他們的帝國很快瓦解。[NEWLINE][NEWLINE]盡管從長遠來看，阿卜杜穆明的繼任者未能延續他的成就，但他本人在穆斯林西方的曆史上書寫了最輝煌的篇章之一。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_DOM_DJ_ABD_ALMUMIN_TEXT">
+    <Text>願和平與你同在，阿卜杜穆明·伊本·阿裏，莊嚴穆瓦希德帝國的哈裏發。你出生於11世紀暮年的默默無聞之中，在伊本·圖馬特——統一主義運動的馬赫迪的指導下，你巧妙地走向了榮耀。在他的旗幟下，你統一了阿特拉斯山脈中支離破碎的柏柏爾部落，並將他們鍛造成為一個新的帝國，穆瓦希德哈裏發國。這個新帝國將逐步消滅崩潰的穆拉比特王朝，並奪取他們的首都馬拉喀什。在你的統治下，帝國從東部的突尼斯延伸到西部的安達盧斯，標誌著摩洛哥曆史的黃金時代。[NEWLINE][NEWLINE]最虔誠的哈裏發，不信道者和褻瀆者踐踏了穆瓦希德的生活方式，他們的過度行為需要受到懲罰。你是否會再次聚集一個真正信徒的帝國，散布他們不義的戰利品？你能建立起一個經受時間考驗的文明嗎？</Text>
+</Row>
+<!-- Diplomacy Responses -->
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_FIRSTGREETING_1">
+    <Text>願和平與你同在。我以阿卜杜穆明·伊本·阿裏，一個信徒和虔誠的真主之仆，向你致意。你帶來了什麼消息？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DEFEATED_1">
+    <Text>異教徒！我的帝國今天可能會倒塌，但我將在天堂接受真主的報複！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DOW_GENERIC_1">
+    <Text>消滅像你這樣的褻瀆者是我的神聖職責！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_ATTACKED_HOSTILE">
+    <Text>看來真主並未賜予你智慧的恩賜。否則，你今天就不會與我們為敵。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DEC_FRIENDSHIP_1">
+    <Text>我看到你容顏上閃耀著真主的光輝。你願意榮幸地簽署一份公開的友好聲明嗎？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DENOUNCE_1">
+    <Text>我告訴你，真相是：你的褻瀆行為並未被忽視，現在全世界也將知曉。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責了我們！注意：你們尚未開戰。[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_DENOUNCE_FRIEND_1">
+    <Text>是時候讓世界知道你真正的麵目了：你是條毒蛇，你分叉的舌頭不斷吐出謊言。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責了我們！注意：你們尚未開戰。[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ABD_ALMUMIN_RESPONSE_TO_BEING_DENOUNCED_1">
+    <Text>滾開，卑鄙的異教徒，不要再傳播你的謊言！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ALMOHADS_INFLUENTIAL_ON_AI_1">
+    <Text>我們的人民現在穿著你們的長袍，在你們的清真寺買書！我擔心世界其他地方也會屈服於你們文化的影響。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_DJ_ALMOHADS_INFLUENTIAL_ON_HUMAN_1">
+    <Text>我們很高興看到你們的人民穿上了我們的長袍，並在我們的清真寺購買書籍。我們文明的偉大成就確實令人鼓舞！</Text>
+</Row>
+<!-- Unitarian Reforms -->
+<Row Tag="TXT_KEY_TRAIT_DJ_UNITARIAN_REFORMS">
+    <Text>陸軍統帥在出現時同時產生傳教士，並在位於你信仰主要宗教的城市時增加宗教壓力。當所有的城市都信仰你的主要宗教時，[ICON_GOLDEN_AGE]黃金時代時間延長75%。</Text>
+</Row>
+<Row Tag="TXT_KEY_TRAIT_DJ_UNITARIAN_REFORMS_SHORT">
+    <Text>穆瓦希德王朝</Text>
+</Row>
+<!-- Mutatawwi'a -->
+<Row Tag="TXT_KEY_UNIT_DJ_MUTATAWWIA_DESC">
+    <Text>穆塔維亞</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_UNITS_DJ_MUTATAWWIA_TEXT">
+    <Text>穆塔維亞（Mutatawwi'a）是受到信仰激勵的宗教軍隊，他們自願參戰。未經訓練、魯莽且狂熱，這些士兵僅配備像棍棒這樣的簡陋武器。這些狂熱戰士更像是一群暴民，而不是紀律嚴明的部隊，無論麵對怎樣的敵人，他們都渴望與敵人進行近身戰鬥。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_DJ_MUTATAWWIA_STRATEGY">
+    <Text>強大的中世紀近戰單位，替代長劍士。比長劍士解鎖更早，但戰鬥力稍弱。它能夠在擊敗敵方單位的情況下獲得一定的[ICON_GOLDEN_AGE]黃金時代點數，假如敵方不為蠻族單位，穆塔維亞還能恢複滿HP。注意不要讓穆塔維亞停留在敵方的領土內！</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_DJ_MUTATAWWIA_HELP">
+    <Text>阿卜杜穆明的特色單位，替代長劍士。在“神學”時解鎖，但戰鬥力較弱。它能夠在擊敗敵方單位的情況下獲得一定的[ICON_GOLDEN_AGE]黃金時代點數，同時恢複滿HP（非蠻族的情況下）。然而穆塔維亞停留在敵方境內時會消耗HP。</Text>
+</Row>
+<!-- Zawiya -->
+<Row Tag="TXT_KEY_BUILDING_DJ_ZAWIYA_DESC">
+    <Text>薩維亞</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_DJ_ZAWIYA_TEXT">
+    <Text>Zawiya是指伊斯蘭宗教學校或修道院。這個詞語來源於馬格裏布和西非，大致對應東方的術語“馬德拉薩”（madrasa）。薩維亞通常設有水池，有時還會有噴泉。在殖民時期之前，這些是該地區教育的主要來源，甚至在偏遠的山區也為大量兒童教授基礎讀寫能力——這使得當時普遍接受的猜測認為，在法國1830年征服阿爾及利亞時，阿爾及利亞的識字率高於歐洲的法國。薩維亞也可以指伊斯蘭神秘主義者或蘇菲教徒的住所，類似於伊朗、土耳其和前奧斯曼地區的 Tekke/Tekyeh 術語，以及在亞洲各地使用的 khanqah 或 dargah。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_DJ_ZAWIYA_STRATEGY">
+    <Text>除了它所取代的驛站的效果外，薩維亞還提供少量的[ICON_PEACE]信仰值，並在其城市範圍內消耗陸軍統帥時移除外來宗教。在[ICON_GOLDEN_AGE]黃金時代期間，薩維亞對[ICON_INTERNATIONAL_TRADE]貿易路線中[ICON_GOLD]金錢的加成會翻倍。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_DJ_ZAWIYA_HELP">
+    <Text>穆瓦希德獨有的驛站替代建築。附近消耗陸軍統帥時會移除其他宗教，並在[ICON_GOLDEN_AGE]黃金時代期間提供雙倍加成。</Text>
+</Row>
+</Language_zh_Hant_HK>
+</GameData>
