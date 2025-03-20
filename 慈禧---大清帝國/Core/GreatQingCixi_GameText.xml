@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_QING_CIXI_ADJECTIVE">
+			<Text>Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_QING_CIXI_DESC">
+			<Text>Empire of Great Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_QING_CIXI_SHORT_DESC">
+			<Text>Great Qing</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_CHINA">
+			<Text>China</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_TEXT_1">
+			<Text>Qing dynasty, Wade-Giles romanization Ch’ing, also called Manchu dynasty, Pinyin Manzu, last of the imperial dynasties of China, spanning the years 1644 to 1911/12. Under the Qing the territory of the empire grew to treble its size under the preceding Ming dynasty (1368–1644), the population grew from some 150 million to 450 million, many of the non-Chinese minorities within the empire were Sinicized, and an integrated national economy was established.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_HEADING_2">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_TEXT_2">
+			<Text>The Qing dynasty was first established in 1636 by the Manchus to designate their regime in Manchuria (now the Northeast region of China). In 1644 the Chinese capital at Beijing was captured by the rebel leader Li Zicheng, and desperate Ming dynasty officials called on the Manchus for aid. The Manchus took advantage of the opportunity to seize the capital and establish their own dynasty in China. By adopting the Ming form of government and continuing to employ Ming officials, the Manchus pacified the Chinese population.[NEWLINE][NEWLINE]To guarantee Manchu control over the administration, however, the Qing made certain that half the higher-level officials were Manchus. Chinese military leaders who surrendered were given ranks of nobility, and troops were organized into the Lüying, or Army of the Green Standard, which was garrisoned throughout the country to guard against local rebellions. The regular Manchu Banner System troops (Qibing, or Baqi) were kept at the capital and in a few selected strategic spots throughout the country.[NEWLINE][NEWLINE]Under Kangxi (reigned 1661–1722), the second Qing emperor, the Manchus forced the Russians to abandon their fort at Albazin, located along the Manchurian border on the Amur River. In 1689 a treaty was concluded with Russia at Nerchinsk demarcating the northern extent of the Manchurian boundary at the Argun River. Over the next 40 years the Dzungar Mongols were defeated, and the empire was extended to include Outer Mongolia, Tibet, Dzungaria, Turkistan, and Nepal. Under the two succeeding emperors, Yongzheng (reigned 1722–35) and Qianlong (reigned 1735–96), commerce continued to thrive, handicraft industries prospered, and Roman Catholic missionaries were tolerated and employed as astronomers and artists. In addition, painting, printmaking, and porcelain manufacture flourished, and scientific methods of philology were developed.[NEWLINE][NEWLINE]Subsequent rulers, however, were unable to meet the problems caused by increased population pressure and concentration of land ownership. The Manchu armies deteriorated, and popular unrest, aggravated by severe floods and famine, were factors contributing to the Taiping (1850–64) and Nian (1853–68) rebellions in the south and north, respectively. Efforts at modernization and Westernization met opposition from conservative officials especially through the efforts of the dowager empress Cixi. Bureaucratic inefficiency and corruption became widespread, a notable example being the diversion of funds intended for building a Chinese navy to instead construct an ornamental marble warship at the imperial Summer Palace outside Beijing.[NEWLINE][NEWLINE]The first Opium War (1839–42), the Anglo-French War (1856–58), the Sino-Japanese War (1894–95), and the Boxer Rebellion (1900) all resulted in defeats for China and the granting of major concessions to foreign powers. By 1900 revolutionary groups had begun to form throughout the country. The October 10, 1911, Republican Revolution led to the abdication of the boy emperor Xuantong (better known as Puyi) and the transfer of authority to the provisional republican government under Yuan Shikai.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_HEADING_3">
+			<Text>Cultural Achievements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_TEXT_3">
+			<Text>The efforts of the Manchu rulers, from the beginning of their rule, to become assimilated into Chinese culture bred strongly conservative Confucian political and cultural attitudes in official society and stimulated a great period of collecting, cataloging, and commenting upon the traditions of the past. Decorative crafts declined to increasingly repetitive designs, although techniques, notably in jade carving, reached a high level. Much architecture survives; although it is often grandly conceived, it tends to an inert massiveness with overwrought ornamentation. The two major visual art forms of the period were painting and porcelain.[NEWLINE][NEWLINE]Despite the prevailing attitude of conservatism, many Qing dynasty artists were both individualistic and innovative. Based largely on the dicta of a late Ming dynasty artist-critic, Dong Qichang, Qing painters are classified as “individualist” masters (such as Daoji and Zhu Da) and “orthodox” masters (such as the Six Masters of the early Qing period). In addition, there are “schools” of painting (though painters so classified share more a common location than a single style), such as the Four Masters of Anhui, the Eight Eccentrics of Yangzhou, and the Eight Masters of Nanjing. The attitude shared by most artists, in spite of obvious differences, was a strong preference for “literati painting” (wenrenhua), which emphasized personal expression above all.[NEWLINE][NEWLINE]Qing porcelain displays a high technical mastery even to the almost total obliteration of any mark of the potter’s hand. Among the innovations of the period was the development of coloured glazes such as copper red, called “blown red” (jihong) by the Chinese and “oxblood” (sang-de-boeuf) by the French, and two classes of painted porcelain ware, known in Europe as famille verte and famille rose, from their predominant green and rose colours.[NEWLINE][NEWLINE]The literature of the Qing dynasty resembled that of the preceding Ming period in that much of it focused on classical forms. The Manchu conducted a literary inquisition in the 18th century to root out subversive writings, and many suspect works were destroyed and their authors jailed, exiled, or killed. Novels in the vernacular—tales of romance and adventure—developed substantially. After Chinese ports were opened to overseas commerce in the mid-19th century, translation of foreign works into Chinese increased dramatically.[NEWLINE][NEWLINE]In music, the most notable development of the dynasty probably was the development of jingxi, or Peking opera, over several decades at the end of the 18th century. The style was an amalgam of several regional music-theatre traditions that employed significantly increased instrumental accompaniment, adding to flute, plucked lute, and clappers, several drums, a double-reed wind instrument, cymbals, and gongs, one of which is designed so as to rise quickly in pitch when struck, giving a “sliding” tonal effect that became a familiar characteristic of the genre. Jingxi—whose roots are actually in many regions but not in Beijing—uses fewer melodies than do other forms but repeats them with different lyrics. It is thought to have gained stature because of patronage by the empress dowager Cixi of the late Qing, but it had long been enormously popular with commoners.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_1">
+			<Text>Peking</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_2">
+			<Text>Shanghai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_3">
+			<Text>Hangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_4">
+			<Text>Baoding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_5">
+			<Text>Fuzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_6">
+			<Text>Kaifeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_7">
+			<Text>Wuchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_8">
+			<Text>Changsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_9">
+			<Text>Lanzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_10">
+			<Text>Nanjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_11">
+			<Text>Suzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_12">
+			<Text>Nanchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_13">
+			<Text>Guangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_14">
+			<Text>Guilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_15">
+			<Text>Guiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_16">
+			<Text>Taiyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_17">
+			<Text>Jinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_18">
+			<Text>Xi'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_19">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_20">
+			<Text>Kunming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_21">
+			<Text>Fengtian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_22">
+			<Text>Qiqihar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_23">
+			<Text>Jilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_24">
+			<Text>Uliastai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_25">
+			<Text>Hohhot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_26">
+			<Text>Xining</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_27">
+			<Text>Taiwan-fu</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_0">
+			<Text>Huang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_1">
+			<Text>Long Tack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_2">
+			<Text>Tan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_3">
+			<Text>Zhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_4">
+			<Text>Han</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_5">
+			<Text>Chiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_6">
+			<Text>Sun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_7">
+			<Text>Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_8">
+			<Text>An</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_9">
+			<Text>Li</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI">
+			<Text>Cixi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_NAME">
+			<Text>Cixi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_TEXT_1">
+			<Text>Cixi, Wade-Giles romanization Tz'u-hsi, also called Xitaihou or Xiaoqin Xianhuanghou, byname Empress Dowager, (born November 29, 1835, Beijing, China—died November 15, 1908, Beijing), consort of the Xianfeng emperor (reigned 1850–61), mother of the Tongzhi emperor (reigned 1861–75), adoptive mother of the Guangxu emperor (reigned 1875–1908), and a towering presence over the Chinese empire for almost half a century. By maintaining authority over the Manchu imperial house (Qing dynasty, 1644–1911/12), she became one of the most powerful women in the history of China.[NEWLINE][NEWLINE]Cixi was one of the Xianfeng emperor's low-ranking concubines, but in 1856 she bore his only son. On Xianfeng's death, the six-year-old boy became the Tongzhi emperor, and state business was put in the hands of a regency council of eight elder officials. A few months later, after Cixi and Xianfeng's former senior consort, Ci'an, orchestrated a coup with Gong Qinwang (Prince Gong), the former emperor's brother, the regency was transferred to Cixi and Ci'an. Gong became the prince counsellor.[NEWLINE][NEWLINE]Under this triumviral rule, the government entered a temporary period of revitalization. The great Taiping Rebellion (1850–64), which had devastated South China, was quelled, as was the Nian Rebellion (1853–68) in the northern provinces. Schools were created for the study of foreign languages, a modern customs service was instituted, Western-style arsenals were constructed, and the first Chinese foreign service office was installed. Internally, an effort was made to end governmental corruption and to recruit men of talent.[NEWLINE][NEWLINE]Although the regency was terminated in 1873 after the Tongzhi emperor attained maturity, Cixi's involvement in state affairs continued. Soon after Tongzhi's death in 1875, Cixi arranged to adopt her three-year-old nephew, Zaitian, and have him named the new heir; he became the Guangxu emperor. The two empress dowagers continued to act as regents, but, after Ci'an's sudden death in 1881, Cixi became the sole holder of the office. Three years later she dismissed Prince Gong.[NEWLINE][NEWLINE]In 1889, as the young Guangxu emperor formally assumed power, Cixi nominally relinquished control over the government to retire to the magnificent summer palace she had rebuilt northwest of Beijing. However, in 1898, a few years after the shocking defeat of the Chinese forces in the Sino-Japanese War (1894–95), the Guangxu emperor, under the influence of a group of reformers, put through a number of radical proposals designed to renovate and modernize the Chinese government and to eliminate corruption. (See Hundred Days of Reform.) Conservative officials, who again used the military to institute a coup, collected around Cixi. The new reforms were reversed, and Cixi resumed the regency. Most historians believe that China's last chance for peaceful change thus ended.[NEWLINE][NEWLINE]The following year Cixi began to back those officials who were encouraging the anti-foreign Boxer rebels. In 1900 the Boxer Rebellion reached its peak; some 100 foreigners were killed, and the foreign legations in Beijing were surrounded. However, a coalition of foreign troops soon captured the capital, and Cixi was forced to flee the city and accept humiliating peace terms. Returning to Beijing in 1902, she finally began to implement many of the innovations that had been reversed in 1898, although the Guangxu emperor no longer participated in the government.[NEWLINE][NEWLINE]The day before Cixi died, Guangxu's death was announced. Since then it was generally believed that the emperor had been poisoned, but that fact was not substantiated until 2008 when a report was issued by Chinese researchers and police officials confirming that the emperor had been deliberately poisoned with arsenic. Although the report did not address who may have ordered his death—and there never has been any hard evidence of culpability—suspicion long has pointed toward the Empress Dowager.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_LIVED">
+			<Text>1835 - 1908 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_SUBTITLE">
+			<Text>Leader of Great Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_TITLES_1">
+			<Text>Empress Dowager</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_GREAT_QING_CIXI_TEXT">
+			<Text>O' wise and ruthless Cixi, the imperial court must come to heel. For 47 years, you ruled China as her last effective sovereign, overseeing a series of institutional reforms that would bring the empire to the modern world. Though those that conspired against you have since tarnished your name, you shall be honoured for your trials in balancing the Great Qing Empire upon the line between past and future.[NEWLINE][NEWLINE]Empress Dowager, the future of China rests on your ability to bring her in-line with the great powers of the modern age. Can you reform her ancient institutions into working order? Can you turn your bannermen into modern armies? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_FIRSTGREETING_1">
+			<Text>Welcome to the imperial court. I trust you understand the proper protocol? Then why do you just stand there...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_VICTORIA_FIRSTGREETING_1">
+			<Text>Greetings. I am the Empress Dowager of Qing. Yes, I have heard of you. But I am not so easily impressed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DEFEATED_1">
+			<Text>I have lived an incomparable life. Treat my heir with compassion and my people with dignity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_VICTORIA_DEFEATED_1">
+			<Text>Perhaps I was too quick to judge you. You are most interesting after all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_ATTACKED_HOSTILE_1">
+			<Text>China has disposed of enemies far greater.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DEC_FRIENDSHIP_1">
+			<Text>To build my people up as a nation-state, I must have friends willing to help me. Will you agree to a Declaration of Friendship with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DENOUNCE_1">
+			<Text>You have interfered in my court for too long.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DENOUNCE_FRIEND_1">
+			<Text>You call yourself a friend to China? I call you a viper.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DOW_GENERIC_1">
+			<Text>It must be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>These lands belong to my people. I will not see them taken by you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_GREETING_HOSTILE_HELLO_1">
+			<Text>Hold your tongue. You are in my court and will be silent until I permit you to speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_GREETING_NEUTRAL_HELLO_1">
+			<Text>You are permitted to speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_GREETING_POLITE_HELLO_1">
+			<Text>Greetings. You are always welcome in my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Have you come to threaten me? I see no other reason for you to bring your armies here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_LUXURY_TRADE_1">
+			<Text>I will not be refused what my people need. You will agree to this trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>A modern nation is not inhibited by draconian borders. We must come to an agreement to make our two states open to each other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Disease follows wherever you spread your gold. Buy lands elsewhere. China is not for sale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_REQUEST_1">
+			<Text>My people have need of your assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You have declared yourself an enemy of the Manchu people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_TOO_SOON_FOR_DOF_1">
+			<Text>So that you may bury your talons into China? I think not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_TOO_SOON_NO_PEACE_1">
+			<Text>The war is not over. It is too soon to declare peace.</Text>
+		</Row>
+		
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_QING_CIXI_SHORT">
+			<Text>Self-Strengthening Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_QING_CIXI">
+			<Text>Combat Units yield [ICON_CULTURE] Culture when promoted and are upgraded for free as new [ICON_CULTURE] Social Policies and Branches are adopted.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE">
+			<Text>Peking Field Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_HELP">
+			<Text>Stalwart Industrial Era Unit that replaces the Great War Infantry for the Great Qing. It is unlocked earlier and trained in half the usual time in the [ICON_CAPITAL] Capital, though it is slightly weaker. This unit earns promotions 15% faster if it was upgraded to from a Rifleman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_STRATEGY">
+			<Text>The unique Peking Field Force replaces the Great War Infantry for Great Qing. Unlike the Great War Infantry, this unit is unlocked at Steam Power and is also trained at double the normal speed in the Capital, although it is slightly weaker. If upgraded to from a Rifleman, this unit earns promotions 15% faster. These units will prove themselves most effective  as a last-line of defense against foes threatening the capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_TEXT">
+			<Text>The Peking Field Force was a modern-armed military unit that defended the Chinese imperial capital Beijing in the last decades of the Qing dynasty. It was founded in 1862, two years after the humiliating capture of Beijing and the sack of the Qing emperor's Summer Palace in 1860 by foreign powers at the end of the Second Opium War. After that war, high Qing officials like Zeng Guofan, Li Hongzhang, and Wenxiang (the latter a Manchu) tried to acquire advanced western weapons and to copy western military organization. Founded by Wenxiang and manned by mostly Manchu Bannermen, the soldiers most loyal to the dynasty, the Force was armed with Russian rifles and French cannon and drilled by British officers.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PEKING_FORCE">
+			<Text>Foreign Drills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PEKING_FORCE_HELP">
+			<Text>Earns 15% more XP from combat.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_PEKING_FORCE">
+			<Text>Dummy: Peking Field Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_PEKING_FORCE_HELP">
+			<Text>+100% [ICON_PRODUCTION] Production in the Capital when training Peking Field Forces.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE">
+			<Text>Naval War College</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and [ICON_GOLD] Gold from Sea Resources worked by this City. +15% [ICON_PRODUCTION] Production when building Naval Units, and Naval Units trained in this city begin with doubled XP from Buildings.[NEWLINE][NEWLINE]Provides a free Arsenal in this city.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_HELP_EE">
+			<Text>Naval Units trained in this city begin with doubled XP from Buildings.[NEWLINE][NEWLINE]Provides a free Arsenal in this city. Naval units trained in this city have +15% [ICON_STRENGTH] Combat Strength.[NEWLINE][NEWLINE]City must have a Seaport.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_STRATEGY">
+			<Text>The Naval War College is the unique replacement for the Seaport for the Great Qing. In addition to its regular abilities, the Naval War College doubles the amount of XP that Naval Units trained in this city begin with. It also provides a free Arsenal in the city. Build Naval Colleges in your most vulnerable port cities to ensure you have a modern navy with which to protect them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_STRATEGY_EE">
+			<Text>The Naval War College is the unique replacement for the Drydock for the Great Qing. In addition to its regular abilities, the Naval War College doubles the amount of XP that Naval Units trained in this city begin with. It also provides a free Arsenal in the city. Build Naval Colleges in your most vulnerable port cities to ensure you have a modern navy with which to protect them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_TEXT">
+			<Text>War colleges train military officers in the administrative, staff, and policy aspects of their profession. The most important goal of the Self-Strengthening Movement in China was the development of military industries; namely, the construction of military arsenals and of shipbuilding dockyards to strengthen the Chinese navy. This program wasestablished with the help of foreign advisors and administrators, such as Léonce Verny who helped build the Ningbo Arsenal in 1862-64, or the French officer Prosper Giquel who directed the construction of the Fuzhou Arsenal in 1867-74. Zeng and Li collaborated to construct the Jiangnan Arsenal. Schools for the study of mechanical skills and navigation under the direction of foreign advisers were established at these arsenals and dockyards.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_GREAT_QING_CIXI_DESCRIPTION">
+			<Text>GREAT QING (CIXI)[NEWLINE][NEWLINE]UNIQUE TRAIT: SELF-STRENGTHENING REFORMS[NEWLINE]Combat Units yield [ICON_CULTURE] Culture when promoted and are upgraded for free as new [ICON_CULTURE] Social Policies and Branches are adopted.[NEWLINE][NEWLINE]UNIQUE BUILDING: NAVAL COLLEGE (SEAPORT/DRYDOCK)[NEWLINE]The Naval War College is the unique replacement for the Seaport for the Great Qing. In addition to its regular abilities, the Naval War College doubles the amount of XP that Naval Units trained in this city begin with. It also provides a free Arsenal in the city. Build Naval Colleges in your most vulnerable port cities to ensure you have a modern navy with which to protect them.[NEWLINE][NEWLINE]UNIQUE UNIT: PEKING FIELD FORCE (GREAT WAR INFANTRY)[NEWLINE]The unique Peking Field Force replaces the Great War Infantry for Great Qing. Unlike the Great War Infantry, this unit is unlocked at Steam Power and is also trained at double the normal speed in the Capital, although it is slightly weaker. If upgraded to from a Rifleman, this unit earns promotions 15% faster. These units will prove themselves most effective  as a last-line of defense against foes threatening the capital.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+<!--CIVILIZATION-->
+<Row Tag="TXT_KEY_CIV_JFD_GREAT_QING_CIXI_ADJECTIVE">
+<Text>大清帝國</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV_JFD_GREAT_QING_CIXI_DESC">
+<Text>大清帝國</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV_JFD_GREAT_QING_CIXI_SHORT_DESC">
+<Text>大清帝國</Text>
+</Row>
+<!--TAL-->
+<Replace Tag="TXT_KEY_JFD_TAL_CHINA">
+<Text>中華</Text>
+</Replace>
+<!--Pedia-->
+<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_HEADING_1">
+<Text>天朝概覽</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_TEXT_1">
+<Text>大清帝國（滿語：ᡩᠠᡳ᠌ᠴᡳᠩ ᡤᡠᡵᡠᠨ，穆麟德轉寫：daicing gurun）是中國歷史上最後一個封建王朝，共傳十二帝，初稱後金。從努爾哈赤建國起，總計296年。從皇太極改國號爲清起，國祚276年。從清兵入關，建立全國性政權算起爲268年。[NEWLINE][NEWLINE]1616年，建州女真首領努爾哈赤建國，建元天命，國號金，或稱後金，羣臣上尊號爲覆育列國英明皇帝，自尊爲天命皇帝。 1636年，皇太極稱帝，改國號爲大清。1644年，明將吳三桂降清，多爾袞率領清兵入關。入關後20年時間裏，平定大順、大西、南明等政權。康熙時期統一臺灣，完成全國統一。康雍乾三朝走向鼎盛，中國的傳統社會取得了前所未有的發展成就。土地增墾，物產盈豐，小農經濟的社會生活繁榮穩定，綜合國力強盛。鴉片戰爭之後，清朝多次遭外國列強入侵。爲積極維護國家領土主權的完整，先後進行了洋務運動和戊戌變法等近代化的探索和改革。1912年2月12日，溥儀退位，頒布了清帝退位詔書，清朝滅亡。[NEWLINE][NEWLINE]清朝時期，統一多民族國家得到鞏固和發展，清朝統一蒙古諸部，將新疆和西藏納入版圖，積極維護國家領土主權完整。乾隆年間，中國作爲統一的多民族世界大國的格局最終確定。全盛時期的清朝，西抵蔥嶺和巴爾喀什湖，西北包括唐努烏梁海，北至漠北和西伯利亞，東到太平洋（包括庫頁島），南達南沙羣島。包括50多個民族，國家空前統一。期間中國古代的專制主義也推向最高峯。清朝前期農業和商業發達，江南出現密集的商業城市，全國出現大商幫。在此基礎上，人口突破四億，佔世界總人口的近一半。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_HEADING_2">
+<Text>清軍入關</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_TEXT_2">
+<Text>明朝末年，李自成和張獻忠分別在陝西西安和四川成都建立大順和大西政權。1644年，李自成攻入北京，明思宗自盡，明朝滅亡。吳三桂引清兵入關，擊敗李自成，清朝入關，順治帝在北京即位，定都北京。同時，福王在南京稱帝，建立南明弘光朝，但因內部混亂而分裂。清軍陸續消滅李自成、張獻忠及南明各勢力，最終於1661年攻入雲南，永歷帝被殺，南明滅亡。清廷爲鎮壓反清勢力，封吳三桂、耿仲明、尚可喜爲三藩。多爾袞推行剃發易服政策，引發漢人強烈反抗，清軍鎮壓反抗者，造成大量屠殺。後清廷停止這些政策，實行墾荒和科舉，追尊崇禎帝和明朝忠臣。1661年，順治帝去世，康熙帝即位，消滅權臣鰲拜，鞏固皇權。三藩勢力請求撤藩，康熙帝同意，引發三藩之亂。清軍採取積極防御，最終於1681年平定三藩之亂。同年，清軍攻佔臺灣，明鄭勢力滅亡，清朝基本統一全國。</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_HEADING_3">
+<Text>康雍乾盛世</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_GREAT_QING_CIXI_TEXT_3">
+<Text>康熙帝平定三藩後，清朝進入康雍乾時期，這段時期是清朝發展的高峯時期，史學界通常稱爲“康雍乾盛世”。康熙帝爲政寬仁，留心民間疾苦，在他親政不久後，便宣布停止圈地，放寬墾荒地的免稅年限。他還着手整頓吏治，恢復京察、大計等考核制度。受康熙帝的“滋生人丁，永不加賦”（攤丁入畝）政策以及外來農作物的引進等影響，清朝人口大大提升。他先後任用靳輔和於成龍治理黃河與大運河，得到很大的成績。在他六次南巡期間，考察民情習俗之外，更是親自監督河工。康熙中期以後，因戰亂而遭到嚴重破壞的手工業逐步得到恢復和發展。爲安定社會秩序，他頒行十六條聖諭，要地方人士循循告誡鄉民。他又派心腹包衣（即家奴）如曹寅、李煦等人打探地方物價、人民收入與官紳不軌之事，並以密褶奏報。此即密折制度的萌芽，到雍正時期趨於完善。康熙帝重視對漢族士大夫的優遇，他多次舉辦博學鴻儒科，創建南書房制度，並且向來華傳教士學習西方科學與文化[NEWLINE][NEWLINE]雍正帝勤於政事，自詡“以勤先天下”、“朝乾夕惕”。他在位期間的奏折大多由他親自批改，軍機處的諭旨也由他再三修改。他所親信的內外臣僚如張廷玉、鄂爾泰、田文鏡與李衛等人也都以幹練、刻覆着稱。他所派遣的特務遍及天下以監控地方事務，密折制度至此完善，然而屢興文字獄打壓異己。雍正帝於1735年去世，其子弘歷繼位，即乾隆帝。[NEWLINE][NEWLINE]乾隆期間清朝疆域達1300萬餘平方公裏，東方的朝鮮與琉球國也早就成爲藩屬國之一。但只有德川幕府統治的日本處於鎖國時期，與清朝一度來往甚少。但幕府第四代將軍德川家綱（1651年至1680年在位）時，開始與清朝進行文化交流。他與他以後的幾代幕府將軍都十分尊重中國，稱其爲上國。日本朝野對清朝康熙、乾隆兩帝相當崇敬，對康熙帝尤甚，尊之爲“上國聖人”，對中國文化非常重視。對雍正帝亦稱爲“希世仁君”。而乾隆帝則以“十全武功”自譽，他平定準噶爾與回疆大小和卓之亂，使四川、貴州等地繼續改土歸流，然而其餘戰事皆小題大作使國庫嚴重損耗，讓清朝國力衰退:113-115，全國範圍內開始爆發民變。乾隆時期的戶部存銀最高達8,000萬兩，常年保持在6,000-7,000萬兩左右，足以應付政府的各項日常開支、重大工程、戰爭，而雖然清朝的賦稅較爲輕，且於康乾時期多次對外用兵、大興各項工程，但每年國家財政都會有餘，國庫儲備逐年上升。當時人口暴增與鄉村土地兼並嚴重，使得許多農民失去土地；加上貪官和珅等官員腐敗，於乾隆晚期到嘉慶時期陸續爆發民變。白蓮教於1770年代舉兵，後來又於1796年爆發川楚教亂，八年後被清軍鎮壓，領袖王三槐被處死。臺灣天地會領袖林爽文於1787年發動林爽文事件，歷時一年多。在乾隆年間，平定大小金川之亂、消滅準噶爾汗國等各威脅，將西域新疆地區納入版圖，並且頒布《欽定藏內善後章程》二十九條，加強中央政府對西藏的管治。</Text>
+</Row>
+<!--Cities-->
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_1">
+<Text>北京</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_2">
+<Text>順天府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_3">
+<Text>杭州府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_4">
+<Text>保定府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_5">
+<Text>福州府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_6">
+<Text>開封府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_7">
+<Text>武昌府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_8">
+<Text>長沙府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_9">
+<Text>蘭州府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_10">
+<Text>江寧府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_11">
+<Text>蘇州府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_12">
+<Text>南昌府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_13">
+<Text>廣州府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_14">
+<Text>桂林府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_15">
+<Text>貴陽府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_16">
+<Text>太原府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_17">
+<Text>濟南府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_18">
+<Text>西安府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_19">
+<Text>成都府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_20">
+<Text>雲南府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_21">
+<Text>奉天府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_22">
+<Text>齊齊哈爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_23">
+<Text>吉林烏拉</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_24">
+<Text>烏裏雅蘇臺</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_25">
+<Text>綏遠城</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_26">
+<Text>西寧府</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_QING_CIXI_27">
+<Text>臺灣府</Text>
+</Row>
+<!--Spies-->
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_0">
+<Text>愛新覺羅·顯玗</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_1">
+<Text>陳肅慎</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_2">
+<Text>瓜爾佳·爾泰</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_3">
+<Text>赫舍裏·英華</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_4">
+<Text>文懿</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_5">
+<Text>愛新覺羅·奕譞</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_6">
+<Text>程學啓</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_7">
+<Text>愛新覺羅·溥修</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_8">
+<Text>查理·喬治·戈登</Text>
+</Row>
+<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_QING_CIXI_9">
+<Text>潘鼎新</Text>
+</Row>
+<!--LEADER-->
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI">
+<Text>慈禧</Text>
+<Gender>feminine</Gender>
+</Row>
+<!--Pedia-->
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_NAME">
+<Text>孝欽顯皇後</Text>
+<Gender>feminine</Gender>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_HEADING_1">
+<Text>垂簾聽政</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_TEXT_1">
+<Text>慈禧於鹹豐二年（1852年）入宮，賜號蘭貴人（一說懿貴人），次年晉封懿嬪。因生下皇長子載淳（同治帝），晉至懿貴妃。鹹豐十一年（1861年），載淳即位，她與慈安兩宮並尊，稱“聖母皇太後”，徽號“慈禧”。之後聯合慈安、恭親王奕訢發動辛酉政變，誅顧命八大臣，奪取政權。執政初期，整頓吏治，重用漢臣，獲取列強支持，先後鎮壓太平天國、捻軍等起義，使清王朝獲得暫時的穩定。同時興起的洋務運動，使近代工商業獲得初步發展。史稱同治中興。​慈安暴卒、奕訢被免後，慈禧得以獨掌大權。期間一度歸政，但在戊戌政變後再度訓政。義和團運動興起後，利用其鬥爭對列強宣戰，引發八國聯軍侵華。兩宮回鑾後，相繼實行清末新政、預備立憲，企圖挽救王朝危機。光緒三十四年（1908年）十月二十一日，光緒帝駕崩，慈禧選擇溥儀作爲新帝，她自即日起被尊爲太皇太後。次日在儀鸞殿去世，享年七十四歲。葬於定東陵。諡號長達二十三字，簡稱“孝欽顯皇後”。</Text>
+</Row>
+<!--Lived-->
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_LIVED">
+<Text>道光十五年至光緒三十四年</Text>
+</Row>
+<!--Titles-->
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_SUBTITLE">
+<Text>大清國聖母皇太後</Text>
+</Row>
+<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_QING_CIXI_TITLES_1">
+<Text>老佛爺</Text>
+</Row>
+<!--DOM-->
+<Row Tag="TXT_KEY_CIV_DAWN_JFD_GREAT_QING_CIXI_TEXT">
+<Text>聖母皇太後在上！六宮肅穆，百官景從，列聖相承，謨烈昭垂，無不因時損益，著爲憲典。方今寰宇通達如血脈相連，列邦政法互爲經緯自成體系，惟我朝典章經二百載陳陳相因，當此三千年未有之變局，太後垂簾勤政，承祖宗締造之心，慰臣庶治平之望，行新政，辦洋務，練新軍，挽狂瀾於既倒！雖謗滿天下，然其苦心孤詣，實爲保我大清江山社稷。[NEWLINE][NEWLINE]老佛爺明鑑！今日之中國，蜿蜒長城枯毀，泱泱國困民窮，正處古今交匯之要衝。若能革故鼎新，師夷長技，整軍經武，本憲法爲綱並以輿情爲鑑，君民同心若臂指，朝野共氣似鼓桴，則我大清江山可傳之萬世！[NEWLINE][NEWLINE]嗚呼哀哉！如今強敵環伺，九萬裏江山更待重鑄，皇天後土，祖宗基業，如今皆系於太後一身！</Text>
+</Row>
+<!--Responses-->
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_FIRSTGREETING_1">
+<Text>見駕何不跪拜？既入天朝，當守禮法，豈容爾等直立？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_VICTORIA_FIRSTGREETING_1">
+<Text>哀家垂簾聽政，爾等蕞爾小邦，尚不入哀家法眼。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DEFEATED_1">
+<Text>善待八旗子弟，勿傷我百姓分毫。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_VICTORIA_DEFEATED_1">
+<Text>倒是小覷爾等蠻夷，然爾國終有沉淪之時，且看天朝中興！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_ATTACKED_HOSTILE_1">
+<Text>哈哈哈哈，爾等跳梁小醜，也敢犯我天威？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DEC_FRIENDSHIP_1">
+<Text>欲成萬國來朝之盛景，須得藩屬盡心。爾可願遞國書稱臣？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DENOUNCE_1">
+<Text>豎子安敢幹政？天朝綱紀豈容爾等褻瀆！[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]蠻夷無狀！公然詆毀天朝！注：尚未宣戰[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DENOUNCE_FRIEND_1">
+<Text>口稱友邦，實爲蛇蠍！[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們譴責了你！注意：你們不在交戰。[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_DOW_GENERIC_1">
+<Text>傳諭九門：整飭武備，蕩平不臣！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_EXPANSION_SERIOUS_WARNING_1">
+<Text>普天之下莫非王土！爾等蠻夷安敢覬覦天朝疆域？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_GREETING_HOSTILE_HELLO_1">
+<Text>蠻夷噤聲！此乃太和殿前，未得懿旨，安敢妄言？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_GREETING_NEUTRAL_HELLO_1">
+<Text>準爾啓奏，慎言慎行。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_GREETING_POLITE_HELLO_1">
+<Text>藩臣來朝，賜座賜茶。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+<Text>陳兵境上，意欲何爲？莫非要效列強前車之鑑？</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_LUXURY_TRADE_1">
+<Text>天朝物用豈容爾等推諉？速速應允，免生枝節！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_OPEN_BORDERS_EXCHANGE_1">
+<Text>欲效洋夷通商之例？且遞關文，待哀家朱批御準。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_PLOT_BUYING_SERIOUS_WARNING_1">
+<Text>豎子安敢污我山河？！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_REQUEST_1">
+<Text>天朝暫需爾等效力，速備貢品來獻。</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_RESPONSE_TO_BEING_DENOUNCED_1">
+<Text>既與大清爲敵，哀家必遣大軍踏平爾邦！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_TOO_SOON_FOR_DOF_1">
+<Text>黃口小兒也想攀附天朝？滾回爾等蠻荒之地！</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_JFD_GREAT_QING_CIXI_TOO_SOON_NO_PEACE_1">
+<Text>戰端既開，非滅國絕祀不可終！</Text>
+</Row>
+<!--UNIQUE TRAIT-->
+<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_QING_CIXI_SHORT">
+<Text>清末新政</Text>
+</Row>
+<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_QING_CIXI">
+<Text>戰鬥單位在升級時獲得一次性的[ICON_CULTURE]文化值，並在採用新的[ICON_CULTURE]社會政策和分支時獲得無償晉升。</Text>
+</Row>
+<!--UNIQUE 1-->
+<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE">
+<Text>北洋常備軍</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_HELP">
+<Text>強大的工業時代單位，取代了大清的線列步兵。盡管它稍微弱一些，但它可以更早地解鎖並只耗費一半的時間內訓練。該單位從線列步兵升級後晉升速度提高15%。</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_STRATEGY">
+<Text>北洋常備軍是清朝末年的一支軍隊，由直隸總督兼北洋大臣袁世凱於1902年創立，爲清朝自創建定武軍、武衛右軍以來的第三次擴軍。這種軍隊取代了大清的線列步兵。與線列步兵不同的是這個單位在蒸汽動力科技下解鎖，並且在首都也以正常速度的兩倍正常進行訓練。盡管它稍微弱一些，但如果從線列步兵升級該單位晉升速度將會提高15%。在中國歷史中，這些單位將被證明是抵御威脅首都的敵人的最有效的最後防線</Text>
+</Row>
+<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_TEXT">
+<Text>北洋常備軍是清朝末年由直隸總督兼北洋大臣袁世凱於1902年創立的一支軍隊，是繼定武軍、武衛右軍之後的第三次擴軍。光緒二十八年（1902年），袁世凱受命兼任練兵大臣，開始籌劃新軍建設，派遣王士珍、王英楷招募6000名士兵，並購置戰馬、火炮等裝備，增編騎兵、炮兵、輜重兵等兵種，完善部隊編制。到光緒二十九年（1903年），武衛右軍擴張爲北洋常備軍左鎮。光緒三十年（1904年），袁世凱再次招募新兵，編成北洋常備軍右鎮，並將左鎮、右鎮分別更名爲北洋常備軍第一鎮和第二鎮，每鎮約12500人，規模相當於西方的師級單位。同年下旬，又招募新兵編成北洋常備軍第三鎮。光緒三十一年（1905年），將湖北總督張之洞創設的江南自強軍與姜桂題部隊合編爲北洋常備軍第四鎮，同時徵募新兵組成第五鎮。同年，清朝統一各軍番號，北洋常備軍第一鎮至第五鎮分別改爲陸軍第二鎮、第四鎮、第三鎮、第六鎮和第五鎮，加上由八旗精英組成的陸軍第一鎮，總兵力達7萬餘人，形成了袁世凱編練新軍的主要軍事力量，俗稱“北洋六鎮”。</Text>
+</Row>
+<!--Promotions-->
+<Row Tag="TXT_KEY_PROMOTION_JFD_PEKING_FORCE">
+<Text>自強運動</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_JFD_PEKING_FORCE_HELP">
+<Text>從戰鬥中獲得15%的經驗值。</Text>
+</Row>
+<!--Dummies-->
+<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_PEKING_FORCE">
+<Text>替代: 北洋常備軍</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_PEKING_FORCE_HELP">
+<Text>+100% [ICON_PRODUCTION]訓練北洋常備軍時首都的生產力</Text>
+</Row>
+<!--UNIQUE 2-->
+<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE">
+<Text>海軍衙門</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_HELP">
+<Text>所有沿海城市+1[ICON_PRODUCTION]生產力+1[ICON_GOLD] 金幣，這些城市在建造海軍單位時+15% [ICON_PRODUCTION] 生產力並且這些海軍單位將會獲得獲得雙倍的經驗值。[NEWLINE][NEWLINE]爲這座城市提供了一個免費的兵工廠。[NEWLINE][NEWLINE]這些城市一定要建在海邊。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_HELP_EE">
+<Text>在這個城市訓練的海軍單位從建築開始獲得雙倍的經驗值。[NEWLINE][NEWLINE]在這個城市提供一個免費的兵工廠。在這個城市訓練的海軍單位有+15% [ICON_STRENGTH] 戰鬥力。[NEWLINE][NEWLINE]城市必須要建有船塢。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_STRATEGY">
+<Text>清朝自1875年開始建設新式海軍。光緒十一年（1885年）中法戰爭後設立海軍衙門，光緒十四年（1888年）成立北洋水師，但在甲午戰爭中全軍覆沒。光緒三十三年（1907年），清政府恢復海軍建設，設立“海軍處”，隸屬於陸軍部，內分機要、船政、運籌三司，後改爲海政、船政、籌備、儲蓄、醫務、法務六司，並增設主計處。宣統元年（1909年），載洵、薩鎮冰被任命爲籌辦海軍大臣，設立參贊廳，分祕書、庶務兩司，設一至四等參謀官及四司，後增設醫務司。宣統二年（1910年），制定《海軍部暫行官制》，將各司分別改爲軍制司、軍政司、軍學司、軍防司、軍醫司、軍樞司、軍儲司和軍法司，共八司，並撤銷參贊廳，正式成立海軍部。宣統三年（1911年），裁撤軍防司，其職責並入軍制司和軍學司。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_STRATEGY_EE">
+<Text>清朝自1875年開始建設新式海軍。光緒十一年（1885年）中法戰爭後設立海軍衙門，光緒十四年（1888年）成立北洋水師，但在甲午戰爭中全軍覆沒。光緒三十三年（1907年），清政府恢復海軍建設，設立“海軍處”，隸屬於陸軍部，內分機要、船政、運籌三司，後改爲海政、船政、籌備、儲蓄、醫務、法務六司，並增設主計處。宣統元年（1909年），載洵、薩鎮冰被任命爲籌辦海軍大臣，設立參贊廳，分祕書、庶務兩司，設一至四等參謀官及四司，後增設醫務司。宣統二年（1910年），制定《海軍部暫行官制》，將各司分別改爲軍制司、軍政司、軍學司、軍防司、軍醫司、軍樞司、軍儲司和軍法司，共八司，並撤銷參贊廳，正式成立海軍部。宣統三年（1911年），裁撤軍防司，其職責並入軍制司和軍學司。</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_TEXT">
+<Text>軍事學院對軍官進行行政、參謀和政策方面的專業培訓。中國的自強運動最重要的目標是發展軍事工業；即建設武器庫和造船船塢，以加強中國海軍。這個項目是在外國顧問和行政人員的幫助下建立起來的，比如在1862-64年幫助建造寧波兵工廠的弗尼，或者在1867-74年指導建造福州兵工廠的法國軍官吉奎爾。曾和李合作建造了江南兵工廠。在外國顧問的指導下，在這些兵工廠和船塢建立了學習機械技術和航海的學校。</Text>
+</Row>
+<!--MOD-->
+<Row Tag="TXT_KEY_MOD_JFD_GREAT_QING_CIXI_DESCRIPTION">
+<Text>大清(慈禧)[NEWLINE][NEWLINE]UNIQUE TRAIT: SELF-STRENGTHENING REFORMS[NEWLINE]Combat Units yield [ICON_CULTURE] Culture when promoted and are upgraded for free as new [ICON_CULTURE] Social Policies and Branches are adopted.[NEWLINE][NEWLINE]UNIQUE BUILDING: NAVAL COLLEGE (SEAPORT/DRYDOCK)[NEWLINE]The Naval War College is the unique replacement for the Seaport for the Great Qing. In addition to its regular abilities, the Naval War College doubles the amount of XP that Naval Units trained in this city begin with. It also provides a free Arsenal in the city. Build Naval Colleges in your most vulnerable port cities to ensure you have a modern navy with which to protect them.[NEWLINE][NEWLINE]UNIQUE UNIT: PEKING FIELD FORCE (GREAT WAR INFANTRY)[NEWLINE]The unique Peking Field Force replaces the Great War Infantry for Great Qing. Unlike the Great War Infantry, this unit is unlocked at Steam Power and is also trained at double the normal speed in the Capital, although it is slightly weaker. If upgraded to from a Rifleman, this unit earns promotions 15% faster. These units will prove themselves most effective as a last-line of defense against foes threatening the capital.</Text>
+</Row>
+</Language_zh_Hant_HK>
+
+</GameData>
+

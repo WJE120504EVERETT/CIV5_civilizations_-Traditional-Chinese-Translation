@@ -1,0 +1,58 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Janboruta: 
+----------------
+	Art (Leaderscene; Map; Civ Icon; Leader Icon; Unique Icons)
+----------------
+bernie14:
+----------------
+	Graphics (Unit Model)
+	https://forums.civfanatics.com/resources/chinese-rifleman.19778/
+----------------
+SeelingCat: 
+----------------
+	Research Cities)
+----------------
+Bill Brown and Mikael Sandgren: 
+----------------
+	Music (War)
+	https://www.youtube.com/watch?v=BqhOb-L5lUw
+----------------
+Dai Liqiang: 
+----------------
+	Music (Peace)
+	https://www.youtube.com/watch?v=zUj5UJwymzI
+----------------
+Typhlomence:
+----------------
+	Utilities (UniqueDiplomacyUtilsV2.lua)
+	https://forums.civfanatics.com/threads/uniquediplomacyutils-a-set-of-lua-functions-to-enable-unique-diplomacy-responses.550294/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Britannica.com (Civ; Leader)
+----------------
+	Pedias (Great Qing; Cixi)
+	https://www.britannica.com/topic/Qing-dynasty
+	https://www.britannica.com/biography/Cixi
+----------------
+Wikipedia: 
+----------------
+	Pedias (Peking Field Force; Naval War College)
+	https://en.wikipedia.org/wiki/Peking_Field_Force
+	https://en.wikipedia.org/wiki/Staff_college
+--------------------------------------------------------------
+--------------------------------------------------------------

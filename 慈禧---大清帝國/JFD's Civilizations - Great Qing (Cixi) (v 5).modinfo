@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3658b906-d6c0-4fe2-a6d0-421cd9847c6a" version="5">
+  <Properties>
+    <Name>JFD's Civilizations - Great Qing (Cixi)</Name>
+    <Teaser>Adds [COLOR_CYAN]Great Qing under Cixi[ENDCOLOR]. Click for details.</Teaser>
+    <Description>GREAT QING (CIXI)[NEWLINE][NEWLINE]UNIQUE TRAIT: SELF-STRENGTHENING REFORMS[NEWLINE]Combat Units yield [ICON_CULTURE] Culture when promoted and are upgraded for free as new [ICON_CULTURE] Social Policies and Branches are adopted.[NEWLINE][NEWLINE]UNIQUE BUILDING: NAVAL COLLEGE (SEAPORT/DRYDOCK)[NEWLINE]The Naval War College is the unique replacement for the Seaport for the Great Qing. In addition to its regular abilities, the Naval War College doubles the amount of XP that Naval Units trained in this city begin with. It also provides a free Arsenal in the city. Build Naval Colleges in your most vulnerable port cities to ensure you have a modern navy with which to protect them.[NEWLINE][NEWLINE]UNIQUE UNIT: PEKING FIELD FORCE (GREAT WAR INFANTRY)[NEWLINE]The unique Peking Field Force replaces the Great War Infantry for Great Qing. Unlike the Great War Infantry, this unit is unlocked at Steam Power and is also trained at double the normal speed in the Capital, although it is slightly weaker. If upgraded to from a Rifleman, this unit earns promotions 15% faster. These units will prove themselves most effective  as a last-line of defense against foes threatening the capital.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Shadow Pope, SeelingCat, Typhlomence</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1CB1A9AFA38E9995F5918771B0A8710D" import="1">Art/Graphics/Peking Field Force/pekingfieldforce.dds</File>
+    <File md5="843170E00668A803B9F0ECF588BD5036" import="1">Art/Graphics/Peking Field Force/pekingfieldforce.fbx</File>
+    <File md5="CBCD784E3199C98C32B5E65667630554" import="1">Art/Graphics/Peking Field Force/pekingfieldforce.fxsxml</File>
+    <File md5="DE0AE817DE14373CF7B0D379FD7323A3" import="1">Art/Graphics/Peking Field Force/pekingfieldforce.gr2</File>
+    <File md5="BE1FB29E70DC57DBB393F6033FE5DA90" import="1">Art/Graphics/Peking Field Force/pekingfieldforce_sref.dds</File>
+    <File md5="832E6411BCDCFBF754D88CBFAC24A985" import="1">Art/Graphics/Peking Field Force/sv_PekingForce.dds</File>
+    <File md5="AB1AD51FA0FC7BC29EE814BD8F984BF6" import="1">Art/Icons/JFD_GreatQingCixi_UnitFlagAtlas_32.dds</File>
+    <File md5="7B5399071C494718B1A4D15448C50783" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_128.dds</File>
+    <File md5="6245878ABCB61A8C451FA93D39FF32E9" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_16.dds</File>
+    <File md5="8B839A6C322B254C7766EDD02A1757ED" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_22.dds</File>
+    <File md5="D0FE69BB30BA3380C7E39BEE2A2F17F9" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_24.dds</File>
+    <File md5="5F39826BFBFECD74A58CD6264154DD95" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_256.dds</File>
+    <File md5="17E802A904EC2694CC5E5F2C225A79E2" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_32.dds</File>
+    <File md5="D80057F5E152E0AD1315B6404A05884F" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_45.dds</File>
+    <File md5="5BFA7DE7CF35CB9A2F20FCABBB55EA7A" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_48.dds</File>
+    <File md5="53DBB569F4C94E2E65C2DF1E581BF5BA" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_64.dds</File>
+    <File md5="423A38ED2D8CC90F0C52F9A581F51B80" import="1">Art/Icons/JFD_GreatQingCixi_AlphaAtlas_80.dds</File>
+    <File md5="9D580D65507069A860179027CBBE0AC3" import="1">Art/Icons/JFD_GreatQingCixi_IconAtlas_128.dds</File>
+    <File md5="4B65A1E8CDB84AEFCC8B0A16F68BD3EE" import="1">Art/Icons/JFD_GreatQingCixi_IconAtlas_256.dds</File>
+    <File md5="34105EC263233A516E9698C4AB831A7E" import="1">Art/Icons/JFD_GreatQingCixi_IconAtlas_32.dds</File>
+    <File md5="C470E618B157BF482942BE957A5D4097" import="1">Art/Icons/JFD_GreatQingCixi_IconAtlas_45.dds</File>
+    <File md5="D34150EEAC9667E10BC6F84D51B569C9" import="1">Art/Icons/JFD_GreatQingCixi_IconAtlas_64.dds</File>
+    <File md5="6C23386E1F5FB4388BC9B34FB57DBC2D" import="1">Art/Icons/JFD_GreatQingCixi_IconAtlas_80.dds</File>
+    <File md5="47A72F64E45FFF3179A4CED472EA5701" import="1">Art/Leaderscene/JFD_GreatQingCixi_Diplo.dds</File>
+    <File md5="D717F07AF5ECCE0B9BF5F9405F0B3D63" import="1">Art/Leaderscene/JFD_GreatQingCixi_Scene.xml</File>
+    <File md5="EAF209245CA67A760D8AD56BE4695351" import="1">Art/Maps/JFD_MapGreatQingCixi512.dds</File>
+    <File md5="75E0F1243018AE6D13B1109238C490AB" import="1">Art/Maps/JFD_DOM_GreatQingCixi.dds</File>
+    <File md5="EB3529ABA25F707EE90AD1FDF5E6359F" import="1">Audio/JFD_GreatQingCixi_Peace.mp3</File>
+    <File md5="362AF7AF1B7CB4AF9DC52F04E0439E64" import="1">Audio/JFD_GreatQingCixi_War.mp3</File>
+    <File md5="0E3CE80165B3A38465C89FAFB165D63C" import="0">Core/GreatQingCixi_ArtDefines.sql</File>
+    <File md5="2DF4405D5E7244AFDAE4DCE02DE5A35E" import="0">Core/GreatQingCixi_GameDefines.sql</File>
+    <File md5="08C18E9A9E458EA13227C69C4F0A98D5" import="0">Core/GreatQingCixi_GameText.xml</File>
+    <File md5="D49A6843B72FCF902A7D436B70403F7B" import="0">Core/GreatQingCixi_ModSupport.sql</File>
+    <File md5="1DB6AAD681771C213AB531CC011A02E2" import="0">Credits.txt</File>
+    <File md5="0FDBD010198906A6EB7615E78CEB3439" import="0">Lua/JFD_Civs_GreatQingCixi_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="A4759D7B62448C31C908D01635EC0FB7" import="1">Lua/Utilities/UniqueDiplomacyUtilsV2.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GreatQingCixi_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreatQingCixi_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreatQingCixi_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GreatQingCixi_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_GreatQingCixi_Functions.lua">
+      <Name>JFD_Civs_GreatQingCixi_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
