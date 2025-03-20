@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MONGOLIA_BOGD_KHAN_ADJECTIVE">
+			<Text>Great Mongolian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MONGOLIA_BOGD_KHAN_DESC">
+			<Text>Great Mongolian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MONGOLIA_BOGD_KHAN_SHORT_DESC">
+			<Text>Great Mongolia</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_1">
+			<Text>Niislel Khüree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_2">
+			<Text>Burga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_3">
+			<Text>Tsetserleg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_4">
+			<Text>Tsagaan Baishin </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_5">
+			<Text>Uliastai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_6">
+			<Text>Khovd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_7">
+			<Text>Manjusri </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_8">
+			<Text>Kharkorin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_9">
+			<Text>Bayan Tümen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_10">
+			<Text>Choibalsan </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_11">
+			<Text>Ölgii </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_12">
+			<Text>Ulaangom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_13">
+			<Text>Arvaikheer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_14">
+			<Text>Bayankhongor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_15">
+			<Text>Öndörkhaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_16">
+			<Text>Zuunmod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_17">
+			<Text>Zamyn-Üüd </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_18">
+			<Text>Mörön</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_19">
+			<Text>Gandan </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_20">
+			<Text>Khatgal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_21">
+			<Text>Choir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_22">
+			<Text>Hailar </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_23">
+			<Text>Erdene Zuu </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_24">
+			<Text>Bürentogtokh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_25">
+			<Text>Jalkhanzyn </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_26">
+			<Text>Dalandsadgad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_27">
+			<Text>Khalban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_28">
+			<Text>Naiman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_29">
+			<Text>Borshogun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_30">
+			<Text>Arluub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_31">
+			<Text>Khartchun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_32">
+			<Text>Tamaar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_33">
+			<Text>Olchunub</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_0">
+			<Text>Balingiin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_1">
+			<Text>Mijiddorjiin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_2">
+			<Text>Da Lam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_3">
+			<Text>Tsendiin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_4">
+			<Text>Tögs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_5">
+			<Text>Sando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_6">
+			<Text>Danzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_7">
+			<Text>Uvsanchoijinyam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_8">
+			<Text>Agvaanl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_9">
+			<Text>Agvaanchoyjivanchugperenlaijamts</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN">
+			<Text>Bogd Gegeen</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_NAME">
+			<Text>Bogd Gegeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_TEXT_1">
+			<Text>The future Bogd Khan was born in 1869 in Lithang, Kham, in a family of a Tibetan official.[3] His father, Gonchigtseren, was an accountant at the 12th Dalai Lama's court. The boy was officially recognized as the new incarnation of the Bogd Gegen in Potala in the presence of the 13th Dalai Lama and the Panchen Lama. The new Bogd Gegen arrived in Urga, the capital of Outer Mongolia, in 1874. After this he lived only in Mongolia.[NEWLINE][NEWLINE]According to one eyewitness,[NEWLINE][NEWLINE]...he did not become a puppet in the hands of the lamas but, on the contrary, took them in hand. Since his young years he wanted to restore the great Mongolian kingdom of Genghis Khan or, at least, to liberate Mongolia from the Chinese and make it self-dependent. Local princes feared him, but the masses liked him... An independent and clever first hierarch and ruler was unacceptable neither for Tibet, nor for the Chinese.[NEWLINE][NEWLINE]As a result, from his young years the 8th Bogd Gegen was the subject of intrigues of Qing officials in Urga. Later he became the subject of propaganda campaigns organised by Mongolian Communists, which attacked him by alleging that he was a prolific poisoner, a paedophile, and a libertine, which was later repeated in belles-lettres and other non-scientific literature (e.g. James Palmer). However, analysis of documents stored in Mongolian and Russian archives does not confirm these statements.[NEWLINE][NEWLINE]As a monk, the Bogd had limited access to physical means of imposing power, though some enemies were executed for blasphemy. The Polish traveller Ferdinand Ossendowski recorded that he knew "every thought, every movement of the Princes and Khans, the slightest conspiracy against him, and the offender is usually kindly invited to Urga, from where he does not return alive. Ossendovsky's claims for his acquaintance with the Bogd Gegen were not confirmed by comparative analysis of his book and manuscripts.[NEWLINE][NEWLINE]The Bogd Gegen lost his power when Chinese troops occupied the country in 1919. The Tusiyetu Khan Aimak's Prince Darchin Ch'in Wang was a supporter of Chinese rule while his younger brother Tsewang was a supporter of Ungern-Sternberg. When Baron Ungern's forces failed to seize Urga in late 1920, the Bogd was placed under house arrest; then he was freed and reinstated by Ungern shortly before he took Urga in 1921. After the revolution in 1921 led</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_LIVED">
+			<Text>1869 - 1924 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_SUBTITLE">
+			<Text>Leader of Mongolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_TITLES_1">
+			<Text>Khagan</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_GREAT_MONGOLIA_BOGD_KHAN_TEXT">
+			<Text>Joy and peace be upon you, the great and holy Bogd Khan. Born as the reincarnation of Bogd Gegeen in 1869 AD, you would become the theoretic and sovereign centre of a revitalized and Buddhist Mongolian empire. In 1911, in the wake of the collapse of the Qing Dynasty, Mongolia would seize its opportunity to declare its autonomy. But though your efforts to seek international recognition and friendship were tireless and noble, your Khanate would be short-lived, and your reign would fall to the forces of the newly established Republic of China.[NEWLINE][NEWLINE]Stalwart and pious Khagan, whose faith and wisdom reaches back centuries into the past, the time to re-assert Mongolia's independence has been reborn. Can you lead your people in faith and happiness? Can you inspire the cause of those who see the nobility in the ways of the sacred and old? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_FIRSTGREETING_1">
+			<Text>Peace to you traveller, I am the Bogd Khan. I extend the hand of my people in friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DEFEATED_1">
+			<Text>You will never know peace so long as you continue this violent path.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_ATTACKED_HOSTILE_1">
+			<Text>Friends of my people will come. You will see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DEC_FRIENDSHIP_1">
+			<Text>I offer you my hand in friendship. Will you join Mongolia in making a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DENOUNCE_1">
+			<Text>You are a threat to the good friends of this world.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DENOUNCE_FRIEND_1">
+			<Text>You have betrayed the friendship of my people. This cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DOW_GENERIC_1">
+			<Text>Sometimes we must struggle to survive. This is our struggle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Please, my friend. Settler elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREETING_HOSTILE_HELLO_1">
+			<Text>Unwelcome one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREETING_POLITE_HELLO_1">
+			<Text>My friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I seek only to make peace with this world. I ask that you move your warriors to those seeking war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_LUXURY_TRADE_1">
+			<Text>Will you consider this, my friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Between two good friends, there should be no borders. Please, won't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>As a friend, I ask you to resist buying up our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_REQUEST_1">
+			<Text>My people suffer. As a friend, I ask your aide.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I am ashamed to have brought you this pain. I hope we can repair our friendship in time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_TOO_SOON_FOR_DOF_1">
+			<Text>Sadly, I cannot call you a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_TOO_SOON_NO_PEACE_1">
+			<Text>I'm afraid it cannot be done.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MONGOLIA_BOGD_KHAN_SHORT">
+			<Text>Elevated by The Many</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MONGOLIA_BOGD_KHAN">
+			<Text>When a Great Prophet is spawned, Barbarian Units on the same landmass are converted to your control. Cities with a Great Prophet stationed in them convert [ICON_PEACE] Faith Per Turn to cultural border expansion.</Text>
+		</Row>
+		<!--Alerts-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MONGOLIA_BOGD_KHAN_MESSAGE">
+			<Text>With the birth of this Great Prophet, [COLOR_POSITIVE_TEXT]Barbarian Units[ENDCOLOR] have rallied to your cause!</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREAT_PROPHET">
+			<Text>Elevated By The Many</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREAT_PROPHET_HELP">
+			<Text>This unit spawned as a Great Prophet.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS">
+			<Text>Gate of Peace and Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS_HELP">
+			<Text>+1 [ICON_PEACE] Faith per [ICON_HAPPINESS_1] Local Happiness in this City.[NEWLINE][NEWLINE]City must have a Shrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS_STRATEGY">
+			<Text>The unique Gate of Peace and Happiness replaces the Temple for Great Mongolia. Unlike the Temple, this building does not provide any intrinsic [ICON_PEACE] Faith. Instead, it yields [ICON_PEACE] Faith based on the city's [ICON_HAPPINESS_1] Local Happiness. It does not require any maintenance. Ensure your cities are content to maximize the Gate's faith output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS_TEXT">
+			<Text>The Winter Palace of the Bogd Khan, or the Bogd Khan Palace Museum, is a museum complex located in Ulaanbaatar, Mongolia. It was the Green Palace of the eighth Jebtsundamba Khutughtu, who was later proclaimed Bogd Khan, or ruler of Mongolia. Alongside being the oldest museum, it is also considered as one with the biggest collection in Mongolia. The palace is the only one left from originally four residences of the Bogd Khan. </Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GATE_PEACE_HAPPINESS">
+			<Text>Dummy: Gate of Peace and Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GATE_PEACE_HAPPINESS_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR">
+			<Text>Manlaibaatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_HELP">
+			<Text>Leadership bonus doubled in own borders. Points toward a Manlaibaatar is generated per Barbarian Unit converted to your ownership when a Great Prophet is spawned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_STRATEGY">
+			<Text>The Manlaibaatar is the unique Great General replacement for Great Mongolia. The standard [ICON_STRENGTH] Combat Strength bonus conferred by a Great General to nearby friendly Units is doubled within friendly borders. In addition, bonus points toward a Manlaibaatar are generated for every Barbarian Unit that converts to your ownership when a Great Prophet is spawned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_TEXT">
+			<Text>Manlaibaatar Damdinsüren was a military commander, Pan-Mongolist and diplomat. In 1911 he and other Mongolian nobility and high ranking Buddhist lamas participated in a secret congress in Ikh Khüree convened by Mongolia's religious leader, the Jebtsundamba Khutuktu, to formulate a declaration of independence from Manchu Chinese rule. Once the declaration was issued, Damdinsüren helped mobilize thousands of soldiers, seized the northern Inner Mongolian city of Hailar and offered his allegiance to the Bogd Khan.[3] Under the Bogd Khan's government he served as counselor first class of the ministry of the army and then Deputy Minister of Foreign Affairs. In August 1912, his forces combined with those of Khatanbaatar Magsarjav and Ja Lama to liberate the city of Khovd in western Mongolia from Chinese occupation, for which he received the honorary title of Manlaibaatar ("Best Hero") and the princely title "beyle." </Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_ACTIVE">
+			<Text>Heroic Leadership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_ACTIVE_HELP">
+			<Text>Benefits doubly from Great General bonus when in own borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_INACTIVE">
+			<Text>Heroic Leadership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_INACTIVE_HELP">
+			<Text>Benefits doubly from Great General bonus when in own borders.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_1">
+			<Text>Damdinsüren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_2">
+			<Text>Khatanbaatar Magsarjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_3">
+			<Text>Ja Lama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_4">
+			<Text>Darizavyn Losol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_5">
+			<Text>Chingünjav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_6">
+			<Text>Khorloogiin Choibalsan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_7">
+			<Text>Dulamsürengiin Davaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_8">
+			<Text>Batyn Dorj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_9">
+			<Text>Dovchinsurengiin Ganzorig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_10">
+			<Text>Gürsediin Saikhanbayar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_11">
+			<Text>Zhamyangiyn Lhagvasuren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_12">
+			<Text>Jamsrangijn Jondon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_13">
+			<Text>Shagalyn Jadambaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_14">
+			<Text>Güriin Ragchaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_15">
+			<Text>Sengge Rinchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_16">
+			<Text>Damdin Sükhbaatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_17">
+			<Text>Butochiyn Tsog</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_DESC">
+			<Text>Promote to Manlaibaatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_TT">
+			<Text>{TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_DESC}[NEWLINE][NEWLINE]Promote this Unit into a Manlaibaatar. This action expends the stacked Great Prophet.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unit must be at least Level 3 and stacked with a Great Prophet.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_TT_DISABLED">
+			<Text>{TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_DESC}[NEWLINE][NEWLINE]Promote this Unit into a Manlaibaatar. This action expends the stacked Great Prophet.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Unit must be at least Level 3 and stacked with a Great Prophet.[ENDCOLOR]</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_GREAT_MONGOLIA_BOGD_KHAN_DESCRIPTION">
+			<Text>MONGOLIA (BOGD KHAN)[NEWLINE][NEWLINE]UNIQUE TRAIT: ELEVATED BY THE MANY[NEWLINE]When a Great Prophet is spawend, Barbarian Units on the same landmass are converted to your control. Cities with a Great Prophet stationed in them convert [ICON_PEACE] Faith Per Turn to cultural border expansion.[NEWLINE][NEWLINE]UNIQUE UNIT: MANLAIBAATAR (GREAT GENERAL)[NEWLINE]The Manlaibaatar is the unique Great General replacement for Great Mongolia. The standard [ICON_STRENGTH] Combat Strength bonus conferred by a Great General to nearby friendly Units is doubled within friendly borders. In addition, bonus points toward a Manlaibaatar are generated for every Barbarian Unit that converts to your ownership when a Great Prophet is spawned.[NEWLINE][NEWLINE]UNIQUE BUILDING: GATE OF PEACE AND HAPPINESS (TEMPLE)[NEWLINE]The unique Gate of Peace and Happiness replaces the Temple for Great Mongolia. Unlike the Temple, this building does not provide any intrinsic [ICON_PEACE] Faith. Instead, it yields [ICON_PEACE] Faith based on the city's [ICON_HAPPINESS_1] Local Happiness. It does not require any maintenance. Ensure your cities are content to maximize the Gate's faith output.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MONGOLIA_BOGD_KHAN_ADJECTIVE">
+			<Text>博克多汗國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MONGOLIA_BOGD_KHAN_DESC">
+			<Text>博克多汗國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_MONGOLIA_BOGD_KHAN_SHORT_DESC">
+			<Text>博克多汗國</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_1">
+			<Text>京城庫倫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_2">
+			<Text>布爾加斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_3">
+			<Text>車車爾勒格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_4">
+			<Text>查干拜神 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_5">
+			<Text>烏利亞斯泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_6">
+			<Text>霍夫德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_7">
+			<Text>文殊師利 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_8">
+			<Text>卡爾科林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_9">
+			<Text>巴彥圖門</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_10">
+			<Text>科巴爾桑 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_11">
+			<Text>烏列蓋 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_12">
+			<Text>烏蘭固木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_13">
+			<Text>阿爾維希爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_14">
+			<Text>巴彥洪戈爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_15">
+			<Text>溫都爾汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_16">
+			<Text>宗莫德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_17">
+			<Text>扎門烏德 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_18">
+			<Text>木倫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_19">
+			<Text>甘丹 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_20">
+			<Text>哈特加爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_21">
+			<Text>詩班</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_22">
+			<Text>海拉爾 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_23">
+			<Text>額爾德尼召</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_24">
+			<Text>布倫托格托克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_25">
+			<Text>賈克漢岑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_26">
+			<Text>達蘭扎德嘎德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_27">
+			<Text>哈爾班</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_28">
+			<Text>奈曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_29">
+			<Text>博爾舒古恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_30">
+			<Text>亞魯布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_31">
+			<Text>喀爾春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_32">
+			<Text>塔瑪爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_33">
+			<Text>奧爾楚努布</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_0">
+			<Text>巴靈吉因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_1">
+			<Text>邁吉多吉因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_2">
+			<Text>大林區</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_3">
+			<Text>達木丁蘇倫</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_4">
+			<Text>那木囊苏伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_5">
+			<Text>三多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_6">
+			<Text>丹贊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_7">
+			<Text>貢齊格策倫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_8">
+			<Text>阿格萬爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREAT_MONGOLIA_BOGD_KHAN_9">
+			<Text>澤蔔尊丹巴</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN">
+			<Text>博克多格根額真汗</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_NAME">
+			<Text>博克多格根額真汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_TEXT_1">
+			<Text>博格達汗在1869年出生於康區理塘的一個西藏官員家庭。他的父親貢其格色仁（Gonchigtseren）是第十二世達賴喇嘛府上的會計。在十三世達賴喇嘛和班禪喇嘛的見證下，這名男孩在布達拉宮被正式認定為博格多·格根的轉世靈童。新任博格多·格根於1874年抵達外蒙古首府庫倫。他從年輕時就想恢復成吉思汗的大蒙古王國，或至少把蒙古從中國的統治下解放出來，實現自力更生。當地的王公貴族畏懼他，但群眾卻喜歡他...無論對西藏還是對中國來說，一個獨立而又聰明的第一任主教和統治者都是不可接受的。後來，他成為蒙古共產黨組織的宣傳活動的對象，他們攻擊他，說他是一個多產的投毒者、戀童癖者和浪蕩子，這些說法後來在純文學和其他非科學文獻中被重複（例如詹姆斯·帕爾默）。然而，對蒙古和俄羅斯檔案中儲存的文件的分析並未證實這些說法。波蘭旅行家費迪南德·奧森多夫斯基記錄道，他「知道王子和可汗的每一個想法、每一個動作，以及針對他的最輕微的陰謀，而罪犯通常會被熱情地邀請到庫倫，從那裡他不會活著回來。」奧森多夫斯基聲稱他認識博格多·格根，但對他的書和部落格手稿的比較土司耶圖汗艾瑪克的王子達爾欽·欽旺是中國統治的支持者，而他的弟弟則旺是恩琴-施滕伯格的支持者。</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_LIVED">
+			<Text>1869 - 1924 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_SUBTITLE">
+			<Text>博克多汗國的統治者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GREAT_MONGOLIA_BOGD_KHAN_TITLES_1">
+			<Text>第八世哲布尊丹巴呼圖克圖</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_GREAT_MONGOLIA_BOGD_KHAN_TEXT">
+			<Text>願歡樂與平安降臨於您，偉大而神聖的博克多格根額真汗！您於公元1869年作為博格多·格根的轉世誕生，並成為複興的佛教蒙古帝國的理論和主權中心。1911年，清朝滅亡後，蒙古抓住機會宣布自治成爲博克多汗國。但是，儘管您為尋求國際認可和友誼所做的努力是不懈和高尚的，您的汗國卻是短暫的，您的統治很快就落入新成立的中華民國的勢力之下。　[NEWLINE][NEWLINE]堅定而虔誠的可汗啊！他的信仰和智慧可以追溯到幾個世紀以前，現在是重新確立蒙古獨立的時機了。妳能帶領妳的人民充滿信仰和幸福嗎？您能夠激勵那些在神聖而古老的方式中看到高貴品質的人嗎？妳能建立壹個經得起時間考驗的文明嗎？</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_FIRSTGREETING_1">
+			<Text>祝妳們旅途平安，我是博克多格根額真汗，我向您伸出我族人的友誼之手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DEFEATED_1">
+			<Text>只要妳們繼續走這條暴力道路，妳們就永遠不會得到和平。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_ATTACKED_HOSTILE_1">
+			<Text>我的人民朋友們會來的，妳們會遭到懲罰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DEC_FRIENDSHIP_1">
+			<Text>我向您伸出友誼之手，您願意和博克多汗國壹起公開發表友好宣言嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DENOUNCE_1">
+			<Text>您是這個世界上善良之人的威脅。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DENOUNCE_FRIEND_1">
+			<Text>妳背叛了我族人的情誼，這是絕不能原諒的！[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_DOW_GENERIC_1">
+			<Text>有時候，我們必須掙紮求存，不是嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>拜託了，我的朋友，別搶占我們的土地了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREETING_HOSTILE_HELLO_1">
+			<Text>不受歡迎的人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>您好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREETING_POLITE_HELLO_1">
+			<Text>我的朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>我只想與這個世界和平相處，我請求妳將妳的戰士移動到那些尋求戰爭的人那裡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_LUXURY_TRADE_1">
+			<Text>我的朋友，你能考慮一下嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>兩個好朋友之間不應該有邊界，拜託，妳不同意嗎？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>身為朋友，我請求您不要購買我們的土地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_REQUEST_1">
+			<Text>我的人民在受苦！作為朋友，我請求您的幫助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>我很慚愧帶給妳這洋的痛苦，我希望我們能及時修補我們的友誼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_TOO_SOON_FOR_DOF_1">
+			<Text>很遺憾，我不能稱你為朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GREAT_MONGOLIA_BOGD_KHAN_TOO_SOON_NO_PEACE_1">
+			<Text>恐怕我無法做到。</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MONGOLIA_BOGD_KHAN_SHORT">
+			<Text>八世活佛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MONGOLIA_BOGD_KHAN">
+			<Text>當大先知產生時，同一大陸上的野蠻人單位會轉換成由你控制。有大先知駐守的城市每回合會將[ICON_PEACE]信仰轉換為文化邊界擴張。</Text>
+		</Row>
+		<!--Alerts-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_MONGOLIA_BOGD_KHAN_MESSAGE">
+			<Text>隨著這位偉大先知的誕生，[COLOR_POSITIVE_TEXT]野蠻人[ENDCOLOR]已加入您的國家！</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREAT_PROPHET">
+			<Text>八世活佛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GREAT_MONGOLIA_BOGD_KHAN_GREAT_PROPHET_HELP">
+			<Text>這個單位是因大先知的感召而加入了您的帝國。</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS">
+			<Text>蒙古活佛宮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS_HELP">
+			<Text>此城市的幸福度每增加1[ICON_HAPPINESS_1]點，信仰值增加1[ICON_PEACE]點。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS_STRATEGY">
+			<Text>獨具特色的蒙古活佛宮取代了神廟。與神廟不同的是，這座建築並沒有提供任何內在的[ICON_PEACE]信仰。相反，它會根據城市的[ICON_HAPPINESS_1]當地幸福度產生[ICON_PEACE]信念，它不需要任何維護費用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GATE_PEACE_HAPPINESS_TEXT">
+			<Text>博格德汗冬宮 (Winter Palace of the Bogd Khan) 或博格德汗宮博物館 (Bogd Khan Palace Museum) 是位於蒙古烏蘭巴托的博物館群。它曾是第八世博克多格根額真汗的綠宮，後來他被封為博格德汗或蒙古統治者。除了是最古老的博物館外，它也被認為是蒙古收藏最多的博物館之一。這座宮殿是博格德汗原來的四座府邸中僅存的一座。</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GATE_PEACE_HAPPINESS">
+			<Text>蒙古活佛宮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_GATE_PEACE_HAPPINESS_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR">
+			<Text>芒來巴特爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_HELP">
+			<Text>大將軍的替代單位，在自己境內的領導獎勵加倍。當大先知出現時，每個轉換為您的野蠻人單位都會生成芒來巴特爾的點數。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_STRATEGY">
+			<Text>芒來巴特爾是博克多汗國獨一無二的大將替代品。大將授予鄰近友方單位的標準[ICON_STRENGTH]戰鬥力加成，在友方國界內會加倍。此外，當大先知產生時，每個轉換為您所有的野蠻部隊都會產生 芒來巴特爾獎勵點數。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_TEXT">
+			<Text>芒來巴特爾是博克多汗國獨一無二的大將替代品。大將授予鄰近友方單位的標準[ICON_STRENGTH]戰鬥力加成，在友方國界內會加倍。此外，當大先知產生時，每個轉換為您所有的野蠻部隊都會產生 芒來巴特爾獎勵點數。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_ACTIVE">
+			<Text>先鋒英雄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_ACTIVE_HELP">
+			<Text>在本國境內時，雙倍受惠於大將軍(芒來巴特爾)獎勵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_INACTIVE">
+			<Text>先鋒英雄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MANLAIBAATAR_INACTIVE_HELP">
+			<Text>在本國境內時，雙倍受惠於大將軍(芒來巴特爾)獎勵。</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_1">
+			<Text>曾德·達木丁蘇倫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_2">
+			<Text>哈丹巴特爾·馬克思爾扎布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_3">
+			<Text>丹畢堅贊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_4">
+			<Text>達理扎布·洛索勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_5">
+			<Text>青袞雜卜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_6">
+			<Text>霍爾洛·喬巴山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_7">
+			<Text>杜拉姆倫吉恩-達瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_8">
+			<Text>巴特·道爾吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_9">
+			<Text>多夫欽蘇仁金·甘佐日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_10">
+			<Text>古爾塞迪因·賽汗巴亞爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_11">
+			<Text>札木揚·拉格瓦澤恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_12">
+			<Text>詹姆士蘭·金瓊頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_13">
+			<Text>沙加林·賈丹巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_14">
+			<Text>古林·拉格查</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_15">
+			<Text>成格仁欽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_16">
+			<Text>達姆丁·蘇赫巴托爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MANLAIBAATAR_17">
+			<Text>布托奇·恩朝格</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_DESC">
+			<Text>晉升爲芒來巴特爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_TT">
+			<Text>{TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_DESC}[NEWLINE][NEWLINE]將這個單位升級為芒來巴特爾。這個動作會消耗堆疊的大先知。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]單位必須至少是第3層，並與大先知堆疊。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_TT_DISABLED">
+			<Text>{TXT_KEY_UNIT_JFD_MANLAIBAATAR_CREATE_GREAT_GENERAL_DESC}[NEWLINE][NEWLINE]將這個單位升級為芒來巴特爾。這個動作會消耗堆疊的大先知。[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]單位必須至少是第3層，並與大先知堆疊。[ENDCOLOR]</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_GREAT_MONGOLIA_BOGD_KHAN_DESCRIPTION">
+			<Text>MONGOLIA (BOGD KHAN)[NEWLINE][NEWLINE]UNIQUE TRAIT: ELEVATED BY THE MANY[NEWLINE]When a Great Prophet is spawend, Barbarian Units on the same landmass are converted to your control. Cities with a Great Prophet stationed in them convert [ICON_PEACE] Faith Per Turn to cultural border expansion.[NEWLINE][NEWLINE]UNIQUE UNIT: MANLAIBAATAR (GREAT GENERAL)[NEWLINE]The Manlaibaatar is the unique Great General replacement for Great Mongolia. The standard [ICON_STRENGTH] Combat Strength bonus conferred by a Great General to nearby friendly Units is doubled within friendly borders. In addition, bonus points toward a Manlaibaatar are generated for every Barbarian Unit that converts to your ownership when a Great Prophet is spawned.[NEWLINE][NEWLINE]UNIQUE BUILDING: GATE OF PEACE AND HAPPINESS (TEMPLE)[NEWLINE]The unique Gate of Peace and Happiness replaces the Temple for Great Mongolia. Unlike the Temple, this building does not provide any intrinsic [ICON_PEACE] Faith. Instead, it yields [ICON_PEACE] Faith based on the city's [ICON_HAPPINESS_1] Local Happiness. It does not require any maintenance. Ensure your cities are content to maximize the Gate's faith output.</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

@@ -1,0 +1,54 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Art (Leaderscene)
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Alga: 
+----------------
+	Art (Unique Unit Icon)
+	Research (Cities)
+----------------
+DarthKyofu: 
+----------------
+	Art (Civ Icon)
+----------------
+DMS: 
+----------------
+	Art (Leaderscene)
+----------------
+JakeWalrusWhale: 
+----------------
+	Art (Map)
+----------------
+Sukritact: 
+----------------
+	Art (Unique Building Icon)
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Tilman Sillescu: 
+----------------
+	Music (Peace)
+	https://www.youtube.com/watch?v=_JoJLHWwyNc&t=94s
+	https://www.youtube.com/watch?v=RTBq-OyVZdY&ab_channel=borgri
+----------------
+Wikipedia.com: 
+----------------
+	Pedias
+	http://tibetanbuddhistencyclopedia.com/en/index.php/Bogd_Khan
+	https://en.wikipedia.org/wiki/Bogd_Khanate_of_Mongolia
+	https://en.wikipedia.org/wiki/Winter_Palace_of_the_Bogd_Khan
+	https://en.wikipedia.org/wiki/Manlaibaatar_Damdins%C3%BCren
+--------------------------------------------------------------
+--------------------------------------------------------------

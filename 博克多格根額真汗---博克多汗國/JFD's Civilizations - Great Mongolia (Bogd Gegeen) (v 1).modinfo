@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a56408dc-059b-402e-a245-848365205214" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Great Mongolia (Bogd Gegeen)</Name>
+    <Teaser>Adds [COLOR_CYAN]Great Mongolia under Bogd Gegeen[ENDCOLOR]. Click for details.</Teaser>
+    <Description>MONGOLIA (BOGD KHAN)[NEWLINE][NEWLINE]UNIQUE TRAIT: ELEVATED BY THE MANY[NEWLINE]When a Great Prophet is spawend, Barbarian Units on the same landmass are converted to your control. Cities with a Great Prophet stationed in them convert [ICON_PEACE] Faith Per Turn to cultural border expansion.[NEWLINE][NEWLINE]UNIQUE UNIT: MANLAIBAATAR (GREAT GENERAL)[NEWLINE]The Manlaibaatar is the unique Great General replacement for Great Mongolia. The standard [ICON_STRENGTH] Combat Strength bonus conferred by a Great General to nearby friendly Units is doubled within friendly borders. In addition, bonus points toward a Manlaibaatar are generated for every Barbarian Unit that converts to your ownership when a Great Prophet is spawned.[NEWLINE][NEWLINE]UNIQUE BUILDING: GATE OF PEACE AND HAPPINESS (TEMPLE)[NEWLINE]The unique Gate of Peace and Happiness replaces the Temple for Great Mongolia. Unlike the Temple, this building does not provide any intrinsic [ICON_PEACE] Faith. Instead, it yields [ICON_PEACE] Faith based on the city's [ICON_HAPPINESS_1] Local Happiness. It does not require any maintenance. Ensure your cities are content to maximize the Gate's faith output.</Description>
+    <Authors>JFD, DMS, Agla, Sukritact, JakeWalrusWhale</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="91FCA59EFC748D4D7622FDF234CD404C" import="1">Art/Graphics/Manlaibaatar/Manlaibaatar.dds</File>
+    <File md5="902E9A7D91AAD65CB2066FE29688B993" import="1">Art/Graphics/Manlaibaatar/Manlaibaatar.fxsxml</File>
+    <File md5="BEA14F07E0891436FD89C5F283479CA1" import="1">Art/Graphics/Manlaibaatar/Manlaibaatar.gr2</File>
+    <File md5="23B7B90FBDB686FB77CB051149025615" import="1">Art/Graphics/Manlaibaatar/sv_Manlaibaatar.dds</File>
+    <File md5="3EF0DF52DD5B6DD10821E4A179A97EC6" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_128.dds</File>
+    <File md5="EE21962FCE508C73206B8F3A860D4303" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_16.dds</File>
+    <File md5="1C44B75DD07914E733266B65F486DC24" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_24.dds</File>
+    <File md5="D0AD337BAEF8C8D15521F40DB8E04FC5" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_32.dds</File>
+    <File md5="44C19C06346F50165E7806B2B35793AC" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_45.dds</File>
+    <File md5="D170D0DAF93CFE3F2F045CE4402E127F" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_48.dds</File>
+    <File md5="2A9C2E362451F584095775A2B35D82FA" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_64.dds</File>
+    <File md5="E83C585C1F7004220B76BA6680127ADC" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_AlphaAtlas_80.dds</File>
+    <File md5="8DEF602C44DB99D80B704E3B61B82B19" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_IconAtlas_128.dds</File>
+    <File md5="3E70D1610BB49D152399CF418177DCB7" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_IconAtlas_256.dds</File>
+    <File md5="380F3850DAA7514A44889065BEF9BCDA" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_IconAtlas_32.dds</File>
+    <File md5="4DF073E8132FB9044EBEC2339AE13F25" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_IconAtlas_45.dds</File>
+    <File md5="E6957C9BFA6AD10F4BB104B0E9E49FED" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_IconAtlas_64.dds</File>
+    <File md5="177A862C1695F7B0040E2F299E25511B" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_IconAtlas_80.dds</File>
+    <File md5="2ED050E036201C93DB0EF4BB102D6D7A" import="1">Art/Icons/JFD_GreatMongoliaBogdKhan_UnitFlagAtlas_32.dds</File>
+    <File md5="099F153EBE4443BE51CC71342CEDF8D5" import="1">Art/Icons/UnitAction_GreatMongoliaBogdKhan_45.dds</File>
+    <File md5="250EE35BDE04CC33AD73E33FC643D7BB" import="1">Art/Icons/UnitAction_GreatMongoliaBogdKhan_64.dds</File>
+    <File md5="75CC6840CAFB6F6BB0A0FDAF480981DC" import="1">Art/Leaderscene/JFD_GreatMongoliaBogdKhan_Diplo.dds</File>
+    <File md5="B300B4DB0D365D6BF51AC5AA6ED716D3" import="1">Art/Leaderscene/JFD_GreatMongoliaBogdKhan_Scene.xml</File>
+    <File md5="8C312F544117B83AA0F39CE8B2C217AD" import="1">Art/Maps/JFD_DOM_GreatMongoliaBogdKhan.dds</File>
+    <File md5="48A9EBF38ADBF2BCB99094B30E44177F" import="1">Art/Maps/JFD_MapGreatMongoliaBogdKhan512.dds</File>
+    <File md5="55311882FBBE4E48F47FDEB72510FB27" import="1">Audio/JFD_GreatMongoliaBogdKhan_Peace.mp3</File>
+    <File md5="BA7278D49BD70EF0FC04521907DF4325" import="1">Audio/JFD_GreatMongoliaBogdKhan_War.mp3</File>
+    <File md5="94C615264623B4DE3E172F0A92FDDE8E" import="0">Core/GreatMongoliaBogdKhan_ArtDefines.sql</File>
+    <File md5="4D540AC367F100E44541B10C2B1F054F" import="0">Core/GreatMongoliaBogdKhan_GameDefines.sql</File>
+    <File md5="956CF5539595884A8C376D1C464BAB02" import="0">Core/GreatMongoliaBogdKhan_GameText.xml</File>
+    <File md5="240FC0514A88F350E0B3812C0DE76FBF" import="0">Core/GreatMongoliaBogdKhan_ModSupport.sql</File>
+    <File md5="AD0EB6D6FB798D9CE1ED0F6BB76A64C3" import="0">Credits.txt</File>
+    <File md5="90EE660454C517ADC8B7AFAC33645CB7" import="0">Lua/JFD_Civs_GreatMongoliaBogdKhan_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GreatMongoliaBogdKhan_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreatMongoliaBogdKhan_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreatMongoliaBogdKhan_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GreatMongoliaBogdKhan_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
