@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0e69f548-c816-408f-982c-3041e01ae71b" version="1">
+  <Properties>
+    <Name>[BNW] Sas's Asmat - Fin</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Asmat people of West Papua to the game as a playable civilization!</Teaser>
+    <Description>This mod adds the Asmat people of West Papua to the game as a playable civilization!</Description>
+    <Authors>Sasquatch (AKA Kramer), PorkBean</Authors>
+    <SpecialThanks>Zharques, Arilasqueto</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="ECF7C605-BA11-4CAC-8D80-D71306AAC471" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A8341021B19CEB7AA2AE3A86B73801B8" import="1">Art/Atlases/Alpha/SasAsmatAlpha_128.dds</File>
+    <File md5="75AA4D51CBEFDA9B0A65FA8FCAB2FAA6" import="1">Art/Atlases/Alpha/SasAsmatAlpha_16.dds</File>
+    <File md5="65C2D49DB913D860B6BCD81569D9D8F2" import="1">Art/Atlases/Alpha/SasAsmatAlpha_24.dds</File>
+    <File md5="640D7E06DEDD4FEA0AFA443D3A8709E1" import="1">Art/Atlases/Alpha/SasAsmatAlpha_32.dds</File>
+    <File md5="B140A8D9E65621BBA4398F17F756D6ED" import="1">Art/Atlases/Alpha/SasAsmatAlpha_45.dds</File>
+    <File md5="FB03AD24D1BB115AD5CDA58DA223EE19" import="1">Art/Atlases/Alpha/SasAsmatAlpha_48.dds</File>
+    <File md5="E9E0F9B4AD957FD7B8536A01D2C22482" import="1">Art/Atlases/Alpha/SasAsmatAlpha_64.dds</File>
+    <File md5="ACB17589C51F11AA21CED29DF870D094" import="1">Art/Atlases/Alpha/SasAsmatAlpha_80.dds</File>
+    <File md5="3F7738BDCFBFBE1DC6EC285B42D5E9F2" import="1">Art/Atlases/SasAsmatIcons128.dds</File>
+    <File md5="3784D588D6576A285DF32BD6BDCB7E7F" import="1">Art/Atlases/SasAsmatIcons256.dds</File>
+    <File md5="5B43AA258B733083925F6E8F17AF6F72" import="1">Art/Atlases/SasAsmatIcons32.dds</File>
+    <File md5="73DA95A318A27459A2106A265A8CE21D" import="1">Art/Atlases/SasAsmatIcons45.dds</File>
+    <File md5="19C64BD0C2DCEACF7E66AE1DDC472977" import="1">Art/Atlases/SasAsmatIcons64.dds</File>
+    <File md5="84193FC4588B7139C68E6F8D3D1BEE44" import="1">Art/Atlases/SasAsmatIcons80.dds</File>
+    <File md5="90610ABB61DEE694BD310FA69510AE53" import="1">Art/Models/Coracle_256.dds</File>
+    <File md5="3359F0BA70A9D6095D6F7CB259BB1285" import="1">Art/Models/SonghaiArcher.br2</File>
+    <File md5="ED59FE74120C68261BBDB9F425778F63" import="1">Art/Models/SonghaiArcher.dds</File>
+    <File md5="29EEED93B2B55779E1043040E59FB3A0" import="1">Art/Models/SonghaiArcher.fxsxml</File>
+    <File md5="EB6856EC7E220AF7F982FC0EB4A58510" import="1">Art/Models/SonghaiArcher.gr2</File>
+    <File md5="2247037175876E629A1380175FB72E25" import="1">Art/Models/SonghaiArcher_sref.dds</File>
+    <File md5="FC57BB14E0E85FFF1745668A61CAA7EA" import="1">Art/Models/southpacific.dds</File>
+    <File md5="B19F71F371126E70F51778820660DD2D" import="1">Art/Models/Water Village B.fxsxml</File>
+    <File md5="AA3EC33C6E724DC6841189C7E901DC1B" import="1">Art/Models/Water Village HB.fxsxml</File>
+    <File md5="EA5CCBB5CAA3F53B6E381C255339111C" import="1">Art/Models/Water Village HB.gr2</File>
+    <File md5="8DB95EFDBC3429051D9012C7D1C5EF51" import="1">Art/Models/Water Village PL.fxsxml</File>
+    <File md5="BEE717E832CD426DBEBCD6DC4731B867" import="1">Art/Models/Water Village PL.gr2</File>
+    <File md5="613A6736D630F09D0B9E9CD820D8C095" import="1">Art/Models/Water Village.gr2</File>
+    <File md5="B0E686F20890D8C046FEDBB3C8111CE8" import="1">Art/SasAsmat412.dds</File>
+    <File md5="8E6470E4A00AF8AD484B87A9CACEA2B5" import="1">Art/Sas_Fin_DOM.dds</File>
+    <File md5="7E52783B2A9846F615270674E1690A17" import="1">Art/Sas_Fin_Scene.dds</File>
+    <File md5="B612D05008CF1C30EAED9A12090D0523" import="1">Art/Sas_Headhunter_Flag.dds</File>
+    <File md5="1D84E33EEA7F702A66349E1254D62679" import="1">Art/SV_Sas_Headhunter.dds</File>
+    <File md5="C1E942858990B65B29879599F417FE1D" import="1">Art/SV_Sas_Jeu.dds</File>
+    <File md5="BABE7957587442B1AD32E24562845CD7" import="0">Core/AsmatArtDefs.sql</File>
+    <File md5="08AC27ED90A3D226CB98A7010A69ED33" import="0">Core/AsmatCore.sql</File>
+    <File md5="34B310959A64143A0536308563D31E85" import="0">Core/AsmatModSupport.sql</File>
+    <File md5="33318A3CA48F4C82B78920D451BE3615" import="0">Core/AsmatText.xml</File>
+    <File md5="A3C9B4EB4C663B0AF5200DB7731B16D1" import="1">Core/Sas_Fin_Scene.xml</File>
+    <File md5="FC29DCB8855231391BEFACEF3E2CC47D" import="0">Lua/AsmatFunctions.lua</File>
+    <File md5="73F699A3FFF220A3704F9490089C45B1" import="1">Lua/C15_IteratorPack_v4.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="966C0FCEED86E5040997B6D0CDD4CB3E" import="1">Sound/Sas_Fin_Peace.mp3</File>
+    <File md5="77A4B11BBD54F1B21EF0EAC1C8006674" import="1">Sound/Sas_Fin_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/AsmatArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AsmatCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AsmatModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AsmatText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sas_Fin_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AsmatFunctions.lua">
+      <Name>AsmatFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

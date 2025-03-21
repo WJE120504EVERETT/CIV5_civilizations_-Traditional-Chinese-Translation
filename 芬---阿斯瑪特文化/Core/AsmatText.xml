@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/24/2024 12:01:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SAS_ASMAT_ADJECTIVE">
+			<Text>Asmat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_ASMAT_DESC">
+			<Text>The Asmat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_ASMAT_TEXT">
+			<Text>Take vengeance on your enemies and their allies, oh Fin of the Asmat, headhunter of Michael Rockefeller. Your people were an isolated and secretive one, having followed the traditions of headhunting and wood carving as your ancestors had. But the Dutch administrative authorities that controlled your lands on a map thought they could mess with your people, slaying your elders. In return, when Michael Rockefeller swum ashore, you took revenge on the faraway peoples as the spirits of your ancestors demanded. Hanging his skull in your house, you back went to your life as before.[NEWLINE][NEWLINE]Oh Fin of the Asmat, times have changed. While your people are still isolated, the modern world has made it much less so. Interaction with the outside world has always been fraught with risk for your people. It is up to you to protect your people against outside forces, keeping their stories and traditions alive. Can you protect your people against the rich and powerful who want to treat you as a curiousity? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_ASMAT_SHORT_DESC">
+			<Text>The Asmat</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_1">
+			<Text>The Asmat are an ethnic group of New Guinea, residing in the province of South Papua, Indonesia. The Asmat inhabit a region on the island's southwestern coast bordering the Arafura Sea. The land of Asmat is located both within and adjacent to Lorentz National Park, a World Heritage Site, the largest protected area in the Asia-Pacific region. The total Asmat population is estimated to be around 110,000 as of 2020.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_2">
+			<Text>The Twelve Language Groups</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_2">
+			<Text>Linguistic classification of the native languages of the Asmat people is somewhat problematic, but is generally characterised as being a group of closely related languages or dialects known as the Asmat family, which is a sub-family of the Trans–New Guinea language phylum. However, some ethnic groups who speak languages in the Asmat language family, such as the Kamoro and Sempan peoples who live adjacent to the Asmat, are ethnically distinct from Asmat. Asmat may be thought of as an umbrella term for twelve different ethnic sub-groups with shared linguistic and cultural affinities and sense of shared identity. These twelve Asmat groups include Joirat, Emari Ducur, Bismam, Becembub, Simai, Kenekap, Unir Siran, Unir Epmak, Safan, Aramatak, Bras, and Yupmakcain. Further complicating the issue, these groups speak approximately five dialects: Casuarina Coast Asmat, Yaosakor Asmat, Central Asmat, North Asmat, Citak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_3">
+			<Text>Asmat Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_3">
+			<Text>The Asmat mainly subsist on starch from the sago palm, supplemented by grubs of the sago beetle, crustaceans, fish, forest game, and other items gathered from their forests and waters. Materials for canoes, dwellings, and woodcarvings are also all gathered locally. Due to the daily flooding which occurs in many parts of their land, Asmat dwellings, Jeu, have typically been built two or more meters above the ground, raised on wooden posts. In some inland regions, the Asmat have lived in tree houses, sometimes as high as 25 meters from the ground. The Asmat have traditionally placed great emphasis on the veneration of ancestors, particularly those who were accomplished warriors. Traditionally, many Asmat men practiced polygamy by marrying more than one woman. In many cases, men were expected to marry a male relative's wife when that relative dies, lest the widow and orphans be left without a source of protection or economic support. Schneebaum reported that many Asmat men had long-term ritual sexual and friendship relationships, mbai, with other men, although the prevalence of this practice has been disputed by others. In the mbai system, male partners were also known to share their wives in a practice called papitsj. It is probable that missionary influence in the last several decades has reduced the occurrence of both mbai and papitsj.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_4">
+			<Text>The Wood Carvers and the Headhunters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_4">
+			<Text>Asmat art consists of elaborate stylized wood carvings such as the bisj pole and is designed to honour ancestors. Many Asmat artifacts have been collected by the world's museums, among the most notable of which are those found in the Michael C. Rockefeller Collection at the Metropolitan Museum of Art in New York City and the Tropenmuseum in Amsterdam. Asmat art is widely collected in major Western museums despite the difficulty in visiting the remote region to collect work. The art caused a sensation in art-collecting circles which led to large-scale collecting expeditions in the post-WWII era, according to art scholar and ethnologist Dirk A.M. Smidt. One of the most comprehensive collections of Asmat Art can be found in the American Museum of Asmat Art at the University of St. Thomas in St. Paul, Minnesota. In addition to woodcarving, headhunting raids were an important element of Asmat culture until missionaries suppressed the practice, which, according to some accounts, persisted into the 1990s. The death of an adult, even by disease, was believed to be caused by an enemy, and relatives sought to take a head in an endless cycle of revenge and propitiation of ancestors. Heads were thought necessary for the rituals in which boys were initiated into manhood. Cannibalism was a subsidiary feature of the rituals that followed the taking of heads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_5">
+			<Text>European Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_5">
+			<Text>The Asmat's first encounter with European people was with the Dutch, in 1623. However, until the 1950s, their remote and harsh location almost entirely isolated the Asmat from other ethnic groups. It was not until the mid-20th century that they came into regular contact with outsiders. The Asmat were documented headhunters and cannibals, and as a consequence were left largely undisturbed until then. The first apparent sighting of the Asmat people by European explorers was from the deck of a ship led by a Dutch trader, Jan Carstensz in the year 1623. Captain James Cook and his crew were the first to land in Asmat on September 3, 1770. According to the journals of Captain Cook, a small party from the HM Bark Endeavour encountered a group of Asmat warriors; sensing a threat, the explorers quickly retreated. In 1826, another Dutch explorer, Kolff, anchored in approximately the same area as that visited by Cook. When Asmat warriors approached the visitors with loud noises and bursts of white powder, Kolff's crew rapidly withdrew. The Dutch, who had gained sovereignty over the western half of the island in 1793, did not begin exploring the region until the early 1900s. At that time they established a government post in Merauke in the southeast corner of the territory. The first colonial post was established in the Asmat area in Agats in 1938. This small outpost was closed in 1942 due to the onset of World War II. After the war, Father G. Zegwaard, a Dutch Missionary, began patrols into Asmat from the Mimika area to the west. In 1953, Zegwaard re-established the post in Agats, which was to become the government headquarters and the base for Roman Catholic missionaries. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_6">
+			<Text>Missionaries and Michael Rockefeller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_6">
+			<Text>It was not until Catholic missionaries established the post in 1953 that significant interaction with the Asmat people began. Catholic missionaries, many with degrees in anthropology, were partially successful in persuading some of the Asmat to stop cannibalism and headhunting, while encouraging the continuation of other important cultural cycles and festivals such as shield and bisj ceremonies, which were incorporated into an adapted Catholic liturgy. Asmat was the launching point for an arduous joint French-Dutch expedition from the south to north coast of New Guinea in 1958 and 1959, which was documented by the team and resulted in a book and documentary film, The Sky Above, The Mud Below, which won an Academy Award in 1962. In November 1961, the 23-year-old Michael Rockefeller, son of the then-Governor of New York Nelson Rockefeller and member of one of the wealthiest families in the United States, disappeared in Asmat when his boat overturned while on an art collecting expedition. His disappearance, followed by an intensive and ultimately unsuccessful search by the Dutch authorities, was the source of much speculation as to Mr. Rockefeller's fate. Recently, author Carl Hoffman in his book "Savage Harvest," presented evidence that Rockefeller was killed and eaten by people from Otsjanep village. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_7">
+			<Text>Cultural Struggles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_7">
+			<Text>In 1962, the Indonesian government took over administration of western New Guinea. After a short period under the new Indonesian administration from 1964 to 1968 in which Asmat cultural ceremonies were officially discouraged, Bishop Alphonse Sowada was instrumental in facilitating the revitalization of woodcarving and other festivals, which remain strong today. The Catholic church, along with Tobias Schneebaum and Ursula Konrad, established the Asmat Museum of Culture and Progress, AMCP, in the local town of Agats in 1973, to maintain local pride in Asmat cultural traditions. In 1981, Sowada founded an annual woodcarving competition and auction to recognize outstanding carvers held in early October in Agats. After his retirement and return to America, he founded the American Museum of Asmat Art, now in St. Paul, Minnesota, one of the largest collections of Asmat art in the United States. The biodiversity of their area has been under some pressure from outside logging and fishing, although this has faced significant and not unsuccessful resistance.</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_FIN">
+			<Text>Fin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_TEXT_1">
+			<Text>Fin was one of the Asmat men who is alleged to have killed the son of future US vice president Nelson Rockefeller of the Rockefeller family in 1961. Under this theory, the motive was retaliation for a Dutch government raid on the village of Otsjanep in 1958 that killed five people, four of them the most important men in the village. Neither cannibalism nor headhunting in Asmat were indiscriminate, but rather were part of an eye-for-an-eye revenge cycle, in which it is believed that Michael Rockefeller became the victim for the sins of the Dutch government.  Under the Asmat belief system, several of the killers, named Fin, Ajim, Pep, Jane, Samut, heads of Jeus within and around Otsjanep, would have had sacred obligation to avenge the deaths of the men killed by Lepre, who was the Dutch governor who had ordered the raid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_HEADING_2">
+			<Text>Testimonials</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_TEXT_2">
+			<Text>It was originally reported that Rockefeller either drowned or was attacked by an animal, such as a shark or saltwater crocodile. Two Dutch missionaries, who were fluent in local languages and who had been living in the area for years, accumulated a large amount of testimony from witnesses. The account repeated by a number of villagers was that Rockefeller was pulled out of the water wearing underwear, and despite a dispute about whether or not he should be killed, he was non-fatally stabbed in the abdomen and later finished off somewhere along the Jawor River. In December 1961, four locals told minister Hubertus von Peij that Rockefeller's remains and personal effects, including his head, long bones, ribs, shorts, and glasses, had been divided amongst 15 Asmats, with the skull going to Fin. In 2014, Carl Hoffman published the book Savage Harvest: A Tale of Cannibals, Colonialism, and Michael Rockefeller's Tragic Quest for Primitive Art, in which he discusses researching Rockefeller's disappearance and presumed death. During multiple visits to the villages in the area, Hoffman heard several stories about men from Otsjanep killing Rockefeller after he had swum to shore. The stories, which were similar to testimonials collected in the 1960s, center around a handful of men arguing and eventually deciding to kill Rockefeller in revenge for the 1958 incident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_LIVED">
+			<Text>c. 1960s AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_NAME">
+			<Text>Fin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_SUBTITLE">
+			<Text>Leader of The Asmat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_TITLES_1">
+			<Text>Head</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_ASMAT_SHORT">
+			<Text>Carving Of The Dead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_ASMAT">
+			<Text>Killing a Unit within the borders of a City spawns a Bisj Pole for 5 turns, providing +1 [ICON_HAPPINESS_1] Happiness and +2 [ICON_TOURISM] Tourism, and granting nearby Units a +10% [ICON_STRENGTH] Combat Bonus. Bisj Pole bonuses double during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<!--Kilosh-->
+		<Row Tag="TXT_KEY_UNIT_SAS_HEADHUNTER">
+			<Text>Wow-ipits</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_HEADHUNTER_HELP">
+			<Text>Replacing the Crossbowman for The Asmat, the Wow-ipits gains [ICON_GOLDEN_AGE] Golden Age Points from Kills, and, while garrisoned in a city with a Bisj Pole, halts its despawn timer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_HEADHUNTER_STRATEGY">
+			<Text>Replacing the Crossbowman for The Asmat, the Wow-ipits gains [ICON_GOLDEN_AGE] Golden Age Points from Kills, and, while garrisoned in a city with a Bisj Pole, halts its despawn timer. Use them to defend your cities or recent conquests to ensure the spawning of a Bisj Pole there, then garrison this unit in the city itself to keep it around for as long as possible!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SAS_HEADHUNTER_TEXT">
+			<Text>Wow-ipits are the woodcarvers of the Asmat people. Headhunting and wood carving are intertwined within the Asmat culture, as typically wood carving would occur after a headhunting raid. There were a number of ceremonies associated with headhunting. One of these is the dewen atakan, also known as the naan atakan, where headhunter achievements are called out in a form of boast. This happens on a number of occasions. According to Asmat tradition, even after death the deceased will, at his arrival in the realm of souls, tell hair-raising stories of wars and fights in which he was the hero. There are many variations of the work preparatory to the actual headhunting raid. At times there is no preparation at all, because the Asmat avail themselves of an opportunity, as, for example, they kill their guests or people who ventured too far from home. Thus headhunting raids with a ritual preparation, planned to be large and to involve alliances, are relatively rare.</Text>
+		</Row>
+		<!--Kiva-->
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE">
+			<Text>Bisj Pole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE_PEDIA">
+			<Text>A Bisj, Mbis or Bis pole is a ritual artifact created and used by the Asmat people. When a village has experienced a number of deaths a Bisfeast is held. To commemorate the deceased members, a Bisj Pole is carved from a single mangrove tree. Bisj poles can also be erected as an act of revenge, to pay homage to the ancestors, to calm the spirits of the deceased, and to bring harmony and spiritual strength to the community. Mangrove Trees are the traditional material to use for the making of Bisj Poles. The carver must first cut down the tree and strip the bark, releasing its red sap in the process. The wood is then delivered back to the village, where the villagers accept and treat the wood as an enemy corpse. After the Bisj Pole is fully carved, it is then hoisted outside the men's homes, as one would after the Headhunt raids. The pole is then abandoned in the Sago Palm groves, where it is used to fertilize the crops. Imagery of each pole varies, but typically revolve around ancestral models. The figures of the dead are stacked along the pole, and a Phallus symbol of fertility and power is included.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE_STRATEGY">
+			<Text>Totally unique building available only to The Asmat, and may not be built by conventional means. Spawns for 5 turns when a unit is killed within the borders of an Asmat city, then disappears. Despawning may be halted by keeping a Wow-ipits garrisoned within the city. Provides [ICON_HAPPINESS_1] Happiness and [ICON_TOURISM] Tourism as well as increasing the Combat Strength of friendly units fighting nearby, doubled during Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE_HELP">
+			<Text>Totally unique building available only to The Asmat, and may not be built by conventional means. Spawns for 5 turns when a unit is killed within the borders of an Asmat city, then disappears. Despawning may be halted by keeping a Wow-ipits garrisoned within the city. Provides [ICON_HAPPINESS_1] Happiness and [ICON_TOURISM] Tourism as well as increasing the Combat Strength of friendly units fighting nearby, doubled during Golden Ages.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILD_SAS_JEU">
+			<Text>Construct a [LINK=IMPROVEMENT_SAS_JEU]Jeu[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAS_JEU_HELP">
+			<Text>Requires Fresh Water to be constructed. Yields +1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture, doubled if built adjacent to a City. Deals a small amount of attrition damage (5HP) to enemy units who end their turn on or adjacent to a Jeu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAS_JEU_REC">
+			<Text>Yields +1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture, doubled if built adjacent to a City. Deals a small amount of attrition damage (5HP) to enemy units who end their turn on or adjacent to a Jeu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_JEU">
+			<Text>Jeu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_JEU_TEXT">
+			<Text>Requires Fresh Water to be constructed. Yields +1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture, doubled if built adjacent to a City. Deals a small amount of attrition damage (5HP) to enemy units who end their turn on or adjacent to a Jeu.[NEWLINE][NEWLINE]Jeu, also known as the bachelor house, is an Asmat traditional house. Also known as Je, Jew, Yeu, or Yai, the Jeu is a rectangular elevated house made of wood, with walls and roofs made of woven sago palm or nipa palm leaves. Jeu is built entirely using natural materials obtained from the surrounding villages, in accordance with the Asmat tribe's customary belief that their ancestors and the surrounding nature have synergized to provide for their needs. The wood used to construct a Jeu is ironwood because it is strong and resistant to water, especially seawater, and many Jeu are constructed along the coastal areas and around swamps. Jeu is always erected facing the river, specifically at the river's edge, especially at the bends of the river, with the main support posts of the house adorned with Asmat motifs. They are built in river bends because conflicts within Asmat ethnic groups were common in the past. By constructing them along the river, particularly in bends, the occupants could easily detect the enemy's attacks. However, warfare and inter-ethnic conflicts among the Asmat tribe no longer occur today.</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_9">
+			<Text>Ajim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_8">
+			<Text>Pep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_7">
+			<Text>Jane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_6">
+			<Text>Wasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_5">
+			<Text>Apolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_4">
+			<Text>Sauer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_3">
+			<Text>Kokai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_2">
+			<Text>Wilem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_1">
+			<Text>Manu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_0">
+			<Text>Amates</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_1">
+			<Text>Otsjanep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_2">
+			<Text>Agats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_3">
+			<Text>Omadesep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_4">
+			<Text>Weo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_5">
+			<Text>Pirien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_6">
+			<Text>Irogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_7">
+			<Text>Basim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_8">
+			<Text>Pirimapun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_9">
+			<Text>Jow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_10">
+			<Text>Biwar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_11">
+			<Text>Merauke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_12">
+			<Text>Uwus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_13">
+			<Text>Syuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_14">
+			<Text>Atjamutaj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_15">
+			<Text>Sawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_16">
+			<Text>Erma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_17">
+			<Text>Per</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_18">
+			<Text>Yaptambor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_19">
+			<Text>Naheu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_20">
+			<Text>Emene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_21">
+			<Text>Kayirin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_22">
+			<Text>Bu Agani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_23">
+			<Text>Momogu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_24">
+			<Text>Jakapis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_25">
+			<Text>Pupis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_26">
+			<Text>Yamas Yeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_27">
+			<Text>Yaun Yufri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_28">
+			<Text>Bawus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_29">
+			<Text>Amanamkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_30">
+			<Text>Saman</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_SAS_FIN_FIRSTGREETING_1">
+			<Text>You are in the land of our ancestors, the land of the Asmat. Tread lightly, or we shall have vengeance, and you will adorn my wall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_FIN_DEFEATED_1">
+			<Text>I will be avenged!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_BISJPOLE">
+			<Text>[COLOR_POSITIVE]Bisj Pole[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_BISJPOLE_HELP">
+			<Text>+10% [ICON_STRENGTH] Strength from being near a city with a Bisj Pole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_BISJPOLE_2_HELP">
+			<Text>+20% [ICON_STRENGTH] Strength from being near a city with a Bisj Pole, during a Golden Age.</Text>
+		</Row>
+	</Language_en_US>
+		<Language_zh_Hant_HK>
+		<Row Tag="TXT_KEY_CIV_SAS_ASMAT_ADJECTIVE">
+			<Text>阿斯瑪特文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_ASMAT_DESC">
+			<Text>阿斯瑪特文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_SAS_ASMAT_TEXT">
+			<Text>阿斯瑪特的芬啊，向敵人及其盟友復仇吧！你是獵取麥可·洛克斐勒首級的戰士。你們的族人曾與世隔絕，恪守著獵首與木雕的古老傳統。但那些在地圖上劃分疆界的荷蘭殖民者，竟敢屠戮你們的長老。當麥可·洛克斐勒泅水上岸時，你們依循祖靈的指引，向遠方的侵略者討還血債。將他的頭骨懸於屋梁後，你們重歸往日的生活。[NEWLINE][NEWLINE]阿斯瑪特的芬啊，時代已然變遷。儘管族人仍處僻壤，現代文明的光影卻已悄然滲透。與外界的接觸總伴隨著危機。守護族人的文化命脈，抵禦強權的窺視，這重任已落在你的肩頭。你能否在獵奇者的覬覦下捍衛傳統？能否建立經受時光考驗的文明？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAS_ASMAT_SHORT_DESC">
+			<Text>阿斯玛特文化</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_1">
+			<Text>歷史淵源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_1">
+			<Text>阿斯瑪特人是居住於印尼南巴布亞省的新幾內亞原住民，分佈在島嶼西南岸與阿拉弗拉海相鄰的區域。其領土部分位於洛倫茲國家公園——亞太地區最大的世界遺產保護區。截至2020年，總人口約11萬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_2">
+			<Text>十二語族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_2">
+			<Text>阿斯瑪特語言屬跨新幾內亞語系分支，包含十二個具有文化親緣關係的亞族群：Joirat、Emari Ducur等。儘管Kamoro等鄰近族群使用同語系語言，卻屬不同民族。語言學家區分出五種主要方言：木麻黃海岸方言、中央方言等，呈現出複雜的語言版圖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_3">
+			<Text>生活型態</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_3">
+			<Text>族人以西谷椰澱粉為主食，佐以甲蟲幼蟲、漁獲。傳統住屋"Jeu"以木樁高架抵禦潮汐，內陸更有高達25米的樹屋。盛行祖先崇拜，尤其崇敬驍勇戰士。過去實行一夫多妻制，並有男子締結儀式性盟約的mbai(儀式性/友誼關係)習俗，這些傳統在傳教士影響下已漸式微。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_4">
+			<Text>木雕與獵首</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_4">
+			<Text>比斯吉柱等精緻木雕藝術享譽世界，紐約大都會博物館與阿姆斯特丹熱帶博物館皆藏有重要藏品。獵首傳統與成年儀式緊密相連，直至1990年代仍有零星發生。族人相信非自然死亡必源於仇敵，需獵首方能平息祖靈。食人習俗曾是相關儀式的環節之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_5">
+			<Text>歐洲接觸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_5">
+			<Text>1623年首遇荷蘭探險家，但直至1950年代仍保持孤立。庫克船長1770年登陸時因衝突迅速撤離。1938年荷蘭於Agats設前哨站，二戰期間關閉。1953年傳教士Zegwaard重建據點，成為天主教傳教與殖民政府中心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_6">
+			<Text>傳教與洛克斐勒事件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_6">
+			<Text>1953年天主教會以人類學方法部分成功勸阻食人習俗，同時將阿斯瑪特慶典融入彌撒儀式。1961年，洛克斐勒家族繼承人麥可在此失蹤，近年考證指出其遭Otsjanep村民殺害食屍，為1958年荷軍屠村事件復仇。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_HEADING_7">
+			<Text>文化抗爭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAS_ASMAT_TEXT_7">
+			<Text>1962年印尼接管後曾壓制傳統，1973年主教Sowada創立文化博物館振興木雕。1981年舉辦年度雕刻大賽，其退休後在美國建立重要阿斯瑪特藝術收藏。雖面臨伐木與漁業威脅，族人仍持續守護文化與生態。</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_SAS_FIN">
+			<Text>芬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_HEADING_1">
+			<Text>歷史定位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_TEXT_1">
+			<Text>芬被指認為1961年殺害洛克斐勒家族成員的主謀之一。此舉被視為對1958年荷軍血洗Otsjanep村的復仇——按阿斯瑪特"以眼還眼"的傳統，洛克斐勒成為殖民暴行的代罪羔羊。身為部落要人，芬肩負著為被荷蘭總督Lepre殺害的長老復仇的神聖使命。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_HEADING_2">
+			<Text>事件證言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_TEXT_2">
+			<Text>最初官方稱洛克斐勒溺亡或遭鱷吻，但傳教士取得村民證詞顯示：泅水者被刺殺於Jawor河畔。1961年12月證詞指出遺骸由15人分藏，頭骨歸芬所有。2014年霍夫曼《野蠻收割》考證證實此說，揭示事件源於對殖民暴力的血仇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_LIVED">
+			<Text>1960s AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_NAME">
+			<Text>芬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_SUBTITLE">
+			<Text>阿斯瑪特領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAS_FIN_TITLES_1">
+			<Text>部族首領</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_SAS_ASMAT_SHORT">
+			<Text>獵頭突襲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAS_ASMAT">
+			<Text>城市邊境內擊殺敵軍可召喚存續5回合的比斯吉柱，提供+1[ICON_HAPPINESS_1]幸福度與+2[ICON_TOURISM]旅遊業績，並使周邊單位獲得+10%[ICON_STRENGTH]戰鬥加成。黃金時代期間比斯吉柱效果加倍。</Text>
+		</Row>
+		<!--Kilosh-->
+		<Row Tag="TXT_KEY_UNIT_SAS_HEADHUNTER">
+			<Text>首雕戰士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_HEADHUNTER_HELP">
+			<Text>阿斯瑪特文化的特殊單位，替代弩手，擊殺可獲[ICON_GOLDEN_AGE]黃金時代點數。駐防於擁有比斯吉柱的城市時可暫停比斯吉柱消失倒數。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAS_HEADHUNTER_STRATEGY">
+			<Text>善用此單位守衛城市或新征服地以觸發比斯吉柱，駐防可延長比斯吉柱存續時間。其擊殺累積的黃金時代點數能強化文明整體戰力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SAS_HEADHUNTER_TEXT">
+			<Text>首雕戰士身兼獵首者與雕刻師雙重身份。獵首成就通過dewen atakan儀式誇耀，正如祖靈在彼岸述說戰功。突襲可能毫無預警——當外人涉足禁地，便是履行祖訓之時。</Text>
+		</Row>
+		<!--Kiva-->
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE">
+			<Text>比斯吉柱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE_PEDIA">
+			<Text>比斯吉柱以紅樹雕就，既悼亡者亦彰武勳。雕柱過程神聖：伐木剝皮時流瀉的樹液象徵敵血，豎立儀式重現獵首凱旋。柱體棄置西谷椰林後化為沃土，完成生與死的循環。柱身人像層疊，頂端陽具象徵生生不息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE_STRATEGY">
+			<Text>阿斯瑪特文化的特色建築，不可常規建造。境內擊殺敵軍後出現，存續5回合。駐防首雕戰士可暫停消失。提供幸福度、觀光值與區域戰鬥加成，黃金時代效果翻倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAS_BISJPOLE_HELP">
+			<Text>阿斯瑪特文化的特色建築，不可常規建造。境內擊殺敵軍後出現，存續5回合。駐防首雕戰士可暫停消失。提供幸福度、觀光值與區域戰鬥加成，黃金時代效果翻倍。</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILD_SAS_JEU">
+			<Text>建造[LINK=IMPROVEMENT_SAS_JEU]高腳屋[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAS_JEU_HELP">
+			<Text>需鄰近淡水,提供+1[ICON_FOOD]食物與+1[ICON_CULTURE]文化值，毗鄰城市時加倍。對駐留或鄰接的敵軍造成5點損傷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAS_JEU_REC">
+			<Text>提供+1[ICON_FOOD]食物與+1[ICON_CULTURE]文化值，毗鄰城市時加倍。對駐留或鄰接的敵軍造成5點損傷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_JEU">
+			<Text>高腳屋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAS_JEU_TEXT">
+			<Text>以鐵木構築的河畔高架屋舍，牆頂覆以西谷椰葉。選址河灣便於預警禦敵，樑柱雕刻祖靈圖騰。雖部落征戰已成往事，這些建築仍矗立訴說著先民的生存智慧。</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_9">
+			<Text>阿金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_8">
+			<Text>佩普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_7">
+			<Text>簡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_6">
+			<Text>瓦桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_5">
+			<Text>阿波羅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_4">
+			<Text>紹爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_3">
+			<Text>科凱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_2">
+			<Text>威勒姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_1">
+			<Text>馬努</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_SAS_ASMAT_0">
+			<Text>阿瑪特斯</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_1">
+			<Text>奧恰涅普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_2">
+			<Text>阿加茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_3">
+			<Text>奧瑪德瑟普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_4">
+			<Text>韋奧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_5">
+			<Text>皮里恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_6">
+			<Text>伊羅戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_7">
+			<Text>巴辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_8">
+			<Text>皮里馬蓬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_9">
+			<Text>喬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_10">
+			<Text>比瓦爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_11">
+<Text>馬老奇</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_12">
+<Text>烏烏斯</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_13">
+<Text>敘魯</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_14">
+<Text>阿查穆塔吉</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_15">
+<Text>薩瓦</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_16">
+<Text>埃爾瑪</Text>
+</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_17">
+<Text>佩爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_18">
+<Text>雅普坦博爾</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_19">
+<Text>納赫烏</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_20">
+<Text>埃梅內</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_21">
+<Text>卡伊林</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_22">
+<Text>布阿加尼</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_23">
+<Text>莫莫古</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_24">
+<Text>雅卡皮斯</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_25">
+<Text>普皮斯</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_26">
+<Text>亞瑪斯耶尼</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_27">
+<Text>堯恩尤弗里</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_28">
+<Text>巴烏斯</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_29">
+<Text>阿瑪南凱</Text>
+</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAS_ASMAT_30">
+<Text>薩曼</Text>
+</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_SAS_FIN_FIRSTGREETING_1">
+			<Text>你踏足的是祖靈庇佑的阿斯瑪特之地。謹慎行事，否則復仇將至，你的頭骨將點綴我的屋梁!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAS_FIN_DEFEATED_1">
+			<Text>此仇必報！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_BISJPOLE">
+			<Text>[COLOR_POSITIVE]比斯吉柱[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_BISJPOLE_HELP">
+			<Text>鄰近比斯吉柱的城市時+10% [ICON_STRENGTH]戰鬥力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAS_BISJPOLE_2_HELP">
+			<Text>黃金時代期間鄰近比斯吉柱城市時+20%[ICON_STRENGTH]戰鬥力</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>
