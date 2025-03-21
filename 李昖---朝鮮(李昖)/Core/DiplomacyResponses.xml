@@ -1,0 +1,32 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_SEONJO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_SEONJO_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_SEONJO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_SEONJO_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO_FIRSTGREETING_1">
+			<Text>Greetings to you, great leader. I am Yi Yeon, ruler of this humble kingdom. I trust you are here in peace? I have been fairly successful at repelling invasions in the past.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO_DEFEATED_1">
+			<Text>What? No! This is impossible! Keep beating the war drums! Don't let them know it is over! KEEP BEATING THE DRUMS!</Text>
+		</Row>
+	</Language_en_US>
+	<Language_zh_Hant_HK>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO_FIRSTGREETING_1">
+			<Text>向您致敬，偉大的領袖。我是李昖，這個卑微國度的統治者。我相信你在這裏很平靜吧？我過去在擊退入侵方麵相當成功。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO_DEFEATED_1">
+			<Text>怎麼啦？不!這不可能！繼續敲戰鼓！別讓他們知道一切都結束了！</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>
