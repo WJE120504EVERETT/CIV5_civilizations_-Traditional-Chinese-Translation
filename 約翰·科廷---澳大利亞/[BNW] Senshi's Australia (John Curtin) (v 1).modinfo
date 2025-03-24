@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6c0bcdc0-9201-4201-981e-c6819025768a" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Australia (John Curtin)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds a Second World War Australia into the game, under the leadership of the great John Curtin!</Teaser>
+    <Description>Adds a Second World War Australia into the game, under the leadership of the great John Curtin!
+
+Credits:
+Senshi: Concept &amp; Design, Code, Art (Map, Colours), Usual Stuff yknow
+GPuzzle: Design
+TopHatPaladin: Lua
+LastSword: Art (Leaderscene)
+RawSasquatch: Art (Boomerang and Independent Company Icons)
+DuskJockey: Art (Civ Icon &amp; Alpha)
+DJSHenninger: Art (Leader Icon)
+Zharques: Pedias
+snafusmith: Boomerang Model
+Wolfdog: Independent Company Model</Description>
+    <Authors>Senshi</Authors>
+    <SpecialThanks>GPuzzle, TopHatPaladin, LastSword, RawSasquatch, DuskJockey, DJSHenninger, Zharques</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4CA5F1FCD494E09881899493A674D361" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="587FB0C9671655540ED54D6881EEA47D" import="1">Art/Atlas/BoomerangFlag32.dds</File>
+    <File md5="57D4EDB3BE8024FCA57D240D54D6F18A" import="1">Art/Atlas/CurtinAlpha128.dds</File>
+    <File md5="05B64B2E40F5CDE4006837304FC6BAD1" import="1">Art/Atlas/CurtinAlpha16.dds</File>
+    <File md5="8AC6B5918C9EC7E8F8734BD1B0D7FA35" import="1">Art/Atlas/CurtinAlpha24.dds</File>
+    <File md5="60C098E6808499FB57A80D100581E4A6" import="1">Art/Atlas/CurtinAlpha256.dds</File>
+    <File md5="45DA4A4DBA4E95A35F0BE14F6827D345" import="1">Art/Atlas/CurtinAlpha32.dds</File>
+    <File md5="A6F273F63F2CDA1CE5F1D9D3F14D100C" import="1">Art/Atlas/CurtinAlpha48.dds</File>
+    <File md5="140E9368D80C0E16B5C9E4D052090863" import="1">Art/Atlas/CurtinAlpha64.dds</File>
+    <File md5="8F0428BA706D0804349AAE8E5BDE1D14" import="1">Art/Atlas/CurtinAlpha80.dds</File>
+    <File md5="FF36B239B49018F7E3405AAEDE9BE414" import="1">Art/Atlas/CurtinAtlas128.dds</File>
+    <File md5="4CDE0A422A9E6632952422F22CD9AD5D" import="1">Art/Atlas/CurtinAtlas256.dds</File>
+    <File md5="84EBCD8E1F485B6E1E9551A33F711558" import="1">Art/Atlas/CurtinAtlas32.dds</File>
+    <File md5="1A6A63E3089797749182C2930383CD2C" import="1">Art/Atlas/CurtinAtlas45.dds</File>
+    <File md5="4B102333B991EADB6C1E4DBD40FF88FB" import="1">Art/Atlas/CurtinAtlas48.dds</File>
+    <File md5="1BB5C4FAC554B175CE5CA7BB9923A8D7" import="1">Art/Atlas/CurtinAtlas64.dds</File>
+    <File md5="41DC509ACF9B8E7DCD2AD585D79897ED" import="1">Art/Atlas/CurtinAtlas80.dds</File>
+    <File md5="CFD95A7968E946C3D292EE0EA0176B83" import="1">Art/Atlas/IndependentCompanyFlag32.dds</File>
+    <File md5="B1C2F534A0BFE9AF9DD16A9C22FF636B" import="1">Art/CurtinDoM.dds</File>
+    <File md5="76A5BC84405E07E64E7C43416458D743" import="1">Art/CurtinLS.dds</File>
+    <File md5="2A445848F8139E62353C137A7B1F5131" import="1">Art/CurtinMap412.dds</File>
+    <File md5="0E22C6854460F8F9872D3761873D496F" import="1">Art/Models/Boomerang/CACBoomerang.dds</File>
+    <File md5="DA9A10E4CDC03452A572909ECD1DD731" import="1">Art/Models/Boomerang/CACBoomerang.fxsxml</File>
+    <File md5="5BF414BFF8FCFA574AA070445A5E2507" import="1">Art/Models/Boomerang/CACBoomerang.gr2</File>
+    <File md5="0E33F812F89CB4652758FB3423E1E3F4" import="1">Art/Models/Boomerang/CACBoomerangSREF.dds</File>
+    <File md5="08FA3BF0AA284FF8E8D17347435B1193" import="0">Art/Models/Boomerang/ModelRig.xml</File>
+    <File md5="0069733BC5E090A532641A9D3BE38417" import="1">Art/Models/Boomerang/sv_Boomerang.dds</File>
+    <File md5="84892203C69906329BABA591E3908FA1" import="1">Art/Models/IndependentCompany/ANZAC_Desert.fxsxml</File>
+    <File md5="C1B64E56EC8B77D9AD5CB86B8B5BC1BB" import="1">Art/Models/IndependentCompany/ANZAC_Desert.gr2</File>
+    <File md5="D3DAD294B562AFA708A245FE3AFBC6CD" import="1">Art/Models/IndependentCompany/ANZAC_Desert_diff.dds</File>
+    <File md5="836A47B589D411815FD22C441F80388C" import="1">Art/Models/IndependentCompany/ANZAC_sref.dds</File>
+    <File md5="D39A45469816703458991978FA6A4A7F" import="1">Art/Models/IndependentCompany/fx_triggers_ANZAC.ftsxml</File>
+    <File md5="F0D3765F01833D1056D7442DAB5ADD25" import="0">Art/Models/IndependentCompany/ModelRig.xml</File>
+    <File md5="491ED9E2BBC937187B77B9FBCEB42CEF" import="1">Art/Models/IndependentCompany/sv_IndependentCompany.dds</File>
+    <File md5="2CD7BBFA5BCA205211BC0601C91FDA64" import="1">Art/Music/CurtinPeace.mp3</File>
+    <File md5="9FED16EE241102537378673B8169DA89" import="1">Art/Music/CurtinWar.mp3</File>
+    <File md5="DEA1BA2F73B9EDD27E851CA282EC1F34" import="0">Art/Music/SoundRig.xml</File>
+    <File md5="CF1DF3BB4B5206D3CDA95F7CADF1A9A2" import="0">Core/Civilizations.sql</File>
+    <File md5="031E5BB2A7D3BD1203250DF7101DDEF7" import="0">Core/Curtin_Functions.lua</File>
+    <File md5="2EACDE86D54E513B05E1BFF60FC8CF55" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="DF5CAD34B8950D194818B5A660453C31" import="0">Core/GameText.xml</File>
+    <File md5="B9AE0772B5729A6E11224996C757D6DC" import="0">Core/ModSupport.sql</File>
+    <File md5="B4EC063CA7AABB1FEC2DD2F486504D00" import="0">Core/Promotions.sql</File>
+    <File md5="AA25B4CFEFA9B355D68AD49B45D90D89" import="1">Core/Senshi_Curtin_Scene.xml</File>
+    <File md5="2424A8F107735B4CF4B9C31A7E88F11E" import="0">Core/UnitsBoomerang.sql</File>
+    <File md5="DC48000649B29EE1D862B425CF567B72" import="0">Core/Leaderhead.sql</File>
+    <File md5="3D05A6C483F9AAD78CE90FB26FF109D1" import="0">Core/PlayerColours.sql</File>
+    <File md5="6A7083097A69F090493FC1F1BF11F67E" import="0">Core/Traits.sql</File>
+    <File md5="8F3D8783F948D14D980B8D2531795618" import="0">Core/UnitsIndependentCompany.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Models/Boomerang/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Models/IndependentCompany/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/UnitsBoomerang.sql</UpdateDatabase>
+      <UpdateDatabase>Core/UnitsIndependentCompany.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Music/SoundRig.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Curtin_Functions.lua">
+      <Name>Curtin_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

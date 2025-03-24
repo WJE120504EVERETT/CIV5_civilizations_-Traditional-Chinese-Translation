@@ -1,0 +1,774 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_01">
+			<Text>Canberra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_02">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_03">
+			<Text>Melbourne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_04">
+			<Text>Brisbane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_05">
+			<Text>Adelaide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_06">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_07">
+			<Text>Hobart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_08">
+			<Text>Darwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_09">
+			<Text>Port Moresby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_10">
+			<Text>Townsville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_11">
+			<Text>Cairns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_12">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_13">
+			<Text>Ballarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_14">
+			<Text>Launceston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_15">
+			<Text>Geelong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_16">
+			<Text>Rockhampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_17">
+			<Text>Alice Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_18">
+			<Text>Toowoomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_19">
+			<Text>Broome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_20">
+			<Text>Wollongong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_21">
+			<Text>Broken Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_22">
+			<Text>Bendigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_23">
+			<Text>Ipswich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_24">
+			<Text>Fremantle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_25">
+			<Text>Bundaberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_26">
+			<Text>Wagga Wagga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_27">
+			<Text>Albury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_28">
+			<Text>Maryborough</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_29">
+			<Text>Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_30">
+			<Text>Mackay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_31">
+			<Text>Port Pirie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_32">
+			<Text>Kalgoorlie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_33">
+			<Text>Bathurst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_34">
+			<Text>Warrnambool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_35">
+			<Text>Dubbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_36">
+			<Text>Mildura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_37">
+			<Text>Whyalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_38">
+			<Text>Burnie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_39">
+			<Text>Mount Gambier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_40">
+			<Text>Horsham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_41">
+			<Text>Bunbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_42">
+			<Text>Geraldton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_43">
+			<Text>Yass</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_0">
+			<Text>Roy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_1">
+			<Text>Clarrie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_2">
+			<Text>Thomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_3">
+			<Text>John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_4">
+			<Text>Carl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_5">
+			<Text>Owen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_6">
+			<Text>Edmund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_7">
+			<Text>Vernon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_8">
+			<Text>Beryl</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_9">
+			<Text>Gordon Bennett</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_CURTIN_ADJECTIVE">
+			<Text>Australian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_CURTIN_DESC">
+			<Text>Commonwealth of Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_CURTIN_SHORT_DESC">
+			<Text>Australia</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_CURTIN_TEXT">
+			<Text>We owe you much, Right Honourable John Curtin, Prime Minister of Australia! Before you were thrust into office, your country had suffered years upon years of crippling economic depression and governmental instability, and was faced with the outbreak of war in Europe and rising tensions in the Pacific. When Japanese aggression brought warfare to the nation's borders for the first time in its history, Australia was truly at its darkest hour. But under your leadership, Australia and her allies pushed their would-be invaders back from your shores! Thanks to your ingenious diplomatic and internal policies, Australia emerged from the war more united, more prosperous, and more assertive than ever. Though you tragically would not live to see it, your actions transformed the country into an independent and self-sufficient nation that thrives to this day.[NEWLINE][NEWLINE]Prime Minister Curtin, dark clouds brew over Australia once more. The people clamour for your guiding hand to lead them through another time of great turmoil. Will you lead your island home onwards to peace and prosperity? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TITLE">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_1">
+			<Text>For most of its history, the land known as "Australia" has been inhabited by various Aboriginal peoples, who were isolated from the rest of the world. Upon the European discovery of this vast landmass in 1606, many countries tried to take portions of it. Eventually, the British took the entire island of Australia, turning it into one of their most prosperous - and largest - colonies. Due to the vast amount of available land, the British Empire sent convicts to the territory, as a way of keeping the British Isles crime-free. Eventually, in 1901, Australia got its first Prime Minister, and eventually independence from Great Britain. As a newly-formed nation, Australia joined the First and Second World Wars, helping to put its place on the world map. Today, Australia is one of the most visited tourist destinations in the world, as well as having strong economic and political links with other countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_2">
+			<Text>Terrain and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_2">
+			<Text>Due to the large desert regions in Central Australia, the majority of the population live on the coast. Australia has several notable geographical features, such as Uluru, a sacred Aboriganal site; the Great Barrier Reef, off the north coast; and the Outback, a large, arid area in the middle of Australia. Due to the extreme heat in Australia's summer months, there are often bushfires which involve shrubs and plantlife being set on fire by the intense warming. These can cause a lot of trouble to Australians, and can be potentially deadly if not controlled properly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_3">
+			<Text>Prehistory and the Aboriginals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_3">
+			<Text>Before the 18th century, Australia was mostly inhabited by Aboriginals. They were probably originally from Asia, although they would not be classified as "Asian". About 50,000 years ago, there was a migration of these people to Australia, where they settled and lived in an isolated state for the next 49,700 or so years. The Aboriginals inhabited most of Australia, even some of the arid desert parts in the centre. However, most Aboriginals were located in the northern parts of the continent. Even today, there is still a small amount of these people, making up only 3% of Australia's total population. Most Aboriginals are now in the Northern Territory province of the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_4">
+			<Text>European Sightings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_4">
+			<Text>The first outside sighting of Australia was made by a Dutch navigator called Willem Janszoon. On the 26th of February 1606, Janszoon landed at what is now Cape York, Queensland. He later went on to map 320 km of Australia's coastline, thinking it part of New Guinea. He named the land "Nieu Zeland", but the name didn't catch on. Over the course of that century, Dutch navigators charted the whole island, which they now named "New Holland", but never attempted to colonize. Over the next 200 years several voyages were made, but the most important was probably James Cook's expedition. Cook mapped the unknown South of Australia, which he called New South Wales. This was soon to grow into Britain's settlement on the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_5">
+			<Text>Establishment of the Colonies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_5">
+			<Text>With the loss of its 13 colonies in America in 1780, the British Empire sent a fleet to start colonizing Australia. On the 26th of January 1788 the British flag was raised at Sydney Cove, proclaiming the land a British settlement. Today, the 26th of January is celebrated as Australia Day. The site for this first colony later became Sydney. Eventually Britain split the island into several different colonial settlements, each with different governments, which today serve as regional divisions in Australia. They were used for different things by the British - most of them had some convict focus, except for South Australia, which was notably a "free colony".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_6">
+			<Text>Convicts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_6">
+			<Text>Australia was by this point a thriving British settlement, although it had no central government. The British eventually decided to use this vast land as a convict settlement by sending British prisoners to the mostly uninhabited land. From the start convicts had been used to establish initial colonies, but now there were larger prisons to house convicts in. Most of the time, the crimes they did were harmless - such as steal a loaf of bread - but all the same Britain used it as a convict settlement, perhaps to give people an even better reason not to commit crimes. The largest prison was Port Arthur in Tasmania, which was used for re-offending criminals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_7">
+			<Text>The Gold Rush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_7">
+			<Text>During the 1850s a gold rush began in Australia. It started in New South Wales and Victoria, but quickly spread across the island. The colonies' economies greatly benefited from this as it brought a lot of extra value to both the land and the amount of people in the settlements. While many people got massively rich off this, most of the people taking part in it didn't and instead took advantage of Australia's land laws and started farming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_8">
+			<Text>Federation and Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_8">
+			<Text>Australia became a unified nation in 1901 and gained its first Prime Minister in the same year. Australia was pretty much an independent state at this point, but in 1931 the Statute of Westminster ended most constitutional ties between Britain and Australia. Although most links between the two nations have now ended they both share a monarch, King Charles III. There have been a few attempts to end the monarchy and proclaim Australia a republic, but the majority of Australian voters are opposed to this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_9">
+			<Text>The World Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_9">
+			<Text>In 1914 Australia entered the First World War on the side of Britain. The Australians initially served on the Western Front and later at Gallipoli, which is marked as an important encounter for the new nation. Throughout the war, Australia supported the war effort which eventually resulted in victory for the Australians, and placed them as a large force on the world stage. Later they also joined the Second World War where they had to deal with threats of Japanese attacks, but successfully defended the nation and helped the Allies in the Pacific War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_10">
+			<Text>Postwar Activities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_10">
+			<Text>After the Second World War, Australia encouraged immigration from Europe and saw its population grow considerably. Australia's economy also grew considerably in the post-war years. Australia played a large role in the Cold War, taking action in Korea and Vietnam and doing what they could to stop the spread of communism. Trade links were reopened with nations such as Japan, and Australia was thriving. Better rights were given to the Aboriginals, and links with other nations such as the United Kingdom and the United States were strengthened.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_11">
+			<Text>Modern Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_11">
+			<Text>Today, Australia is one of the most successful countries with the fifth largest land area and the twelfth largest economy in the world. It is notable for its large amount of rights and equalities, and is considered one of the most developed nations in the world. Australia continues to harbor immigrants today, as well as being a popular tourist resort. It is studied as one of the most geographically interesting places in the world, with a mix of Desert, Rainforest, and Mediterranean climates. Overall, it remains one of the greatest nations in the world - a truly diverse nation, in terms of not only the landscape and the climate, but the people themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_FACTOID_TEXT">
+			<Text>Many people in the Northern Hemisphere refer to Australia as "Down Under" because of its southern location on Earth.[NEWLINE][NEWLINE]Australia has hosted the Olympic Games twice and plans to host a third event in Brisbane in 2032. It has participated in every modern Olympic Games, making it the only nation besides Greece to have done so.</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_LIVED">
+			<Text>1885 - 1945</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_NAME">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_SUBTITLE">
+			<Text>Prime Minister of Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_CURTIN">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TITLES_1">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TITLES_2">
+			<Text>Minister of Defence</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_1">
+			<Text>John Curtin was the 14th Australian Prime Minister, serving from the 7th October 1941 to his death on the 5th July 1945. This was, of course, the majority of World War II. Curtin was a member of the Australian Labor Party from 1935 to his death, Frequently considered as one of Australia’s best Prime Ministers, Curtin’s legacy is defined by his statesmanship at the helm of Australia during one of its most trying times, earning him praise for American general Douglas MacArthur, who said of him "he was one of the greatest of wartime statesmen, and the preservation of Australia from invasion will be his immemorial monument".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_2">
+			<Text>John Curtin was born in Creswick, Victoria, on 8 January 1885. He was christened "John Joseph Ambrose", although his middle names were not recorded on his birth certificate and he stopped using them in later life. Within his family he was known as "Jack". The eldest of four children, his ancestry was Irish, with both of his parents being born in County Cork, Ireland. Curtin was born with congenital strabismus of the left eye, which remained noticeable throughout his life. It was largely a cosmetic defect, but he was quite self-conscious about it. According to his biographer David Day, it had "a considerable psychological effect" on him, and likely exacerbated his natural shyness. Curtin began his education at St Francis' Boys School, a Christian Brothers school attached to St Francis' Church. He later briefly attended St Bridget's School in Fitzroy. He also attended Macedon Primary School in Macedon. In 1894, Curtin and his family moved to Charlton, a small country town in north-west Victoria. His father had failed to prosper in Melbourne, which was in the middle of an economic downturn. In Charlton, he took over the lease of a pub owned by his brother-in-law, John Bourke. Curtin was enrolled in the local state school, as a Catholic school had not yet been established. He excelled academically, and was seen as a potential "scholarship boy". However, he and his family left Charlton in 1896. Struggling financially, they spent the following two years moving around country Victoria, as his father managed pubs in Dromana, Drouin, and Mount Macedon. Curtin attended the local state schools, ending his formal education in 1898 at the age of 13.[NEWLINE][NEWLINE]Thus began Curtin’s working life. In early 1899, Curtin began working as an office boy at a weekly magazine called The Rambler, employed by the artist and writer Norman Lindsay whom Curtin knew through family. The magazine did not last long, and Curtin thus moved between short-term jobs, including as a copy boy at The Age, a potter's apprentice, and a houseboy at a gentlemen's club. His first permanent job was at age 18, taking up a position as an estimates clerk with the Titan Manufacturing Company in South Melbourne in September 1903. By that time he was the family's primary breadwinner, as his father was a virtual invalid. As a youth, Curtin was a talented sportsman. Between 1903 and 1907, he played as a half-forward flanker for the Brunswick Football Club in the semi-professional Victorian Football Association (VFA). His teammates gave him the nickname "Bumble". Curtin also played cricket for the Brunswick Cricket Club, where he had a reputation as a solid batsman. This passion for sports remained throughout his life, both as an administrator and supporter. He was said to have an encyclopaedic knowledge of cricket statistics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_3">
+			<Text>The Future Prime Minister gets Political</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_3">
+			<Text>From a young age, Curtin was active in both the Australian Labor Party and the Victorian Socialist Party. A Marxist organisation, it was during this time that Curtin formed and held strong anti-imperialist and anti-militarist views. However, the view that led him to significantly differ with the mainstream of the Labor movement was an opposition to racism, which stemmed from his belief that racial hatred was used as a tool of the "exploiting class". This, however, was somewhat contradicted as Prime Minister, where he defended the White Australia Policy. He wrote for radical and socialist newspapers, and from 1911 to 1915 Curtin was employed as state secretary of the Timberworkers' Union. He was elected federal president of the union in 1914. During World War I he was a militant anti-conscriptionist, differing from then Labor (or at least, at the time) Prime Minister Billy Hughes; he was briefly imprisoned in December 1916 for refusing to attend a compulsory medical examination, even though he knew he would fail the exam due to his very poor eyesight. Makes you wonder how he was such a good batsmen, huh?[NEWLINE][NEWLINE]In 1914 he also stood (unsuccessfully) as the Labor candidate for Balaclava in the 1914 federal election. The wartime period led to a large strain upon Curtin, where he began to drink heavily and regularly, a vice which blighted his career for many years. It was not all crippling, though, and it was at this time he proposed to Elsie Needham, the sister of Labor Senator Ted Needham, on St Kilda Beach, after which and they were married on 21 April 1917. Curtin was introduced to Elsie Needham on a visit to Tasmania in April 1912, Fred Katz, an acquaintance from the Victorian Socialist Party, had taken Curtin to visit Elsie's father Abraham Needham, a candidate in the 1912 Tasmanian state election. Together, they had two children, creatively named Elsie and John.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_4">
+			<Text>Look West My Friend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_4">
+			<Text>Later in 1917, Curtin moved to Perth in Western Australia to become an editor for the Westralian Worker, the official trade union newspaper. He settled in the suburb of Cottesloe where his residence is now heritage-listed as "John Curtin's House". He enjoyed the less pressured life of Western Australia, and it was here that his political views gradually moderated, shifting from a more radical Marxist to a more typical trade unionist. He joined the Australian Journalists' Association (AJA) in 1917 and was elected its Western Australian President in 1920. So proud of his heritage in this was Curtin that he wore his AJA badge (WA membership #56) every day he was prime minister.[NEWLINE][NEWLINE]Curtin stood for Parliament a second time in 1925, this time for Fremantle, although he lost heavily to the incumbent William Watson. Watson retired in 1928, and Curtin ran again, this time winning on the second count. Re-elected in Labor's sweeping election victory the following year, he expected to be named as a member of Prime Minister James Scullin's Cabinet, but disapproval of his heavy drinking habit meant that he remained on the backbench. William Watson chose to briefly come out of retirement in 1931 after joining the United Australia Party, and easily defeated Curtin in an election that saw Labor collapse to just 14 seats in Parliament. After the loss, Curtin became the advocate for the Western Australian Government with the Commonwealth Grants Commission. He stood for his old seat in 1934 after Watson announced his retirement for the second time, and was able to win it back.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_5">
+			<Text>The Man from WA Becomes Leader of the Opposition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_5">
+			<Text>When James Scullin resigned as Labor Leader in 1935, Curtin stood in the election to replace him, although he was not expected to win. Two others nominated themselves to stand for the party leadership - Frank Forde and Norman Makin. Scullin had suffered persistent ill health for several years, and thus, many were aware that Frank Forde was being groomed for leadership after Scullin, and was seen as his natural successor. On the first ballot of the caucus vote, of the 21 votes, 9 went to Curtin, 10 to Forde and 2 to Makin. Thus eliminating Makin, the two votes switched to Curtin, making him the leader of the opposition by 1 vote. Curtin was the first leader of a major political party to represent a constituency in Western Australia. Forde's association with the Scullin Government and support of the Premiers' Plan were believed to have played against him, as left wing factions and trade unions had opposed some of the economic policies of Scullin’s era. . The groups that had supported Curtin did so on the basis that he promise to give up alcohol, which he subsequently did. Although Labor made little progress at the 1937 election, by 1939 Labor's position had vastly improved. Curtin led Labor to a five-seat swing in the 1940 election, which resulted in a hung parliament. In that election, Curtin's own seat of Fremantle had been in doubt. United Australia Party challenger Frederick Lee appeared to have won the seat on the second count after most of independent Guildford Clarke's preferences flowed to him, and it was not until the final counting of preferential votes that Curtin knew he had won the seat.[NEWLINE][NEWLINE]It was also as Opposition Leader that World War II broke out. In line with the king's declaration of war, Prime Minister Robert Menzies declared war on Germany and announced Australia's support for the British war effort. In 1941, Menzies travelled to Britain to discuss Australia's role in the war strategy, and to express concern at the reliability of Singapore's defences, only to be drawn into Winston Churchill's disastrous Greek campaign, as Menzies was generally more than a little sympathetic to "the mother country". While he was in Britain, Menzies lost the support of his own party, and was forced to resign as prime minister. The Coalition elected Arthur Fadden, the leader of the Country Party, as Menzies' replacement, even though the UAP was the senior partner in the Coalition. Curtin adroitly refused calls from his own caucus to bring about the defeat of the government through a motion of no confidence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_6">
+			<Text>Prime Minister in Trying Times</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_6">
+			<Text>Curtin had refused Menzies' initial offer to form a wartime "national government", partly because he feared that it would split the Labor Party, although he did agree to join the Advisory War Council. In October 1941, Arthur Coles and Alexander Wilson, the two independent MPs who had been keeping the Coalition in office since 1940 (first under Menzies, then under Fadden), joined forces with Labor in defeating Fadden's budget and bringing the government down. Governor-General Lord Gowrie was reluctant to call an election for a Parliament barely a year old, especially given the international situation. He summoned Coles and Wilson and made them promise that if he named Curtin prime minister, they would support him for the remainder of the Parliament to end the instability in government. The independents agreed, and Curtin was sworn in as prime minister on 7 October, aged 56. He became the first and only prime minister to come from Western Australia. Curtin had barely been in office 2 months before the Japanese bombed Pearl Harbor on the 8th December, beginning the Pacific theatre of the War. Curtin addressed the nation, stating that Australia was at war with Japan in his classic rough Australian accent: "Men and women of Australia...we are at war with Japan. This is the gravest hour of our history. We Australians have imperishable traditions. We shall maintain them. We shall vindicate them. We shall hold this country and keep it as a citadel for the British-speaking race and as a place where civilisation will persist".[NEWLINE][NEWLINE]Perhaps one of the most fateful policies during this time was Curtin seeking assistance from the United States, thus trying himself to them. Fear about the foe facing Japan led Curtin to declare on his New Year’s Message (which happened on Boxing Day): "The Australian Government, therefore regards the Pacific struggle as primarily one in which the United States and Australia must have the fullest say in the direction of the Democracies' fighting plan. Without any inhibitions of any kind, I make it clear that Australia looks to America, free of any pangs as to our traditional links or kinship with the United Kingdom". Many felt that Prime Minister Curtin was abandoning Australia's traditional ties to the British Isles without any solid partnership in place with the United States. This speech also received criticism at high levels of government in Australia, Britain and the US; it angered Churchill, and Roosevelt said that it "smacked of panic", though when evaluated in the context of other World War II speeches, especially by Churchill under threat of Nazi invasion, one would realise this was not necessarily the case. By 1943, when the threat of Japanese invasion had passed, Curtin increasingly returned to a commitment to the British Empire. Downplaying nationalism, he said that Australia comprised "seven million Britishers". He saw the United States as a predatory economic and military power that would threaten Australia's own ambitions in the Pacific. Australia moved closer to New Zealand, and suggested a lesser role for the United States after the war. Concurrently, the Curtin government enacted the Statute of Westminster Adoption Act 1942, under which Australia accepted the dominion status which Britain had conferred in 1930, but which the Australian federal government had not accepted until then. The Adoption Act took effect retroactively as of 3 September 1939, the outbreak of World War II. Although politically a product of the government's policy of re-orientation towards the United States, constitutionally, this marked the moment that Australia became an independent nation with a separate Crown, no longer subject to the supremacy of British law and the British Crown.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_7">
+			<Text>From the War Front...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_7">
+			<Text>The Curtin Government agreed that the Australian Army's I Corps – centred on the 6th and 7th Divisions – would be transferred from North Africa to the American-British-Dutch-Australian Command in the Netherlands East Indies for the defence of Java and Sumatra. Before they could arrive, Singapore fell on 15 February 1942. Most of the 8th Division was taken into captivity, although a small number, including its commander, Major General Gordon Bennett, managed to escape. "The fall of Singapore," Curtin announced in a radio address to the nation on 16 February, "can only be described as Australia's Dunkirk. It will be recalled that the fall of Dunkirk initiated the Battle for Britain. The fall of Singapore opens the Battle for Australia. On its issue depends not merely the fate of this Commonwealth but the frontier of the United States of America and, indeed, all the Americas and, therefore, in a large measure the fate of the British-speaking world." The Japanese threat was further underlined on 19 February, when Japan bombed Darwin, the first of many air raids on northern Australia. These air raids proved mentally scarring for Australia, who had thus far only contended with the idea of invasion, and who had a natural island fortress to protect itself. At this time, Churchill attempted to divert I Corps to reinforce British troops in Burma, without Australian approval. Curtin insisted that it return to Australia, as the bombing of Japan had realised some Australian fears and exacerbated others. Roosevelt supported Churchill, offering to send an American division to Australia instead, while the Chief of the General Staff Lieutenant General Vernon Sturdee, threaten to resign if his advice was ignored and the troops were diverted to Burma. Curtin prevailed, although he agreed that the main body of the 6th Division could garrison Ceylon.[NEWLINE][NEWLINE]Curtin formed a close working relationship with the Allied Supreme Commander in the South West Pacific Area, General Douglas MacArthur. Curtin realised that Australia would be ignored unless it had a strong voice in Washington, D.C., and he wanted that voice to be MacArthur's. He gave over control of Australian forces to MacArthur, directing Australian commanders to treat MacArthur's orders as if they came from the Australian Government. By mid-1942, the results of the battles of the Coral Sea and Midway had averted the perceived threat of invasion. Curtin had previously opposed conscription for overseas service during World War I, and again in 1940 when it was introduced by Menzies, although he had supported softening it to allow conscripts to serve in Australian territories. Curtin recognised that the restriction of the Australian conscripts to Australia and its territories was politically unviable, and thus, the Defence Act was amended so that conscripts could be deployed outside of Australia to "such other territories in the South-West Pacific Area as the Governor-General proclaims as being territories associated with the defence of Australia". The stress of the war and especially this bitter internal battle within Labor over conscription, which had waged between the Communists and sympathising factions, and those factions who were driven by their Catholic faith, took a great toll on Curtin's health, which had never been robust even at the best of times. He had suffered all of his life from stress-related illnesses, suffering from depression and being a heavy smoker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_8">
+			<Text>...To the Home Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_8">
+			<Text>Curtin made very heavy use of newspapers and broadcast media, especially through press conferences, speeches, and newsreels. Australians gained a sense it was a people's war in which they were full participants. In terms of social policy, the Curtin Government enacted a wide range of progressive social reforms during its time in office. Pensions were introduced for deserted wives and widows, while the establishment of the Women's Employment Board led to increased wages for some women during the war. Aboriginal Australians were provided with significantly increased entitlement to welfare benefits, while maternity allowances were extended. In addition, pensions for the elderly and infirm were increased. And unlike the United Kingdom, Australia at this time continued their elections. Thus, in 1943, Curtin had to contend with election season. He did, however, enter in a strong position. Even allowing for the advantages that an incumbent government has in wartime, Fadden and Hughes had been unable to get the better of Curtin, and the Coalition had become almost moribund. In the election, Curtin led Labor to its greatest-ever victory, winning two-thirds of the seats in the House of Representatives on a two-party preferred vote of 58.2% and a 17-seat swing. The Coalition was reduced to only 19 seats nationwide, including only one west of Broken Hill. Fadden's Country Party took a particularly severe beating, winning only seven seats. Labor also won the primary vote in all states in the Senate, and thus all 19 seats, to hold a majority of 22 out of 36 seats. Buoyed by this success, Curtin called a referendum which would give the government control of the economy and resources for five years after the war was over. The 1944 Australian Referendum contained one referendum question: "Do you approve of the proposed law for the alteration of the Constitution entitled 'Constitution Alteration (Post-War Reconstruction and Democratic Rights) 1944'?" This referendum, which gave Curtin a wide mandate, failed by roughly 54% to 46%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_9">
+			<Text>Death and Legacy of One of the Great Australians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_9">
+			<Text>By 1944, a time when he was travelling to and from London and Washington for meetings with Churchill, Roosevelt and other Allied leaders, Curtin had already developed heart disease. He had a heart attack in November 1944, and did not return to work until January 1945. With the end of the war in sight, his health began to deteriorate seriously and at a rapid pace. On 5 July 1945, Curtin died at The Lodge at the age of 60, proving it is possible to die from something other than boredom in Canberra. He was the second Australian prime minister to die in office within six years. A Catholic priest called at The Lodge as Curtin lay dying, but he was turned away. Curtin had refused to so much as set foot inside a Catholic church throughout his adult life, not even to attend the weddings of friends. His body was returned to Perth on a RAAF Dakota escorted by a flight of nine fighter aircraft. After lying in state, he was buried at Karrakatta Cemetery in Perth; the service was attended by over 30,000 at the cemetery with many more lining the streets. Curtin was initially succeeded as prime minister by his deputy, Frank Forde; but seven days later a party ballot installed Ben Chifley as Labor Leader and therefore prime minister. Many of Curtin's post-war reconstruction plans were implemented by Chifley.[NEWLINE][NEWLINE]It was under Curtin that the welfare state was truly set into motion. It was under Curtin Australia was defended, and under Curtin that uniform taxation was introduced, continuing the consolidation of power by the federal government. His early death and the sentiments it aroused have given Curtin a unique place in Australian political history. Successive Labor leaders, particularly Bob Hawke and Kim Beazley, have sought to build on the Curtin tradition of "patriotic Laborism". Even some political conservatives pay at least formal homage to the Curtin legend. Curtin is commemorated with a number of monuments to him, with the federal seat of Curtin, the Canberra suburb of Curtin, Curtin University in Perth, John Curtin College of the Arts in Fremantle, the John Curtin School of Medical Research in Canberra, the John Curtin Prime Ministerial Library, and Curtin Springs in the Northern Territory being among the hundreds of commemorations for him.</Text>
+		</Row>
+
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_CURTIN_SHORT">
+			<Text>Fight Work or Perish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_CURTIN">
+			<Text>Declaring Friendship instantly spawns a Production building in your largest available City. Units owned by Declared Friends or Allied City-States grant [ICON_PRODUCTION] Production while in your Cities' Borders and Experience to your adjacent Units.</Text>
+		</Row>
+
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_BOOMERANG">
+			<Text>CA-13 Boomerang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_BOOMERANG_STRATEGY">
+			<Text>Unique Australian replacement for the Fighter. Stronger and begins with Bombardment I, but receives only half the Fighter's usual combat bonus against other Planes. While at War, whenever a Declared Friend builds a Fighter, you receive a free Boomerang.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_BOOMERANG_HELP">
+			<Text>Unique Australian replacement for the Fighter. Stronger and begins with Bombardment I, but receives only half the Fighter's usual combat bonus against other Planes. While at War, whenever a Declared Friend builds a Fighter, you receive a free Boomerang.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_BOOMERANG_TEXT">
+			<Text>The CAC Boomerang was a fighter aircraft designed, and accordingly manufactured in Australia by the Commonwealth Aircraft Corporation between 1942 and 1945. These planes were approved for production shortly before the entry of Japan into World War II. Previously, on 17 October 1936, with the encouragement of the Government of Australia, three companies came together to form a joint venture, registered as the Commonwealth Aircraft Corporation (CAC), which had the goal of assessing the viability of the development of a self-sufficient aircraft industry after observing the political moves of the German Reich under Adolf Hitler and the Empire of Japan to arm themselves militarily. The Boomerang’s were designed rapidly to meet the increased need by the RAAF. The first aircraft combat designed and constructed in Australia, a number of different variants were eventually constructed a series of corresponding production contract numbers CA-12, CA-13, CA-14 and CA-19. These variants would have a number of modifications.[NEWLINE][NEWLINE]The Boomerang was handicapped by the available engine variant, which gave low power at altitude and resulted in the aircraft proving to be slower than contemporary fighter aircraft. The Boomerang rarely engaged in aerial combat. During early wartime operations, the Boomerang was mainly dispatched to equip home-based squadrons, freeing up other fighters for use overseas. In later service, the Boomerang would commonly be used for ground support duties, cooperating with Allied army units, in addition to secondary roles such as aerial reconnaissance and air sea rescue.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_SENSHI_INDEPENDENT_COMPANY">
+			<Text>Independent Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_INDEPENDENT_COMPANY_STRATEGY">
+			<Text>Unique Australian replacement for the Machine Gun. May Paradrop up to 4 tiles, and may attack twice when not adjacent to any units you own. While in enemy territory, it temporarily claims the tile it begins on as long as there are no adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_INDEPENDENT_COMPANY_HELP">
+			<Text>Unique Australian replacement for the Machine Gun. May Paradrop up to 4 tiles, and may attack twice when not adjacent to any units you own. While in enemy territory, it temporarily claims the tile it begins on as long as there are no adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_INDEPENDENT_COMPANY_TEXT">
+			<Text>At the beginning of the Second World War, the Australian Army did not possess any "special forces" units. Late in 1940, the British government sent a military mission to Australia, headed by Lieutenant-Colonel J.C Mawhood, to investigate the possibility of establishing a number of such units within the Australian Army. The British proposed the establishment of independent companies that would receive special training in order to take part in combined operations and various other tasks, including "...raids, demolitions, sabotage, subversion and organising civil resistance". This was a very broad notion of the role that the independent companies would play, and there was considerable confusion over how these units would be used; for a while, this uncertainty threatened the very existence of the independent company concept. Acting on British advice, the Australian Army began raising and training the 2/1st Independent Company in March 1941. Formed from volunteers from all branches of the Australian military, they were initially modelled upon the British Army Commandos and began training at the 7th Infantry Training Centre, Guerrilla Warfare School, at Wilson's Promontory, Victoria. In December 1941, with Japan's entry into the war, problems with the concept and the training course were ironed out, and more independent companies were raised, until there were eight in tota, including 1st Independent Company and New Guinea Air Warning Wireless (Independent) Company. Initially the independent companies were raised to serve alongside the Second Australian Imperial Force (Second AIF) in the Middle East; however, as the threat from Japan developed it was decided to use them in the Pacific theatre, in the islands to the north of Australia where it was necessary to establish outposts to warn of the approach of Japanese forces. Their mission would then be to remain behind and harass the invading Japanese forces. In 1943, the Independent Companies were re-organised into commando units and other adjacent units, including Z unit. Modern Australian commando units are the legacy of these Independent Companies.</Text>
+		</Row>
+
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_PARADROP">
+			<Text>Australian Commando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_PARADROP_HELP">
+			<Text>May Paradrop up to four tiles.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_BLITZ">
+			<Text>May Attack Twice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_BLITZ_HELP">
+			<Text>As this unit is separated from your other units, it may Attack twice.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_BOOMERANG_ANTI_AIR">
+			<Text>Inferior Anti-Air</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_BOOMERANG_ANTI_AIR_HELP">
+			<Text>+75% Combat Bonus against Planes.</Text>
+		</Row>
+	</Language_en_US>
+	
+	<Language_zh_Hant_HK>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_01">
+			<Text>堪培拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_02">
+			<Text>悉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_03">
+			<Text>墨爾本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_04">
+			<Text>布裏斯班</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_05">
+			<Text>阿德萊德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_06">
+			<Text>珀斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_07">
+			<Text>霍巴特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_08">
+			<Text>達爾文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_09">
+			<Text>莫爾茲比港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_10">
+			<Text>湯斯維爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_11">
+			<Text>凱恩斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_12">
+			<Text>紐卡斯爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_13">
+			<Text>巴拉拉特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_14">
+			<Text>勞恩斯頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_15">
+			<Text>吉朗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_16">
+			<Text>羅克漢普頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_17">
+			<Text>愛麗絲斯普林斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_18">
+			<Text>圖文巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_19">
+			<Text>布魯姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_20">
+			<Text>伍倫貢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_21">
+			<Text>布洛克希爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_22">
+			<Text>本迪戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_23">
+			<Text>伊普斯維奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_24">
+			<Text>福裏曼特爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_25">
+			<Text>班達堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_26">
+			<Text>沃加沃加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_27">
+			<Text>阿爾伯裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_28">
+			<Text>瑪麗伯勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_29">
+			<Text>奧蘭治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_30">
+			<Text>麥凱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_31">
+			<Text>皮裏港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_32">
+			<Text>卡爾高裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_33">
+			<Text>巴瑟斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_34">
+			<Text>瓦南波爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_35">
+			<Text>杜布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_36">
+			<Text>米爾杜拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_37">
+			<Text>懷亞拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_38">
+			<Text>伯尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_39">
+			<Text>甘比爾山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_40">
+			<Text>霍斯海姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_41">
+			<Text>本伯裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_42">
+			<Text>傑拉爾頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_CURTIN_43">
+			<Text>雅斯</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_0">
+			<Text>羅伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_1">
+			<Text>克拉裏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_2">
+			<Text>托馬斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_3">
+			<Text>約翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_4">
+			<Text>卡爾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_5">
+			<Text>歐文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_6">
+			<Text>愛德蒙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_7">
+			<Text>弗農</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_8">
+			<Text>貝莉爾</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_CURTIN_9">
+			<Text>戈登·本內特</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_CURTIN_ADJECTIVE">
+			<Text>澳大利亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_CURTIN_DESC">
+			<Text>澳大利亞聯邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_CURTIN_SHORT_DESC">
+			<Text>澳大利亞</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_CURTIN_TEXT">
+			<Text>我們感謝您，尊敬的總理約翰·科廷！在你上任之前，你的國家已經遭受了多年的經濟蕭條和政府不穩定，並麵臨著歐洲戰爭的爆發和太平洋地區緊張局勢的加劇。在您上任之前，您的國家已經遭受了多年的經濟蕭條和政府混亂，並麵臨著歐洲戰爭的爆發和太平洋地區緊張局勢的加劇。當日本的侵略有史以來第一次將戰爭帶到國家邊界時，澳大利亞處於曆史上最黑暗的時刻。但是，在您的領導下，澳大利亞和她的盟國將潛在入侵者從北海岸邊趕回了老家！由於您巧妙的外交和國內政策，澳大利亞在戰爭中比以往任何時候都更團結、更繁榮、更有自信。雖然你未能親眼看目睹這一切，但你的行動將澳大利亞轉變為一個獨立的、自給自足的國家，至今仍在蓬勃發展。[NEWLINE][NEWLINE]科廷總理，澳大利亞上空再一次烏雲密布。人民強烈要求您帶領他們度過另一個巨大的動蕩時期。你會帶領遺世獨立的家園走向和平與繁榮嗎？你會建立一個經得起時間考驗的文明嗎？</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TITLE">
+			<Text>澳大利亞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_1">
+			<Text>在其大部分曆史上，被稱為 "澳大利亞 "的土地上居住著各種原住民，他們與世界其他地方隔絕。歐洲人在1606年發現這片廣闊的陸地後，許多國家試圖占領它的一部分。最終，英國人占領了整個澳大利亞島，把它變成了他們最繁榮的，也是最大的殖民地之一。由於有大量的可用土地，大英帝國向該領土派遣囚犯，作為保持不列顛群島無犯罪的一種方式。最終，在1901年，澳大利亞有了它的第一位國家總理，並最終從英國獨立。作為一個新成立的國家，澳大利亞參加了第一次和第二次世界大戰，幫助其在世界地圖上占有一席之地。今天，澳大利亞是世界上訪問量最大的旅遊目的地之一，同時也與其他國家有著緊密的經濟和政治聯係。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_2">
+			<Text>地形與氣候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_2">
+			<Text>由於澳大利亞中西部沙漠廣布，因此大部分人口居住在東南的沿海地區。澳大利亞有幾個值得注意的地理景觀，如烏魯汝——一個神聖的阿波利根人遺址；北海岸外的大堡礁；以及澳大利亞中部的大片內陸。由於澳大利亞夏季的極端炎熱，經常會發生灌木和植物被強烈升溫點燃的叢林大火。這些火災會給澳大利亞人帶來很多麻煩，如果控製不當，可能會造成人員傷亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_3">
+			<Text>原始時期</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_3">
+			<Text>在18世紀之前，澳大利亞主要由原住民居住。他們可能最初來自亞洲，盡管他們不會被歸類為“亞裔澳大利亞人”。大約5萬年前，這些人遷移到澳大利亞，在接下來的49700年左右的時間裏，他們在那裏定居並生活在一個與世隔絕的狀態中。原住民居住在澳大利亞的大部分地區，甚至中部的一些乾旱沙漠地區。然而，大多數原住民位於該大陸的北部地區。即使在今天，這些人的數量仍然很少，隻占澳大利亞總人口的3%。大多數原住民現在都在該國的北領地省。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_4">
+			<Text>歐洲登陸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_4">
+			<Text>外界第一次進入澳大利亞的任務是由一位名叫威廉·揚森的荷蘭航海家完成的。1606年2月26日，揚森在現在的昆士蘭約克角登陸。他後來繪製了澳大利亞320公裏的海岸線，認為這是新幾內亞的一部分。他將這塊土地命名為“新西蘭”，但這個名字並沒有流行起來。在那個世紀裏，荷蘭航海家繪製了整個島嶼的地圖，他們現在將其命名為“新荷蘭”，但從未試圖進行殖民。在接下來的200年裏，航海家進行了幾次航行，但最重要的是詹姆斯·庫克的探險。庫克繪製了澳大利亞南部未知地區的地圖，他稱之為新南威爾士，並很快就發展成為英國在該島的定居點。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_5">
+			<Text>殖民地建立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_5">
+			<Text>隨著1780年在美洲的13個殖民地的喪失，大英帝國派出一支艦隊開始在澳大利亞進行殖民。1788年1月26日，英國國旗在悉尼灣升起，宣布這片土地成為英國定居點。1月26日也就是今天的澳大利亞國慶日。這個第一個殖民地的地點後來成為悉尼。最終，英國將該島分割成幾個不同的殖民定居點，每個定居點都有不同的政府，今天它們是澳大利亞的區域劃分。它們被英國人用來做不同的事情，大多數都是囚犯的流放地，而南澳大利亞則明顯是一個“自由殖民地”，即隻有正常的自由人移民進入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_6">
+			<Text>囚犯時代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_6">
+			<Text>此時的澳洲大陸雖然沒有中央政府，但已經是一個繁榮的英國定居地區。英國人最終決定將這片廣袤的土地作為囚犯定居點，將英國囚犯送到這塊大部分無人居住的土地上。從一開始，囚犯就被用來建立最初的殖民地，但現在有了更大，更適合的“監獄”來關押囚犯。大多數時候，他們所犯的罪行是無害的——比如偷一條麵包，但英國還是把它作為一個流放之地，也許是為了給人們一個更好的不犯罪的理由。最大的監獄是塔斯馬尼亞的亞瑟港，用來關押累次犯罪的罪犯。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_7">
+			<Text>新金山淘金熱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_7">
+			<Text>1850年代時，澳大利亞開始出現淘金熱。它開始於新南威爾士州和維多利亞州，但很快蔓延到全國。殖民地的經濟從中大大受益，因為它為土地和定居點的人口數量帶來了大量的額外價值。雖然許多人因此發了大財，但大多數參與其中的人並為因此獲利，而是留在了大陸上成為農民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_8">
+			<Text>澳洲獨立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_8">
+			<Text>澳大利亞於1901年成為一個統一的國家，並在同年獲得了其第一位總理。此時的澳大利亞幾乎是一個獨立的國家，但1931年的《威斯敏斯特法》才真正結束了英國和澳大利亞之間的大部分憲法聯係。雖然澳英兩國之間的大部分聯係現在已經結束，但兩國都有一個君主——查爾斯三世。曾有一些人試圖結束君主製，宣布建立澳大利亞為共和國，但大多數澳大利亞選民都反對這樣做。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_9">
+			<Text>二次大戰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_9">
+			<Text>1914年，澳大利亞作為英國的海外領土參加了第一次世界大戰。澳大利亞人最初參與西線戰鬥，後來在加裏波利服役，這也是澳大利亞國家曆史上的一直重要事件。在整個戰爭期間，澳大利亞都竭力支持英國，並最終帶來了勝利，從而使他們成為世界舞台上的一支巨大力量。後來，他們還加入了第二次世界大戰，他們不得不應對日本人的攻擊威脅，但在太平洋戰爭中成功地保衛了國家並幫助了盟國。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_10">
+			<Text>戰後時代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_10">
+			<Text>二戰後，澳大利亞鼓勵來自歐洲的移民，其人口大幅增長。澳大利亞的經濟在戰後也有了很大的發展。澳大利亞在冷戰中發揮了巨大的作用，在朝鮮和越南戰場戰鬥，並盡其所能阻止共產主義的蔓延。隨著與日本等國家的貿易聯係重新開放，澳大利亞的經濟也隨之繁榮起來。另一方麵，原住民獲得了更好的權利，與英國和美國等其他國家的聯係也得到加強。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_HEADING_11">
+			<Text>當代澳洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_TEXT_11">
+			<Text>今天，澳大利亞在國際事務上有相當重要性，擁有世界上第五大土地麵積和第十二大經濟體。它因其權利和平等的實施而引人注目，被認為是世界上最發達的國家之一。今天，澳大利亞繼續收容移民，同時也是一個受歡迎的旅遊勝地。它被研究為世界上地理上最有趣的地方之一，有沙漠、雨林和地中海氣候的混合。總的來說，它仍然是世界上最偉大的國家之一——一個真正多樣化的國家，不僅在景觀和氣候方麵，更是在其人民本身。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CURTIN_FACTOID_TEXT">
+			<Text>對北半球的許多人來說，澳大利亞因其位於地球南部而被稱為“地下之國”。[NEWLINE][NEWLINE]澳大利亞曾兩次主辦奧運會，且預計於2032年在布裏斯班舉辦第三次奧運會，並且是除希臘之外唯一一個參加過每屆奧運會的國家。</Text>
+		</Row>
+		
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_LIVED">
+			<Text>1885-1945</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_NAME">
+			<Text>約翰·科廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_SUBTITLE">
+			<Text>澳大利亞領袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_CURTIN">
+			<Text>科廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TITLES_1">
+			<Text>第14任澳大利亞總理</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_1">
+			<Text>曆史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_1">
+			<Text>約翰·科廷是第14任澳大利亞總理，從1941年10月7日至1945年7月5日去世。作為澳大利亞工黨的成員，他從1935年起就在第二次世界大戰的大部分時間內任職。科廷通常被認為是澳大利亞最好的總理之一，他的遺產被定義為在國家最具挑戰性的時期之一的卓越政治家。道格拉斯·麥克阿瑟稱讚他是“最偉大的戰時政治家之一”，並補充說：“保護澳大利亞免遭入侵將使他永遠為人懷念”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_2">
+			<Text>早年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_2">
+			<Text>約翰-科廷於1885年1月8日出生在維多利亞州的克雷斯維克。他最初被命名為“約翰·約瑟夫·安布羅斯·科廷”，盡管他的中間名沒有記錄在他的出生證上，而且他後來也不再使用中間名。他在家裏被稱為“傑克”，是四個有愛爾蘭血統的孩子中的老大，因為他的父母都出生在愛爾蘭的科克郡。科廷出生時左眼有先天性斜視，這在很大程度上是一種外觀上的缺陷，在他的一生中一直很明顯，使他相當自覺。據作家大衛·戴說，這種經曆對他產生了重大的心理影響，很可能加劇了他固有的羞澀。[NEWLINE][NEWLINE]科廷在聖弗朗西斯男校開始接受教育，這是一所附屬於聖弗朗西斯教堂的基督教兄弟學校。後來，他短暫地就讀於菲茨羅伊的聖布裏奇特學校和馬其頓的馬其頓小學。1894年，科廷和他的家人搬到了維多利亞州西北部的一個鄉村小鎮查爾頓，因為他的父親在經濟衰退期間未能在墨爾本站穩腳跟。在查爾頓，他的父親接管了他姐夫約翰·伯克擁有的一家酒吧。科廷就讀於當地的公立學校，因為天主教學校尚未建立。他在學業上表現出色，被認為是一個潛在的“獎學金男孩”。然而，在1896年，由於經濟困難，他和他的家人離開了查爾頓。在接下來的兩年裏，他們搬到了維多利亞州，而他的父親則在德羅馬納、德魯因和馬其頓山經營酒吧。科廷就讀於當地的公立學校，並於1898年（13歲）時完成了正規教育。[NEWLINE][NEWLINE]科廷的工作生涯始於1899年初，當時他開始在一家名為《漫步者》的周刊擔任辦公室男孩。他受雇於藝術家兼作家諾曼·林賽，他通過家庭關係認識了他。然而，這本雜誌並沒有持續多久，導致科廷在短期工作之間切換，例如《時代》的複印員、陶藝家的學徒和紳士俱樂部的管家。1903年，他在南墨爾本的泰坦製造連隊獲得了他的第一份長期工作，擔任估算員。此時，由於父親的健康狀況不佳，科廷已成為家庭的主要養家糊口者。年輕時，科廷是一位有天賦的運動員。從1903年到1907年，他在半職業的維多利亞足球協會（VFA）的不倫瑞克足球俱樂部擔任半前鋒，從隊友那裏獲得了“大黃蜂”的綽號。此外，科廷還為不倫瑞克板球俱樂部打板球，在那裏他獲得了可靠的擊球手的聲譽。他對體育的熱情貫穿了他的一生，既是管理者又是愛好者。眾所周知，他擁有板球統計的百科全書知識。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_3">
+			<Text>踏入政壇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_3">
+			<Text>科廷從小就積極參與澳大利亞工黨和馬克思主義組織維多利亞社會黨。在此期間，他發展了強烈的反帝和反軍國主義觀點。然而，他對種族主義的反對與主流工黨運動有很大不同，因為他認為種族仇恨被“剝削階級”用作工具。在他擔任總理期間，當他為白澳政策辯護時，這一立場有些矛盾。他為激進和社會主義報紙撰稿，從1911年到1915年，科廷擔任木材工人工會的國務秘書。1914年，他當選為聯邦主席。在第一次世界大戰期間，他是一個激進的反征兵主義者，與當時的工黨總理比利休斯不同。1916年12月，科廷因拒絕參加強製性征兵體檢而短暫入獄，盡管他也知道視力不佳會導致落選。[NEWLINE][NEWLINE]1914年，他在聯邦選舉中作為巴拉克拉瓦的工黨候選人競選失敗。戰爭時期給科廷帶來了巨大的壓力，導致他經常酗酒，這種惡習阻礙了他的職業生涯多年。然而，這並不完全有害——因為正是在此期間，他在聖基爾達海灘向工黨參議員泰德·尼漢姆的妹妹艾爾西·尼漢姆求婚。他們於1917年4月21日結婚。1912年4月，科廷在訪問塔斯馬尼亞期間遇到了艾爾西，當時維多利亞社會黨成員弗雷德·卡茨將他介紹給她的父親亞伯拉罕·尼漢姆，後者正在參加1912年塔斯馬尼亞州選舉。這對夫婦後來有了兩個孩子，被稱為小艾爾西和小約翰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_4">
+			<Text>西部開發</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_4">
+			<Text>1917年，科廷搬到西澳大利亞州的珀斯，擔任官方工會報紙《西澳工人報》的編輯。他住在科茨洛郊區，他的家現在被列為“約翰·科廷故居”。科廷欣賞西澳大利亞州壓力較小的生活方式，他的政治觀點從激進的馬克思主義演變為更傳統的工會主義。他於1917年成為澳大利亞記者協會（AJA）的成員，並於1920年當選為西澳大利亞州州長。科廷對自己的記者生涯感到非常自豪，以至於他在擔任總理期間每天都戴著他的協會徽章。[NEWLINE][NEWLINE]1925年，科廷代表弗裏曼特爾第二次競選議會議員，但輸給了時任的威廉·沃森。當沃森在1928年退休時，科廷再次參選並在第二次計數中獲勝。次年，他在工黨大選中大獲全勝再次當選，並有望被任命為總理詹姆斯·斯卡林的內閣成員。然而，由於斯卡林不讚成他酗酒的習慣，他仍然並未當選。1931年，威廉·沃森短暫退休並加入了澳大利亞統一黨，隨後在選舉中擊敗了科廷，導致工黨在議會中僅獲得14個席位。在這次損失之後，科廷在聯邦撥款委員會內擔任西澳大利亞政府的倡導者。1934年，當沃森宣布第二次退休時，科廷競選他的舊席位並成功奪回了它。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_5">
+			<Text>反對黨主席</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_5">
+			<Text>1935年，當詹姆斯·斯卡林辭去工黨領袖職務時，科廷參加了選舉以取代他，盡管他並不被看好。弗蘭克·福德和諾曼·馬金也參選黨的領導人。斯卡林多年來一直健康狀況不佳，導致許多人認為福德正在準備接替他。在第一次預選投票中，科廷獲得了21票中的9票，而福德獲得了10票，馬金獲得了2票。在淘汰馬金後，馬金的兩票被投給了科廷，使他以一票之差成為反對黨領袖。科廷是第一位代表西澳大利亞選區的主要政黨領導人。福德與斯卡林政府的聯係以及對總理計劃的支持被認為對他不利，因為左翼派別和工會反對斯卡林時代的一些經濟政策。[NEWLINE][NEWLINE]支持科廷的團體是基於他戒酒的承諾，而且科廷最終說到做到。盡管在1937年的選舉中進展甚微，但工黨的地位在1939年有了顯著改善。科廷在1940年的選舉中帶領該黨獲得了五個席位，導致議會懸而未決。值得注意的是，在那次選舉中，科廷自己的弗裏曼特爾席位不確定。聯合澳大利亞黨的挑戰者弗雷德裏克·李似乎在第二次獲得獨立人士吉爾福德·克拉克的大部分偏好後獲得了席位。然而，直到最後計票後，科廷才確認了他的勝利。[NEWLINE][NEWLINE]在他作為反對黨領袖時，第二次世界大戰爆發了。首相羅伯特·孟席斯與英國一道向德國宣戰，並宣布澳大利亞支持英國的戰爭努力。1941年，孟席斯前往英國討論澳大利亞在戰爭戰略中的作用，並對新加坡防禦的可靠性表示擔憂。然而，由於他對“祖國”的同情，他被卷入了溫斯頓·丘吉爾災難性的希臘戰役之中。在英國期間，孟席斯失去了黨的支持，被迫辭去首相職務。聯盟黨選擇鄉村黨領袖亞瑟·法登作為孟席斯的繼任者，盡管UAP是聯盟中的主要合作夥伴。科廷巧妙地拒絕了他自己的核心小組通過不信任動議推翻政府的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_6">
+			<Text>艱難時局</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_6">
+			<Text>盡管他同意參加戰爭谘詢委員會,科廷拒絕了孟席斯最初提出的建立戰時“國家政府”的提議，部分原因是擔心這會分裂工黨。1941年10月，自1940年以來一直支持聯盟黨的兩位獨立議員亞瑟·科爾斯和亞曆山大·威爾遜與工黨合作駁回法登的預算，導致政府崩潰。考慮到全球情況，總督高裏勳爵對要求選舉成立不到一年的議會持續一段時間。他召見了科爾斯和威爾遜，讓他們承諾支持科廷擔任議會剩餘時間的總理，以結束政府的不穩定。獨立人士同意，科廷於10月7日宣誓就任總理，時年56歲。作為西澳大利亞州第一位也是唯一一位總理，科廷在任僅兩個月時，12月8日日本轟炸珍珠港，開啟了太平洋戰區。科廷用他獨特的澳大利亞口音向全國發表講話，宣布澳大利亞正在與日本交戰：“澳大利亞的男人和女人……我們正在與日本交戰。這是我們曆史上最嚴峻的時刻。我們澳大利亞人有不朽的傳統。我們將維護它們。我們將為他們而戰鬥。我們將保持這個國家作為英吉利文明繼續繁榮的地方。[NEWLINE][NEWLINE]科廷在這一時期最重要的政策之一是尋求美國的援助，從而使澳大利亞與他們保持一致。對日本侵略者的擔憂促使科廷在他的新年致辭（節禮日發表）中宣布：“澳大利亞政府認為太平洋鬥爭主要是美國和澳大利亞在指導民主國家的戰鬥計劃方麵必須擁有最充分發言權的鬥爭。我毫無保留地明確表示，澳大利亞期待美國，對我們與英國的傳統關係或親屬關係沒有任何擔憂。許多人認為，科廷總理正在切斷澳大利亞與不列顛群島的傳統關係，而沒有與美國建立牢固的夥伴關係。這篇演講遭到澳大利亞、英國和美國高級官員的批評;這讓丘吉爾感到不安，羅斯福聲稱它“充滿了恐慌”。然而，與其他第二次世界大戰的演講相比，特別是丘吉爾在納粹入侵威脅期間的演講，人們可以看到情況可能並非如此。到1943年，隨著日本入侵的威脅消退，科廷越來越多地重申他對大英帝國的承諾。他將民族主義最小化，將澳大利亞描述為由“七百萬英國人”組成。他認為美國是一支掠奪性的經濟和軍事力量，可能會危及澳大利亞在太平洋地區的野心。因此，澳大利亞加強了與新西蘭的關係，並提議在戰後減少美國的作用。與此同時，科廷政府頒布了《1942年威斯敏斯特接受法》，根據該法案，澳大利亞接受了英國在1930年授予的自治領地位，但澳大利亞聯邦政府在此之前一直沒有接受。《1942年法》追溯生效自1939年9月3日第二次世界大戰爆發起。雖然在政治上是政府重新定位美國政策的產物，但從憲法上講，這標誌著澳大利亞成為一個擁有獨立王室的獨立國家，不再受製於英國法律和英國王室。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_7">
+			<Text>抗擊侵略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_7">
+			<Text>科廷政府同意將以第6和第7師為中心的澳大利亞陸軍第一軍從北非轉移到荷屬東印度群島的美英荷澳司令部，以保衛爪哇和蘇門答臘。然而，在他們到達之前，新加坡於 1942年2月15日淪陷。第8師的大部分人被俘，但包括指揮官戈登·貝內特少將在內的少數人設法逃脫。在2月16日向全國發表的廣播講話中，科廷將新加坡的淪陷描述為“澳大利亞的敦刻爾克”。敦刻爾克的陷落標誌著不列顛戰役的開始，而新加坡的淪陷則開啟了澳大利亞戰役。這場戰鬥的結果不僅對英聯邦而且對美國和整個美洲都有重大影響，最終影響了英語世界的命運。2月19日，日本轟炸達爾文，這是對澳大利亞北部的多次空襲中的第一次，日本的威脅進一步凸顯。空襲極大地影響了澳大利亞的心態，因為該國以前隻關注登陸入侵的概念，並依靠其天然的島嶼堡壘進行保護。此時，丘吉爾未經澳大利亞批準，試圖轉移第一軍增援在緬甸的英軍。科廷堅持要求它返回澳大利亞，因為對日本的轟炸已經意識到澳大利亞的一些恐懼並加劇了其他恐懼。羅斯福支持丘吉爾，提出向澳大利亞派遣一個美國師，而總參謀長弗農·斯特迪中將威脅說，如果他的建議被忽視而部隊最終被轉移到緬甸，他將辭職。科廷占了上風，盡管他同意第6師團的主力可以駐守錫蘭。[NEWLINE][NEWLINE]科廷與西南太平洋地區的盟軍最高指揮官道格拉斯·麥克阿瑟將軍建立了密切的工作關係。科廷意識到，除非澳大利亞在美國方麵有強有力的聲音，否則澳大利亞將被忽視，他希望麥克阿瑟能起到作用。他將澳大利亞軍隊的控製權交給了麥克阿瑟，指示澳大利亞指揮官將麥克阿瑟的命令視為來自澳大利亞政府。到1942年中期，珊瑚海和中途島戰役的結果避免了入侵的威脅。科廷此前曾在第一次世界大戰期間反對征兵製，並在1940年由孟席斯引入時再次反對征兵製，盡管他支持軟化它以允許應征入伍者在澳大利亞領土上服役。科廷認識到，將澳大利亞應征入伍者限製在澳大利亞及其領土在政治上是不可行的，因此，對《國防法》進行了修正，以便應征入伍者可以部署到澳大利亞境外，“總督宣布的西南太平洋地區的其他領土是與澳大利亞防衛有關的領土”。戰爭的壓力，特別是工黨內部關於征兵的激烈內部鬥爭，在共產黨和同情的派別之間，以及那些被天主教信仰驅動的派係之間發動的征兵鬥爭，對科廷的健康造成了巨大損失，即使在最好的時候，這種健康也從未如此強大。他一生都患有與壓力有關的疾病，患有抑鬱症和嗜煙成癮。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_8">
+			<Text>管理內政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_8">
+			<Text>科廷大量使用報紙和廣播媒體，特別擅長使用新聞發布會、演講和新聞片。澳大利亞人感覺到這是一場他們完全參與的人民戰爭。在社會政策方麵，科廷政府在其執政期間實施了廣泛的漸進式社會改革。為被遺棄的妻子和寡婦實行了養恤金，而婦女就業委員會的成立導致戰爭期間一些婦女的工資增加。澳大利亞土著人享受福利福利的權利大大增加，同時延長了產假津貼。此外，增加了老年人和體弱者的養老金。與英國不同的是，澳大利亞此時繼續他們的選舉。因此，在1943年，科廷不得不應對選舉季。然而，他確實處於強勢地位。即使考慮到現任政府在戰時的優勢，法登和休斯也無法戰勝科廷，聯盟幾乎奄奄一息。在選舉中，科廷帶領工黨取得了有史以來最大的勝利，以58.2%的兩黨偏好票和17個席位的搖擺贏得了眾議院三分之二的席位。聯盟黨在全國範圍內減少到隻有19個席位，其中隻有布羅肯希爾以西的一個席位。法登的鄉村黨遭受了特別嚴重的打擊，隻贏得了七個席位。工黨還贏得了參議院所有州的初選票，從而贏得了所有19個席位，在36個席位中占據了22個席位的多數席位。受到這一成功的鼓舞，科廷召集了一次全民公決，讓政府在戰爭結束後五年內控製經濟和資源。1944年澳大利亞公投包含一個公投問題：“你是否讚成題為'1944年憲法修改（戰後重建和民主權利）'的憲法修改擬議法律？這次公投賦予了科廷廣泛的授權，但以大約54%/46%的失敗率失敗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_HEADING_9">
+			<Text>備受哀榮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_CURTIN_TEXT_9">
+			<Text>到1944年，當他往返倫敦和華盛頓與丘吉爾，羅斯福和其他盟軍領導人會麵時，科廷已經患上了心髒病。1944年末他心髒病發作，直到 次年1月才重返工作崗位。隨著勝利即將到來，他的健康狀況卻開始迅速嚴重惡化。7月5日，科廷在旅館去世，享年60歲。他是六年內第二位在任上去世的澳大利亞總理。臨終時，一位天主教神父在小屋打電話，但他被拒之門外。科廷在成年後一直拒絕踏入天主教堂，甚至不參加朋友的婚禮。他的遺體在一架由九架戰鬥機護送的飛機上被送回珀斯。躺在州內後，他被安葬在珀斯的卡拉卡塔公墓;在墓地有超過30，000人參加了葬禮，街道上還有更多的群眾為他送別。科廷最初由他的副手弗蘭克·福德繼任總理;但七天後，黨內投票任命本·奇夫利為工黨領袖，因而繼任總理。科廷生前提出的許多戰後重建計劃最終都是由奇夫利實施的。[NEWLINE][NEWLINE]正是在科廷的領導下，澳大利亞的福利國家政策才真正啟動。在科廷的領導下，澳大利亞得到了捍衛，統一稅收被引入，繼續鞏固聯邦政府的權力。他的急逝使科廷在澳大利亞政治史上占有獨特的地位。之後的工黨領導人，特別是鮑勃·霍克和金·比茲利，都試圖在科廷的“愛國勞工主義”傳統的基礎上再接再厲。甚至一些政治保守派也至少在形式上向科廷致敬。</Text>
+		</Row>
+
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_CURTIN_SHORT">
+			<Text>拚死一搏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_CURTIN">
+			<Text>宣布友誼後立即在你的最大城市中生成一個生產類建築。友好或同盟城邦擁有的單位將為臨近城市增加[ICON_PRODUCTION]產能，且為單位提供額外經驗值。</Text>
+		</Row>
+
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_BOOMERANG">
+			<Text>CA-13“回旋鏢”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_BOOMERANG_STRATEGY">
+			<Text>科廷特色單位，替代戰鬥機。戰鬥力更強，且從轟炸I開始，但隻獲得常規戰鬥加成的一半。在戰爭中，每當宣布的朋友建造戰鬥機時，您就會獲得免費的CA-13“回旋鏢”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_BOOMERANG_HELP">
+			<Text>科廷特色單位，替代戰鬥機。戰鬥力更強，且從轟炸I開始，但隻獲得常規戰鬥加成的一半。在戰爭中，每當宣布的朋友建造戰鬥機時，您就會獲得免費的CA-13“回旋鏢”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_BOOMERANG_TEXT">
+			<Text>CAC回旋鏢是1942年至1945年間由聯邦飛機連隊在澳大利亞設計並因此製造的戰鬥機。這些飛機在日本加入第二次世界大戰前不久被批準生產。此前，在1936年10月17日，在澳大利亞政府的鼓勵下，三家連隊聯合成立了一家合資企業，注冊為聯邦飛機連隊（CAC），其目標是在觀察阿道夫·希特勒領導下的德意誌帝國和日本帝國在軍事上武裝自己的政治行動後，評估發展自給自足的飛機工業的可行性。回旋鏢的設計迅速滿足了澳大利亞皇家空軍日益增長的需求。第一架在澳大利亞設計和建造的飛機戰鬥，許多不同的變體最終被給予了一係列相應的生產合同編號，包括CA-12，CA-13，CA-14和CA-19等。這些變體將進行一些修改。[NEWLINE][NEWLINE]回旋鏢受到可用發動機變體的阻礙，該變體在高空提供低功率，導致飛機較當時戰鬥機慢。回旋鏢很少參與空戰。在戰時早期的行動中，回旋鏢主要被派往裝備本土中隊，騰出其他戰鬥機在海外使用。在後來的服役中，回旋鏢通常用於地麵支援任務，與盟軍部隊合作，此外還有空中偵察和空中海上救援等次要角色。</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_SENSHI_INDEPENDENT_COMPANY">
+			<Text>獨立連隊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_INDEPENDENT_COMPANY_STRATEGY">
+			<Text>科廷特色單位，替代重機槍。可以攻擊到最多4格，當不靠近您擁有的任何單位時，可能會攻擊兩次。在敵方領土上時，隻要沒有相鄰的敵方單位，它就會暫時占領所在地塊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_INDEPENDENT_COMPANY_HELP">
+			<Text>科廷特色單位，替代重機槍。可以攻擊到最多4格，當不靠近您擁有的任何單位時，可能會攻擊兩次。在敵方領土上時，隻要沒有相鄰的敵方單位，它就會暫時占領所在地塊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_INDEPENDENT_COMPANY_TEXT">
+			<Text>第二次世界大戰開始時，澳大利亞陸軍沒有任何“特種部隊”。1940年底，英國政府向澳大利亞派遣了一個由J·莫胡德中校率領的軍事代表團，調查在澳大利亞陸軍中建立一些此類部隊的可能性。英國提議建立接受特殊培訓的獨立連隊，以參加聯合行動和各種其他任務，包括“突襲、拆毀、破壞、顛覆和組織民間抵抗”。這是獨立連隊將發揮的作用的一個非常廣泛的概念，對於如何使用這些單位存在相當大的混亂。有一段時間，這種不確定性威脅到獨立連隊概念的存在。根據英國的建議，澳大利亞陸軍於1941年3月開始組建和訓練第2/1獨立連。他們由來自澳大利亞軍隊各個部門的誌願者組成，最初以英國陸軍突擊隊為藍本，並開始在維多利亞州威爾遜海角的遊擊戰學校第 7 步兵訓練中心接受訓練。1941年12月，隨著日本參戰，概念和訓練課程的問題得到解決，並提出了更多的獨立連隊，直到有八個獨立連隊，包括第1獨立連和新幾內亞空中預警無線（獨立）連。最初，獨立連隊被籌集到與第二澳大利亞帝國部隊（第二AIF）一起在中東服役;然而，隨著來自日本的威脅的發展，決定在太平洋戰區使用它們，在澳大利亞北部的島嶼上，有必要建立前哨來警告日本軍隊的接近。然後，他們的任務將是留下來騷擾入侵的日本軍隊。1943年，獨立連被重組為突擊隊和其他鄰近單位，包括Z部隊。現代澳大利亞突擊隊是這些獨立連隊的遺產。</Text>
+		</Row>
+
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_PARADROP">
+			<Text>澳大利亞突擊隊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_PARADROP_HELP">
+			<Text>最多可以空投至4個地塊。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_BLITZ">
+			<Text>雙重射擊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_INDEPENDENT_COMPANY_BLITZ_HELP">
+			<Text>因為這個單位和你的其他單位是分開的，它可以攻擊兩次。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_BOOMERANG_ANTI_AIR">
+			<Text>防空專精</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_BOOMERANG_ANTI_AIR_HELP">
+			<Text>對航空單位+75%戰鬥加成。</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>
