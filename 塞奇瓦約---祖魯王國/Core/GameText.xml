@@ -1,0 +1,506 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_1">
+            <Text>Ulundi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_2">
+            <Text>Eshowe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_3">
+            <Text>Umgungundlovu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_4">
+            <Text>Isandlwana</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_5">
+            <Text>Nongoma</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_6">
+            <Text>Nodwengu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_7">
+            <Text>Hlobane</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_8">
+            <Text>Ndondakusuka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_9">
+            <Text>Maqongqo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_10">
+            <Text>Kambula</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_11">
+            <Text>Sokhexe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_12">
+            <Text>Ethekwini</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_13">
+            <Text>Pongola</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_14">
+            <Text>Msunduzi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_15">
+            <Text>Umlathuze</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_16">
+            <Text>Abaqulusi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_17">
+            <Text>Umlalazi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_18">
+            <Text>Mtubatuba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_19">
+            <Text>Okhahlamba</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_20">
+            <Text>Mbonambi</Text> <!--modern uMfolozi-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_21">
+            <Text>Nkandla</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_22">
+            <Text>Umshwathi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_23">
+            <Text>Umngeni</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_24">
+            <Text>Edumbe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_25">
+            <Text>Mkhambathini</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_26">
+            <Text>Mthonjaneni</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_27">
+            <Text>Mpofani</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_28">
+            <Text>Impendle</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_29">
+            <Text>Ntambanana</Text>
+        </Row>
+        
+        <!--New Capital for Shaka-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_BULAWAYO">
+            <Text>Kwa-Bulawayo</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_0">
+            <Text>Mpande</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_1">
+            <Text>Mbuyazi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_2">
+            <Text>Umthonga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_3">
+            <Text>Ntshingwayo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_4">
+            <Text>Dabulamanzi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_5">
+            <Text>Ndlela</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_6">
+            <Text>Ngqumbazi</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_7">
+            <Text>Nandi</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_8">
+            <Text>Songiya</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_9">
+            <Text>Monase</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO">
+            <Text>Cetshwayo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_ZULU_ADJECTIVE">
+            <Text>Zulu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_ZULU_DESC">
+            <Text>Zulu Kingdom</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_ZULU_SHORT_DESC">
+            <Text>The Zulu</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_ZULU_HEADING_1">
+            <Text>The Zulu Kingdom After Shaka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_ZULU_TEXT_1">
+            <Text>After the increasing brutality of Shaka in his later life, he was assassinated by his half-brother Dingane in 1828. Dingane also went on a purge of the sons of Senzangakhona, leaving alive only Mpande, who was assumed to be a non-threat due to his relative disinterest in ruling. However, Dingane's aggression against the Boers led a Boer force to back Mpande in rebelling against Dingane, and so in 1840 Dingane was overthrown and killed. Mpande thus became king himself, although he continued to have limited interest in kingship, leading other key figures from the Zulu Kingdom to assume much of the power. In particular, Mpande's eldest son Cetshwayo fought off his various rivals to become the de facto ruler as early as 1856.[NEWLINE][NEWLINE]
+            Despite Cetshwayo's efforts to maintain good relations with both the Boers and British in the region, his unwillingness to bend to British demands eventually led to the Anglo-Zulu War in 1879. This war, despite early Zulu successes, ended up as a British victory that caused Cetshwayo's ouster. Cetshwayo's successor, Dinuzulu, sought to preserve peace by making significantly more land concessions than his predecessors had. Zulu factions had broken into civil war in the first years of Dinuzulu's reign, and so he called upon the Boers for help; in return for their aid, Dinuzulu gave the Boers about half of Zululand's territory in 1884, including much of its coast. The British subsequently annexed the rest of Zululand in 1887.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_NAME">
+            <Text>Cetshwayo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_SUBTITLE">
+            <Text>Leader of the Zulu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_TITLES_1">
+            <Text>King of the Zulu Kingdom</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_TITLES_2">
+            <Text>Last independent Zulu king</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_LIVED">
+            <Text>1826 - 1884 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_HEADING_1">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_TEXT_1">
+            <Text>Cetshwayo kaMpande was the last independent king of the Zulu Kingdom. He was born in approximately 1826 to Mpande, who at the time was a relatively minor half-brother of Shaka Zulu; however, Mpande eventually rose to the kingship in 1840. In the early 1850s, Cetshwayo then rose to prominence himself as one of Mpande's most important administrators. Cetshwayo's ascendancy led him into conflict with his younger brother, Mbuyazi, who was Mpande's favorite son; tensions mounted between the two and eventually boiled over into outright warfare. Cetshwayo crushed Mbuyazi's followers, and slew Mbuyazi himself, in the 1856 Battle of Ndondakusuka. After this victory, Cetshwayo's power only increased, and he became the de facto ruler of the Zulu under his father's auspices.
+            [NEWLINE][NEWLINE]Once he had power, Cetshwayo used harsh methods to prevent rivals from emerging; in one incident in 1861, he ordered the killing Mpande's wife Nomantshali and her children. These efforts proved successful, and so Cetshwayo ultimately rose to the royal title in 1873. As king, Cetshwayo maintained an adept foreign policy, negotiating with the British and Boers to preserve Zulu sovereignty over as much land as possible. He also sought to introduce muskets to the impi regiments, but firearms were never popular among the actual soldiers.
+            [NEWLINE][NEWLINE]Cetshwayo's continuing protection of the Zulu borders increasingly frustrated the British. The High Commissioner for Southern Africa, Henry Bartle Frere, ultimately took matters into his own hands by fabricating a pretext for war: after some minor diplomatic incidents in 1878, Frere sent a deliberately unacceptable ultimatum to Cetshwayo, demanding the disbandment of the Zulu army and the installation of a British agent in Zululand. Cetshwayo's refusal to comply with these terms led to the outbreak of the Anglo-Zulu War. This war was initially a success for the Zulu, especially after the successful Battle of Isandlwana; however, after the British retreated to Natal, Cetshwayo opted not to counterattack, out of a desire to avoid provoking further conflict. The British would not be deterred, though, and reinvaded Zululand with a much larger force; this time, they were able to rush Zululand and capture the Zulu capital of Ulundi.
+            [NEWLINE][NEWLINE]After the fall of Ulundi in 1879, Cetshwayo was deposed and exiled. He lived in Cape Town and London for a few years, but in 1883, the British returned Cetshwayo to Zululand in the hopes that he could resolve a civil war taking place in the region. However, Cetshwayo died not long afterward, in February 1884. Theories differ as to whether he was poisoned or simply had a heart attack.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_ZULU_TEXT">
+            <Text>Salutations, Cetshwayo kaMpande, the final king of an independent Zululand! In the cutthroat world of Zulu politics, you were one of its most adept players, besting Mbuyazi to become the de facto king during your father's later life. It was during this period that you developed your diplomatic skills, negotiating adeptly with British and Boers alike to ensure peace and minimize land concessions. You also sought to modernize the Zulu army by introducing muskets to the regiments, helping to iterate upon your uncle Shaka's achievements. The British ultimately fabricated a cause for war against you, but the first victory was yours, in the Battle of Isandlwana. While this war would end in your overthrow, you were still recognized for your many achievements, and people even in Britain would come to support your cause.[NEWLINE][NEWLINE]Cetshwayo, it is time for the Zulu to reassert their sovereignty against all those who would seek to encroach upon it. Can you repel all threats to your kingdom and establish an impenetrable realm? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_ZULU_SHORT">
+            <Text>Washing of the Spears</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_ZULU">
+            <Text>When the destination city of a [ICON_INTERNATIONAL_TRADE] Trade Route expands its cultural borders, the origin city expands as well. [ICON_INTERNATIONAL_TRADE] Trade Routes to Occupied or Puppeted cities yield [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO">
+            <Text>Ibutho</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO_HELP">
+            <Text>Non-Gunpowder replacement for the Musketman. Only Cetshwayo's Zulu may build it. Weaker, especially on the offense, but receives a significant boost to its strength after being promoted three times.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO_STRATEGY">
+            <Text>The Ibutho is unlocked earlier than the standard Musketman, so your best bet is to start producing and using them as soon as possible; if your rivals have not unlocked Musketmen yet, the Ibutho's relative weakness will be less of an issue. This way, you can amass your promotions early on, so that once your rivals have Musketmen, you will have promoted Ibuthos that can outperform them.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO_TEXT">
+            <Text>The ibutho (plural: amabutho) was what a regiment was called in the Zulu army. On their twentieth birthday, Zulu men would be assigned to an ibutho, in which they would serve until they were married. Each ibutho was organized based on age, rather than regional or tribal affiliation, in order to centralize the Zulu Kingdom and weaken subnational leaders.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL">
+            <Text>Kraal</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL_HELP">
+            <Text>Unique replacement for the Stable. Only Cetshwayo's Zulu may build it. Buildable in any city, regardless of resources. Instantly claims neutral Pasture resources workable by its city. When its city's cultural borders expand, units in or adjacent to the city gain XP.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL_STRATEGY">
+            <Text>The Kraal is a valuable tool for farming early experience for your units; keep units close to your cities, especially newly founded ones, and they can accrue experience quickly without you needing to put them at risk. This ability is especially useful when you're fielding the Ibutho, because it allows you to accelerate the unit towards its third promotion and the associated strength increase.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL_TEXT">
+            <Text>Among the Nguni-speaking populations of Africa, such as the Zulu, Xhosa, and Ndebele, people tended to live in homesteads that have come to be known as kraals. A wooden palisade surrounds the entire space of a kraal, and within its bounds are a ring of individual huts (known as iQukwane) around a central cattle enclosure. The kraal served several purposes: in addition to serving as a dwelling place, it was also used as a defensive fortification, as well as for ritual ancestor worship.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_BASE">
+            <Text>Protector of Zululand</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_BASE_HELP">
+            <Text>Weaker, especially on the attack</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_STRENGTH">
+            <Text>Impi Musketeer</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_STRENGTH_HELP">
+            <Text>Training in battle has made this unit stronger than its contemporaries!</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_ZULU_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now practicing your stick-fighting and attending your calabash festivals. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_NAME">
+            <Text>TopHat's Zulu (Cetshwayo)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_ID_CFC">
+            <Text>e60101ab-2020-0730-bf3e-ce7549a906e7</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_ID_STEAM">
+            <Text>0b070458-89b5-4c10-9a83-1ddc9349c4c6</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_ZULU_VICTORY_HEADER">
+            <Text>It's Over, I Have The High Place</Text>
+        </Row> <!--'the high place', here, being the english translation of Ulundi-->
+        <Row Tag="TXT_KEY_AA_THP_ZULU_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Cetshwayo's Zulu.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_ZULU_SPECIAL_HEADER">
+            <Text>Who Needs The Maxim Gun?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_ZULU_SPECIAL_TEXT">
+            <Text>As Cetshwayo's Zulu, capture the English capital with an Ibutho.</Text>
+        </Row>
+    </Language_en_US>
+	 <Language_zh_Hant_HK>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_1">
+            <Text>烏倫迪</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_2">
+            <Text>埃紹韋</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_3">
+            <Text>烏姆岡貢德洛武</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_4">
+            <Text>伊桑德盧瓦納</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_5">
+            <Text>農戈馬</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_6">
+            <Text>諾德溫古</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_7">
+            <Text>赫洛班</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_8">
+            <Text>恩東達庫蘇卡</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_9">
+            <Text>馬孔戈</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_10">
+            <Text>坎布拉</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_11">
+            <Text>索赫塞</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_12">
+            <Text>埃特克維尼</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_13">
+            <Text>蓬戈拉</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_14">
+            <Text>姆松杜茲</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_15">
+            <Text>烏姆拉圖澤</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_16">
+            <Text>阿巴古魯西</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_17">
+            <Text>烏姆拉拉齊</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_18">
+            <Text>姆圖巴圖巴</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_19">
+            <Text>奧卡蘭巴</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_20">
+            <Text>姆博南比</Text> <!--modern uMfolozi-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_21">
+            <Text>恩坎德拉</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_22">
+            <Text>烏姆什瓦提</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_23">
+            <Text>烏姆根尼</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_24">
+            <Text>埃敦貝</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_25">
+            <Text>姆坎巴蒂尼</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_26">
+            <Text>姆通賈內尼</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_27">
+            <Text>姆波法尼</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_28">
+            <Text>因潘德爾</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_ZULU_29">
+            <Text>恩坦巴納納</Text>
+        </Row>
+        
+        <!--New Capital for Shaka-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_BULAWAYO">
+            <Text>夸-布萊約</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_0">
+            <Text>姆潘德</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_1">
+            <Text>姆布亞齊</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_2">
+            <Text>烏姆通加</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_3">
+            <Text>恩欽瓜約</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_4">
+            <Text>達布蘭曼茲</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_5">
+            <Text>恩德萊拉</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_6">
+            <Text>恩古姆芭姿</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_7">
+            <Text>南迪</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_8">
+            <Text>松吉婭</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_ZULU_9">
+            <Text>莫娜瑟</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO">
+            <Text>塞奇瓦約</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_ZULU_ADJECTIVE">
+            <Text>祖魯王國</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_ZULU_DESC">
+            <Text>祖魯王國</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_ZULU_SHORT_DESC">
+            <Text>祖魯王國</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_ZULU_HEADING_1">
+            <Text>恰卡之後的祖魯王國</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_ZULU_TEXT_1">
+            <Text>在恰卡晚年日益殘暴的統治下，他於1828年被同父異母的兄弟丁岡暗殺。丁岡隨後清洗了森贊加科納的兒子們，只留下被認為無心統治而無威脅的姆潘德。然而丁岡對布爾人的侵略促使布爾軍隊支持姆潘德反叛，最終丁岡於1840年被推翻並殺害。姆潘德繼任為王，但仍無心治國，導致王國實權落入其他要員手中。特別是姆潘德的長子塞奇瓦約早在1856年便通過擊敗眾多對手成為實際統治者。[NEWLINE][NEWLINE] 儘管塞奇瓦約努力維持與布爾人和英國的關係，但其拒絕屈服於英國要求最終導致1879年英祖戰爭爆發。雖然祖魯初期獲勝，但最終英國取勝並廢黜塞奇瓦約。繼任者迪努祖魯為求和平大幅割讓土地。迪努祖魯統治初期爆發內戰，遂向布爾人求援；作為回報，迪努祖魯於1884年割讓祖魯蘭約半數領土（包括大部分海岸）予布爾人。英國隨後於1887年吞併祖魯蘭剩餘土地。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_NAME">
+            <Text>塞奇瓦約</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_SUBTITLE">
+            <Text>祖魯領袖</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_TITLES_1">
+            <Text>祖魯王國國王</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_TITLES_2">
+            <Text>末代獨立祖魯王</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_LIVED">
+            <Text>1826 - 1884 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_HEADING_1">
+            <Text>人物傳記</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_PEDIA_TEXT_1">
+            <Text>塞奇瓦約·卡姆潘德是祖魯王國末代獨立國王。約1826年出生時，其父姆潘德只是恰卡的次要兄弟；但姆潘德最終在1840年登上王位。1850年代初，塞奇瓦約嶄露頭角成為重要行政官。塞奇瓦約的崛起引發與弟弟姆布亞齊（姆潘德愛子）的衝突，最終在1856年恩東達庫蘇卡戰役中殲滅姆布亞齊勢力並手刃其弟。此後塞奇瓦約權勢日增，成為父王治下的實際統治者。 [NEWLINE][NEWLINE]掌權後，塞奇瓦約用鐵腕手段清除潛在對手：1861年曾下令處死姆潘德妻子諾曼查麗及其子女。這些措施成效顯著，塞奇瓦約最終於1873年正式加冕。在位期間推行嫻熟外交政策，與英國和布爾人周旋以保全疆土。他試圖為祖魯軍團引進火槍，但士兵普遍不喜用槍。 [NEWLINE][NEWLINE]塞奇瓦約持續維護邊界引發英國不滿。南非高級專員亨利·巴特爾·弗里爾藉1878年小規模外交事件製造開戰藉口：向塞奇瓦約發出要求解散祖魯軍隊並接受英國駐紮的最後通牒。塞奇瓦約拒絕後英祖戰爭爆發。祖魯初期在伊桑德盧瓦納大捷，但塞奇瓦約為免事態擴大未乘勝追擊。英國重整旗鼓後大舉反攻，最終攻陷首都烏倫迪。 [NEWLINE][NEWLINE]1879年烏倫迪陷落後，塞奇瓦約遭廢黜流放。在開普敦和倫敦生活數年後，英國於1883年送其回國調解內戰。但塞奇瓦約於1884年2月猝逝，死因疑為中毒或心臟病發。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_ZULU_TEXT">
+            <Text>致意，塞奇瓦約·卡姆潘德，獨立祖魯蘭的末代君王！在祖魯殘酷政壇中，您是最精明的玩家，擊敗姆布亞齊成為父王晚期的實質統治者。在此期間您磨練外交手腕，周旋於英國與布爾人間以維繫和平並最小化領土讓步。您還嘗試為軍團配備火槍來現代化祖魯軍隊，延續叔父恰卡的成就。英國最終捏造開戰藉口，但您首戰告捷於伊桑德盧瓦納。雖然戰爭導致您被推翻，但諸多成就仍受認可，甚至英國民眾也開始支持您的事業。[NEWLINE][NEWLINE]塞奇瓦約，是時候讓祖魯重振主權，抵禦一切侵擾。您能否擊退所有威脅，建立固若金湯的國度？能否打造經受時間考驗的文明？</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_ZULU_SHORT">
+            <Text>日食</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_ZULU">
+            <Text>當[ICON_INTERNATIONAL_TRADE]貿易路線目的地的文化邊界擴張時，起源城市也會擴張。通往佔領或傀儡城市的[ICON_INTERNATIONAL_TRADE]貿易路線產生[ICON_GOLDEN_AGE]黃金時代點數。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO">
+            <Text>祖魯軍團</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO_HELP">
+            <Text>取代火槍手的非火藥單位，僅塞奇瓦約的祖魯可建造。攻擊力較弱但獲得三次晉升後戰鬥力大幅提升。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO_STRATEGY">
+            <Text>祖魯軍團較標準火槍手更早解鎖，建議儘快生產使用——若對手尚未擁有火槍手，其弱勢影響較小。藉此累積晉升優勢，待對手擁有火槍手時，您已具備更強的精銳軍團。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_IBUTHO_TEXT">
+            <Text>「祖魯軍團」（ibutho，複數amabutho）是祖魯軍隊的建制單位。祖魯男子年滿二十即被編入軍團服役至結婚。每個軍團按年齡而非地域或部落劃分，以強化中央集權削弱地方勢力。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL">
+            <Text>畜欄聚落</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL_HELP">
+            <Text>取代馬廄的獨特建築，僅塞奇瓦約的祖魯可建造。無視資源限制在任何城市建造。立即獲得該城可開發的中立牧場資源。當城市文化邊界擴張時，城內或鄰近單位獲得經驗值。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL_STRATEGY">
+            <Text>畜欄聚落是快速累積早期單位經驗的利器——將單位駐守城市（尤其是新城）附近即可安全獲取經驗。此特性與祖魯軍團搭配效果顯著，可加速單位晉升至第三級獲得戰力飛躍。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_KRAAL_TEXT">
+            <Text>在祖魯、科薩等恩古尼語族群中，人們居住的木柵 homestead 稱為畜欄聚落。畜欄聚落由環形茅屋圍繞中央畜欄構成，具備居住、防禦和祭祀等多重功能。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_BASE">
+            <Text>過時戰法</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_BASE_HELP">
+            <Text>攻擊力(尤其在主動進攻時)較弱</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_STRENGTH">
+            <Text>火槍與短矛</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_IBUTHO_STRENGTH_HELP">
+            <Text>身經百戰使此單位強於同期部隊！</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_ZULU_INFLUENTIAL_ON_AI_1">
+            <Text>我國民眾開始練習貴國的棍術並參加葫蘆節慶典。我擔心世界其他地區也將臣服於貴國文化影響。</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_NAME">
+            <Text>TopHat's Zulu (Cetshwayo)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_ID_CFC">
+            <Text>e60101ab-2020-0730-bf3e-ce7549a906e7</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_ID_STEAM">
+            <Text>0b070458-89b5-4c10-9a83-1ddc9349c4c6</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_ZULU_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_ZULU_VICTORY_HEADER">
+            <Text>It's Over, I Have The High Place</Text>
+        </Row> <!--'the high place', here, being the english translation of Ulundi-->
+        <Row Tag="TXT_KEY_AA_THP_ZULU_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Cetshwayo's Zulu.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_ZULU_SPECIAL_HEADER">
+            <Text>Who Needs The Maxim Gun?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_ZULU_SPECIAL_TEXT">
+            <Text>As Cetshwayo's Zulu, capture the English capital with an Ibutho.</Text>
+        </Row>
+   </Language_zh_Hant_HK>
+</GameData>

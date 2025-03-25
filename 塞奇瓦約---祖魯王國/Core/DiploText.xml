@@ -1,0 +1,156 @@
+<GameData>
+    <Language_en_US>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_FIRSTGREETING_1">
+            <Text>I am Cetshwayo kaMpande, king of the Zulu. I believe we can forge a powerful alliance, as long as you give us the respect we deserve.</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DEFEATED_1">
+            <Text>I will be gracious in my defeat. Perhaps now there may be rest.</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_ATTACKED_GENERIC_1">
+            <Text>So war was unavoidable after all. Very well then, I shall not back down.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DEC_FRIENDSHIP_1">
+            <Text>I believe both of our peoples have much to learn from each other. Would you like to make a public Declaration of Friendship?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DENOUNCE_1">
+            <Text>You are a rank criminal, and I would be remiss not to warn the world of your wrongs. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DOW_GENERIC_1">
+            <Text>It has become clear that peace is no longer workable. Our conflicts must be settled with bloodshed.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_EXPANSION_SERIOUS_WARNING_1">
+            <Text>Your expansion has come to threaten the rightful Zulu lands. If this continues, you may rest assured that I will take action.</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_AT_WAR_HOSTILE_1">
+            <Text>I have no particular desire to engage in pleasantries with the enemy.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_POLITE_HELLO_1">
+            <Text>Well met. Please, come join me in the kraal.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_NEUTRAL_HELLO_1">
+            <Text>Greetings. What business do you have today?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_HOSTILE_HELLO_1">
+            <Text>Be quick with it.</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>You are infringing upon our land and driving away our cattle. I urge you to stop; this is the only warning you will receive.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_LETS_HEAR_IT_1">
+            <Text>You have my attention.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_LOSEWAR_1">
+            <Text>Although I mourn the result of the war, I cannot regret making peace.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_LUXURY_TRADE_1">
+            <Text>No friendship between nations is complete without commerce. Do you care to make a trade?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_NO_PEACE_1">
+            <Text>We cannot be reconciled. It is not worth the effort to bother.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_OPEN_BORDERS_EXCHANGE">
+            <Text>It is clear that we both have important claims on this land, but our claims need not be wholly at odds. An Open Borders agreement could allow us both to benefit.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_REPEAT_NO_1">
+            <Text>Do not take me for a fool.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_RESPONSE_REQUEST_1">
+            <Text>I do not like to ask for help, but in these troubled times it is unavoidable.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>I am king in my own country, and must be treated as such. I shall not bear this disrespect.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_TOO_SOON_NO_PEACE_1">
+            <Text>I do not wage war frivolously. If we are to meet in battle, we must see it through to the end.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_WINWAR_1">
+            <Text>I hope this has made you realize that the Zulu are not to be trifled with.</Text>
+        </Row>
+    </Language_en_US>
+	<Language_zh_Hant_HK>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_FIRSTGREETING_1">
+            <Text>吾乃祖魯之王塞奇瓦約·卡姆潘德。只要貴方給予應得之尊重，你我當可締結強大盟約。</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DEFEATED_1">
+            <Text>敗局已定，吾願以王者之姿承受。或許此刻終得安息。</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciations, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_ATTACKED_GENERIC_1">
+            <Text>所以戰爭終究是不可避免的。那好吧，我決不退讓。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DEC_FRIENDSHIP_1">
+            <Text>我相信，兩國人民有很多值得相互學習的地方。你願意發表一份公開的友誼宣言嗎？</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DENOUNCE_1">
+            <Text>你是個嚴重的罪犯，如果我不把你的罪行昭告天下，那就太失職了。[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]他們公開譴責我們！注意：你們並未開戰。[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_DOW_GENERIC_1">
+            <Text>很明顯，和平已不再可行。我們的衝突必須用流血來解決。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_EXPANSION_SERIOUS_WARNING_1">
+            <Text>你的擴張已經威脅到了祖魯人的合法土地。如果這種情況繼續下去，你放心，我會采取行動的。</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_AT_WAR_HOSTILE_1">
+            <Text>我並沒有特別想和敵人開玩笑。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_POLITE_HELLO_1">
+            <Text>我很開心。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_NEUTRAL_HELLO_1">
+            <Text>你今天有什麼事？</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_GREETING_HOSTILE_HELLO_1">
+            <Text>快。</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>你們侵占了我們的土地，趕走了我們的牲畜。我勸你停下來；這是你唯一會收到的警告。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_LETS_HEAR_IT_1">
+            <Text>你引起了我的注意。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_LOSEWAR_1">
+            <Text>雖然我哀悼戰爭的結果，但我不會後悔促成和平。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_LUXURY_TRADE_1">
+            <Text>沒有商業，國與國之間的友誼就不完整。你想做筆交易嗎？</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_NO_PEACE_1">
+            <Text>我們無法和解。不值得費心去做。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_OPEN_BORDERS_EXCHANGE">
+            <Text>很明顯，我們雙方對這片土地都有重要的要求，但我們的要求不必完全衝突。開放邊界協議可以讓我們雙方都受益。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_REPEAT_NO_1">
+            <Text>別把我當傻瓜。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_RESPONSE_REQUEST_1">
+            <Text>我不喜歡尋求幫助，但在這個困難時期，這是不可避免的。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>我是我自己國家的國王，必須被這樣對待。我不能容忍這種不尊重。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_TOO_SOON_NO_PEACE_1">
+            <Text>我不會輕率地發動戰爭。如果我們要在戰鬥中相遇，我們必須進行到底。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_CETSHWAYO_WINWAR_1">
+            <Text>我希望這能讓你意識到祖魯人是不能被玩弄的。</Text>
+        </Row>
+    </Language_zh_Hant_HK>
+</GameData>
